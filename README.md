@@ -11,6 +11,31 @@ February 2016
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/mOWCmoEFfS8/VHYbbaohDQAJ) Media capture from `<canvas>` (`captureStream` method )
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/LIqrS6y7AiU/tkcDvyMdDQAJ) CSS `font-variant-caps` property
 
+### Firefox
+
+January 2016
+- [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/Hcudhkexz8A/YvafGQcnAgAJ) `document.elementsFromPoint` method
+
+December 2015
+- [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/969k-Iryiyo/LsqkHKZ0BAAJ) Support for a subset of `-webkit-` prefixed CSS properties and features
+- [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/cTAnBeZFtUE/kx0I4UC-AQAJ) One-off Background Sync API
+- [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/TXFImc_r9Jo/iW_5u0ICCwAJ) `referrerpolicy` attribute
+- [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/IVGEJnQW3Uo/Eu5tvyLmCgAJ) FIDO U2F API
+
+November 2015
+- [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/2gn7ywXZ6e4/5R6JdndvBwAJ) Service Workers with FetchEvent
+- [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/b0UMDIasfq8/tW49QLgCBwAJ) HTML `<details>` and `<summary>` elements
+- [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/Udt3psYNFuY/7qDFZK8sBwAJ) `Performance.translateTime` method
+- [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/QFJO6aqQwIs/Miln8pb4BgAJ) CSS `unicode-range` descriptor
+- [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/uWyfl_szAcw/y-2EsjRhBgAJ) CSS Emphasis Marks (`text-emphasis` property)
+- [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/P6_ADO2sOxE/48RwgUE4BAAJ) CSS Mask Image properties
+- [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/bRDUCA4tb84/_c1Ch4T2AQAJ) Web Speech API - Synthesis
+
+October 2015
+- [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/BeVaHGEgZNA/vIVnbrLgBwAJ) WebVR 
+- [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/N3i7Yc2UpR0/huNQI2fVBQAJ) `window.orientation` and `'orientationchange'` event
+- [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/pH98pOjGgX4/u1D_zBiVBAAJ) `::backdrop pseudo-element` for Fullscreen API
+
 ***
 
 *Note: This table is the result from converting my Google Docs table to Markdown using [MarkdownTableMaker](https://github.com/pffy/googledocs-addon-markdowntablefive). In the process, the links were lost.*
@@ -35,7 +60,6 @@ February 2016
 |  Ch | 1/25/2016 | link rel=”preload” |  | S | disc |
 |  Ch | 1/23/2016 | CSS Paint API | I |  | disc |
 |  Ch | 1/15/2016 | Brotli (Accept-encoding: br on HTTPS connection) |  | S | disc |
-|  Fx | 1/15/2016 | document.elementsFromPoint | I | S | disc |
 |  Ch | 1/14/2016 | Unprefixed multicol CSS properties |  | S | disc |
 |  Ch | 1/13/2016 | ImageBitmap and createImageBitmap |  | S | disc |
 |  Ch | 1/13/2016 | Media Capture from HTMLMediaElement | I |  | disc |
@@ -44,8 +68,6 @@ February 2016
 |  Ch | 1/9/2016 | EventListenerOptions.passive | I |  | disc |
 |  Ch | 1/8/2016 | modify add/removeEventListener to accept EventListenerOptions |  | S | disc |
 |  Ch | 1/7/2016 | Canvas Hit Regions |  | S | disc |
-|  Fx | 12/31/2016 | Support for a subset of -webkit-prefixed CSS properties & features | I | S | disc |
-|  Fx | 12/22/2016 | One-off Background Sync API | I |  | disc |
 |  Ch | 12/18/2016 | inverted-colors media query | I | S | disc |
 |  Ch | 12/14/2016 | Push Messaging Payloads |  | S | disc |
 |  Ch | 12/12/2016 | CSS Custom Properties Level 1 |  | S | disc |
@@ -55,32 +77,20 @@ February 2016
 |  Ch | 12/8/2016 | Cookie prefixes |  | S | disc |
 |  Ch | 12/8/2016 | Worklets | I |  | disc |
 |  Ch | 12/3/2016 | Canvas.toBlob |  | S | disc |
-|  Fx | 12/2/2016 | referrerpolicy attribute |  | S | disc |
-|  Fx | 12/2/2016 | FIDO U2F API | I | S | disc |
 |  Ch | 12/1/2016 | Promise rejection tracking events |  | S | disc |
 |  Ch | 11/26/2016 | HTMLMediaElement.disableRemotePlayback | I | S | disc |
 |  Ch | 11/25/2016 | Media Stream Recording API |  | S | disc |
 |  Ch | 11/25/2016 | Background Sync |  | S | disc |
 |  Ch | 11/25/2016 | CSS Containment —status,issue(commited) | I |  | disc |
-|  Fx | 11/20/2016 | Service Workers with FetchEvent |  | S | disc |
 |  Ch | 11/20/2016 | addEventListener non-optional arguments | I | S | disc |
 |  Ch | 11/19/2016 | DOMTokenList-based feat. detect. for link/iframe | I | S | disc |
-|  Fx | 11/19/2016 | HTML details/summary | I |  | disc |
-|  Fx | 11/19/2016 | Performance.translateTime | I | S45 | disc |
-|  Fx | 11/19/2016 | CSS unicode-range |  | S44 | disc |
-|  Fx | 11/17/2016 | text-emphasis | I | S | disc |
 |  Ch | 11/13/2016 | URLSearchParams (but not on URL instances) | I | S | disc |
 |  Ch | 11/13/2016 | Suborigins | I |  | disc |
-|  Fx | 11/10/2016 | CSS Mask Image properties | I | S43 | disc |
 |  Ch | 11/5/2016 | “noopener” link relation | I | S | disc→disc |
-|  Fx | 11/2/2016 | Web Speech API - Synthesis |  | S | disc |
 |  Ch | 10/29/2016 | Notification action buttons |  | S | disc |
 |  Ch | 10/27/2016 | "Navigate" mode in Fetch Requests | I | S | disc |
-|  Fx | 10/26/2016 | WebVR |  | S | disc |
 |  Ch | 10/23/2016 | Audio Output Devices API |  | S | disc(demo) |
 |  Ch | 10/21/2016 | CSS Typed OM | I |  | disc |
-|  Fx | 10/20/2016 | window.orientation and orientationchange event | I | S44 | disc |
-|  Fx | 10/16/2016 | ::backdrop pseudo-element for Fullscreen API | I | S44 | disc |
 |  Ch | 10/15/2016 | EventListenerOptions | I |  | disc |
 |  Ch | 10/14/2016 | WindowClient.navigate(url) for ServiceWorker |  | S | disc |
 |  Ch | 9/26/2016 | Local Font Access API |  | S | disc(explainer) |
