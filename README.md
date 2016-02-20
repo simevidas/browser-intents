@@ -14,7 +14,7 @@
 
 ***
 
-*Note: This table is the result from converting my Google Docs table to Markdown using [MarkdownTableMaker](https://github.com/pffy/googledocs-addon-markdowntablefive). In the process, the links were lost.
+*Note: This table is the result from converting my Google Docs table to Markdown using [MarkdownTableMaker](https://github.com/pffy/googledocs-addon-markdowntablefive). In the process, the links were lost.*
 
 | Browser | Date | Title | Implement | Ship | Link to discussion |
 |  ------ | ------ | ------ | :------: | :------: | ------ |
