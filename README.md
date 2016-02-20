@@ -38,7 +38,7 @@ October 2015
 
 ***
 
-*Note: This table is the result from converting my Google Docs table to Markdown using [MarkdownTableMaker](https://github.com/pffy/googledocs-addon-markdowntablefive). In the process, the links were lost.*
+*Note: This table is the result from converting my Google Docs table to Markdown using [MarkdownTableMaker](https://github.com/pffy/googledocs-addon-markdowntablefive). In the process, the links were lost (but I still have them in the document).*
 
 | Browser | Date | Title | Implement | Ship | Link to discussion |
 |  ------ | ------ | ------ | :------: | :------: | ------ |
