@@ -14,6 +14,8 @@
 
 ***
 
+*Note: This table is the result from converting my Google Docs table to Markdown using [MarkdownTableMaker](https://github.com/pffy/googledocs-addon-markdowntablefive). In the process, the links were lost.
+
 | Browser | Date | Title | Implement | Ship | Link to discussion |
 |  ------ | ------ | ------ | :------: | :------: | ------ |
 |  Ch | 2/12/2016 | CSS Snap Size | I |  | disc |
