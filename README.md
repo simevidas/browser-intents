@@ -1,5 +1,6 @@
-|  Ch | 2/19/2016 | Experimental Framework |  | S | disc |
+| Browser | Date | Title | Implement | Ship | Link to discussion |
 |  ------ | ------ | ------ | :------: | :------: | ------ |
+|  Ch | 2/19/2016 | Experimental Framework |  | S | disc |
 |  Ch | 2/19/2016 | MediaDevices devicechange event | I |  | disc |
 |  Ch | 2/19/2016 | Do not use web page provided strings for unbeforeunload | I | S | disc |
 |  Ch | 2/19/2016 | CSS @apply Rule | I |  | disc |
