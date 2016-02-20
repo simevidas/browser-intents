@@ -24,7 +24,7 @@
 |  Ch | 2/1/2016 | CSS break-after/before/inside | I |  | disc |
 |  Ch | 2/1/2016 | HTMLMediaElement.play() retuns a promise | I | S | disc |
 |  Ch | 1/26/2016 | notificationclose event | I | S | disc |
-|  Ch | 1/25/2016 | <link rel=”preload”> |  | S | disc |
+|  Ch | 1/25/2016 | link rel=”preload” |  | S | disc |
 |  Ch | 1/23/2016 | CSS Paint API | I |  | disc |
 |  Ch | 1/15/2016 | Brotli (Accept-encoding: br on HTTPS connection) |  | S | disc |
 |  Fx | 1/15/2016 | document.elementsFromPoint | I | S | disc |
