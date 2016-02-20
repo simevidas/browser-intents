@@ -1,14 +1,21 @@
+### Chrome
+
+- 2016
+  - February
+    - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/yEdXn35VwVw/H9BSdwYhDgAJ) Experimental Framework
+    - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/wdSV0zUuvJQ/Jd7p_mAIDgAJ) MediaDevices devicechange event
+    - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/YIH8CoYVGSg/Di7TsljXDQAJ) Do not use web page provided strings for unbeforeunload
+    - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Wc71ungGdn4/3Ix2IjnkDQAJ) CSS @apply Rule
+    - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/8hsz3bOFBpY/kUHDGmTPDQAJ) Add EventListenerOptions.passive
+    - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/gbSs15ZSWtA/JFU3H7fTDQAJ) PaymentRequest
+    - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/7ouLjWzcjb0/E7YWD1KrDQAJ) Credential Management API
+    - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/mOWCmoEFfS8/VHYbbaohDQAJ) Media Capture from Canvas
+    - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/LIqrS6y7AiU/tkcDvyMdDQAJ) Font-Variant-Caps
+
+***
+
 | Browser | Date | Title | Implement | Ship | Link to discussion |
 |  ------ | ------ | ------ | :------: | :------: | ------ |
-|  Ch | 2/19/2016 | Experimental Framework |  | S | disc |
-|  Ch | 2/19/2016 | MediaDevices devicechange event | I |  | disc |
-|  Ch | 2/19/2016 | Do not use web page provided strings for unbeforeunload | I | S | disc |
-|  Ch | 2/19/2016 | CSS @apply Rule | I |  | disc |
-|  Ch | 2/18/2016 | Add EventListenerOptions.passive |  | S | disc |
-|  Ch | 2/18/2016 | PaymentRequest | I |  | disc |
-|  Ch | 2/18/2016 | Credential Management API |  | S | disc |
-|  Ch | 2/16/2016 | Media Capture from Canvas |  | S | disc |
-|  Ch | 2/16/2016 | Font-Variant-Caps | I | S | disc |
 |  Ch | 2/12/2016 | CSS Snap Size | I |  | disc |
 |  Ch | 2/11/2016 | Basic InputEvent interface | I | S | disc |
 |  Ch | 2/11/2016 | CSS pseudo-class :dir() | I | S | disc |
