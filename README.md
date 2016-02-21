@@ -1,3 +1,7 @@
+**TODO:** Every week (Friday night), when updating these lists with new intents, also move 14 entries from the table below. At that rate, you’ll be done in 4 weeks (March 18th). 
+
+***
+
 ### Chrome
 
 February 2016
