@@ -17,6 +17,21 @@ February 2016
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/7ouLjWzcjb0/E7YWD1KrDQAJ) Credential Management API
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/mOWCmoEFfS8/VHYbbaohDQAJ) Media capture from `<canvas>` (`captureStream` method )
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/LIqrS6y7AiU/tkcDvyMdDQAJ) CSS `font-variant-caps` property
+- [Implement](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/_-RlGYnb5W8/bfFbSGDKCwAJ) CSS Snap Size
+- [Implement and ship](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/RrnitB0OElc/rirueVekCwAJ) Basic `InputEvent` interface
+- [Implement and ship](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/77188XZG5Lg/OXNW-f51CwAJ) CSS `:dir()` pseudo-class
+- [Ship]()
+- [Ship](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/U55OzGb0bQo/bFMINnduCwAJ) Web Animations Level 1, interop with Firefox
+- [Implement](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/fv84jWFFovQ/DhjrNXpHCwAJ) `ImageBitmap` options
+- [Implement](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/ejLQ0y8IVPM/e8X5j6hSCwAJ) Non-document root scrollers
+- [Implement](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/HwDRVyP505Q/tgEJY5kYCwAJ) `"serviceworker"` link relationship
+- [Implement and ship](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/IM0HxOP7HOA/y8tu6iq1CgAJ) Optional icon URL for notification actions
+- [Implement and ship](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/sXT-rWAd0kk/P11TJQKuCQAJ) “Merge `DOMSettableTokenList` into `DOMTokenList`”
+- [Experiment](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/coyvHj1u2Z8/aqjyAUuICQAJ) Web Bluetooth API
+- [Implement and ship](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/k5n129-lM1A/02Qqlq0SCQAJ) Notification renotify flag
+- [Implement](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/ghf2Wq4qQ_w/kzVB_nIvCQAJ) Push subscription restrictions and the Web Push protocol
+- [Implement](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/E6kHXWv4sJA/7fKGaApzCAAJ) CSS `break-after`, `break-before`, `break-inside` (generic breaking control)
+- [Implement and ship](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/bvs8ledF4tU/qC__g3yICAAJ) “`HTMLMediaElement.play()` retuns a promise”
 
 ### Firefox
 
@@ -53,20 +68,6 @@ October 2015
 
 | Browser | Date | Title | Implement | Ship | Link to discussion |
 |  ------ | ------ | ------ | :------: | :------: | ------ |
-|  Ch | 2/12/2016 | CSS Snap Size | I |  | disc |
-|  Ch | 2/11/2016 | Basic InputEvent interface | I | S | disc |
-|  Ch | 2/11/2016 | CSS pseudo-class :dir() | I | S | disc |
-|  Ch | 2/11/2016 | Web Animations Level 1 interop |  | S | disc |
-|  Ch | 2/10/2016 | ImageBitmap options | I |  | disc |
-|  Ch | 2/10/2016 | Non-document root scrollers | I |  | disc |
-|  Ch | 2/10/2016 | Link rel=serviceworker | I |  | disc |
-|  Ch | 2/8/2016 | Notification Action Icons | I | S | disc |
-|  Ch | 2/5/2016 | Merge DOMSettableTokenList into DOMTokenList | I | S | disc |
-|  Ch | 2/4/2016 | Web Bluetooth API |  | E | disc |
-|  Ch | 2/3/2016 | Notification Renotify | I | S | disc |
-|  Ch | 2/3/2016 | Push subscription restrictions and the Web Push protocol | I |  | disc |
-|  Ch | 2/1/2016 | CSS break-after/before/inside | I |  | disc |
-|  Ch | 2/1/2016 | HTMLMediaElement.play() retuns a promise | I | S | disc |
 |  Ch | 1/26/2016 | notificationclose event | I | S | disc |
 |  Ch | 1/25/2016 | link rel=”preload” |  | S | disc |
 |  Ch | 1/23/2016 | CSS Paint API | I |  | disc |
