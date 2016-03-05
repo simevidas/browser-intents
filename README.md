@@ -36,6 +36,24 @@ February 2016
 - [Implement](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/E6kHXWv4sJA/7fKGaApzCAAJ) CSS `break-after`, `break-before`, `break-inside` (generic breaking control)
 - [Implement and ship](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/bvs8ledF4tU/qC__g3yICAAJ) “`HTMLMediaElement.play()` retuns a promise”
 
+January 2016
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/fePanzKy6ec/fscI5AOoBgAJ) `"notificationclose"` event
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/_nu6HlbNQfo/XzaLNb1bBgAJ) `"preload"` link relationship
+- [Implement](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/A4PZz_mXOTg/D9sNjsGWBQAJ) CSS Paint API
+- [Ship](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/JufzX024oy0/WEOGbN43AwAJ) Brotli (`Accept-encoding: br` on HTTPS connection)
+- [Ship](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/8P5RWP_nRTk/7QNvJVrmAgAJ) Unprefixed CSS Multi-column Layout 
+- [Ship](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/jRzvehX9U1U/RReEdlqpAgAJ) `ImageBitmap` and `createImageBitmap` method
+- [Implement](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/ZuseXCSZY2U/p1gLNcCMAgAJ) Media Capture from `HTMLMediaElement`
+- [Implement and ship](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/WUUEUWha5cI/lnw0T_5XAgAJ) CSS `column-fill` property
+- [Implement and ship](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/XlBHOIOCjUk/1ZidsQfzAQAJ) `FetchEvent.clientId` and `Clients.get(id)` for Service Worker
+- [Implement](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/CuOrg2TrnDw/gTgLL59PAQAJ) `EventListenerOptions.passive`
+- [Ship](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/64DG7iR5Qjs/HHX2unspAQAJ) “Modify `{add,remove}EventListener` to accept `EventListenerOptions`”
+- [Ship](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/QnBcTm29mJU/3fMvH0XuAAAJ) Canvas Hit Regions
+
+December 2015
+- [Implement and ship](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/N9a8eAT6Jug/c5LwnvEiBQAJ) CSS `inverted-colors` media feature
+- [Ship](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/Vga32co0YMQ/4i6qXvfeAwAJ) Push messaging payloads (`PushEvent.data` property)
+
 ### Firefox
 
 March 2016
@@ -75,20 +93,6 @@ October 2015
 
 | Browser | Date | Title | Implement | Ship | Link to discussion |
 |  ------ | ------ | ------ | :------: | :------: | ------ |
-|  Ch | 1/26/2016 | notificationclose event | I | S | disc |
-|  Ch | 1/25/2016 | link rel=”preload” |  | S | disc |
-|  Ch | 1/23/2016 | CSS Paint API | I |  | disc |
-|  Ch | 1/15/2016 | Brotli (Accept-encoding: br on HTTPS connection) |  | S | disc |
-|  Ch | 1/14/2016 | Unprefixed multicol CSS properties |  | S | disc |
-|  Ch | 1/13/2016 | ImageBitmap and createImageBitmap |  | S | disc |
-|  Ch | 1/13/2016 | Media Capture from HTMLMediaElement | I |  | disc |
-|  Ch | 1/12/2016 | CSS column-fill property | I | S | disc |
-|  Ch | 1/11/2016 | FetchEvent.clientId and Clients.get(id) for Service Worker | I | S | disc |
-|  Ch | 1/9/2016 | EventListenerOptions.passive | I |  | disc |
-|  Ch | 1/8/2016 | modify add/removeEventListener to accept EventListenerOptions |  | S | disc |
-|  Ch | 1/7/2016 | Canvas Hit Regions |  | S | disc |
-|  Ch | 12/18/2016 | inverted-colors media query | I | S | disc |
-|  Ch | 12/14/2016 | Push Messaging Payloads |  | S | disc |
 |  Ch | 12/12/2016 | CSS Custom Properties Level 1 |  | S | disc |
 |  Ch | 12/11/2016 | Case-insensitive attribute selector matching |  | S | disc |
 |  Ch | 12/10/2016 | OffscreenCanvas | I |  | disc |
