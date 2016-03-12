@@ -58,6 +58,21 @@ January 2016
 December 2015
 - [Implement and ship](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/N9a8eAT6Jug/c5LwnvEiBQAJ) CSS `inverted-colors` media feature
 - [Ship](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/Vga32co0YMQ/4i6qXvfeAwAJ) Push messaging payloads (`PushEvent.data` property)
+- [Ship](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/iJ_enKAj9gE/swGKdCAlAwAJ) CSS Custom Properties Level 1
+- [Ship](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/vAWK0ldpyrc/3I_RKXblAgAJ) `i` modifier for attribute selectors
+- [Implement](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/ckHvzFXn5zQ/ZkzPC--gAgAJ) OffscreenCanvas
+- [Implement and ship](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/g_igIzSue40/hpQoZ2oRAgAJ) Cookie prefixes and Strict Secure Cookies
+- [Implement](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/kl8ct3ub3a8/-WfzBTkCAgAJ) Worklets
+- [Ship](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/FnZBCN4t46w/qn3CtGa5BwAJ) Canvas `toBlob` method
+- [Ship](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/AmChp_uVpXU/SNEykhRLBwAJ) Promise rejection tracking events
+
+November 2015
+- [Implement and ship](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/sWoR3JJpowc/WCd9GofQBQAJ) `HTMLMediaElement.disableRemotePlayback`
+- [Ship](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/76HB0BIxk_o/RTel6y2IBQAJ) Media Stream Recording API
+- [Ship](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/t9apD7cQb6I/NlTgcjt_BQAJ) Background Sync (one-shot)
+- [Implement](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/9W80Kw-z3ss/7CLbeeqGBQAJ) CSS Containment
+- [Implement and ship](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/3rsQQJvhY8k/P2cAFq3hAwAJ) `addEventListener`/`removeEventListener` non-optional arguments
+- [Implement and ship](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/xEoWkGEd_g4/Pkn_o92EAwAJ) DOMTokenList-based feature detection for `<link>` and `<iframe>`
 
 ### Firefox
 
@@ -99,20 +114,6 @@ October 2015
 
 | Browser | Date | Title | Implement | Ship | Link to discussion |
 |  ------ | ------ | ------ | :------: | :------: | ------ |
-|  Ch | 12/12/2016 | CSS Custom Properties Level 1 |  | S | disc |
-|  Ch | 12/11/2016 | Case-insensitive attribute selector matching |  | S | disc |
-|  Ch | 12/10/2016 | OffscreenCanvas | I |  | disc |
-|  Ch | 12/8/2016 | Cookie prefixes and Strict Secure Cookies | I | S | disc |
-|  Ch | 12/8/2016 | Cookie prefixes |  | S | disc |
-|  Ch | 12/8/2016 | Worklets | I |  | disc |
-|  Ch | 12/3/2016 | Canvas.toBlob |  | S | disc |
-|  Ch | 12/1/2016 | Promise rejection tracking events |  | S | disc |
-|  Ch | 11/26/2016 | HTMLMediaElement.disableRemotePlayback | I | S | disc |
-|  Ch | 11/25/2016 | Media Stream Recording API |  | S | disc |
-|  Ch | 11/25/2016 | Background Sync |  | S | disc |
-|  Ch | 11/25/2016 | CSS Containment —status,issue(commited) | I |  | disc |
-|  Ch | 11/20/2016 | addEventListener non-optional arguments | I | S | disc |
-|  Ch | 11/19/2016 | DOMTokenList-based feat. detect. for link/iframe | I | S | disc |
 |  Ch | 11/13/2016 | URLSearchParams (but not on URL instances) | I | S | disc |
 |  Ch | 11/13/2016 | Suborigins | I |  | disc |
 |  Ch | 11/5/2016 | “noopener” link relation | I | S | disc→disc |
