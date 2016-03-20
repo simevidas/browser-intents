@@ -1,4 +1,4 @@
-### Chrome
+### Chromium
 
 March 2016
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/LqQXLx93mEo/C50y8EiLAQAJ) Visual Viewport API
