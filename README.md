@@ -1,7 +1,3 @@
-**TODO:** Every week (Friday night), when updating these lists with new intents, also move 14 entries from the table below. At that rate, you’ll be done in 4 weeks (March 18th). 
-
-***
-
 ### Chrome
 
 March 2016
@@ -108,31 +104,27 @@ November 2015
 - [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/uWyfl_szAcw/y-2EsjRhBgAJ) CSS Emphasis Marks (`text-emphasis` property)
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/P6_ADO2sOxE/48RwgUE4BAAJ) CSS Mask Image properties
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/bRDUCA4tb84/_c1Ch4T2AQAJ) Web Speech API - Synthesis
+- [Implement and ship](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/grHZDbldP04/JdsoQ169AQAJ) `URLSearchParams`
+- [Implement](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/gDR7v8QBooU/pnA-5jSNAQAJ) suborigins
+- [Implement and ship](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/hqW3RGDV8WI/bGe64uK-AQAJ) `"noopener"` link relation
 
 October 2015
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/BeVaHGEgZNA/vIVnbrLgBwAJ) WebVR 
 - [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/N3i7Yc2UpR0/huNQI2fVBQAJ) `window.orientation` and `'orientationchange'` event
 - [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/pH98pOjGgX4/u1D_zBiVBAAJ) `::backdrop pseudo-element` for Fullscreen API
+- [Ship](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/8iSlPpwokbY/LWMJ8IffDQAJ) notification action buttons
+- [Implement and ship](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/el1cAmGOrvY/0tnBa3bvDAAJ) `"navigate"` mode in `fetch` requests
+- [Ship](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/ELz4SxMwa0U/CWsWMGjfCwAJ) Audio Output Devices API
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/KpCcUTv1UQ8/aAoXs3UTCwAJ) CSS Typed OM
+- [Implement](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/nyo08pwJcfQ/meb49q1yCQAJ) “modify `addEventListener` to accept `EventListenerOptions`”
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/21YdGHt2ogM/pkNLbZftCAAJ) `WindowClient.navigate` method for service workers
 
-***
+September 2015
+- [Ship](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/G-hC66MRTso/uVrmHV0NAwAJ) Local Font Access API
+- [Ship](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/Md2SYtNazVU/QbN4NGgTAwAJ) durable storage
+- [Implement](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/VscIPcVtKrc/VfJHxeGUAgAJ) iterable `NodeList`
+- [Implement](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/TZ79t_huYcg/X00beRJmAgAJ) CSS `position: sticky`
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/uajNnbH8UPU/YBmO4w-yAAAJ) “Allow `data:` and `blob:` schemes in Fetch API”
+- [Implement](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/7s4-eQTAxqs/SoahsGpMAQAJ) CSS `font-display`
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/iBX_2xfX6jc/Uc0D6jr3AgAJ) `stale-while-revalidate` Cache-control extension
 
-*Note: This table is the result from converting my Google Docs table to Markdown using [MarkdownTableMaker](https://github.com/pffy/googledocs-addon-markdowntablefive). In the process, the links were lost (but I still have them in the document).*
-
-| Browser | Date | Title | Implement | Ship | Link to discussion |
-|  ------ | ------ | ------ | :------: | :------: | ------ |
-|  Ch | 11/13/2016 | URLSearchParams (but not on URL instances) | I | S | disc |
-|  Ch | 11/13/2016 | Suborigins | I |  | disc |
-|  Ch | 11/5/2016 | “noopener” link relation | I | S | disc→disc |
-|  Ch | 10/29/2016 | Notification action buttons |  | S | disc |
-|  Ch | 10/27/2016 | "Navigate" mode in Fetch Requests | I | S | disc |
-|  Ch | 10/23/2016 | Audio Output Devices API |  | S | disc(demo) |
-|  Ch | 10/21/2016 | CSS Typed OM | I |  | disc |
-|  Ch | 10/15/2016 | EventListenerOptions | I |  | disc |
-|  Ch | 10/14/2016 | WindowClient.navigate(url) for ServiceWorker |  | S | disc |
-|  Ch | 9/26/2016 | Local Font Access API |  | S | disc(explainer) |
-|  Ch | 9/25/2016 | Durable Storage |  | S | disc(demo) |
-|  Ch | 9/23/2016 | iterable NodeList | I |  | disc |
-|  Ch | 9/22/2016 | CSS position: sticky | I |  | disc |
-|  Ch | 9/17/2016 | Allow data: and blob: schemes in Fetch API | I | S | disc |
-|  Ch | 9/11/2016 | CSS font-display | I |  | discstatus |
-|  Ch | 9/1/2016 | HTTP stale-while-revalidate |  | S | disc |
