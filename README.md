@@ -1,5 +1,11 @@
 This is my selection of relevant Chromium and Firefox intents (from blink-dev and mozilla.dev.platform, respectively); updated weekly (:new: marks latest additions).
 
+***
+
+[Chromium](#chromium) | [Firefox](#firefox)
+
+***
+
 ### Chromium
 
 March 2016
