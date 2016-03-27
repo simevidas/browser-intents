@@ -2,7 +2,7 @@ This is my selection of relevant Chromium and Firefox intents (from blink-dev an
 
 ***
 
-[Chromium](#chromium) | [Firefox](#firefox)
+Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ***
 
