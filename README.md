@@ -9,8 +9,13 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 ### Chromium
 
 June 2016
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/HGh92uMX_kE/zt2TLWgNAgAJ) “Block cross-origin scripts inserted via document.write” (for users on slow connections)
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/ezyGy6JE7hs/lz5TuPcbGwAJ) Media Capture Depth Stream Extensions (media stream from depth camera)
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Umj9iVRJM70/6CG49IswBwAJ) `Referrer-Policy` HTTP header
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/WEMnlVIbe70/i2MJcEtNBgAJ) “Do not perform default action on un-trusted events”
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/vuYEHSeqonM/JpeLkiJABgAJ) “Web Audio requires user gesture on Android”
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Q1cnzNI2GpI/AL_eyUNABgAJ) “Autoplay muted videos on Android” (`<video autoplay muted>`)
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/1bdP80f0GVs/U7qIckr-BQAJ) Resource Timing `transferSize`/`encodedBodySize`/`decodedBodySize` properties
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/HGh92uMX_kE/zt2TLWgNAgAJ) “Block cross-origin scripts inserted via document.write” (for users on slow connections)
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/ezyGy6JE7hs/lz5TuPcbGwAJ) Media Capture Depth Stream Extensions (media stream from depth camera)
 
 May 2016
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/L-BRotfWD8U/YiYj6aGCAgAJ) HTTP Alternative Services
