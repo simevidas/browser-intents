@@ -9,7 +9,10 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 ### Chromium
 
 June 2016
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/1BOhy5av8MQ/OPPt76oZCQAJ) Web Share API
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/-vHFK4g93jA/JW9wAJyKAQAJ) CSS `the text-size-adjust` property
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/zrZRD2ls5tw/ibbjD3cQAQAJ) Shadow DOM v1
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/SKLhE1LhjOg/-oIudYzfAAAJ) Media Capture from `<audio>`/`<video>` (“WebRTC streaming of prerecorded content”)
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/1BOhy5av8MQ/OPPt76oZCQAJ) Web Share API
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Umj9iVRJM70/6CG49IswBwAJ) `Referrer-Policy` HTTP header
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/WEMnlVIbe70/i2MJcEtNBgAJ) “Do not perform default action on un-trusted events”
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/vuYEHSeqonM/JpeLkiJABgAJ) “Web Audio requires user gesture on Android”
@@ -160,6 +163,9 @@ September 2015
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/iBX_2xfX6jc/Uc0D6jr3AgAJ) `stale-while-revalidate` Cache-control extension
 
 ### Firefox
+
+June 2016
+- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/6lMOvomdZFU/Q1AScq2SAgAJ) CSS `mask-image` property
 
 May 2016
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/KaFZG0WoJnw/DqI5UA0OPAAJ) filters in 2D canvas
