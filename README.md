@@ -8,13 +8,11 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
-July 2016
+June 2016
 - :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/p1DYoxHlkKg/qxS32AaCAgAJ) PaymentRequest API
 - :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/hWT6i_qXcjo/7uN5KoiJAgAJ) `"install"` event for Web App Manifest
 - :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/_Lhz8THHk2Q/f8j8E49rAgAJ) timer throttling for hidden, cross-origin frames
 - :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/rBYR3Xd6Skw/oddIWad6AgAJ) Feature Policy
-
-June 2016
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/-vHFK4g93jA/JW9wAJyKAQAJ) CSS `the text-size-adjust` property
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/zrZRD2ls5tw/ibbjD3cQAQAJ) Shadow DOM v1
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/SKLhE1LhjOg/-oIudYzfAAAJ) Media Capture from `<audio>`/`<video>` (“WebRTC streaming of prerecorded content”)
@@ -172,9 +170,9 @@ September 2015
 
 July 2016
 - :new: [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/NGms9X06tW8/ZK5jthS3BQAJ) “Force flattening of `transform-style: preserve-3d` when opacity is applied”
-- :new: [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/azNSLhfv978/Rb2evmprBQAJ) Service Worker `WindowClient.navigate` method
 
 June 2016
+- :new: [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/azNSLhfv978/Rb2evmprBQAJ) Service Worker `WindowClient.navigate` method
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/6lMOvomdZFU/Q1AScq2SAgAJ) CSS `mask-image` property
 
 May 2016
