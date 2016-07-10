@@ -10,7 +10,7 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 July 2016
 - :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/ysEXU21Dn1Y/2UZUHve_BQAJ) Push API `PushSubscription.options` property
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/nsmmXIAOil4/Hc1th-x-BQAJ) `"auxclick "` event type (non-primary button click)
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/nsmmXIAOil4/Hc1th-x-BQAJ) `"auxclick"` event type (non-primary button click)
 - :new: [Implement and ship]() “Block `navigator.vibrate` in cross-origin iframes”
 - :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/VhYxkRlfQng/EXRHD7A5BQAJ) `pan-up`/`pan-down`/`pan-left`/`pan-right` values for CSS `touch-action` property
 
