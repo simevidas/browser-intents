@@ -9,10 +9,12 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 ### Chromium
 
 July 2016
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/ysEXU21Dn1Y/2UZUHve_BQAJ) Push API `PushSubscription.options` property
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/nsmmXIAOil4/Hc1th-x-BQAJ) `"auxclick"` event type (non-primary button click)
-- :new: [Implement and ship]() “Block `navigator.vibrate` in cross-origin iframes”
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/VhYxkRlfQng/EXRHD7A5BQAJ) `pan-up`/`pan-down`/`pan-left`/`pan-right` values for CSS `touch-action` property
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/kJ3FGlUaWHU/BTg1AXx7AQAJ) `BroadcastChannel` API
+- :new: [Implement](https://groups.google.com/a/chromium.org/forum/#!topic/blink-dev/jyCdW1dHyYA) CSP `require-sri-for` directive
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/ysEXU21Dn1Y/2UZUHve_BQAJ) Push API `PushSubscription.options` property
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/nsmmXIAOil4/Hc1th-x-BQAJ) `"auxclick"` event type (non-primary button click)
+- [Implement and ship]() “Block `navigator.vibrate` in cross-origin iframes”
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/VhYxkRlfQng/EXRHD7A5BQAJ) `pan-up`/`pan-down`/`pan-left`/`pan-right` values for CSS `touch-action` property
 
 June 2016
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/p1DYoxHlkKg/qxS32AaCAgAJ) PaymentRequest API
@@ -175,7 +177,7 @@ September 2015
 ### Firefox
 
 July 2016
-- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/SYEzvXJKw9M/eGhL0RAKBwAJ) CSS `touch-action` property
+- [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/SYEzvXJKw9M/eGhL0RAKBwAJ) CSS `touch-action` property
 - [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/NGms9X06tW8/ZK5jthS3BQAJ) “Force flattening of `transform-style: preserve-3d` when opacity is applied”
 
 June 2016
