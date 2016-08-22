@@ -9,10 +9,13 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 ### Chromium
 
 August 2016
-- :new: [Intent to implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/zXlpFPXhyvE/PPbUFRAvAgAJ) `dataset` API on SVG elements
-- :new: [Intent to experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/sIzHpZVhmBE/fF0Qf15qAQAJ) foreign fetch and `serviceworker` link relation
-- :new: [Intent to implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Tf5TwA45W8Q/eycERiHpAAAJ) unprefixed CSS `-webkit-image-set` function
-- :new: [Intent to implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/A_sM-fu6u50/ao9mnO8SAQAJ) “long task” notifications in Performance Observer
+- :new: [Intent to ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/P2UKXfsFWWE/Nii0d7snBQAJ) custom elements v1
+- :new: [Intent to implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/uMC1NQP4kpY/Rh8LYedWBAAJ) `once` option for `addEventListener` method
+- :new: [Intent to ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Yk8u329AmIs/eXTS5WeaAwAJ) media tracks (limited to  1 audio/video track)
+- [Intent to implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/zXlpFPXhyvE/PPbUFRAvAgAJ) `dataset` API on SVG elements
+- [Intent to experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/sIzHpZVhmBE/fF0Qf15qAQAJ) foreign fetch and `serviceworker` link relation
+- [Intent to implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Tf5TwA45W8Q/eycERiHpAAAJ) unprefixed CSS `-webkit-image-set` function
+- [Intent to implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/A_sM-fu6u50/ao9mnO8SAQAJ) “long task” notifications in Performance Observer
 - [Intent to ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/A12B1S4eGxY/TECSVggtAAAJ) visual viewport
 - [Intent to implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/I3FhKqtui_k/YY4AvQq6AAAJ) Budget API
 
@@ -191,7 +194,9 @@ September 2015
 ### Firefox
 
 August 2016
-- :new: [Intent to implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/Ja4GCMopHVg/0D2Zu4VNAQAJ) `dataset` API on SVG elements
+- :new: [Intent to implement](https://groups.google.com/d/msg/mozilla.dev.platform/PR_AP6i-xIo/YQ_qTJqyBAAJ) `transitionstart` event
+- :new: [Intent to implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/S1_0_G6lqAs/7C4P3xb4AwAJ) HTML `minlength` attribute and `tooShort` validity state
+- [Intent to implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/Ja4GCMopHVg/0D2Zu4VNAQAJ) `dataset` API on SVG elements
 
 July 2016
 - [Intent to implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/YnTqCbrusb0/ENLHDcUhBAAJ) `forEach` method on NodeList and DOMTokenList
