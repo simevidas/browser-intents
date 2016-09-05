@@ -10,10 +10,10 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 September 2016
 - :new: [Intent to implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/fBfWECEGZa8/Jr_3UDsCAQAJ) AudioWorklets for Web Audio API
-- :new: [Intent to implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/_IReUkNKF6o/S1GCeqxMAAAJ) Accelerometer, Gyroscope and Magnetometer Sensor APIs
-- :new: [Intent to implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/b6UBgAZt1kQ/nZTYfu0AAgAJ) CSS Properties and Values API
 
 August 2016
+- :new: [Intent to implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/_IReUkNKF6o/S1GCeqxMAAAJ) Accelerometer, Gyroscope and Magnetometer Sensor APIs
+- :new: [Intent to implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/b6UBgAZt1kQ/nZTYfu0AAgAJ) CSS Properties and Values API
 - [Intent to experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/zuqQaLp3js8/5V9wpRWhBgAJ) Web Share API on Android
 - [Intent to ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/R8OehqGJzt0/x95pHclCBgAJ) `auxclick` event type
 - [Intent to implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/UpS11lcUkYg/NBFTJMQPBgAJ) IndexedDB object store and index renaming (during version change transactions)
