@@ -11,7 +11,7 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 September 2016
 - :new: [Intent to experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/iAIKruoq5QM/Ht0eD081AwAJ) MediaStream Image Capture
 - :new: [Intent to ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/9WIVyDz1T34/5Nmj46UXAwAJ) `MediaStream` constructor
-- :new: [Intent to implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/hdBMDg5Nmok/ZAd7NTgfAwAJ) CSS `text-decoration skip` property (and default to `ink` value)
+- :new: [Intent to implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/hdBMDg5Nmok/ZAd7NTgfAwAJ) CSS `text-decoration-skip` property (and default to `ink` value)
 - :new: [Intent to ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/UY1EfjaGF_E/OU7W_s3PAgAJ) Pointer Events
 - :new: [Intent to ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/SUF73nqP1P4/2fK1GjVFAgAJ) ECMAScript async functions
 - [Intent to implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/IxyBdzkSU98/LJ12LwjKAAAJ) constructible document with `new Document()`
