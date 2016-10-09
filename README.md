@@ -11,7 +11,7 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 October 2016
 - :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/y6U-3IGIduM/VxCRbkntBgAJ) Notification API `image` property (“a large image as part of the content of a notification”)
 - :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/nAM3o4NSMsI/3gRKsOuYBgAJ) durable (persistent) storage
-- :new: [Implemen](https://groups.google.com/a/chromium.org/d/msg/blink-dev/j7Oo9JSPY8c/DMNbU2qdBgAJ) customized built-in elements
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/j7Oo9JSPY8c/DMNbU2qdBgAJ) customized built-in elements
 - :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/y4a1OWfMzN0/XFBIp_GIBgAJ) HTTP `Referrer-Policy` header
 
 September 2016
