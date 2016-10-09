@@ -8,12 +8,18 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
+October 2016
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/y6U-3IGIduM/VxCRbkntBgAJ) Notification API `image` property (“a large image as part of the content of a notification”)
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/nAM3o4NSMsI/3gRKsOuYBgAJ) durable (persistent) storage
+- :new: [Implemen](https://groups.google.com/a/chromium.org/d/msg/blink-dev/j7Oo9JSPY8c/DMNbU2qdBgAJ) customized built-in elements
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/y4a1OWfMzN0/XFBIp_GIBgAJ) HTTP `Referrer-Policy` header
+
 September 2016
-- :new: [Intent to ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/ip4dmVNr15Y/jyE0Gc8jBQAJ) CSP violation event `disposition` property
-- :new: [Intent to experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/3tViQmRF2l8/0hRE9EBUBQAJ) Long Task API
-- :new: [Intent to implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Uzit4zDQ1ps/pD_3k2rqBAAJ) CSS `overscroll-action` property
-- :new: [Intent to ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/EVN4Y8NVtNM/VanLZ_1hBAAJ) `pinch-zoom` value for CSS `touch-action` property
-- :new: [Intent to implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/bck8mCc-HOQ/HUeob0z8AwAJ) Content Security Policy: Embedded Enforcement
+- [Intent to ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/ip4dmVNr15Y/jyE0Gc8jBQAJ) CSP violation event `disposition` property
+- [Intent to experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/3tViQmRF2l8/0hRE9EBUBQAJ) Long Task API
+- [Intent to implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Uzit4zDQ1ps/pD_3k2rqBAAJ) CSS `overscroll-action` property
+- [Intent to ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/EVN4Y8NVtNM/VanLZ_1hBAAJ) `pinch-zoom` value for CSS `touch-action` property
+- [Intent to implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/bck8mCc-HOQ/HUeob0z8AwAJ) Content Security Policy: Embedded Enforcement
 - [Intent to experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/iAIKruoq5QM/Ht0eD081AwAJ) MediaStream Image Capture
 - [Intent to ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/9WIVyDz1T34/5Nmj46UXAwAJ) `MediaStream` constructor
 - [Intent to implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/hdBMDg5Nmok/ZAd7NTgfAwAJ) CSS `text-decoration-skip` property (and default to `ink` value)
@@ -219,8 +225,11 @@ September 2015
 
 ### Firefox
 
+October 2016
+- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/6CGjsm1XpD4/GDbW6mCDAQAJ) CSS `touch-action` property (only Level 1 values)
+
 September 2016
-- :new: [Intent to implement](https://groups.google.com/d/msg/mozilla.dev.platform/FO-x9WCJfxM/yfH9YpnDBQAJ) CSS `initial-letter` property
+- [Intent to implement](https://groups.google.com/d/msg/mozilla.dev.platform/FO-x9WCJfxM/yfH9YpnDBQAJ) CSS `initial-letter` property
 - [Intent to implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/UnBVw8R4Kl0/tOIqsr0qBAAJ) global `isSecureContext` property in workers
 - [Intent to ship](https://groups.google.com/d/msg/mozilla.dev.platform/-stfRvwwEHU/J5P1mzlHAwAJ) Storage API `estimate` method
 - [Intent to implement](https://groups.google.com/d/msg/mozilla.dev.platform/dYn5Fel_p-M/3sPPJvLqCQAJ) Canvas 2d context `getTransform`/`setTransform` methods
