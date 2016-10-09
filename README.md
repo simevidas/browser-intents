@@ -15,45 +15,45 @@ October 2016
 - :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/y4a1OWfMzN0/XFBIp_GIBgAJ) HTTP `Referrer-Policy` header
 
 September 2016
-- [Intent to ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/ip4dmVNr15Y/jyE0Gc8jBQAJ) CSP violation event `disposition` property
-- [Intent to experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/3tViQmRF2l8/0hRE9EBUBQAJ) Long Task API
-- [Intent to implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Uzit4zDQ1ps/pD_3k2rqBAAJ) CSS `overscroll-action` property
-- [Intent to ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/EVN4Y8NVtNM/VanLZ_1hBAAJ) `pinch-zoom` value for CSS `touch-action` property
-- [Intent to implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/bck8mCc-HOQ/HUeob0z8AwAJ) Content Security Policy: Embedded Enforcement
-- [Intent to experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/iAIKruoq5QM/Ht0eD081AwAJ) MediaStream Image Capture
-- [Intent to ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/9WIVyDz1T34/5Nmj46UXAwAJ) `MediaStream` constructor
-- [Intent to implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/hdBMDg5Nmok/ZAd7NTgfAwAJ) CSS `text-decoration-skip` property (and default to `ink` value)
-- [Intent to ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/UY1EfjaGF_E/OU7W_s3PAgAJ) Pointer Events
-- [Intent to ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/SUF73nqP1P4/2fK1GjVFAgAJ) ECMAScript async functions
-- [Intent to implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/IxyBdzkSU98/LJ12LwjKAAAJ) constructible document with `new Document()`
-- [Intent to experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/zGAzqfi0e00/atXaz8UCAQAJ) WebVR
-- [Intent to ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/s-w44wOMzqs/tEd_YNjkAAAJ) MediaDevices `devicechange` event
-- [Intent to ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/LsnvY7FFrY0/iVl1FcAFAgAJ) CSS `hyphens` property
-- [Intent to implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/GxTBfZjzqFw/dw63GhkrAgAJ) “Process continuous events just before `requestAnimationFrame` occurs”
-- [Intent to implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/JkdoxpINjxQ/CUWOBwc0AgAJ) Shape Detection API
-- [Intent to implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/fBfWECEGZa8/Jr_3UDsCAQAJ) AudioWorklets for Web Audio API
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/ip4dmVNr15Y/jyE0Gc8jBQAJ) CSP violation event `disposition` property
+- [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/3tViQmRF2l8/0hRE9EBUBQAJ) Long Task API
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Uzit4zDQ1ps/pD_3k2rqBAAJ) CSS `overscroll-action` property
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/EVN4Y8NVtNM/VanLZ_1hBAAJ) `pinch-zoom` value for CSS `touch-action` property
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/bck8mCc-HOQ/HUeob0z8AwAJ) Content Security Policy: Embedded Enforcement
+- [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/iAIKruoq5QM/Ht0eD081AwAJ) MediaStream Image Capture
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/9WIVyDz1T34/5Nmj46UXAwAJ) `MediaStream` constructor
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/hdBMDg5Nmok/ZAd7NTgfAwAJ) CSS `text-decoration-skip` property (and default to `ink` value)
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/UY1EfjaGF_E/OU7W_s3PAgAJ) Pointer Events
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/SUF73nqP1P4/2fK1GjVFAgAJ) ECMAScript async functions
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/IxyBdzkSU98/LJ12LwjKAAAJ) constructible document with `new Document()`
+- [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/zGAzqfi0e00/atXaz8UCAQAJ) WebVR
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/s-w44wOMzqs/tEd_YNjkAAAJ) MediaDevices `devicechange` event
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/LsnvY7FFrY0/iVl1FcAFAgAJ) CSS `hyphens` property
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/GxTBfZjzqFw/dw63GhkrAgAJ) “Process continuous events just before `requestAnimationFrame` occurs”
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/JkdoxpINjxQ/CUWOBwc0AgAJ) Shape Detection API
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/fBfWECEGZa8/Jr_3UDsCAQAJ) AudioWorklets for Web Audio API
 
 August 2016
-- [Intent to implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/_IReUkNKF6o/S1GCeqxMAAAJ) Accelerometer, Gyroscope and Magnetometer Sensor APIs
-- [Intent to implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/b6UBgAZt1kQ/nZTYfu0AAgAJ) CSS Properties and Values API
-- [Intent to experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/zuqQaLp3js8/5V9wpRWhBgAJ) Web Share API on Android
-- [Intent to ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/R8OehqGJzt0/x95pHclCBgAJ) `auxclick` event type
-- [Intent to implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/UpS11lcUkYg/NBFTJMQPBgAJ) IndexedDB object store and index renaming (during version change transactions)
-- [Intent to implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/FQxPB5GEQjo/oUJb_54BBgAJ) Notifications API `image` property
-- [Intent to experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/lLX_NIuTpkM/-iP0Kq23BQAJ) WebUSB (updated)
-- [Intent to ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/P2UKXfsFWWE/Nii0d7snBQAJ) custom elements v1
-- [Intent to implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/uMC1NQP4kpY/Rh8LYedWBAAJ) `once` option for `addEventListener` method
-- [Intent to ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Yk8u329AmIs/eXTS5WeaAwAJ) media tracks (limited to  1 audio/video track)
-- [Intent to implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/zXlpFPXhyvE/PPbUFRAvAgAJ) `dataset` API on SVG elements
-- [Intent to experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/sIzHpZVhmBE/fF0Qf15qAQAJ) foreign fetch and `serviceworker` link relation
-- [Intent to implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Tf5TwA45W8Q/eycERiHpAAAJ) unprefixed CSS `-webkit-image-set` function
-- [Intent to implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/A_sM-fu6u50/ao9mnO8SAQAJ) “long task” notifications in Performance Observer
-- [Intent to ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/A12B1S4eGxY/TECSVggtAAAJ) visual viewport
-- [Intent to implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/I3FhKqtui_k/YY4AvQq6AAAJ) Budget API
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/_IReUkNKF6o/S1GCeqxMAAAJ) Accelerometer, Gyroscope and Magnetometer Sensor APIs
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/b6UBgAZt1kQ/nZTYfu0AAgAJ) CSS Properties and Values API
+- [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/zuqQaLp3js8/5V9wpRWhBgAJ) Web Share API on Android
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/R8OehqGJzt0/x95pHclCBgAJ) `auxclick` event type
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/UpS11lcUkYg/NBFTJMQPBgAJ) IndexedDB object store and index renaming (during version change transactions)
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/FQxPB5GEQjo/oUJb_54BBgAJ) Notifications API `image` property
+- [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/lLX_NIuTpkM/-iP0Kq23BQAJ) WebUSB (updated)
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/P2UKXfsFWWE/Nii0d7snBQAJ) custom elements v1
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/uMC1NQP4kpY/Rh8LYedWBAAJ) `once` option for `addEventListener` method
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Yk8u329AmIs/eXTS5WeaAwAJ) media tracks (limited to  1 audio/video track)
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/zXlpFPXhyvE/PPbUFRAvAgAJ) `dataset` API on SVG elements
+- [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/sIzHpZVhmBE/fF0Qf15qAQAJ) foreign fetch and `serviceworker` link relation
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Tf5TwA45W8Q/eycERiHpAAAJ) unprefixed CSS `-webkit-image-set` function
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/A_sM-fu6u50/ao9mnO8SAQAJ) “long task” notifications in Performance Observer
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/A12B1S4eGxY/TECSVggtAAAJ) visual viewport
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/I3FhKqtui_k/YY4AvQq6AAAJ) Budget API
 
 July 2016
-- [Intent to ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/fH5bzd0_lRI/58_8fyxIBwAJ) ParentNode/ChildNode `prepend`/`append`/`before`/`after`/`replaceWith` methods
-- [Intent to ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/bcD93CiIJHE/2a9_ibfbDQAJ) `pan-up`/`pan-down`/`pan-left`/`pan-right` values for CSS `touch-action` property (follow up)
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/fH5bzd0_lRI/58_8fyxIBwAJ) ParentNode/ChildNode `prepend`/`append`/`before`/`after`/`replaceWith` methods
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/bcD93CiIJHE/2a9_ibfbDQAJ) `pan-up`/`pan-down`/`pan-left`/`pan-right` values for CSS `touch-action` property (follow up)
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Z2fllXoSjcU/P-kHtCVJBQAJ) “Allow web pages to request fullscreen while an orientation change event handler is running”
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/MjeLmhOZKXw/zvlyAsvNBAAJ) `Node.getRootNode` method (was `Node.rootNode`)
 - [Implement](https://groups.google.com/a/chromium.org/forum/#!topic/blink-dev/N0HybdIpKBs) Content Size Policy
@@ -229,23 +229,23 @@ October 2016
 - :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/6CGjsm1XpD4/GDbW6mCDAQAJ) CSS `touch-action` property (only Level 1 values)
 
 September 2016
-- [Intent to implement](https://groups.google.com/d/msg/mozilla.dev.platform/FO-x9WCJfxM/yfH9YpnDBQAJ) CSS `initial-letter` property
-- [Intent to implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/UnBVw8R4Kl0/tOIqsr0qBAAJ) global `isSecureContext` property in workers
-- [Intent to ship](https://groups.google.com/d/msg/mozilla.dev.platform/-stfRvwwEHU/J5P1mzlHAwAJ) Storage API `estimate` method
-- [Intent to implement](https://groups.google.com/d/msg/mozilla.dev.platform/dYn5Fel_p-M/3sPPJvLqCQAJ) Canvas 2d context `getTransform`/`setTransform` methods
+- [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/FO-x9WCJfxM/yfH9YpnDBQAJ) CSS `initial-letter` property
+- [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/UnBVw8R4Kl0/tOIqsr0qBAAJ) global `isSecureContext` property in workers
+- [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/-stfRvwwEHU/J5P1mzlHAwAJ) Storage API `estimate` method
+- [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/dYn5Fel_p-M/3sPPJvLqCQAJ) Canvas 2d context `getTransform`/`setTransform` methods
 
 August 2016
-- [Intent to ship](https://groups.google.com/d/msg/mozilla.dev.platform/ozygu09pg_o/ux577V_zBAAJ) Canvas 2D context `imageSmoothingEnabled` property
-- [Intent to implement](https://groups.google.com/d/msg/mozilla.dev.platform/PR_AP6i-xIo/YQ_qTJqyBAAJ) `transitionstart` event
-- [Intent to implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/S1_0_G6lqAs/7C4P3xb4AwAJ) HTML `minlength` attribute and `tooShort` validity state
-- [Intent to implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/Ja4GCMopHVg/0D2Zu4VNAQAJ) `dataset` API on SVG elements
+- [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/ozygu09pg_o/ux577V_zBAAJ) Canvas 2D context `imageSmoothingEnabled` property
+- [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/PR_AP6i-xIo/YQ_qTJqyBAAJ) `transitionstart` event
+- [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/S1_0_G6lqAs/7C4P3xb4AwAJ) HTML `minlength` attribute and `tooShort` validity state
+- [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/Ja4GCMopHVg/0D2Zu4VNAQAJ) `dataset` API on SVG elements
 
 July 2016
-- [Intent to implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/YnTqCbrusb0/ENLHDcUhBAAJ) `forEach` method on NodeList and DOMTokenList
-- [Intent to ship]() Blink’s Entries API (`webkitGetAsEntry` method) incl. file input `webkitdirectory` attribute
-- [Intent to ship](https://groups.google.com/d/msg/mozilla.dev.platform/UwD8xIPNK0c/CBlM4FxiAwAJ) (unprefixed) CSS `:any-link` pseudo-class
-- [Intent to implement](https://groups.google.com/d/msg/mozilla.dev.platform/mC06HKQ45hs/np7OxIYYCgAJ) MediaDevices `devicechange` event
-- [Intent to implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/acFKZpcVw8o/8s9L4lPyCQAJ) MediaStreamTrack `getConstraints` and `getSettings` methods
+- [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/YnTqCbrusb0/ENLHDcUhBAAJ) `forEach` method on NodeList and DOMTokenList
+- [Ship]() Blink’s Entries API (`webkitGetAsEntry` method) incl. file input `webkitdirectory` attribute
+- [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/UwD8xIPNK0c/CBlM4FxiAwAJ) (unprefixed) CSS `:any-link` pseudo-class
+- [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/mC06HKQ45hs/np7OxIYYCgAJ) MediaDevices `devicechange` event
+- [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/acFKZpcVw8o/8s9L4lPyCQAJ) MediaStreamTrack `getConstraints` and `getSettings` methods
 - [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/CNmJeMkUv88/oLmZacPECAAJ) CSS Properties and Values API
 - [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/U_drxJ1LCQE/YL6TGfELCAAJ) `once` option for `addEventListener` method
 - [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/32Z6O50rM5k/Fbx9lRaQBwAJ) `__Secure-`/`__Host-` cookie prefixes
