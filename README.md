@@ -9,10 +9,13 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 ### Chromium
 
 October 2016
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/y6U-3IGIduM/VxCRbkntBgAJ) Notification API `image` property (“a large image as part of the content of a notification”)
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/nAM3o4NSMsI/3gRKsOuYBgAJ) durable (persistent) storage
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/j7Oo9JSPY8c/DMNbU2qdBgAJ) customized built-in elements
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/y4a1OWfMzN0/XFBIp_GIBgAJ) HTTP `Referrer-Policy` header
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Ono3RWkejAA/2skvuBhSCQAJ) Web Bluetooth
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/j7NzKZKdSyc/HISQnGJXCQAJ) “Render Unicode control characters”
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/hvN9YVvIb5c/5DrcunKSCAAJ) CSS `system-ui` generic font family
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/y6U-3IGIduM/VxCRbkntBgAJ) Notification API `image` property (“a large image as part of the content of a notification”)
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/nAM3o4NSMsI/3gRKsOuYBgAJ) durable (persistent) storage
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/j7Oo9JSPY8c/DMNbU2qdBgAJ) customized built-in elements
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/y4a1OWfMzN0/XFBIp_GIBgAJ) HTTP `Referrer-Policy` header
 
 September 2016
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/ip4dmVNr15Y/jyE0Gc8jBQAJ) CSP violation event `disposition` property
@@ -226,7 +229,9 @@ September 2015
 ### Firefox
 
 October 2016
-- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/6CGjsm1XpD4/GDbW6mCDAQAJ) CSS `touch-action` property (only Level 1 values)
+- :new: [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/PhG4Upk4Mo4/ie0Mr2xsBAAJ) CSS `shape-outside` property
+- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/mziFttqlkDM/t-CHVMJCBAAJ) Selection API events (`selectionstart`, `selectionchange`)
+- [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/6CGjsm1XpD4/GDbW6mCDAQAJ) CSS `touch-action` property (only Level 1 values)
 
 September 2016
 - [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/FO-x9WCJfxM/yfH9YpnDBQAJ) CSS `initial-letter` property
