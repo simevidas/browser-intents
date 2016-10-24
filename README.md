@@ -9,9 +9,13 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 ### Chromium
 
 October 2016
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Ono3RWkejAA/2skvuBhSCQAJ) Web Bluetooth
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/j7NzKZKdSyc/HISQnGJXCQAJ) “Render Unicode control characters”
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/hvN9YVvIb5c/5DrcunKSCAAJ) CSS `system-ui` generic font family
+- :new: [Remove](https://groups.google.com/a/chromium.org/d/msg/blink-dev/JqUlPA-HFfU/l77tAggtBQAJ) CSP `'referrer'` directive
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/nAUxrvJeNLQ/-e1zF6YkBAAJ) CSS `display: contents` value
+- :new: [Intervene](https://groups.google.com/a/chromium.org/d/msg/blink-dev/BW3qrkisqIs/v5Au-HVTAwAJ) “Treat touch Scroll-blocking event listeners as passive”
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/jkHEX_9eOjE/hmlv6sJMBAAJ) `PresentationConnection.url` property
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Ono3RWkejAA/2skvuBhSCQAJ) Web Bluetooth
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/j7NzKZKdSyc/HISQnGJXCQAJ) “Render Unicode control characters”
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/hvN9YVvIb5c/5DrcunKSCAAJ) CSS `system-ui` generic font family
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/y6U-3IGIduM/VxCRbkntBgAJ) Notification API `image` property (“a large image as part of the content of a notification”)
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/nAM3o4NSMsI/3gRKsOuYBgAJ) durable (persistent) storage
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/j7Oo9JSPY8c/DMNbU2qdBgAJ) customized built-in elements
@@ -229,8 +233,10 @@ September 2015
 ### Firefox
 
 October 2016
-- :new: [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/PhG4Upk4Mo4/ie0Mr2xsBAAJ) CSS `shape-outside` property
-- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/mziFttqlkDM/t-CHVMJCBAAJ) Selection API events (`selectionstart`, `selectionchange`)
+- :new: [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/Yy4WAqnGxGo/8bUPmXyJBgAJ) `transitionrun`, `transitionstart`, and `transitioncancel` events
+- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/sfeqeMkyxCI/J04LFWcnBgAJ) TLs 1.3 (draft 16)
+- [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/PhG4Upk4Mo4/ie0Mr2xsBAAJ) CSS `shape-outside` property
+- [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/mziFttqlkDM/t-CHVMJCBAAJ) Selection API events (`selectionstart`, `selectionchange`)
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/6CGjsm1XpD4/GDbW6mCDAQAJ) CSS `touch-action` property (only Level 1 values)
 
 September 2016
