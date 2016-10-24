@@ -234,7 +234,7 @@ September 2015
 
 October 2016
 - :new: [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/Yy4WAqnGxGo/8bUPmXyJBgAJ) `transitionrun`, `transitionstart`, and `transitioncancel` events
-- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/sfeqeMkyxCI/J04LFWcnBgAJ) TLs 1.3 (draft 16)
+- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/sfeqeMkyxCI/J04LFWcnBgAJ) TLS 1.3 (draft 16)
 - [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/PhG4Upk4Mo4/ie0Mr2xsBAAJ) CSS `shape-outside` property
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/mziFttqlkDM/t-CHVMJCBAAJ) Selection API events (`selectionstart`, `selectionchange`)
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/6CGjsm1XpD4/GDbW6mCDAQAJ) CSS `touch-action` property (only Level 1 values)
