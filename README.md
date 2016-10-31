@@ -9,10 +9,18 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 ### Chromium
 
 October 2016
-- :new: [Remove](https://groups.google.com/a/chromium.org/d/msg/blink-dev/JqUlPA-HFfU/l77tAggtBQAJ) CSP `'referrer'` directive
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/nAUxrvJeNLQ/-e1zF6YkBAAJ) CSS `display: contents` value
-- :new: [Intervene](https://groups.google.com/a/chromium.org/d/msg/blink-dev/BW3qrkisqIs/v5Au-HVTAwAJ) “Treat touch Scroll-blocking event listeners as passive”
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/jkHEX_9eOjE/hmlv6sJMBAAJ) `PresentationConnection.url` property
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/wfIVkXvQ7kQ/VfuOr_FhBwAJ) FIDO U2F API
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/1kroHAnh3BU/uYZb6uZRBwAJ) Fractional MouseEvent coordinates 
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/6o1W8mVUDsA/JOKZ-aRfBwAJ) KeyboardEvent `isComposing` property
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/f1zzIHtRomQ/foZ6f5dKBwAJ) WritableStream (part of Streams API)
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/vNNQ50QRNuY/u6n62FlqBgAJ) CSS `shape` media feature
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/VAEv-MUFGC8/n7gz63UfBgAJ) WebGL 2.0 
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/___gftRPAvg/TsANSIDHBQAJ) TLS 1.3 1-RTT (field trial)
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/toKFfP_oOac/jde6w6xuBQAJ) ImageBitmap rendering context for `<canvas>`
+- [Remove](https://groups.google.com/a/chromium.org/d/msg/blink-dev/JqUlPA-HFfU/l77tAggtBQAJ) CSP `'referrer'` directive
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/nAUxrvJeNLQ/-e1zF6YkBAAJ) CSS `display: contents` value
+- [Intervene](https://groups.google.com/a/chromium.org/d/msg/blink-dev/BW3qrkisqIs/v5Au-HVTAwAJ) “Treat touch Scroll-blocking event listeners as passive”
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/jkHEX_9eOjE/hmlv6sJMBAAJ) `PresentationConnection.url` property
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Ono3RWkejAA/2skvuBhSCQAJ) Web Bluetooth
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/j7NzKZKdSyc/HISQnGJXCQAJ) “Render Unicode control characters”
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/hvN9YVvIb5c/5DrcunKSCAAJ) CSS `system-ui` generic font family
@@ -233,8 +241,8 @@ September 2015
 ### Firefox
 
 October 2016
-- :new: [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/Yy4WAqnGxGo/8bUPmXyJBgAJ) `transitionrun`, `transitionstart`, and `transitioncancel` events
-- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/sfeqeMkyxCI/J04LFWcnBgAJ) TLS 1.3 (draft 16)
+- [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/Yy4WAqnGxGo/8bUPmXyJBgAJ) `transitionrun`, `transitionstart`, and `transitioncancel` events
+- [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/sfeqeMkyxCI/J04LFWcnBgAJ) TLS 1.3 (draft 16)
 - [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/PhG4Upk4Mo4/ie0Mr2xsBAAJ) CSS `shape-outside` property
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/mziFttqlkDM/t-CHVMJCBAAJ) Selection API events (`selectionstart`, `selectionchange`)
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/6CGjsm1XpD4/GDbW6mCDAQAJ) CSS `touch-action` property (only Level 1 values)
