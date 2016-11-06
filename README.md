@@ -8,15 +8,22 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
+November 2016
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/2ojnMk_T9_c/h7QfIhTeCAAJ) Payment App API
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/PI3FG54L1ZU/B4jNSzhyCAAJ) navigation preload for service workers
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/VJmxBRYGVIE/CogbbYWXCAAJ) scroll anchoring
+
 October 2016
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/wfIVkXvQ7kQ/VfuOr_FhBwAJ) FIDO U2F API
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/1kroHAnh3BU/uYZb6uZRBwAJ) Fractional MouseEvent coordinates 
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/6o1W8mVUDsA/JOKZ-aRfBwAJ) KeyboardEvent `isComposing` property
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/f1zzIHtRomQ/foZ6f5dKBwAJ) WritableStream (part of Streams API)
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/vNNQ50QRNuY/u6n62FlqBgAJ) CSS `shape` media feature
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/VAEv-MUFGC8/n7gz63UfBgAJ) WebGL 2.0 
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/___gftRPAvg/TsANSIDHBQAJ) TLS 1.3 1-RTT (field trial)
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/toKFfP_oOac/jde6w6xuBQAJ) ImageBitmap rendering context for `<canvas>`
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/LukPJ86fcs8/RX_dsbUiCAAJ) `<link referrerpolicy>` attribute
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/X_vBQp60kp8/v43CLS89CAAJ) CSS `position: sticky` value
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/wfIVkXvQ7kQ/VfuOr_FhBwAJ) FIDO U2F API
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/1kroHAnh3BU/uYZb6uZRBwAJ) Fractional MouseEvent coordinates 
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/6o1W8mVUDsA/JOKZ-aRfBwAJ) KeyboardEvent `isComposing` property
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/f1zzIHtRomQ/foZ6f5dKBwAJ) WritableStream (part of Streams API)
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/vNNQ50QRNuY/u6n62FlqBgAJ) CSS `shape` media feature
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/VAEv-MUFGC8/n7gz63UfBgAJ) WebGL 2.0 
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/___gftRPAvg/TsANSIDHBQAJ) TLS 1.3 1-RTT (field trial)
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/toKFfP_oOac/jde6w6xuBQAJ) ImageBitmap rendering context for `<canvas>`
 - [Remove](https://groups.google.com/a/chromium.org/d/msg/blink-dev/JqUlPA-HFfU/l77tAggtBQAJ) CSP `'referrer'` directive
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/nAUxrvJeNLQ/-e1zF6YkBAAJ) CSS `display: contents` value
 - [Intervene](https://groups.google.com/a/chromium.org/d/msg/blink-dev/BW3qrkisqIs/v5Au-HVTAwAJ) “Treat touch Scroll-blocking event listeners as passive”
@@ -239,6 +246,9 @@ September 2015
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/iBX_2xfX6jc/Uc0D6jr3AgAJ) `stale-while-revalidate` Cache-control extension
 
 ### Firefox
+
+November 2016
+- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/PYPzrwNh6kA/_ErvsqkEAwAJ) `requestIdleCallback` function 
 
 October 2016
 - [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/Yy4WAqnGxGo/8bUPmXyJBgAJ) `transitionrun`, `transitionstart`, and `transitioncancel` events
