@@ -20,8 +20,8 @@ November 2016
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/VJmxBRYGVIE/CogbbYWXCAAJ) scroll anchoring
 
 October 2016
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/LukPJ86fcs8/RX_dsbUiCAAJ) `<link referrerpolicy>` attribute
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/X_vBQp60kp8/v43CLS89CAAJ) CSS `position: sticky` value
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/LukPJ86fcs8/RX_dsbUiCAAJ) `<link referrerpolicy>` attribute
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/X_vBQp60kp8/v43CLS89CAAJ) CSS `position: sticky` value
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/wfIVkXvQ7kQ/VfuOr_FhBwAJ) FIDO U2F API
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/1kroHAnh3BU/uYZb6uZRBwAJ) Fractional MouseEvent coordinates 
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/6o1W8mVUDsA/JOKZ-aRfBwAJ) KeyboardEvent `isComposing` property
