@@ -9,9 +9,15 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 ### Chromium
 
 November 2016
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/2ojnMk_T9_c/h7QfIhTeCAAJ) Payment App API
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/PI3FG54L1ZU/B4jNSzhyCAAJ) navigation preload for service workers
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/VJmxBRYGVIE/CogbbYWXCAAJ) scroll anchoring
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/qCJhuuZH5p0/le6l1t37AQAJ) Web Authentication API
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/IoIxRpn6l9g/ux1C1Cj7AQAJ) Payment Request API `canMakeActivePayment` method
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/sTJ0OL9QJx8/DAXDOrIqAQAJ) “Fire `visibilitychange` event on document unloading”
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/AT7aqhPcNdw/10jQ2B0HAQAJ) Navigation Timing Level 2
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Hs5-wPpCPZc/7BVwLbfMAAAJ) Resource Timing `nextHopProtocol` property
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/1UkZE-vOROc/gEj7psewAAAJ) CSP's `worker-src` directive
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/2ojnMk_T9_c/h7QfIhTeCAAJ) Payment App API
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/PI3FG54L1ZU/B4jNSzhyCAAJ) navigation preload for service workers
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/VJmxBRYGVIE/CogbbYWXCAAJ) scroll anchoring
 
 October 2016
 - :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/LukPJ86fcs8/RX_dsbUiCAAJ) `<link referrerpolicy>` attribute
@@ -248,7 +254,8 @@ September 2015
 ### Firefox
 
 November 2016
-- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/PYPzrwNh6kA/_ErvsqkEAwAJ) `requestIdleCallback` function 
+- :new: [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/F0rCRF8z87E/CPh7dIJ9BQAJ) Web Authentication API
+- [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/PYPzrwNh6kA/_ErvsqkEAwAJ) `requestIdleCallback` function 
 
 October 2016
 - [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/Yy4WAqnGxGo/8bUPmXyJBgAJ) `transitionrun`, `transitionstart`, and `transitioncancel` events
