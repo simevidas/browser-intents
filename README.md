@@ -9,12 +9,16 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 ### Chromium
 
 November 2016
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/qCJhuuZH5p0/le6l1t37AQAJ) Web Authentication API
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/IoIxRpn6l9g/ux1C1Cj7AQAJ) Payment Request API `canMakeActivePayment` method
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/sTJ0OL9QJx8/DAXDOrIqAQAJ) “Fire `visibilitychange` event on document unloading”
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/AT7aqhPcNdw/10jQ2B0HAQAJ) Navigation Timing Level 2
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Hs5-wPpCPZc/7BVwLbfMAAAJ) Resource Timing `nextHopProtocol` property
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/1UkZE-vOROc/gEj7psewAAAJ) CSP's `worker-src` directive
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/d2mbqJ0ADXk/MLrTZq1xAwAJ) CSS `text-decoration-*` properties
+- :new: [Implement and ship]() CSS `::placeholder` pseudo-element
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/kJLzOeS-l4w/Dco5FIcpAwAJ) Remote Playback API
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/6jK81erL87E/i6t4G9AaAwAJ) CSS `caret-color` property
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/qCJhuuZH5p0/le6l1t37AQAJ) Web Authentication API
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/IoIxRpn6l9g/ux1C1Cj7AQAJ) Payment Request API `canMakeActivePayment` method
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/sTJ0OL9QJx8/DAXDOrIqAQAJ) “Fire `visibilitychange` event on document unloading”
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/AT7aqhPcNdw/10jQ2B0HAQAJ) Navigation Timing Level 2
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Hs5-wPpCPZc/7BVwLbfMAAAJ) Resource Timing `nextHopProtocol` property
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/1UkZE-vOROc/gEj7psewAAAJ) CSP's `worker-src` directive
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/2ojnMk_T9_c/h7QfIhTeCAAJ) Payment App API
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/PI3FG54L1ZU/B4jNSzhyCAAJ) navigation preload for service workers
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/VJmxBRYGVIE/CogbbYWXCAAJ) scroll anchoring
@@ -254,7 +258,8 @@ September 2015
 ### Firefox
 
 November 2016
-- :new: [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/F0rCRF8z87E/CPh7dIJ9BQAJ) Web Authentication API
+- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/6shk3TZX5vo/avSCrtLCBgAJ) CSS Grid Layout
+- [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/F0rCRF8z87E/CPh7dIJ9BQAJ) Web Authentication API
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/PYPzrwNh6kA/_ErvsqkEAwAJ) `requestIdleCallback` function 
 
 October 2016
