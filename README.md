@@ -10,7 +10,7 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 November 2016
 - :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/d2mbqJ0ADXk/MLrTZq1xAwAJ) CSS `text-decoration-*` properties
-- :new: [Implement and ship]() CSS `::placeholder` pseudo-element
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Qm_q-LzwnHs/bTh_T0T1AgAJ) CSS `::placeholder` pseudo-element
 - :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/kJLzOeS-l4w/Dco5FIcpAwAJ) Remote Playback API
 - :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/6jK81erL87E/i6t4G9AaAwAJ) CSS `caret-color` property
 - :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/hBx1ffTS9CQ/TMTigaDIAgAJ) CSS Grid Layout
