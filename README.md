@@ -9,11 +9,13 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 ### Chromium
 
 November 2016
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/d2mbqJ0ADXk/MLrTZq1xAwAJ) CSS `text-decoration-*` properties
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Qm_q-LzwnHs/bTh_T0T1AgAJ) CSS `::placeholder` pseudo-element
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/kJLzOeS-l4w/Dco5FIcpAwAJ) Remote Playback API
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/6jK81erL87E/i6t4G9AaAwAJ) CSS `caret-color` property
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/hBx1ffTS9CQ/TMTigaDIAgAJ) CSS Grid Layout
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/vM3RM1OQNFU/ao3wqCM6AgAJ) `<iframe allowpaymentrequest>` attribute
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/OTbGJtwRmXg/RCYzioMlAgAJ) PointerEvent `getCoalescedEvents` method
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/d2mbqJ0ADXk/MLrTZq1xAwAJ) CSS `text-decoration-*` properties
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Qm_q-LzwnHs/bTh_T0T1AgAJ) CSS `::placeholder` pseudo-element
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/kJLzOeS-l4w/Dco5FIcpAwAJ) Remote Playback API
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/6jK81erL87E/i6t4G9AaAwAJ) CSS `caret-color` property
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/hBx1ffTS9CQ/TMTigaDIAgAJ) CSS Grid Layout
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/qCJhuuZH5p0/le6l1t37AQAJ) Web Authentication API
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/IoIxRpn6l9g/ux1C1Cj7AQAJ) Payment Request API `canMakeActivePayment` method
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/sTJ0OL9QJx8/DAXDOrIqAQAJ) “Fire `visibilitychange` event on document unloading”
@@ -259,7 +261,9 @@ September 2015
 ### Firefox
 
 November 2016
-- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/6shk3TZX5vo/avSCrtLCBgAJ) CSS Grid Layout
+- :new: [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/B9bIszPlVX4/3OVBjLBTCQAJ) CSS `background-repeat-x`/`background-repeat-y` and `mask-repeat-x`/`mask-repeat-y` properties
+- :new: [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/n-2o58jcTK8/sFisJf6pCAAJ) Payment Request API
+- [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/6shk3TZX5vo/avSCrtLCBgAJ) CSS Grid Layout
 - [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/F0rCRF8z87E/CPh7dIJ9BQAJ) Web Authentication API
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/PYPzrwNh6kA/_ErvsqkEAwAJ) `requestIdleCallback` function 
 
