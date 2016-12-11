@@ -9,15 +9,19 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 ### Chromium
 
 December 2016
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/gWp3xcyEDJM/JKOu68Y2BQAJ) MediaStreamTrack Content Hints
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/HZ_ZHEE9oDo/jXunplrqBAAJ) Presentation API 1-UA mode
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/sa5Tvr4QyWI/Pk_ohqbpBAAJ) Phone number API (a.k.a. Sign up API)
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/txdySyr-mb0/tPQJZvJiBwAJ) CSS `scroll-boundary-behavior` property
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/1ebMBNhqRew/_6hAQKAfBwAJ) Web App Manifest `purpose` field (for icons)
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/_oUskZTzQxg/TwReQ2npBgAJ) Web Share Target API
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/I0hKADppnoU/y7E08rh4BgAJ) SVG transform presentation attributes
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/gWp3xcyEDJM/JKOu68Y2BQAJ) MediaStreamTrack Content Hints
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/HZ_ZHEE9oDo/jXunplrqBAAJ) Presentation API 1-UA mode
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/sa5Tvr4QyWI/Pk_ohqbpBAAJ) Phone number API (a.k.a. Sign up API)
 
 November 2016
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/5AgbvQwEEdM/bLQcXkF7BAAJ) ReadableStream `pipeTo` and `pipeThrough` methods
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/kyll3WFKTig/gMNvZ66eBAAJ) PerformancePaintTiming interface (incl. time to first paint)
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/npKDoKVOUAs/ogtlIFmLBAAJ) changes to CSP’s model for workers
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/GAhY5gl8bIs/8eVDOUA8BAAJ) OpenType variable fonts
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/5AgbvQwEEdM/bLQcXkF7BAAJ) ReadableStream `pipeTo` and `pipeThrough` methods
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/kyll3WFKTig/gMNvZ66eBAAJ) PerformancePaintTiming interface (incl. time to first paint)
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/npKDoKVOUAs/ogtlIFmLBAAJ) changes to CSP’s model for workers
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/GAhY5gl8bIs/8eVDOUA8BAAJ) OpenType variable fonts
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/vM3RM1OQNFU/ao3wqCM6AgAJ) `<iframe allowpaymentrequest>` attribute
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/OTbGJtwRmXg/RCYzioMlAgAJ) PointerEvent `getCoalescedEvents` method
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/d2mbqJ0ADXk/MLrTZq1xAwAJ) CSS `text-decoration-*` properties
@@ -270,10 +274,11 @@ September 2015
 ### Firefox
 
 December 2016
-- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/Q-dSrp4PYe4/hS7r9Y3OCwAJ) Presentation API (on Android)
+- :new: [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/_FacI6Aw2BQ/hUHKggjFDAAJ) OpenType variable fonts
+- [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/Q-dSrp4PYe4/hS7r9Y3OCwAJ) Presentation API (on Android)
 
 November 2016
-- :new: [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/1K_Uq_fx1l4/Yc93M2P2CgAJ) Web2Native Bridge
+- [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/1K_Uq_fx1l4/Yc93M2P2CgAJ) Web2Native Bridge
 - [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/B9bIszPlVX4/3OVBjLBTCQAJ) CSS `background-repeat-x`/`background-repeat-y` and `mask-repeat-x`/`mask-repeat-y` properties
 - [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/n-2o58jcTK8/sFisJf6pCAAJ) Payment Request API
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/6shk3TZX5vo/avSCrtLCBgAJ) CSS Grid Layout
