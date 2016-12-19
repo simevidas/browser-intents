@@ -9,10 +9,13 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 ### Chromium
 
 December 2016
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/txdySyr-mb0/tPQJZvJiBwAJ) CSS `scroll-boundary-behavior` property
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/1ebMBNhqRew/_6hAQKAfBwAJ) Web App Manifest `purpose` field (for icons)
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/_oUskZTzQxg/TwReQ2npBgAJ) Web Share Target API
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/I0hKADppnoU/y7E08rh4BgAJ) SVG transform presentation attributes
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/5zb6MESKRog/ax6EObiJDgAJ) `ClipboardEvent` constructor
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/4qEXWptfVHs/vhgeXGNzDgAJ) CSS Logical Properties (`*-size` properties)
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/9pauQUAvrcw/lfbG7eunCAAJ) System Keyboard Lock
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/txdySyr-mb0/tPQJZvJiBwAJ) CSS `scroll-boundary-behavior` property
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/1ebMBNhqRew/_6hAQKAfBwAJ) Web App Manifest `purpose` field (for icons)
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/_oUskZTzQxg/TwReQ2npBgAJ) Web Share Target API
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/I0hKADppnoU/y7E08rh4BgAJ) SVG transform presentation attributes
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/gWp3xcyEDJM/JKOu68Y2BQAJ) MediaStreamTrack Content Hints
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/HZ_ZHEE9oDo/jXunplrqBAAJ) Presentation API 1-UA mode
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/sa5Tvr4QyWI/Pk_ohqbpBAAJ) Phone number API (a.k.a. Sign up API)
@@ -274,7 +277,10 @@ September 2015
 ### Firefox
 
 December 2016
-- :new: [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/_FacI6Aw2BQ/hUHKggjFDAAJ) OpenType variable fonts
+- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/15nssyOe1gc/PCt1uWkBDwAJ) CSS `mask-image` property (repeated intent)
+- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/lCZmhCDGHPY/hq3CgPkFDwAJ) Network Information API
+- :new: [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/Js-pI-6dSQA/ZtsgzJWdDgAJ) “Store IndexedDB databases for the lifetime of private browsing sessions”
+- [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/_FacI6Aw2BQ/hUHKggjFDAAJ) OpenType variable fonts
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/Q-dSrp4PYe4/hS7r9Y3OCwAJ) Presentation API (on Android)
 
 November 2016
