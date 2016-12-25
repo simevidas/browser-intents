@@ -9,9 +9,11 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 ### Chromium
 
 December 2016
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/5zb6MESKRog/ax6EObiJDgAJ) `ClipboardEvent` constructor
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/4qEXWptfVHs/vhgeXGNzDgAJ) CSS Logical Properties (`*-size` properties)
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/9pauQUAvrcw/lfbG7eunCAAJ) System Keyboard Lock
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/2XJ51Apy5XY/9wh9z2zSDwAJ) ARIA 1.1
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/V38Q47CxTIY/vIEsirLTDwAJ) Reporting API
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/5zb6MESKRog/ax6EObiJDgAJ) `ClipboardEvent` constructor
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/4qEXWptfVHs/vhgeXGNzDgAJ) CSS Logical Properties (`*-size` properties)
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/9pauQUAvrcw/lfbG7eunCAAJ) System Keyboard Lock
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/txdySyr-mb0/tPQJZvJiBwAJ) CSS `scroll-boundary-behavior` property
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/1ebMBNhqRew/_6hAQKAfBwAJ) Web App Manifest `purpose` field (for icons)
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/_oUskZTzQxg/TwReQ2npBgAJ) Web Share Target API
@@ -277,9 +279,13 @@ September 2015
 ### Firefox
 
 December 2016
-- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/15nssyOe1gc/PCt1uWkBDwAJ) CSS `mask-image` property (repeated intent)
-- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/lCZmhCDGHPY/hq3CgPkFDwAJ) Network Information API
-- :new: [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/Js-pI-6dSQA/ZtsgzJWdDgAJ) “Store IndexedDB databases for the lifetime of private browsing sessions”
+- :new: [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/lOpCwCMIWwo/nom3la3CEAAJ) CSS `caret-color` property
+- :new: [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/vTPGW1aJq24/JnEnoH3BEAAJ) HTML5 `<dialog>` element
+- :new: [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/bG9Kpgr5LC4/GW4qQnD8EAAJ) CSS `display: flow-root` value
+- :new: [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/YdFwg3VpGMg/t9FO09meEAAJ) Selection `setBaseAndExtent` method
+- [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/15nssyOe1gc/PCt1uWkBDwAJ) CSS `mask-image` property (repeated intent)
+- [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/lCZmhCDGHPY/hq3CgPkFDwAJ) Network Information API
+- [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/Js-pI-6dSQA/ZtsgzJWdDgAJ) “Store IndexedDB databases for the lifetime of private browsing sessions”
 - [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/_FacI6Aw2BQ/hUHKggjFDAAJ) OpenType variable fonts
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/Q-dSrp4PYe4/hS7r9Y3OCwAJ) Presentation API (on Android)
 
