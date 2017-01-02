@@ -9,8 +9,10 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 ### Chromium
 
 December 2016
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/2XJ51Apy5XY/9wh9z2zSDwAJ) ARIA 1.1
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/V38Q47CxTIY/vIEsirLTDwAJ) Reporting API
+- :new: [Intent to implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/8Zo2HiNEs94/h8mDVkx0EwAJ) `rel="prefetch"` in `Link` header
+- :new: [Intent to implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/pFI8AMdDChM/GEWPKoGzEgAJ) asynchronous Clipboard API
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/2XJ51Apy5XY/9wh9z2zSDwAJ) ARIA 1.1
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/V38Q47CxTIY/vIEsirLTDwAJ) Reporting API
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/5zb6MESKRog/ax6EObiJDgAJ) `ClipboardEvent` constructor
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/4qEXWptfVHs/vhgeXGNzDgAJ) CSS Logical Properties (`*-size` properties)
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/9pauQUAvrcw/lfbG7eunCAAJ) System Keyboard Lock
@@ -279,10 +281,12 @@ September 2015
 ### Firefox
 
 December 2016
-- :new: [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/lOpCwCMIWwo/nom3la3CEAAJ) CSS `caret-color` property
-- :new: [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/vTPGW1aJq24/JnEnoH3BEAAJ) HTML5 `<dialog>` element
-- :new: [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/bG9Kpgr5LC4/GW4qQnD8EAAJ) CSS `display: flow-root` value
-- :new: [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/YdFwg3VpGMg/t9FO09meEAAJ) Selection `setBaseAndExtent` method
+- :new: [Intent to implement](https://groups.google.com/d/msg/mozilla.dev.platform/Ycr5zeYEcgs/ajxJ8nseEwAJ) CSS box alignment properties on block containers
+- :new: [Intent to implement](https://groups.google.com/d/msg/mozilla.dev.platform/T_7HTTdt-Es/QCZVZw-zEgAJ) SVG `vector-effect` property (additional values)
+- [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/lOpCwCMIWwo/nom3la3CEAAJ) CSS `caret-color` property
+- [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/vTPGW1aJq24/JnEnoH3BEAAJ) HTML5 `<dialog>` element
+- [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/bG9Kpgr5LC4/GW4qQnD8EAAJ) CSS `display: flow-root` value
+- [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/YdFwg3VpGMg/t9FO09meEAAJ) Selection `setBaseAndExtent` method
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/15nssyOe1gc/PCt1uWkBDwAJ) CSS `mask-image` property (repeated intent)
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/lCZmhCDGHPY/hq3CgPkFDwAJ) Network Information API
 - [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/Js-pI-6dSQA/ZtsgzJWdDgAJ) “Store IndexedDB databases for the lifetime of private browsing sessions”
