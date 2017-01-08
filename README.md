@@ -8,9 +8,16 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
+January 2017
+- :new: [Intent to implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/k9WOAVA5Ewc/v7DPYeWhFQAJ) CSS `display: flow-root` value
+- :new: [Intent to ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/xIpJ_303phw/6PoGcPIGFQAJ) Media Session API
+- :new: [Intent to implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/tgn5R-58iek/Q6YCnu0RFQAJ) `Expect-CT` header
+- :new: [Intent to experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/COF0YKkjZVQ/at24EPkRFQAJ) `document.rootScroller` property
+- :new: [Intent to implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/qu73qpdGunE/FoOgPZ6-FAAJ) Canvas color management (`colorSpace` property)
+
 December 2016
-- :new: [Intent to implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/8Zo2HiNEs94/h8mDVkx0EwAJ) `rel="prefetch"` in `Link` header
-- :new: [Intent to implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/pFI8AMdDChM/GEWPKoGzEgAJ) asynchronous Clipboard API
+- [Intent to implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/8Zo2HiNEs94/h8mDVkx0EwAJ) `rel="prefetch"` in `Link` header
+- [Intent to implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/pFI8AMdDChM/GEWPKoGzEgAJ) asynchronous Clipboard API
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/2XJ51Apy5XY/9wh9z2zSDwAJ) ARIA 1.1
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/V38Q47CxTIY/vIEsirLTDwAJ) Reporting API
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/5zb6MESKRog/ax6EObiJDgAJ) `ClipboardEvent` constructor
@@ -280,9 +287,12 @@ September 2015
 
 ### Firefox
 
+January 2017
+- :new: [Intent to experiment](https://groups.google.com/d/msg/mozilla.dev.platform/uI5bHZil2KU/VPrlTdOQFQAJ) CSS Houdini Paint API Level 1
+
 December 2016
-- :new: [Intent to implement](https://groups.google.com/d/msg/mozilla.dev.platform/Ycr5zeYEcgs/ajxJ8nseEwAJ) CSS box alignment properties on block containers
-- :new: [Intent to implement](https://groups.google.com/d/msg/mozilla.dev.platform/T_7HTTdt-Es/QCZVZw-zEgAJ) SVG `vector-effect` property (additional values)
+- [Intent to implement](https://groups.google.com/d/msg/mozilla.dev.platform/Ycr5zeYEcgs/ajxJ8nseEwAJ) CSS box alignment properties on block containers
+- [Intent to implement](https://groups.google.com/d/msg/mozilla.dev.platform/T_7HTTdt-Es/QCZVZw-zEgAJ) SVG `vector-effect` property (additional values)
 - [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/lOpCwCMIWwo/nom3la3CEAAJ) CSS `caret-color` property
 - [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/vTPGW1aJq24/JnEnoH3BEAAJ) HTML5 `<dialog>` element
 - [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/bG9Kpgr5LC4/GW4qQnD8EAAJ) CSS `display: flow-root` value
