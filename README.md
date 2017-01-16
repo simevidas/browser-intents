@@ -9,11 +9,17 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 ### Chromium
 
 January 2017
-- :new: [Intent to implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/k9WOAVA5Ewc/v7DPYeWhFQAJ) CSS `display: flow-root` value
-- :new: [Intent to ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/xIpJ_303phw/6PoGcPIGFQAJ) Media Session API
-- :new: [Intent to implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/tgn5R-58iek/Q6YCnu0RFQAJ) `Expect-CT` header
-- :new: [Intent to experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/COF0YKkjZVQ/at24EPkRFQAJ) `document.rootScroller` property
-- :new: [Intent to implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/qu73qpdGunE/FoOgPZ6-FAAJ) Canvas color management (`colorSpace` property)
+- :new: [Intent to ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/C-iuVJeDGkk/IfIam8_rFgAJ) Token Binding
+- :new: [Intent to experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/0-6bmy1cOnw/E_IQ3l23FgAJ) “navigation preload for service workers”
+- :new: [Intent to implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/T4HsGFfxbGw/_Ld_WgBjFgAJ) CSS Logical Properties (`margin-*` properties)
+- :new: [Intent to experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/LI7O__FjIJk/6dlwUmGhFgAJ) WebUSB (another Origin Trial)
+- :new: [Intent to implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/-NmHZqP4cQg/tAaPqI1GFgAJ) PointerEvent `tangentialPressure` and `twist` properties
+- :new: [Intent to ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/6iqiskBdDQE/hBrnmzssFgAJ) WebAssembly
+- [Intent to implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/k9WOAVA5Ewc/v7DPYeWhFQAJ) CSS `display: flow-root` value
+- [Intent to ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/xIpJ_303phw/6PoGcPIGFQAJ) Media Session API
+- [Intent to implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/tgn5R-58iek/Q6YCnu0RFQAJ) `Expect-CT` header
+- [Intent to experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/COF0YKkjZVQ/at24EPkRFQAJ) `document.rootScroller` property
+- [Intent to implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/qu73qpdGunE/FoOgPZ6-FAAJ) Canvas color management (`colorSpace` property)
 
 December 2016
 - [Intent to implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/8Zo2HiNEs94/h8mDVkx0EwAJ) `rel="prefetch"` in `Link` header
@@ -288,7 +294,8 @@ September 2015
 ### Firefox
 
 January 2017
-- :new: [Intent to experiment](https://groups.google.com/d/msg/mozilla.dev.platform/uI5bHZil2KU/VPrlTdOQFQAJ) CSS Houdini Paint API Level 1
+- :new: [Intent to implement](https://groups.google.com/d/msg/mozilla.dev.platform/dr67sITwva8/G3aHo1MKGAAJ) module scripts (`<script type="module">`)
+- [Intent to experiment](https://groups.google.com/d/msg/mozilla.dev.platform/uI5bHZil2KU/VPrlTdOQFQAJ) CSS Houdini Paint API Level 1
 
 December 2016
 - [Intent to implement](https://groups.google.com/d/msg/mozilla.dev.platform/Ycr5zeYEcgs/ajxJ8nseEwAJ) CSS box alignment properties on block containers
