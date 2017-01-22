@@ -9,12 +9,17 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 ### Chromium
 
 January 2017
-- :new: [Intent to ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/C-iuVJeDGkk/IfIam8_rFgAJ) Token Binding
-- :new: [Intent to experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/0-6bmy1cOnw/E_IQ3l23FgAJ) “navigation preload for service workers”
-- :new: [Intent to implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/T4HsGFfxbGw/_Ld_WgBjFgAJ) CSS Logical Properties (`margin-*` properties)
-- :new: [Intent to experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/LI7O__FjIJk/6dlwUmGhFgAJ) WebUSB (another Origin Trial)
-- :new: [Intent to implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/-NmHZqP4cQg/tAaPqI1GFgAJ) PointerEvent `tangentialPressure` and `twist` properties
-- :new: [Intent to ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/6iqiskBdDQE/hBrnmzssFgAJ) WebAssembly
+- :new: [Intent to remove](https://groups.google.com/a/chromium.org/d/msg/blink-dev/0nSxuuv9bBw/EMfaclV-AwAJ) prerendering in Chrome
+- :new: [Intent ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/tSEKFwM_WuU/d1UOoJAJAwAJ) CSS `font-display` property
+- :new: [Intent to implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/wlRDnLbyVlk/uuByF-a1AgAJ) “Send all keys (except ESC/F11) to the web app when the browser is in fullscreen mode”
+- :new: [Intent ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/5OBK4Uew2Js/VlYpo_JcAgAJ) PointerEvent `getCoalescedEvents` method
+- :new: [Intent to ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/z0RI8seNuCs/ATwON9v3FwAJ) CSS `line-height-step` property
+- [Intent to ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/C-iuVJeDGkk/IfIam8_rFgAJ) Token Binding
+- [Intent to experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/0-6bmy1cOnw/E_IQ3l23FgAJ) “navigation preload for service workers”
+- [Intent to implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/T4HsGFfxbGw/_Ld_WgBjFgAJ) CSS Logical Properties (`margin-*` properties)
+- [Intent to experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/LI7O__FjIJk/6dlwUmGhFgAJ) WebUSB (another Origin Trial)
+- [Intent to implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/-NmHZqP4cQg/tAaPqI1GFgAJ) PointerEvent `tangentialPressure` and `twist` properties
+- [Intent to ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/6iqiskBdDQE/hBrnmzssFgAJ) WebAssembly
 - [Intent to implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/k9WOAVA5Ewc/v7DPYeWhFQAJ) CSS `display: flow-root` value
 - [Intent to ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/xIpJ_303phw/6PoGcPIGFQAJ) Media Session API
 - [Intent to implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/tgn5R-58iek/Q6YCnu0RFQAJ) `Expect-CT` header
@@ -294,7 +299,8 @@ September 2015
 ### Firefox
 
 January 2017
-- :new: [Intent to implement](https://groups.google.com/d/msg/mozilla.dev.platform/dr67sITwva8/G3aHo1MKGAAJ) module scripts (`<script type="module">`)
+- :new: [Intent to implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/WAaqNIo9Fvc/4-24kwmJAgAJ) HTTP `Large-Allocation` header (non-standard)
+- [Intent to implement](https://groups.google.com/d/msg/mozilla.dev.platform/dr67sITwva8/G3aHo1MKGAAJ) module scripts (`<script type="module">`)
 - [Intent to experiment](https://groups.google.com/d/msg/mozilla.dev.platform/uI5bHZil2KU/VPrlTdOQFQAJ) CSS Houdini Paint API Level 1
 
 December 2016
