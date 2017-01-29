@@ -9,26 +9,26 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 ### Chromium
 
 January 2017
-- :new: [Intent to remove](https://groups.google.com/a/chromium.org/d/msg/blink-dev/0nSxuuv9bBw/EMfaclV-AwAJ) prerendering in Chrome
-- :new: [Intent ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/tSEKFwM_WuU/d1UOoJAJAwAJ) CSS `font-display` property
-- :new: [Intent to implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/wlRDnLbyVlk/uuByF-a1AgAJ) “Send all keys (except ESC/F11) to the web app when the browser is in fullscreen mode”
-- :new: [Intent ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/5OBK4Uew2Js/VlYpo_JcAgAJ) PointerEvent `getCoalescedEvents` method
-- :new: [Intent to ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/z0RI8seNuCs/ATwON9v3FwAJ) CSS `line-height-step` property
-- [Intent to ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/C-iuVJeDGkk/IfIam8_rFgAJ) Token Binding
-- [Intent to experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/0-6bmy1cOnw/E_IQ3l23FgAJ) “navigation preload for service workers”
-- [Intent to implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/T4HsGFfxbGw/_Ld_WgBjFgAJ) CSS Logical Properties (`margin-*` properties)
-- [Intent to experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/LI7O__FjIJk/6dlwUmGhFgAJ) WebUSB (another Origin Trial)
-- [Intent to implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/-NmHZqP4cQg/tAaPqI1GFgAJ) PointerEvent `tangentialPressure` and `twist` properties
-- [Intent to ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/6iqiskBdDQE/hBrnmzssFgAJ) WebAssembly
-- [Intent to implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/k9WOAVA5Ewc/v7DPYeWhFQAJ) CSS `display: flow-root` value
-- [Intent to ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/xIpJ_303phw/6PoGcPIGFQAJ) Media Session API
-- [Intent to implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/tgn5R-58iek/Q6YCnu0RFQAJ) `Expect-CT` header
-- [Intent to experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/COF0YKkjZVQ/at24EPkRFQAJ) `document.rootScroller` property
-- [Intent to implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/qu73qpdGunE/FoOgPZ6-FAAJ) Canvas color management (`colorSpace` property)
+- [Remove](https://groups.google.com/a/chromium.org/d/msg/blink-dev/0nSxuuv9bBw/EMfaclV-AwAJ) prerendering in Chrome
+- [Intent ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/tSEKFwM_WuU/d1UOoJAJAwAJ) CSS `font-display` property
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/wlRDnLbyVlk/uuByF-a1AgAJ) “Send all keys (except ESC/F11) to the web app when the browser is in fullscreen mode”
+- [Intent ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/5OBK4Uew2Js/VlYpo_JcAgAJ) PointerEvent `getCoalescedEvents` method
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/z0RI8seNuCs/ATwON9v3FwAJ) CSS `line-height-step` property
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/C-iuVJeDGkk/IfIam8_rFgAJ) Token Binding
+- [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/0-6bmy1cOnw/E_IQ3l23FgAJ) “navigation preload for service workers”
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/T4HsGFfxbGw/_Ld_WgBjFgAJ) CSS Logical Properties (`margin-*` properties)
+- [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/LI7O__FjIJk/6dlwUmGhFgAJ) WebUSB (another Origin Trial)
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/-NmHZqP4cQg/tAaPqI1GFgAJ) PointerEvent `tangentialPressure` and `twist` properties
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/6iqiskBdDQE/hBrnmzssFgAJ) WebAssembly
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/k9WOAVA5Ewc/v7DPYeWhFQAJ) CSS `display: flow-root` value
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/xIpJ_303phw/6PoGcPIGFQAJ) Media Session API
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/tgn5R-58iek/Q6YCnu0RFQAJ) `Expect-CT` header
+- [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/COF0YKkjZVQ/at24EPkRFQAJ) `document.rootScroller` property
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/qu73qpdGunE/FoOgPZ6-FAAJ) Canvas color management (`colorSpace` property)
 
 December 2016
-- [Intent to implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/8Zo2HiNEs94/h8mDVkx0EwAJ) `rel="prefetch"` in `Link` header
-- [Intent to implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/pFI8AMdDChM/GEWPKoGzEgAJ) asynchronous Clipboard API
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/8Zo2HiNEs94/h8mDVkx0EwAJ) `rel="prefetch"` in `Link` header
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/pFI8AMdDChM/GEWPKoGzEgAJ) asynchronous Clipboard API
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/2XJ51Apy5XY/9wh9z2zSDwAJ) ARIA 1.1
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/V38Q47CxTIY/vIEsirLTDwAJ) Reporting API
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/5zb6MESKRog/ax6EObiJDgAJ) `ClipboardEvent` constructor
@@ -299,13 +299,13 @@ September 2015
 ### Firefox
 
 January 2017
-- :new: [Intent to implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/WAaqNIo9Fvc/4-24kwmJAgAJ) HTTP `Large-Allocation` header (non-standard)
-- [Intent to implement](https://groups.google.com/d/msg/mozilla.dev.platform/dr67sITwva8/G3aHo1MKGAAJ) module scripts (`<script type="module">`)
-- [Intent to experiment](https://groups.google.com/d/msg/mozilla.dev.platform/uI5bHZil2KU/VPrlTdOQFQAJ) CSS Houdini Paint API Level 1
+- [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/WAaqNIo9Fvc/4-24kwmJAgAJ) HTTP `Large-Allocation` header (non-standard)
+- [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/dr67sITwva8/G3aHo1MKGAAJ) module scripts (`<script type="module">`)
+- [Experiment](https://groups.google.com/d/msg/mozilla.dev.platform/uI5bHZil2KU/VPrlTdOQFQAJ) CSS Houdini Paint API Level 1
 
 December 2016
-- [Intent to implement](https://groups.google.com/d/msg/mozilla.dev.platform/Ycr5zeYEcgs/ajxJ8nseEwAJ) CSS box alignment properties on block containers
-- [Intent to implement](https://groups.google.com/d/msg/mozilla.dev.platform/T_7HTTdt-Es/QCZVZw-zEgAJ) SVG `vector-effect` property (additional values)
+- [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/Ycr5zeYEcgs/ajxJ8nseEwAJ) CSS box alignment properties on block containers
+- [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/T_7HTTdt-Es/QCZVZw-zEgAJ) SVG `vector-effect` property (additional values)
 - [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/lOpCwCMIWwo/nom3la3CEAAJ) CSS `caret-color` property
 - [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/vTPGW1aJq24/JnEnoH3BEAAJ) HTML5 `<dialog>` element
 - [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/bG9Kpgr5LC4/GW4qQnD8EAAJ) CSS `display: flow-root` value
