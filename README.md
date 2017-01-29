@@ -9,6 +9,9 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 ### Chromium
 
 January 2017
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/36CcloDrB3E/1wMSNMl9BQAJ) CSS `color-gamut` media feature
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Ia9_-CVrl1U/oW0riJbHBAAJ) Background Fetch API
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/CGeXqTudllA/3t72vfXOBAAJ) uncancellable touch events when the main thread is busy (intervention)
 - [Remove](https://groups.google.com/a/chromium.org/d/msg/blink-dev/0nSxuuv9bBw/EMfaclV-AwAJ) prerendering in Chrome
 - [Intent ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/tSEKFwM_WuU/d1UOoJAJAwAJ) CSS `font-display` property
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/wlRDnLbyVlk/uuByF-a1AgAJ) “Send all keys (except ESC/F11) to the web app when the browser is in fullscreen mode”
@@ -299,6 +302,7 @@ September 2015
 ### Firefox
 
 January 2017
+- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/kXX7TrKhIRw/4eS85MEwAAAJ) new syntax of CSS color functions (e.g. `rgb(0 0 0 / 100%)`)
 - [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/WAaqNIo9Fvc/4-24kwmJAgAJ) HTTP `Large-Allocation` header (non-standard)
 - [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/dr67sITwva8/G3aHo1MKGAAJ) module scripts (`<script type="module">`)
 - [Experiment](https://groups.google.com/d/msg/mozilla.dev.platform/uI5bHZil2KU/VPrlTdOQFQAJ) CSS Houdini Paint API Level 1
