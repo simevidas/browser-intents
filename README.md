@@ -9,7 +9,11 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 ### Chromium
 
 February 2017
-- :new: [Intent to ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Mx9q5WXunSE/TOAXeHFZBgAJ) Long Task API
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/UtFM-kndhaI/19dqA4klCAAJ) “Pause `<video muted autoplay>` when invisible (on Android)
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/oPGdc9lqpg8/gSjBah0YCAAJ) global `origin` property (`self.origin`)
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/6otx9aZlwEo/ddfnO5gTCAAJ) construcing workers with `data:` URLs
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/TS9zT_u2M4k/ydZK5WpTBwAJ) HTTP `Network-RTT` and `Network-BW` headers (Network Information API extension)
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Mx9q5WXunSE/TOAXeHFZBgAJ) Long Task API
 
 January 2017
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/36CcloDrB3E/1wMSNMl9BQAJ) CSS `color-gamut` media feature
@@ -303,6 +307,12 @@ September 2015
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/iBX_2xfX6jc/Uc0D6jr3AgAJ) `stale-while-revalidate` Cache-control extension
 
 ### Firefox
+
+February 2017
+- :new: [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/8RJ6lACmJTM/M9dDRkphBQAJ) CSS `animationcancel` event
+- :new: [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/B4F7jCC9jAI/A2c8c7_zBAAJ) global `origin` property (`self.origin`)
+- :new: [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/I00tLlnmTYk/Tz8wcRTJBAAJ) CSS `text-justify` property
+- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/X29xtxQRPJc/gxRNbLFzBAAJ) basic shape values for CSS `clip-path` property (`inset()`, `circle()`, `ellipse()`, `polygon()`)
 
 January 2017
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/kXX7TrKhIRw/4eS85MEwAAAJ) new syntax of CSS color functions (e.g. `rgb(0 0 0 / 100%)`)
