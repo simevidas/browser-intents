@@ -9,9 +9,11 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 ### Chromium
 
 February 2017
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/bmQjmh0-YB8/iG-7lrqvCgAJ) IndexedDB 2.0 APIs
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/N--HhuYFJQI/bmwhhHDZCQAJ) HTML `inert` attribute
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/EAqWCAdw1lI/zk3MvsBbCQAJ) Media Capabilities API (getting information about decoding capabilities)
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/qCfsZJhGtOQ/sC5n92IwDgAJ) CSS Box Alignment `place-*` (shorthand) properties 
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/El0ueyoNgRE/N-6u2SdNDgAJ) `allow-top-navigation-by-user-activation` keyword for `<iframe sandbox>`
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/bmQjmh0-YB8/iG-7lrqvCgAJ) IndexedDB 2.0 APIs
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/N--HhuYFJQI/bmwhhHDZCQAJ) HTML `inert` attribute
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/EAqWCAdw1lI/zk3MvsBbCQAJ) Media Capabilities API (getting information about decoding capabilities)
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/UtFM-kndhaI/19dqA4klCAAJ) “Pause `<video muted autoplay>` when invisible (on Android)
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/oPGdc9lqpg8/gSjBah0YCAAJ) global `origin` property (`self.origin`)
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/6otx9aZlwEo/ddfnO5gTCAAJ) construcing workers with `data:` URLs
@@ -312,6 +314,7 @@ September 2015
 ### Firefox
 
 February 2017
+- :new: [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/w-3HBnN3sc4/p1geixAzAAAJ) CSS `frames()` timing function
 - [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/8RJ6lACmJTM/M9dDRkphBQAJ) CSS `animationcancel` event
 - [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/B4F7jCC9jAI/A2c8c7_zBAAJ) global `origin` property (`self.origin`)
 - [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/I00tLlnmTYk/Tz8wcRTJBAAJ) CSS `text-justify` property
