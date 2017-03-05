@@ -8,9 +8,15 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
+March 2017
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/6W9r_sX3zTQ/5XCSBUQBEAAJ) `sample` property for CSP reports
+
 February 2017
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/qCfsZJhGtOQ/sC5n92IwDgAJ) CSS Box Alignment `place-*` (shorthand) properties 
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/El0ueyoNgRE/N-6u2SdNDgAJ) `allow-top-navigation-by-user-activation` keyword for `<iframe sandbox>`
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/_DPl-JG6bV8/y2_GUwFVDwAJ) animations/transitions on the CSS `offset-path` property
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/fHl9GNxPPpA/VwhB6h5cDwAJ) “Temporarily stop permission requests after 3 dismissals”
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/tFuQd3AcsIQ/c-sUR-AxDwAJ) HTMLMediaElement `controlsList` property (for customizing native media controls)
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/qCfsZJhGtOQ/sC5n92IwDgAJ) CSS Box Alignment `place-*` (shorthand) properties 
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/El0ueyoNgRE/N-6u2SdNDgAJ) `allow-top-navigation-by-user-activation` keyword for `<iframe sandbox>`
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/bmQjmh0-YB8/iG-7lrqvCgAJ) IndexedDB 2.0 APIs
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/N--HhuYFJQI/bmwhhHDZCQAJ) HTML `inert` attribute
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/EAqWCAdw1lI/zk3MvsBbCQAJ) Media Capabilities API (getting information about decoding capabilities)
@@ -313,8 +319,13 @@ September 2015
 
 ### Firefox
 
+March 2017
+- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/DsJQaLUjqhc/vjyjSr1wAgAJ) CSS `text-justify` property
+- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/ssV6H4_3WGU/SJN8SgkfAgAJ) CSS `transform-box` property
+- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/TB2gVavDe6w/Be2oSxwdAgAJ) WebVR (on Windows)
+
 February 2017
-- :new: [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/w-3HBnN3sc4/p1geixAzAAAJ) CSS `frames()` timing function
+- [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/w-3HBnN3sc4/p1geixAzAAAJ) CSS `frames()` timing function
 - [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/8RJ6lACmJTM/M9dDRkphBQAJ) CSS `animationcancel` event
 - [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/B4F7jCC9jAI/A2c8c7_zBAAJ) global `origin` property (`self.origin`)
 - [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/I00tLlnmTYk/Tz8wcRTJBAAJ) CSS `text-justify` property
