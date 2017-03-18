@@ -9,8 +9,11 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 ### Chromium
 
 March 2017
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/cAiTOdSGyes/Su7dlx32EQAJ) Geometry Interfaces
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Tr43oT4DQoY/XRxLWmrrEQAJ) “Android on-screen keyboard doesn’t resize layout”
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/hlRQU77Wq0o/Apbt1WNQBwAJ) Accessibility Object Model
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/y3qwr490Fc4/boGoo41-BwAJ) Server Timing
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/c-b866DUg10/MxS1WTWfBgAJ) HDR display detection via `screen.colorDepth`, `screen.pixelDepth`, and the CSS `color` media feature 
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/cAiTOdSGyes/Su7dlx32EQAJ) Geometry Interfaces
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Tr43oT4DQoY/XRxLWmrrEQAJ) “Android on-screen keyboard doesn’t resize layout”
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/6W9r_sX3zTQ/5XCSBUQBEAAJ) `sample` property for CSP reports
 
 February 2017
@@ -322,7 +325,8 @@ September 2015
 ### Firefox
 
 March 2017
-- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/prq-D_PUq6w/bJQcbkT-AwAJ) CSS `frames()` timing function
+- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/YdKTMvQygl0/cl2vdYt3BgAJ) Intersection Observer
+- [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/prq-D_PUq6w/bJQcbkT-AwAJ) CSS `frames()` timing function
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/DsJQaLUjqhc/vjyjSr1wAgAJ) CSS `text-justify` property
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/ssV6H4_3WGU/SJN8SgkfAgAJ) CSS `transform-box` property
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/TB2gVavDe6w/Be2oSxwdAgAJ) WebVR (on Windows)
