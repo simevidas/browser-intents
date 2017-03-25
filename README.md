@@ -9,9 +9,14 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 ### Chromium
 
 March 2017
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/hlRQU77Wq0o/Apbt1WNQBwAJ) Accessibility Object Model
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/y3qwr490Fc4/boGoo41-BwAJ) Server Timing
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/c-b866DUg10/MxS1WTWfBgAJ) HDR display detection via `screen.colorDepth`, `screen.pixelDepth`, and the CSS `color` media feature 
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/j7l8_DjMsVE/OiOo5zNwCQAJ) CSS `frames()` timing function
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/V3RNBhQelSg/twVPZYOACQAJ) CSS `:focus-within` pseudo-class
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/uKO1CwiY3ts/62vV7xmaCQAJ) Feature Policy v1
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/XlcpobBfJOI/8WYpiyk0CQAJ) `script-sample` property in CSP violation reports
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/-z66SwKdklc/5t-NBchECQAJ) CSS `conic-gradient()` notation
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/hlRQU77Wq0o/Apbt1WNQBwAJ) Accessibility Object Model
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/y3qwr490Fc4/boGoo41-BwAJ) Server Timing
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/c-b866DUg10/MxS1WTWfBgAJ) HDR display detection via `screen.colorDepth`, `screen.pixelDepth`, and the CSS `color` media feature 
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/cAiTOdSGyes/Su7dlx32EQAJ) Geometry Interfaces
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Tr43oT4DQoY/XRxLWmrrEQAJ) “Android on-screen keyboard doesn’t resize layout”
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/6W9r_sX3zTQ/5XCSBUQBEAAJ) `sample` property for CSP reports
@@ -325,7 +330,8 @@ September 2015
 ### Firefox
 
 March 2017
-- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/YdKTMvQygl0/cl2vdYt3BgAJ) Intersection Observer
+- :new: [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/4YST7JQysiU/65zkGTd0CQAJ) ScrollTimeline API (for creating scroll-linked animations)
+- [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/YdKTMvQygl0/cl2vdYt3BgAJ) Intersection Observer
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/prq-D_PUq6w/bJQcbkT-AwAJ) CSS `frames()` timing function
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/DsJQaLUjqhc/vjyjSr1wAgAJ) CSS `text-justify` property
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/ssV6H4_3WGU/SJN8SgkfAgAJ) CSS `transform-box` property
