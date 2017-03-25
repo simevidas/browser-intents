@@ -36,9 +36,9 @@ January 2017
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Ia9_-CVrl1U/oW0riJbHBAAJ) Background Fetch API
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/CGeXqTudllA/3t72vfXOBAAJ) uncancellable touch events when the main thread is busy (intervention)
 - [Remove](https://groups.google.com/a/chromium.org/d/msg/blink-dev/0nSxuuv9bBw/EMfaclV-AwAJ) prerendering in Chrome
-- [Intent ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/tSEKFwM_WuU/d1UOoJAJAwAJ) CSS `font-display` property
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/tSEKFwM_WuU/d1UOoJAJAwAJ) CSS `font-display` property
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/wlRDnLbyVlk/uuByF-a1AgAJ) “Send all keys (except ESC/F11) to the web app when the browser is in fullscreen mode”
-- [Intent ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/5OBK4Uew2Js/VlYpo_JcAgAJ) PointerEvent `getCoalescedEvents` method
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/5OBK4Uew2Js/VlYpo_JcAgAJ) PointerEvent `getCoalescedEvents` method
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/z0RI8seNuCs/ATwON9v3FwAJ) CSS `line-height-step` property
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/C-iuVJeDGkk/IfIam8_rFgAJ) Token Binding
 - [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/0-6bmy1cOnw/E_IQ3l23FgAJ) “navigation preload for service workers”
