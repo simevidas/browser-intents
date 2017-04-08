@@ -8,17 +8,22 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
+April 2017
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/zz7AqKAfVTY/N9YQ9BSiDQAJ) CSS `scroll-behavior` property and `behavior` option for scroll APIs (enables smooth scrolling)
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/yBtmc-4xl_o/GE0vneAVDQAJ) Budget API `reserve` method
+- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/_l_fxUTWCHs/BQNBSuAVDQAJ) Budget API `getCost` and `getBudget` methods
+
 March 2017
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/0EW0_vT_MOU/rY-0w8efCwAJ) ReadableStream `pipeTo` and `pipeThrough` methods
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/qpY1dj_ND-Q/L5a2M3OaCwAJ) writable streams 
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/xEOyu8QFCr0/3oqSlHBxCwAJ) APNG
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/v8g3QF8pRF8/Wptgd-sQCwAJ) CSS `transform-box` property
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/t2ai4lsHhWI/MndrZyEWCwAJ) “CSP hash expressions matching external scripts” (`<script integrity>`)
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/NY8OPSzHGuE/cbQzsEowCwAJ) `DataTransfer` constructor
-- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/j-e8iI-WWg8/OjoJbm_zCgAJ) `navigator.getInstalledRelatedApps` API
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/W-Q1yWW-zas/dO0znwAjCwAJ) InputEvent
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Y1hsOyT-vkk/n-8DDvKeCgAJ) Image Capture
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/YlMpaO-E2mE/-_GgiMiRCgAJ) Web Payment Manifest
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/0EW0_vT_MOU/rY-0w8efCwAJ) ReadableStream `pipeTo` and `pipeThrough` methods
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/qpY1dj_ND-Q/L5a2M3OaCwAJ) writable streams 
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/xEOyu8QFCr0/3oqSlHBxCwAJ) APNG
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/v8g3QF8pRF8/Wptgd-sQCwAJ) CSS `transform-box` property
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/t2ai4lsHhWI/MndrZyEWCwAJ) “CSP hash expressions matching external scripts” (`<script integrity>`)
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/NY8OPSzHGuE/cbQzsEowCwAJ) `DataTransfer` constructor
+- [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/j-e8iI-WWg8/OjoJbm_zCgAJ) `navigator.getInstalledRelatedApps` API
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/W-Q1yWW-zas/dO0znwAjCwAJ) InputEvent
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Y1hsOyT-vkk/n-8DDvKeCgAJ) Image Capture
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/YlMpaO-E2mE/-_GgiMiRCgAJ) Web Payment Manifest
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/j7l8_DjMsVE/OiOo5zNwCQAJ) CSS `frames()` timing function
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/V3RNBhQelSg/twVPZYOACQAJ) CSS `:focus-within` pseudo-class
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/uKO1CwiY3ts/62vV7xmaCQAJ) Feature Policy v1
@@ -340,8 +345,8 @@ September 2015
 ### Firefox
 
 March 2017
-- :new: [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/cnEN_sccXJY/-0W_P31cCwAJ) CSS `line-height-step` property
-- :new: [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/xAtirsgM86c/A_qupX7TCgAJ) CSS `::cue` pseudo-element
+- [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/cnEN_sccXJY/-0W_P31cCwAJ) CSS `line-height-step` property
+- [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/xAtirsgM86c/A_qupX7TCgAJ) CSS `::cue` pseudo-element
 - [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/4YST7JQysiU/65zkGTd0CQAJ) ScrollTimeline API (for creating scroll-linked animations)
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/YdKTMvQygl0/cl2vdYt3BgAJ) Intersection Observer
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/prq-D_PUq6w/bJQcbkT-AwAJ) CSS `frames()` timing function
