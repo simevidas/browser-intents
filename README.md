@@ -9,10 +9,10 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 ### Chromium
 
 April 2017
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/CvheM4B71Ws/P1c1Hf6xBAAJ) HTTP `Device-Ram` header and `navigator.deviceRam` API
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/gQCGIrnMxFU/Fz0UDLNeBAAJ) Web Payment Manifest
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/d8KxOilsS2g/9M1igHrpDgAJ) Navigation Preload for Service Worker
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/kphhS7AnFig/uaJ3kjHfDgAJ) Memory Pressure API
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/CvheM4B71Ws/P1c1Hf6xBAAJ) HTTP `Device-Ram` header and `navigator.deviceRam` API
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/gQCGIrnMxFU/Fz0UDLNeBAAJ) Web Payment Manifest
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/d8KxOilsS2g/9M1igHrpDgAJ) Navigation Preload for Service Worker
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/kphhS7AnFig/uaJ3kjHfDgAJ) Memory Pressure API
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/zz7AqKAfVTY/N9YQ9BSiDQAJ) CSS `scroll-behavior` property and `behavior` option for scroll APIs (enables smooth scrolling)
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/yBtmc-4xl_o/GE0vneAVDQAJ) Budget API `reserve` method
 - [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/_l_fxUTWCHs/BQNBSuAVDQAJ) Budget API `getCost` and `getBudget` methods
