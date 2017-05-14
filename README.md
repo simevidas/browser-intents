@@ -9,8 +9,11 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 ### Chromium
 
 May 2017
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Z_XzejHJTrs/dQc-XV_lAwAJ) `messageerror` event
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/DxYtgt49OjA/dH7-4knVAgAJ) Fetch API `formData` method
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/fsDaKFqvU20/6swtcHVrAQAJ) stricter `X-Frame-Options: SAMEORIGIN` (check all ancestor frames)
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/7BZrqCfZ-OQ/R1H6vikdBQAJ) First Paint Timing API (`PerformancePaintTiming` interface)
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/nT51eE7fWn4/8HBF1NtqBAAJ) Credential Management API `password` property
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Z_XzejHJTrs/dQc-XV_lAwAJ) `messageerror` event
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/DxYtgt49OjA/dH7-4knVAgAJ) Fetch API `formData` method
 
 April 2017
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/CvheM4B71Ws/P1c1Hf6xBAAJ) HTTP `Device-Ram` header and `navigator.deviceRam` API
