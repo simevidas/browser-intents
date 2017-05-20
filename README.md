@@ -9,9 +9,12 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 ### Chromium
 
 May 2017
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/fsDaKFqvU20/6swtcHVrAQAJ) stricter `X-Frame-Options: SAMEORIGIN` (check all ancestor frames)
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/7BZrqCfZ-OQ/R1H6vikdBQAJ) First Paint Timing API (`PerformancePaintTiming` interface)
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/nT51eE7fWn4/8HBF1NtqBAAJ) Credential Management API `password` property
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/UVfNMH50aaQ/4Hy5h-wzEQAJ) Network Information API `downlink`, `rtt`, and `effectiveType` properties
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/frMdM1H8jJ8/GB9OnD3OBAAJ) Storage API `navigator.storage.estimate` method
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/_4wD-NXS6Ik/W51KNjTzAAAJ) CSS Box Alignment for Flexbox Layout
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/fsDaKFqvU20/6swtcHVrAQAJ) stricter `X-Frame-Options: SAMEORIGIN` (check all ancestor frames)
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/7BZrqCfZ-OQ/R1H6vikdBQAJ) First Paint Timing API (`PerformancePaintTiming` interface)
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/nT51eE7fWn4/8HBF1NtqBAAJ) Credential Management API `password` property
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Z_XzejHJTrs/dQc-XV_lAwAJ) `messageerror` event
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/DxYtgt49OjA/dH7-4knVAgAJ) Fetch API `formData` method
 
@@ -354,6 +357,9 @@ September 2015
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/iBX_2xfX6jc/Uc0D6jr3AgAJ) `stale-while-revalidate` Cache-control extension
 
 ### Firefox
+
+May 2017
+- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/s9MOnejqLsc/jSoAGdIjAwAJ) HTTP `SourceMap` response header
 
 March 2017
 - [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/cnEN_sccXJY/-0W_P31cCwAJ) CSS `line-height-step` property
