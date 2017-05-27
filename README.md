@@ -9,9 +9,15 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 ### Chromium
 
 May 2017
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/UVfNMH50aaQ/4Hy5h-wzEQAJ) Network Information API `downlink`, `rtt`, and `effectiveType` properties
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/frMdM1H8jJ8/GB9OnD3OBAAJ) Storage API `navigator.storage.estimate` method
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/_4wD-NXS6Ik/W51KNjTzAAAJ) CSS Box Alignment for Flexbox Layout
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/KuXx_k2KIis/-g-75FScBgAJ) WebUSB
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/DdzeM55D87Y/kwMlfu-DBgAJ) CSP Embedded Enforcement (`<iframe csp>` attribute)
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/0P4_WvNr1xY/ttehiRR5BgAJ) DOMTokenList `replace` method
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/mKkVXwMhOLc/1X2m8u7HBQAJ) mandatory `as` value for `preload` links
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/6GysDZCWwB8/rXbGoRohBgAJ) `navigator.webdriver` property
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Xro1jnasnY0/rUbiEtbDBQAJ) CSP `report-to` directive
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/UVfNMH50aaQ/4Hy5h-wzEQAJ) Network Information API `downlink`, `rtt`, and `effectiveType` properties
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/frMdM1H8jJ8/GB9OnD3OBAAJ) Storage API `navigator.storage.estimate` method
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/_4wD-NXS6Ik/W51KNjTzAAAJ) CSS Box Alignment for Flexbox Layout
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/fsDaKFqvU20/6swtcHVrAQAJ) stricter `X-Frame-Options: SAMEORIGIN` (check all ancestor frames)
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/7BZrqCfZ-OQ/R1H6vikdBQAJ) First Paint Timing API (`PerformancePaintTiming` interface)
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/nT51eE7fWn4/8HBF1NtqBAAJ) Credential Management API `password` property
@@ -359,7 +365,7 @@ September 2015
 ### Firefox
 
 May 2017
-- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/s9MOnejqLsc/jSoAGdIjAwAJ) HTTP `SourceMap` response header
+- [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/s9MOnejqLsc/jSoAGdIjAwAJ) HTTP `SourceMap` response header
 
 March 2017
 - [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/cnEN_sccXJY/-0W_P31cCwAJ) CSS `line-height-step` property
