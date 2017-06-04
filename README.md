@@ -9,12 +9,14 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 ### Chromium
 
 May 2017
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/KuXx_k2KIis/-g-75FScBgAJ) WebUSB
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/DdzeM55D87Y/kwMlfu-DBgAJ) CSP Embedded Enforcement (`<iframe csp>` attribute)
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/0P4_WvNr1xY/ttehiRR5BgAJ) DOMTokenList `replace` method
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/mKkVXwMhOLc/1X2m8u7HBQAJ) mandatory `as` value for `preload` links
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/6GysDZCWwB8/rXbGoRohBgAJ) `navigator.webdriver` property
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Xro1jnasnY0/rUbiEtbDBQAJ) CSP `report-to` directive
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/waIh70rrNKM/YzfvTGLvBgAJ) “Exit fullscreen mode if a JavaScript dialog is shown”
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/s0pPWgyGexg/HQa8IErlBgAJ) Element `getAttributeNames` method
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/KuXx_k2KIis/-g-75FScBgAJ) WebUSB
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/DdzeM55D87Y/kwMlfu-DBgAJ) CSP Embedded Enforcement (`<iframe csp>` attribute)
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/0P4_WvNr1xY/ttehiRR5BgAJ) DOMTokenList `replace` method
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/mKkVXwMhOLc/1X2m8u7HBQAJ) mandatory `as` value for `preload` links
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/6GysDZCWwB8/rXbGoRohBgAJ) `navigator.webdriver` property
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Xro1jnasnY0/rUbiEtbDBQAJ) CSP `report-to` directive
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/UVfNMH50aaQ/4Hy5h-wzEQAJ) Network Information API `downlink`, `rtt`, and `effectiveType` properties
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/frMdM1H8jJ8/GB9OnD3OBAAJ) Storage API `navigator.storage.estimate` method
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/_4wD-NXS6Ik/W51KNjTzAAAJ) CSS Box Alignment for Flexbox Layout
