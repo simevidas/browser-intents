@@ -8,9 +8,14 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
+June 2017
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/B1oztuLlzxg/tuFtADi0AgAJ) deprecation reports and the `ReportingObserver` API
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/X64Sg16RhT4/6ZiW7Dt8CAAJ) “Move the role of the scrolling element from `<body>` to `<html>`”
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/TgtPUowSWuU/Y-Sn2oRsCAAJ) Referrer Policy `'same-origin'`, `'strict-origin'`, and `'strict-origin-when-cross-origin'` values
+
 May 2017
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/waIh70rrNKM/YzfvTGLvBgAJ) “Exit fullscreen mode if a JavaScript dialog is shown”
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/s0pPWgyGexg/HQa8IErlBgAJ) Element `getAttributeNames` method
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/waIh70rrNKM/YzfvTGLvBgAJ) “Exit fullscreen mode if a JavaScript dialog is shown”
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/s0pPWgyGexg/HQa8IErlBgAJ) Element `getAttributeNames` method
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/KuXx_k2KIis/-g-75FScBgAJ) WebUSB
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/DdzeM55D87Y/kwMlfu-DBgAJ) CSP Embedded Enforcement (`<iframe csp>` attribute)
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/0P4_WvNr1xY/ttehiRR5BgAJ) DOMTokenList `replace` method
