@@ -9,9 +9,11 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 ### Chromium
 
 June 2017
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/B1oztuLlzxg/tuFtADi0AgAJ) deprecation reports and the `ReportingObserver` API
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/X64Sg16RhT4/6ZiW7Dt8CAAJ) “Move the role of the scrolling element from `<body>` to `<html>`”
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/TgtPUowSWuU/Y-Sn2oRsCAAJ) Referrer Policy `'same-origin'`, `'strict-origin'`, and `'strict-origin-when-cross-origin'` values
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/EZruVTchex8/bauqezVDBAAJ) ImageCapture `getPhotoSettings` method
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/nwmTLZKFFIA/8bslfL3JAwAJ) Web Share API
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/B1oztuLlzxg/tuFtADi0AgAJ) deprecation reports and the `ReportingObserver` API
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/X64Sg16RhT4/6ZiW7Dt8CAAJ) “Move the role of the scrolling element from `<body>` to `<html>`”
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/TgtPUowSWuU/Y-Sn2oRsCAAJ) Referrer Policy `'same-origin'`, `'strict-origin'`, and `'strict-origin-when-cross-origin'` values
 
 May 2017
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/waIh70rrNKM/YzfvTGLvBgAJ) “Exit fullscreen mode if a JavaScript dialog is shown”
