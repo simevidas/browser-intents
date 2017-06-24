@@ -9,8 +9,12 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 ### Chromium
 
 June 2017
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/EZruVTchex8/bauqezVDBAAJ) ImageCapture `getPhotoSettings` method
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/nwmTLZKFFIA/8bslfL3JAwAJ) Web Share API
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/EcCNqd1InOs/mBuma3TnBAAJ) collapsable table rows (via CSS `visibility: collapse`)
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/sFeoDft_cV8/saPiVx5gBAAJ) `<script type="module">`
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/kbcFPnvDwUc/P2PLzcGhBAAJ) intert visual viewport and Visual Viewport API
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/rXxzsXLuZEc/HM17-B75BQAJ) HTTP `Clear-Site-Data` header
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/EZruVTchex8/bauqezVDBAAJ) ImageCapture `getPhotoSettings` method
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/nwmTLZKFFIA/8bslfL3JAwAJ) Web Share API
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/B1oztuLlzxg/tuFtADi0AgAJ) deprecation reports and the `ReportingObserver` API
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/X64Sg16RhT4/6ZiW7Dt8CAAJ) “Move the role of the scrolling element from `<body>` to `<html>`”
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/TgtPUowSWuU/Y-Sn2oRsCAAJ) Referrer Policy `'same-origin'`, `'strict-origin'`, and `'strict-origin-when-cross-origin'` values
