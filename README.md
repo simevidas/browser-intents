@@ -9,10 +9,16 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 ### Chromium
 
 June 2017
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/EcCNqd1InOs/mBuma3TnBAAJ) collapsable table rows (via CSS `visibility: collapse`)
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/sFeoDft_cV8/saPiVx5gBAAJ) `<script type="module">`
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/kbcFPnvDwUc/P2PLzcGhBAAJ) intert visual viewport and Visual Viewport API
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/rXxzsXLuZEc/HM17-B75BQAJ) HTTP `Clear-Site-Data` header
+- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/eJnB-5Sg-mQ/uvdWnO2OBQAJ)  Shape Detection API
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/AzphlHk8orw/0fiWYuVLAQAJ) OpenType variable fonts
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/3B0I0EDKfpk/leSOUkN0AQAJ) `beforeprint` and `afterprint` events
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/e52E3t3ijHo/eyEaNDt1AQAJ) HTML `<time>` element
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/IjFvnq8yzy8/n_vYt5oUBQAJ) HTML `<data>` element
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/U0p_jFYpgss/st46sTGjAAAJ) URLSearchParams `sort` method
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/EcCNqd1InOs/mBuma3TnBAAJ) collapsable table rows (via CSS `visibility: collapse`)
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/sFeoDft_cV8/saPiVx5gBAAJ) `<script type="module">`
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/kbcFPnvDwUc/P2PLzcGhBAAJ) intert visual viewport and Visual Viewport API
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/rXxzsXLuZEc/HM17-B75BQAJ) HTTP `Clear-Site-Data` header
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/EZruVTchex8/bauqezVDBAAJ) ImageCapture `getPhotoSettings` method
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/nwmTLZKFFIA/8bslfL3JAwAJ) Web Share API
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/B1oztuLlzxg/tuFtADi0AgAJ) deprecation reports and the `ReportingObserver` API
