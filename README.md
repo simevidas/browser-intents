@@ -53,7 +53,7 @@ April 2017
 - [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/_l_fxUTWCHs/BQNBSuAVDQAJ) Budget API `getCost` and `getBudget` methods
 
 March 2017
-- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/LMV9dBG_1-I/Bx5VsRWLCgAJ) HTMLImageElement `decode` method
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/LMV9dBG_1-I/Bx5VsRWLCgAJ) HTMLImageElement `decode` method
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/0EW0_vT_MOU/rY-0w8efCwAJ) ReadableStream `pipeTo` and `pipeThrough` methods
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/qpY1dj_ND-Q/L5a2M3OaCwAJ) writable streams 
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/xEOyu8QFCr0/3oqSlHBxCwAJ) APNG
