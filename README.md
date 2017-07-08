@@ -8,13 +8,16 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
+July 2017
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/wRLMM5-kpCY/Y0be_ASaAwAJ) JavaScript `import()` syntax for dynamic imports
+
 June 2017
-- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/eJnB-5Sg-mQ/uvdWnO2OBQAJ)  Shape Detection API
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/AzphlHk8orw/0fiWYuVLAQAJ) OpenType variable fonts
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/3B0I0EDKfpk/leSOUkN0AQAJ) `beforeprint` and `afterprint` events
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/e52E3t3ijHo/eyEaNDt1AQAJ) HTML `<time>` element
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/IjFvnq8yzy8/n_vYt5oUBQAJ) HTML `<data>` element
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/U0p_jFYpgss/st46sTGjAAAJ) URLSearchParams `sort` method
+- [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/eJnB-5Sg-mQ/uvdWnO2OBQAJ)  Shape Detection API
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/AzphlHk8orw/0fiWYuVLAQAJ) OpenType variable fonts
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/3B0I0EDKfpk/leSOUkN0AQAJ) `beforeprint` and `afterprint` events
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/e52E3t3ijHo/eyEaNDt1AQAJ) HTML `<time>` element
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/IjFvnq8yzy8/n_vYt5oUBQAJ) HTML `<data>` element
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/U0p_jFYpgss/st46sTGjAAAJ) URLSearchParams `sort` method
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/EcCNqd1InOs/mBuma3TnBAAJ) collapsable table rows (via CSS `visibility: collapse`)
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/sFeoDft_cV8/saPiVx5gBAAJ) `<script type="module">`
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/kbcFPnvDwUc/P2PLzcGhBAAJ) inert visual viewport and Visual Viewport API
