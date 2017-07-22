@@ -9,8 +9,9 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 ### Chromium
 
 July 2017
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/8qlTjzRY9Mc/BYCuqWJXBwAJ) HTTP `Memory` header
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/7_EgKuWAXjE/QJCzbBscBQAJ) HTTP `Expect-CT` header
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Su9wM-T6NHc/om3tojbSBgAJ) HTMLImageElement `decode` method
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/8qlTjzRY9Mc/BYCuqWJXBwAJ) HTTP `Memory` header
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/7_EgKuWAXjE/QJCzbBscBQAJ) HTTP `Expect-CT` header
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/wRLMM5-kpCY/Y0be_ASaAwAJ) JavaScript `import()` syntax for dynamic imports
 
 June 2017
