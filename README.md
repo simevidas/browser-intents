@@ -10,7 +10,7 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 July 2017
 - :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/0uSHjqvgAwQ/CqmFd6KNAwAJ) `s` flag for JavaScript regular expressions
-- :new: [Implement](https://groups.google.com/a/chromium.org/forum/#!topic/blink-dev/ck9M6Ev21lo) `performance.timeOrigin` property
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/ck9M6Ev21lo/0wf6sg6ZBwAJ) `performance.timeOrigin` property
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Su9wM-T6NHc/om3tojbSBgAJ) HTMLImageElement `decode` method
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/8qlTjzRY9Mc/BYCuqWJXBwAJ) HTTP `Memory` header
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/7_EgKuWAXjE/QJCzbBscBQAJ) HTTP `Expect-CT` header
