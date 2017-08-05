@@ -8,9 +8,12 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
+August 2017
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/mdkHs4jybG4/QQCJJQSsAgAJ) Origin Policy
+
 July 2017
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/0uSHjqvgAwQ/CqmFd6KNAwAJ) `s` flag for JavaScript regular expressions
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/ck9M6Ev21lo/0wf6sg6ZBwAJ) `performance.timeOrigin` property
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/0uSHjqvgAwQ/CqmFd6KNAwAJ) `s` flag for JavaScript regular expressions
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/ck9M6Ev21lo/0wf6sg6ZBwAJ) `performance.timeOrigin` property
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Su9wM-T6NHc/om3tojbSBgAJ) HTMLImageElement `decode` method
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/8qlTjzRY9Mc/BYCuqWJXBwAJ) HTTP `Memory` header
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/7_EgKuWAXjE/QJCzbBscBQAJ) HTTP `Expect-CT` header
@@ -391,6 +394,12 @@ September 2015
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/iBX_2xfX6jc/Uc0D6jr3AgAJ) `stale-while-revalidate` Cache-control extension
 
 ### Firefox
+
+August 2017
+- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/gPcjLOuCFWg/8hWKvdAcBQAJ) CSS `font-display` descriptor
+
+July 2017
+- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/Q8R1O_2rG6w/10xkqIUjAgAJ) `preload` link relation
 
 May 2017
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/s9MOnejqLsc/jSoAGdIjAwAJ) HTTP `SourceMap` response header
