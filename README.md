@@ -9,7 +9,10 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 ### Chromium
 
 August 2017
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/mdkHs4jybG4/QQCJJQSsAgAJ) Origin Policy
+- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/6bfORfa0ajY/wZHKqV3qBAAJ) WebVR (cont.)
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/xK_P_Rl7zVg/Hrbo1p6NBAAJ) “Dispatch mouse transition events after layout”
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/312urSSJVXU/Q-fXQAoLAgAJ) collapsable table rows (via CSS `visibility: collapse`)
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/mdkHs4jybG4/QQCJJQSsAgAJ) Origin Policy
 
 July 2017
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/0uSHjqvgAwQ/CqmFd6KNAwAJ) `s` flag for JavaScript regular expressions
@@ -396,10 +399,10 @@ September 2015
 ### Firefox
 
 August 2017
-- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/gPcjLOuCFWg/8hWKvdAcBQAJ) CSS `font-display` descriptor
+- [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/gPcjLOuCFWg/8hWKvdAcBQAJ) CSS `font-display` descriptor
 
 July 2017
-- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/Q8R1O_2rG6w/10xkqIUjAgAJ) `preload` link relation
+- [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/Q8R1O_2rG6w/10xkqIUjAgAJ) `preload` link relation
 
 May 2017
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/s9MOnejqLsc/jSoAGdIjAwAJ) HTTP `SourceMap` response header
