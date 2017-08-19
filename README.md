@@ -9,9 +9,11 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 ### Chromium
 
 August 2017
-- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/6bfORfa0ajY/wZHKqV3qBAAJ) WebVR (cont.)
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/xK_P_Rl7zVg/Hrbo1p6NBAAJ) “Dispatch mouse transition events after layout”
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/312urSSJVXU/Q-fXQAoLAgAJ) collapsable table rows (via CSS `visibility: collapse`)
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/3AISwpQNoNs/9XZxdKRYBgAJ) Performance `timeOrigin` property
+- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/2zPZt3watBk/M4qcI8wlBwAJ) Generic Sensor API
+- [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/6bfORfa0ajY/wZHKqV3qBAAJ) WebVR (cont.)
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/xK_P_Rl7zVg/Hrbo1p6NBAAJ) “Dispatch mouse transition events after layout”
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/312urSSJVXU/Q-fXQAoLAgAJ) collapsable table rows (via CSS `visibility: collapse`)
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/mdkHs4jybG4/QQCJJQSsAgAJ) Origin Policy
 
 July 2017
