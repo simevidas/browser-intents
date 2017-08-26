@@ -9,8 +9,14 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 ### Chromium
 
 August 2017
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/3AISwpQNoNs/9XZxdKRYBgAJ) Performance `timeOrigin` property
-- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/2zPZt3watBk/M4qcI8wlBwAJ) Generic Sensor API
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/MFBsNZCkotU/heK7JapxAgAJ) `navigator.deviceMemory` property
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/DZHASdj7kQc/tpy5mEbrCgAJ) `history.index` property
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/RC9dSw-O3fE/E3_0XaT0BAAJ) “Treat `http://localhost` as a secure context”
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/RRUYxYvsRCk/7VillBFrCAAJ) CSS `q` unit
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Mmd02M8rTDE/4-R5glsvBQAJ) Gamepad API haptics extension
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/ivub1L2UQzQ/e_dreSHfBAAJ) Server Timing
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/3AISwpQNoNs/9XZxdKRYBgAJ) Performance `timeOrigin` property
+- [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/2zPZt3watBk/M4qcI8wlBwAJ) Generic Sensor API
 - [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/6bfORfa0ajY/wZHKqV3qBAAJ) WebVR (cont.)
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/xK_P_Rl7zVg/Hrbo1p6NBAAJ) “Dispatch mouse transition events after layout”
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/312urSSJVXU/Q-fXQAoLAgAJ) collapsable table rows (via CSS `visibility: collapse`)
@@ -20,7 +26,7 @@ July 2017
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/0uSHjqvgAwQ/CqmFd6KNAwAJ) `s` flag for JavaScript regular expressions
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/ck9M6Ev21lo/0wf6sg6ZBwAJ) `performance.timeOrigin` property
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Su9wM-T6NHc/om3tojbSBgAJ) HTMLImageElement `decode` method
-- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/8qlTjzRY9Mc/BYCuqWJXBwAJ) HTTP `Memory` header
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/8qlTjzRY9Mc/BYCuqWJXBwAJ) HTTP `Device-Memory` header
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/7_EgKuWAXjE/QJCzbBscBQAJ) HTTP `Expect-CT` header
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/wRLMM5-kpCY/Y0be_ASaAwAJ) JavaScript `import()` syntax for dynamic imports
 
