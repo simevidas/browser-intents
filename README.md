@@ -8,13 +8,17 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
+September 2017
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/XdIsb1IFGrI/C6AJvk1PCgAJ) Keyboard Lock API (`navigator.requestKeyboardLock` method)
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/QeiK3lAXcmI/MQpErASnAwAJ) options argument for Element `focus` method
+
 August 2017
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/MFBsNZCkotU/heK7JapxAgAJ) `navigator.deviceMemory` property
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/DZHASdj7kQc/tpy5mEbrCgAJ) `history.index` property
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/RC9dSw-O3fE/E3_0XaT0BAAJ) “Treat `http://localhost` as a secure context”
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/RRUYxYvsRCk/7VillBFrCAAJ) CSS `q` unit
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Mmd02M8rTDE/4-R5glsvBQAJ) Gamepad API haptics extension
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/ivub1L2UQzQ/e_dreSHfBAAJ) Server Timing
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/MFBsNZCkotU/heK7JapxAgAJ) `navigator.deviceMemory` property
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/DZHASdj7kQc/tpy5mEbrCgAJ) `history.index` property
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/RC9dSw-O3fE/E3_0XaT0BAAJ) “Treat `http://localhost` as a secure context”
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/RRUYxYvsRCk/7VillBFrCAAJ) CSS `q` unit
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Mmd02M8rTDE/4-R5glsvBQAJ) Gamepad API haptics extension
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/ivub1L2UQzQ/e_dreSHfBAAJ) Server Timing
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/3AISwpQNoNs/9XZxdKRYBgAJ) Performance `timeOrigin` property
 - [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/2zPZt3watBk/M4qcI8wlBwAJ) Generic Sensor API
 - [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/6bfORfa0ajY/wZHKqV3qBAAJ) WebVR (cont.)
@@ -407,6 +411,7 @@ September 2015
 ### Firefox
 
 August 2017
+- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/jk6XtUch4GQ/lYNjSuHDBQAJ) Abort API (`AbortController`)
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/gPcjLOuCFWg/8hWKvdAcBQAJ) CSS `font-display` descriptor
 
 July 2017
