@@ -9,9 +9,16 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 ### Chromium
 
 September 2017
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/XMLgC_SR0dw/H5UUANxOAgAJ) revised WebVR API
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/2C0oACCHt_w/lZljNqg9AgAJ) Promise `finally` method
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/OqBNF2efmFA/3ByBUKyaCgAJ) CSS `scroll-boundary-behavior` property
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/e-kQSgkoXpc/nkW5cETqAwAJ) PauseFrame API
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/KHXNJINUrj0/OAAh-sWuAwAJ) “Send mouse events (excluding `click`) to disabled form controls”
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/D2va-gTcmvA/haBswl-lAwAJ) MediaStreamTrack `applyConstraints` method
+- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/dsdTLv33r4w/-SUKCfGkAwAJ) Media Capabilities API
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Jex3idOld48/dDOK4U5lAwAJ) CSS Paint API
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/7CiC3CaPHek/Cy0CN0R6AwAJ) CSS Animation Worklet API
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/zDbxwYpwTCM/NtLBzCQzAwAJ) Intl NumberFormat `formatToParts` method
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/XMLgC_SR0dw/H5UUANxOAgAJ) revised WebVR API
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/2C0oACCHt_w/lZljNqg9AgAJ) Promise `finally` method
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/OqBNF2efmFA/3ByBUKyaCgAJ) CSS `scroll-boundary-behavior` property
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/XdIsb1IFGrI/C6AJvk1PCgAJ) Keyboard Lock API (`navigator.requestKeyboardLock` method)
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/QeiK3lAXcmI/MQpErASnAwAJ) options argument for Element `focus` method
 
@@ -414,7 +421,7 @@ September 2015
 ### Firefox
 
 September 2017
-- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/ELX9G6OOAjw/_axw46TQAAAJ) Performance Observer API
+- [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/ELX9G6OOAjw/_axw46TQAAAJ) Performance Observer API
 
 August 2017
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/jk6XtUch4GQ/lYNjSuHDBQAJ) Abort API (`AbortController`)
