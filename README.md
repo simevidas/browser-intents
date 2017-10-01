@@ -9,13 +9,19 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 ### Chromium
 
 September 2017
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/e-kQSgkoXpc/nkW5cETqAwAJ) PauseFrame API
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/KHXNJINUrj0/OAAh-sWuAwAJ) “Send mouse events (excluding `click`) to disabled form controls”
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/D2va-gTcmvA/haBswl-lAwAJ) MediaStreamTrack `applyConstraints` method
-- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/dsdTLv33r4w/-SUKCfGkAwAJ) Media Capabilities API
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Jex3idOld48/dDOK4U5lAwAJ) CSS Paint API
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/7CiC3CaPHek/Cy0CN0R6AwAJ) CSS Animation Worklet API
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/zDbxwYpwTCM/NtLBzCQzAwAJ) Intl NumberFormat `formatToParts` method
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/z6ienONUb5A/GlHRa9S2AAAJ) Resize Observer API
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/2tutRHmhwTE/X0UX8G5eBgAJ) `<textarea autocomplete>` and `<select autocomplete>` attributes
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/fP1jDcQu68g/qSjd8EI8BQAJ) CSS `overflow-wrap: break-spaces` value
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/ut-Mr0jt5X8/Q8B4F3wxBQAJ) JavaScript `import()` syntax for dynamic imports
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/e7I1tZAfavU/wjgW9s0EBAAJ) Gesture Delegation (HTMLIframeElement `allowedActivationDelegation` property)
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/qbOrXp9g3B8/hziymUnHAQAJ) trusted types for DOM manipulation
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/e-kQSgkoXpc/nkW5cETqAwAJ) PauseFrame API
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/KHXNJINUrj0/OAAh-sWuAwAJ) “Send mouse events (excluding `click`) to disabled form controls”
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/D2va-gTcmvA/haBswl-lAwAJ) MediaStreamTrack `applyConstraints` method
+- [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/dsdTLv33r4w/-SUKCfGkAwAJ) Media Capabilities API
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Jex3idOld48/dDOK4U5lAwAJ) CSS Paint API
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/7CiC3CaPHek/Cy0CN0R6AwAJ) CSS Animation Worklet API
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/zDbxwYpwTCM/NtLBzCQzAwAJ) Intl NumberFormat `formatToParts` method
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/XMLgC_SR0dw/H5UUANxOAgAJ) revised WebVR API
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/2C0oACCHt_w/lZljNqg9AgAJ) Promise `finally` method
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/OqBNF2efmFA/3ByBUKyaCgAJ) CSS `scroll-boundary-behavior` property
@@ -421,6 +427,7 @@ September 2015
 ### Firefox
 
 September 2017
+- [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/MCSJOhbqSVE/ce6sF7JkAAAJ) WebVR on macOS
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/ELX9G6OOAjw/_axw46TQAAAJ) Performance Observer API
 
 August 2017
