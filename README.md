@@ -427,7 +427,7 @@ September 2015
 ### Firefox
 
 September 2017
-- [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/MCSJOhbqSVE/ce6sF7JkAAAJ) WebVR on macOS
+- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/MCSJOhbqSVE/ce6sF7JkAAAJ) WebVR on macOS
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/ELX9G6OOAjw/_axw46TQAAAJ) Performance Observer API
 
 August 2017
