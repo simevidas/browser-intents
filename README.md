@@ -8,13 +8,18 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
+October
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/IrIwAdMWhAE/B0A23MQhBQAJ) Network Information `saveData` property
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/9i6wgXv7c7c/0kiqdQkhBQAJ) `<img async>` attribute
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/bUAhkdsrmqE/nimnFDG3BAAJ) CSP `'unsafe-hashed-attributes'` source expression
+
 September 2017
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/z6ienONUb5A/GlHRa9S2AAAJ) Resize Observer API
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/2tutRHmhwTE/X0UX8G5eBgAJ) `<textarea autocomplete>` and `<select autocomplete>` attributes
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/fP1jDcQu68g/qSjd8EI8BQAJ) CSS `overflow-wrap: break-spaces` value
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/ut-Mr0jt5X8/Q8B4F3wxBQAJ) JavaScript `import()` syntax for dynamic imports
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/e7I1tZAfavU/wjgW9s0EBAAJ) Gesture Delegation (HTMLIframeElement `allowedActivationDelegation` property)
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/qbOrXp9g3B8/hziymUnHAQAJ) trusted types for DOM manipulation
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/z6ienONUb5A/GlHRa9S2AAAJ) Resize Observer API
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/2tutRHmhwTE/X0UX8G5eBgAJ) `<textarea autocomplete>` and `<select autocomplete>` attributes
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/fP1jDcQu68g/qSjd8EI8BQAJ) CSS `overflow-wrap: break-spaces` value
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/ut-Mr0jt5X8/Q8B4F3wxBQAJ) JavaScript `import()` syntax for dynamic imports
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/e7I1tZAfavU/wjgW9s0EBAAJ) Gesture Delegation (HTMLIframeElement `allowedActivationDelegation` property)
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/qbOrXp9g3B8/hziymUnHAQAJ) trusted types for DOM manipulation
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/e-kQSgkoXpc/nkW5cETqAwAJ) PauseFrame API
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/KHXNJINUrj0/OAAh-sWuAwAJ) “Send mouse events (excluding `click`) to disabled form controls”
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/D2va-gTcmvA/haBswl-lAwAJ) MediaStreamTrack `applyConstraints` method
@@ -426,8 +431,14 @@ September 2015
 
 ### Firefox
 
+October
+- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/hcEqovQrBts/87NoUmTgAAAJ) “throttle timeouts in background tabs”
+- :new: [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/lw0ylqXLil0/PjYSsoHkAAAJ) Resource Timing `workerStart` property
+- :new: [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/WhXB19qGVkI/J5rGuFydCAAJ) CSS interaction media features (`pointer`, `hover`, `any-pointer`, `any-hover`)
+- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/t9tz_hN6WMs/qsxb169ECAAJ) `<a ping>` attribute
+
 September 2017
-- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/MCSJOhbqSVE/ce6sF7JkAAAJ) WebVR on macOS
+- [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/MCSJOhbqSVE/ce6sF7JkAAAJ) WebVR on macOS
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/ELX9G6OOAjw/_axw46TQAAAJ) Performance Observer API
 
 August 2017
