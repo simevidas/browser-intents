@@ -9,8 +9,9 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 ### Chromium
 
 October
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/AUAIHVF63SM/naGVAnoBAwAJ) Fetch API `keepalive` option
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/1WFVPbRL640/TPPG9gs5AwAJ) Web Lifecycle
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/5s1nbytTL68/SnnummScBAAJ) stylable `<slot>` elements (assigned nodes inherit style)
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/AUAIHVF63SM/naGVAnoBAwAJ) Fetch API `keepalive` option
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/1WFVPbRL640/TPPG9gs5AwAJ) Web Lifecycle
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/IrIwAdMWhAE/B0A23MQhBQAJ) Network Information `saveData` property
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/9i6wgXv7c7c/0kiqdQkhBQAJ) `<img async>` attribute
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/bUAhkdsrmqE/nimnFDG3BAAJ) CSP `'unsafe-hashed-attributes'` source expression
@@ -434,8 +435,9 @@ September 2015
 ### Firefox
 
 October
-- :new: [Unship](https://groups.google.com/d/msg/mozilla.dev.platform/aNUUx0S6PxE/3E3TkBXtAgAJ) `preload` link relation (temporary)
-- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/1OZrP1hR_SE/d_2TOCIeAgAJ) `"navigation"` performance entry (replacement for `navigation.timing`)
+- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/RPELgLHAhjM/gmkupELMAgAJ) Pointer Events on desktop
+- [Unship](https://groups.google.com/d/msg/mozilla.dev.platform/aNUUx0S6PxE/3E3TkBXtAgAJ) `preload` link relation (temporary)
+- [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/1OZrP1hR_SE/d_2TOCIeAgAJ) `"navigation"` performance entry (replacement for `navigation.timing`)
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/hcEqovQrBts/87NoUmTgAAAJ) “throttle timeouts in background tabs”
 - [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/lw0ylqXLil0/PjYSsoHkAAAJ) Resource Timing `workerStart` property
 - [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/WhXB19qGVkI/J5rGuFydCAAJ) CSS interaction media features (`pointer`, `hover`, `any-pointer`, `any-hover`)
