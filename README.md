@@ -8,10 +8,13 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
+November
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/55sC81ciQgY/7jAt5YpgBAAJ) `preventScroll` option for focus APIs
+
 October
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/F4h7sdBdiBM/oVnhPTV5BAAJ) HTML `<iframe delegatestickyuseractivation>` attibute
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/4ZWHz8tCONI/XBTvQtw2BAAJ) CSS `transform-box` property
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/47BHtmz0jVY/itAC_xpwBgAJ) CSS ` text-decoration-skip-ink` property (and remove `text-decoration-skip: ink` value)
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/F4h7sdBdiBM/oVnhPTV5BAAJ) HTML `<iframe delegatestickyuseractivation>` attibute
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/4ZWHz8tCONI/XBTvQtw2BAAJ) CSS `transform-box` property
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/47BHtmz0jVY/itAC_xpwBgAJ) CSS ` text-decoration-skip-ink` property (and remove `text-decoration-skip: ink` value)
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/5s1nbytTL68/SnnummScBAAJ) stylable `<slot>` elements (assigned nodes inherit style)
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/AUAIHVF63SM/naGVAnoBAwAJ) Fetch API `keepalive` option
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/1WFVPbRL640/TPPG9gs5AwAJ) Web Lifecycle
@@ -438,7 +441,7 @@ September 2015
 ### Firefox
 
 October
-- :new: [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/3hujzpw-LDA/pKl0V27zAwAJ) CSS `overscroll-behavior` property
+- [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/3hujzpw-LDA/pKl0V27zAwAJ) CSS `overscroll-behavior` property
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/RPELgLHAhjM/gmkupELMAgAJ) Pointer Events on desktop
 - [Unship](https://groups.google.com/d/msg/mozilla.dev.platform/aNUUx0S6PxE/3E3TkBXtAgAJ) `preload` link relation (temporary)
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/1OZrP1hR_SE/d_2TOCIeAgAJ) `"navigation"` performance entry (replacement for `navigation.timing`)
