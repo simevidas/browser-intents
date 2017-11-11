@@ -9,7 +9,14 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 ### Chromium
 
 November
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/55sC81ciQgY/7jAt5YpgBAAJ) `preventScroll` option for focus APIs
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/DpODIjdpUMg/hVQkjqeIAAAJ) Web Locks API
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/n5Ch_N1tqN0/zwFttOx9AAAJ) `autocapitalize` attribute on `<form>` and `contenteditable` elements
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/7aZGnBIlG5o/zkt8FPJPAAAJ) Fetch API `cache` option (also a property on `Request` objects)
+- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/rDbHXbrowN0/DVwqDZ14AQAJ) CSS `line-height-step` property
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/ynkrM70KDD4/g6W39QpsBQAJ) `modulepreload` link relation
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/fKk4d_Vj080/Pu73nu90BQAJ) (subclassable) `EventTarget` constructor
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/qrnnwQOGxTk/CthGq40SBQAJ) transform streams
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/55sC81ciQgY/7jAt5YpgBAAJ) `preventScroll` option for focus APIs
 
 October
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/F4h7sdBdiBM/oVnhPTV5BAAJ) HTML `<iframe delegatestickyuseractivation>` attibute
