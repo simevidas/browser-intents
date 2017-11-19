@@ -9,13 +9,14 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 ### Chromium
 
 November
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/DpODIjdpUMg/hVQkjqeIAAAJ) Web Locks API
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/n5Ch_N1tqN0/zwFttOx9AAAJ) `autocapitalize` attribute on `<form>` and `contenteditable` elements
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/7aZGnBIlG5o/zkt8FPJPAAAJ) Fetch API `cache` option (also a property on `Request` objects)
-- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/rDbHXbrowN0/DVwqDZ14AQAJ) CSS `line-height-step` property
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/ynkrM70KDD4/g6W39QpsBQAJ) `modulepreload` link relation
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/fKk4d_Vj080/Pu73nu90BQAJ) (subclassable) `EventTarget` constructor
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/qrnnwQOGxTk/CthGq40SBQAJ) transform streams
+- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/oeBf3websgM/Smi7gQxjAQAJ) Web Audio API `AudioWorklet` interface
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/DpODIjdpUMg/hVQkjqeIAAAJ) Web Locks API
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/n5Ch_N1tqN0/zwFttOx9AAAJ) `autocapitalize` attribute on `<form>` and `contenteditable` elements
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/7aZGnBIlG5o/zkt8FPJPAAAJ) Fetch API `cache` option (also a property on `Request` objects)
+- [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/rDbHXbrowN0/DVwqDZ14AQAJ) CSS `line-height-step` property
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/ynkrM70KDD4/g6W39QpsBQAJ) `modulepreload` link relation
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/fKk4d_Vj080/Pu73nu90BQAJ) (subclassable) `EventTarget` constructor
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/qrnnwQOGxTk/CthGq40SBQAJ) transform streams
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/55sC81ciQgY/7jAt5YpgBAAJ) `preventScroll` option for focus APIs
 
 October
@@ -446,6 +447,10 @@ September 2015
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/iBX_2xfX6jc/Uc0D6jr3AgAJ) `stale-while-revalidate` Cache-control extension
 
 ### Firefox
+
+November
+- :new: [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/lSlpiE2Y5j4/AqKZx19PAQAJ) (subclassable) `EventTarget` constructor
+- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/c6PqC5RuKLs/7X9pu7m4AAAJ) CSP violation events
 
 October
 - [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/3hujzpw-LDA/pKl0V27zAwAJ) CSS `overscroll-behavior` property
