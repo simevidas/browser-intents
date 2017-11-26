@@ -9,7 +9,10 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 ### Chromium
 
 November 2017
-- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/oeBf3websgM/Smi7gQxjAQAJ) Web Audio API `AudioWorklet` interface
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/TgoXNRtA3Zs/-MzmGA_UBAAJ) delayed dispatch of performance entries
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/KRAyvMD4QZs/ABBp-5aLBAAJ) WebVTT `positionAlign` and `lineAlign` properties
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/3DjSQKQzKz8/FI9qbxHhAwAJ) events for back/forward mouse buttons (`button` property values `3` and `4`)
+- [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/oeBf3websgM/Smi7gQxjAQAJ) Web Audio API `AudioWorklet` interface
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/DpODIjdpUMg/hVQkjqeIAAAJ) Web Locks API
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/n5Ch_N1tqN0/zwFttOx9AAAJ) `autocapitalize` attribute on `<form>` and `contenteditable` elements
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/7aZGnBIlG5o/zkt8FPJPAAAJ) Fetch API `cache` option (also a property on `Request` objects)
@@ -449,8 +452,9 @@ September 2015
 ### Firefox
 
 November 2017
-- :new: [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/lSlpiE2Y5j4/AqKZx19PAQAJ) (subclassable) `EventTarget` constructor
-- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/c6PqC5RuKLs/7X9pu7m4AAAJ) CSP violation events
+- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/H2IL9XAO8dA/EjeQA8yuAwAJ) WebVTT regions
+- [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/lSlpiE2Y5j4/AqKZx19PAQAJ) (subclassable) `EventTarget` constructor
+- [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/c6PqC5RuKLs/7X9pu7m4AAAJ) CSP violation events
 
 October 2017
 - [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/3hujzpw-LDA/pKl0V27zAwAJ) CSS `overscroll-behavior` property
