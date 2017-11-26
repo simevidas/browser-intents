@@ -8,7 +8,7 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
-November
+November 2017
 - :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/oeBf3websgM/Smi7gQxjAQAJ) Web Audio API `AudioWorklet` interface
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/DpODIjdpUMg/hVQkjqeIAAAJ) Web Locks API
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/n5Ch_N1tqN0/zwFttOx9AAAJ) `autocapitalize` attribute on `<form>` and `contenteditable` elements
@@ -19,7 +19,7 @@ November
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/qrnnwQOGxTk/CthGq40SBQAJ) transform streams
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/55sC81ciQgY/7jAt5YpgBAAJ) `preventScroll` option for focus APIs
 
-October
+October 2017
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/F4h7sdBdiBM/oVnhPTV5BAAJ) HTML `<iframe delegatestickyuseractivation>` attibute
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/4ZWHz8tCONI/XBTvQtw2BAAJ) CSS `transform-box` property
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/47BHtmz0jVY/itAC_xpwBgAJ) CSS ` text-decoration-skip-ink` property (and remove `text-decoration-skip: ink` value)
@@ -448,11 +448,11 @@ September 2015
 
 ### Firefox
 
-November
+November 2017
 - :new: [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/lSlpiE2Y5j4/AqKZx19PAQAJ) (subclassable) `EventTarget` constructor
 - :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/c6PqC5RuKLs/7X9pu7m4AAAJ) CSP violation events
 
-October
+October 2017
 - [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/3hujzpw-LDA/pKl0V27zAwAJ) CSS `overscroll-behavior` property
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/RPELgLHAhjM/gmkupELMAgAJ) Pointer Events on desktop
 - [Unship](https://groups.google.com/d/msg/mozilla.dev.platform/aNUUx0S6PxE/3E3TkBXtAgAJ) `preload` link relation (temporary)
