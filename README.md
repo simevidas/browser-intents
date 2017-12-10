@@ -8,10 +8,16 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
+December 2017
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/RNHfILQBYic/6PeEeAstDwAJ) CSS `:any-link` pseudo-class
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/ySf8YHR6MpA/nxOmaP4oAwAJ) TLS 1.3 draft-22 in 1-RTT mode
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/MbXp16hQclY/bQjegyrbAgAJ) `<img decoding>` attribute
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/AgonJunvfIE/O7Gb0fzXAgAJ) Network Information `saveData` property
+
 November 2017
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/dJkNHglu1Z0/eodHxUDdAgAJ) CSS `:any-link` pseudo-class
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/KeQ2s0z6ZkM/GhGv3vhlBgAJ) HTTP 425 (Too Early) status code
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/KTLndMOFLLA/VykZ7bg8BgAJ) Feature Policy `autoplay` feature
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/dJkNHglu1Z0/eodHxUDdAgAJ) CSS `:any-link` pseudo-class
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/KeQ2s0z6ZkM/GhGv3vhlBgAJ) HTTP 425 (Too Early) status code
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/KTLndMOFLLA/VykZ7bg8BgAJ) Feature Policy `autoplay` feature
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/TgoXNRtA3Zs/-MzmGA_UBAAJ) delayed dispatch of performance entries
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/KRAyvMD4QZs/ABBp-5aLBAAJ) WebVTT `positionAlign` and `lineAlign` properties
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/3DjSQKQzKz8/FI9qbxHhAwAJ) events for back/forward mouse buttons (`button` property values `3` and `4`)
@@ -454,11 +460,14 @@ September 2015
 
 ### Firefox
 
+December 2017
+- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/tsevyqfBHLE/lccldWNNBwAJ) Web Authentication API (initially for FIDO U2F tokens)
+
 November 2017
-- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/Cy2rIx2MACc/mXn9qHsFBQAJ) CSS Shapes
-- :new: [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/BI3I0U7TDw0/6-W39tXpBAAJ) Custom Elements v1
-- :new: [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/aJvUlADn-Hk/BYB52MgDBQAJ) Shadow DOM v1
-- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/tP_PiNFay7E/8gHVWT8OBQAJ) stricter `X-Frame-Options: SAMEORIGIN` (check all ancestor frames)
+- [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/Cy2rIx2MACc/mXn9qHsFBQAJ) CSS Shapes
+- [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/BI3I0U7TDw0/6-W39tXpBAAJ) Custom Elements v1
+- [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/aJvUlADn-Hk/BYB52MgDBQAJ) Shadow DOM v1
+- [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/tP_PiNFay7E/8gHVWT8OBQAJ) stricter `X-Frame-Options: SAMEORIGIN` (check all ancestor frames)
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/H2IL9XAO8dA/EjeQA8yuAwAJ) WebVTT regions
 - [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/lSlpiE2Y5j4/AqKZx19PAQAJ) (subclassable) `EventTarget` constructor
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/c6PqC5RuKLs/7X9pu7m4AAAJ) CSP violation events
