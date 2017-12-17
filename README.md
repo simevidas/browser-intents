@@ -9,10 +9,12 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 ### Chromium
 
 December 2017
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/RNHfILQBYic/6PeEeAstDwAJ) CSS `:any-link` pseudo-class
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/ySf8YHR6MpA/nxOmaP4oAwAJ) TLS 1.3 draft-22 in 1-RTT mode
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/MbXp16hQclY/bQjegyrbAgAJ) `<img decoding>` attribute
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/AgonJunvfIE/O7Gb0fzXAgAJ) Network Information `saveData` property
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/VjFBlOBwkmY/rDS04njmCAAJ) unified touch adjustment
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/sufZCxRTvXk/HvSyv8yOAgAJ) Feature Policy `autoplay` feature
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/RNHfILQBYic/6PeEeAstDwAJ) CSS `:any-link` pseudo-class
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/ySf8YHR6MpA/nxOmaP4oAwAJ) TLS 1.3 draft-22 in 1-RTT mode
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/MbXp16hQclY/bQjegyrbAgAJ) `<img decoding>` attribute
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/AgonJunvfIE/O7Gb0fzXAgAJ) Network Information `saveData` property
 
 November 2017
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/dJkNHglu1Z0/eodHxUDdAgAJ) CSS `:any-link` pseudo-class
@@ -461,7 +463,9 @@ September 2015
 ### Firefox
 
 December 2017
-- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/tsevyqfBHLE/lccldWNNBwAJ) Web Authentication API (initially for FIDO U2F tokens)
+- :new: [Remove](https://groups.google.com/d/msg/mozilla.dev.platform/DcSi_wLG4fc/QI1X8SjbCgAJ) Ambient Light and Proximity Sensor APIs
+- :new: [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/uidYTDXu1CE/_Ax4VvckCgAJ) CSS `translate`, `scale`, and `rotate` properties (individual transforms)
+- [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/tsevyqfBHLE/lccldWNNBwAJ) Web Authentication API (initially for FIDO U2F tokens)
 
 November 2017
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/Cy2rIx2MACc/mXn9qHsFBQAJ) CSS Shapes
