@@ -8,8 +8,14 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
+January 2018
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/epeaao7l13M/b8ewAH5uBwAJ) Async Clipboard API
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/lgA_loKD_XU/DlJ_LppLBwAJ) `HTMLAnchorElement` `relList` property
+- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/-s4pWwshKhI/md53uVDRBgAJ) WebVR 1.1
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/8vqcABTnDF4/2kZzScnzBgAJ) Fetch API `keepalive` option
+
 December 2017
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/XzdNrEvn4Qk/650SpqXTBAAJ) CSS `display: contents` value
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/XzdNrEvn4Qk/650SpqXTBAAJ) CSS `display: contents` value
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/kqD_G4sxfZE/6CJM01X2BwAJ) CSS `:matches()` pseudo-class
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/RX0GN4PyCF8/6XVhJ_oTCgAJ) Feature Policy `accelerometer`, `gyroscope`, `magnetometer` features
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/9vNZh4fhV2U/ZVxD2iQACgAJ) Abortable fetch (`AbortController` and `AbortSignal`)
@@ -467,7 +473,7 @@ September 2015
 ### Firefox
 
 December 2017
-- :new: [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/mogT087VmJM/1263_6MlCQAJ) CSS `paint-order` property for HTML text
+- [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/mogT087VmJM/1263_6MlCQAJ) CSS `paint-order` property for HTML text
 - [Remove](https://groups.google.com/d/msg/mozilla.dev.platform/DcSi_wLG4fc/QI1X8SjbCgAJ) Ambient Light and Proximity Sensor APIs
 - [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/uidYTDXu1CE/_Ax4VvckCgAJ) CSS `translate`, `scale`, and `rotate` properties (individual transforms)
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/tsevyqfBHLE/lccldWNNBwAJ) Web Authentication API (initially for FIDO U2F tokens)
