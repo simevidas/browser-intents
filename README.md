@@ -9,10 +9,13 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 ### Chromium
 
 January 2018
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/epeaao7l13M/b8ewAH5uBwAJ) Async Clipboard API
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/lgA_loKD_XU/DlJ_LppLBwAJ) `HTMLAnchorElement` `relList` property
-- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/-s4pWwshKhI/md53uVDRBgAJ) WebVR 1.1
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/8vqcABTnDF4/2kZzScnzBgAJ) Fetch API `keepalive` option
+- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Dpw4IJ0hQdg/BAPNQsJgAQAJ) Media Capabilities API (cont.)
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Qc-bOSyU0FQ/tczXROBoCQAJ) “Fire an `input` event when a (mutable) checkbox is clicked”
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/gVvtbIjE2J4/0KWy4Ew2CQAJ) (a subset of the) CSS Layout API
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/epeaao7l13M/b8ewAH5uBwAJ) Async Clipboard API
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/lgA_loKD_XU/DlJ_LppLBwAJ) `HTMLAnchorElement` `relList` property
+- [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/-s4pWwshKhI/md53uVDRBgAJ) WebVR 1.1
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/8vqcABTnDF4/2kZzScnzBgAJ) Fetch API `keepalive` option
 
 December 2017
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/XzdNrEvn4Qk/650SpqXTBAAJ) CSS `display: contents` value
@@ -471,6 +474,9 @@ September 2015
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/iBX_2xfX6jc/Uc0D6jr3AgAJ) `stale-while-revalidate` Cache-control extension
 
 ### Firefox
+
+January 2018
+- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/6fVRnF4_g8s/piNtMNxBAAAJ) CSS `overscroll-behavior` property
 
 December 2017
 - [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/mogT087VmJM/1263_6MlCQAJ) CSS `paint-order` property for HTML text
