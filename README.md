@@ -9,9 +9,12 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 ### Chromium
 
 January 2018
-- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Dpw4IJ0hQdg/BAPNQsJgAQAJ) Media Capabilities API (cont.)
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Qc-bOSyU0FQ/tczXROBoCQAJ) “Fire an `input` event when a (mutable) checkbox is clicked”
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/gVvtbIjE2J4/0KWy4Ew2CQAJ) (a subset of the) CSS Layout API
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/xEXD9C48c1k/HRCCs311CgAJ) Performance Observer `takeRecords` method
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/irAY53rSXIE/p0oZ5j4mAgAJ) Permission Delegation (through `<iframe allow>` attribute)
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/RWWG6ZJYDhc/VBKxlCuVAgAJ) Feature Policy `sync-xhr` feature
+- [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Dpw4IJ0hQdg/BAPNQsJgAQAJ) Media Capabilities API (cont.)
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Qc-bOSyU0FQ/tczXROBoCQAJ) “Fire an `input` event when a (mutable) checkbox is clicked”
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/gVvtbIjE2J4/0KWy4Ew2CQAJ) (a subset of the) CSS Layout API
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/epeaao7l13M/b8ewAH5uBwAJ) Async Clipboard API
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/lgA_loKD_XU/DlJ_LppLBwAJ) `HTMLAnchorElement` `relList` property
 - [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/-s4pWwshKhI/md53uVDRBgAJ) WebVR 1.1
@@ -476,7 +479,7 @@ September 2015
 ### Firefox
 
 January 2018
-- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/6fVRnF4_g8s/piNtMNxBAAAJ) CSS `overscroll-behavior` property
+- [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/6fVRnF4_g8s/piNtMNxBAAAJ) CSS `overscroll-behavior` property
 
 December 2017
 - [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/mogT087VmJM/1263_6MlCQAJ) CSS `paint-order` property for HTML text
