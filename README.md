@@ -9,9 +9,14 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 ### Chromium
 
 January 2018
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/xEXD9C48c1k/HRCCs311CgAJ) Performance Observer `takeRecords` method
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/irAY53rSXIE/p0oZ5j4mAgAJ) Permission Delegation (through `<iframe allow>` attribute)
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/RWWG6ZJYDhc/VBKxlCuVAgAJ) Feature Policy `sync-xhr` feature
+- :new: [Deprecate and remove](https://groups.google.com/a/chromium.org/d/msg/blink-dev/_g_HnAHkMPo/1DrejG5mAgAJ) `#` in data URL body (the first `#` will be treated as the start of the fragment)
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/UViBfJuuIq8/w7_2W7lLAgAJ) CSS `row-gap`, `column-gap`, and `gap` properties (`grid-row-gap`/etc. become aliases)
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Hudukgo_fB4/6FPRvvBtBQAJ) CSS `calc()` in media queries
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/6ai8np0DSOA/XJak-Nw0AgAJ) CSS Typed OM
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/o9Pnen-jNcI/8thpmgMHAwAJ) “Fire an `input` event when a `range` or `file` `<input>` element is activated”
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/xEXD9C48c1k/HRCCs311CgAJ) Performance Observer `takeRecords` method
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/irAY53rSXIE/p0oZ5j4mAgAJ) Permission Delegation (through `<iframe allow>` attribute)
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/RWWG6ZJYDhc/VBKxlCuVAgAJ) Feature Policy `sync-xhr` feature
 - [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Dpw4IJ0hQdg/BAPNQsJgAQAJ) Media Capabilities API (cont.)
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Qc-bOSyU0FQ/tczXROBoCQAJ) “Fire an `input` event when a (mutable) checkbox is clicked”
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/gVvtbIjE2J4/0KWy4Ew2CQAJ) (a subset of the) CSS Layout API
