@@ -9,11 +9,17 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 ### Chromium
 
 January 2018
-- :new: [Deprecate and remove](https://groups.google.com/a/chromium.org/d/msg/blink-dev/_g_HnAHkMPo/1DrejG5mAgAJ) `#` in data URL body (the first `#` will be treated as the start of the fragment)
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/UViBfJuuIq8/w7_2W7lLAgAJ) CSS `row-gap`, `column-gap`, and `gap` properties (`grid-row-gap`/etc. become aliases)
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Hudukgo_fB4/6FPRvvBtBQAJ) CSS `calc()` in media queries
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/6ai8np0DSOA/XJak-Nw0AgAJ) CSS Typed OM
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/o9Pnen-jNcI/8thpmgMHAwAJ) “Fire an `input` event when a `range` or `file` `<input>` element is activated”
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/FsD97U77tss/n3m_yvyoAAAJ) CSS `x` unit (synonym for `dppx`)
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/czmmZUd4Vww/1-H6j-zdAwAJ) “Lazily load below-the-fold iframes and images”
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/wP4NWLgbIpA/P1rebd9ZAgAJ) CSS `justify-items: legacy` value
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/QDhDKXJqKVE/SVeKgDw4AgAJ) CSS `justify-items: legacy` value
+- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/sWa31BxDO0g/fHNukicyAgAJ) “Extend Subresource Integrity (`<script integrity>`) to support validating a resource’s signature”
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/U8Apo-WLBm4/03sO4ITYAQAJ) Picture-in-Picture (`video.requestPictureInPicture()`)
+- [Deprecate and remove](https://groups.google.com/a/chromium.org/d/msg/blink-dev/_g_HnAHkMPo/1DrejG5mAgAJ) `#` in data URL body (the first `#` will be treated as the start of the fragment)
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/UViBfJuuIq8/w7_2W7lLAgAJ) CSS `row-gap`, `column-gap`, and `gap` properties (`grid-row-gap`/etc. become aliases)
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Hudukgo_fB4/6FPRvvBtBQAJ) CSS `calc()` in media queries
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/6ai8np0DSOA/XJak-Nw0AgAJ) CSS Typed OM
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/o9Pnen-jNcI/8thpmgMHAwAJ) “Fire an `input` event when a `range` or `file` `<input>` element is activated”
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/xEXD9C48c1k/HRCCs311CgAJ) Performance Observer `takeRecords` method
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/irAY53rSXIE/p0oZ5j4mAgAJ) Permission Delegation (through `<iframe allow>` attribute)
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/RWWG6ZJYDhc/VBKxlCuVAgAJ) Feature Policy `sync-xhr` feature
