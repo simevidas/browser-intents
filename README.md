@@ -8,13 +8,19 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
+February 2018
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/GzDmvZO7IjU/syvJp9QjCAAJ): Expand list of properties that can apply to CSS `::first-letter` pseudo-elements
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/fVxkGlKpDbU/GJD6RgkbCAAJ) Payment Handler API
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/irhrlr6n5YQ/LOS8xSGsBwAJ) constructable style sheet objects (`CSSStyleSheet` constructor)
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/BLBHKKG90DM/MxokOGuaBwAJ) CSS `:is()` pseudo-class
+
 January 2018
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/FsD97U77tss/n3m_yvyoAAAJ) CSS `x` unit (synonym for `dppx`)
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/czmmZUd4Vww/1-H6j-zdAwAJ) “Lazily load below-the-fold iframes and images”
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/wP4NWLgbIpA/P1rebd9ZAgAJ) CSS `justify-items: legacy` value
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/QDhDKXJqKVE/SVeKgDw4AgAJ) CSS `justify-items: legacy` value
-- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/sWa31BxDO0g/fHNukicyAgAJ) “Extend Subresource Integrity (`<script integrity>`) to support validating a resource’s signature”
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/U8Apo-WLBm4/03sO4ITYAQAJ) Picture-in-Picture (`video.requestPictureInPicture()`)
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/FsD97U77tss/n3m_yvyoAAAJ) CSS `x` unit (synonym for `dppx`)
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/czmmZUd4Vww/1-H6j-zdAwAJ) “Lazily load below-the-fold iframes and images”
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/wP4NWLgbIpA/P1rebd9ZAgAJ) CSS `justify-items: legacy` value
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/QDhDKXJqKVE/SVeKgDw4AgAJ) CSS `justify-items: legacy` value
+- [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/sWa31BxDO0g/fHNukicyAgAJ) “Extend Subresource Integrity (`<script integrity>`) to support validating a resource’s signature”
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/U8Apo-WLBm4/03sO4ITYAQAJ) Picture-in-Picture (`video.requestPictureInPicture()`)
 - [Deprecate and remove](https://groups.google.com/a/chromium.org/d/msg/blink-dev/_g_HnAHkMPo/1DrejG5mAgAJ) `#` in data URL body (the first `#` will be treated as the start of the fragment)
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/UViBfJuuIq8/w7_2W7lLAgAJ) CSS `row-gap`, `column-gap`, and `gap` properties (`grid-row-gap`/etc. become aliases)
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Hudukgo_fB4/6FPRvvBtBQAJ) CSS `calc()` in media queries
@@ -488,6 +494,10 @@ September 2015
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/iBX_2xfX6jc/Uc0D6jr3AgAJ) `stale-while-revalidate` Cache-control extension
 
 ### Firefox
+
+February 2018
+- :new: [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/GRNpjC4MuH8/hjxJxwgtAgAJ) `navigator.webdriver` (Boolean) property
+- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/djQGD_wRw5E/-GsC9AMaAgAJ) CSS `paint-order` property for HTML text
 
 January 2018
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/6fVRnF4_g8s/piNtMNxBAAAJ) CSS `overscroll-behavior` property
