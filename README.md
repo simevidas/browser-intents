@@ -9,10 +9,15 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 ### Chromium
 
 February 2018
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/GzDmvZO7IjU/syvJp9QjCAAJ): Expand list of properties that can apply to CSS `::first-letter` pseudo-elements
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/fVxkGlKpDbU/GJD6RgkbCAAJ) Payment Handler API
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/irhrlr6n5YQ/LOS8xSGsBwAJ) constructable style sheet objects (`CSSStyleSheet` constructor)
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/BLBHKKG90DM/MxokOGuaBwAJ) CSS `:is()` pseudo-class
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/T-OkMDASYfk/Mp7VsfDGBQAJ) `modulepreload` link relation
+- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/AZ-PYPMS7EA/DEqbe2u5BQAJ) CSS Animation Worklet API
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/dEsseBBMbs4/rvdT2wK4BQAJ) AudioWorklet
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/MAHQkH4vvUQ/i0yCobrMCQAJ) HTML `inputmode` attribute 
+- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/apdn-NbyZJg/RqHUfq3aCQAJ) Web Locks API 
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/GzDmvZO7IjU/syvJp9QjCAAJ): Expand list of properties that can apply to CSS `::first-letter` pseudo-elements
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/fVxkGlKpDbU/GJD6RgkbCAAJ) Payment Handler API
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/irhrlr6n5YQ/LOS8xSGsBwAJ) constructable style sheet objects (`CSSStyleSheet` constructor)
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/BLBHKKG90DM/MxokOGuaBwAJ) CSS `:is()` pseudo-class
 
 January 2018
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/FsD97U77tss/n3m_yvyoAAAJ) CSS `x` unit (synonym for `dppx`)
@@ -496,8 +501,9 @@ September 2015
 ### Firefox
 
 February 2018
-- :new: [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/GRNpjC4MuH8/hjxJxwgtAgAJ) `navigator.webdriver` (Boolean) property
-- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/djQGD_wRw5E/-GsC9AMaAgAJ) CSS `paint-order` property for HTML text
+- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/DZ7YctNoUUk/c2w8Ue8QCgAJ) module scripts (`<script type="module">`)
+- [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/GRNpjC4MuH8/hjxJxwgtAgAJ) `navigator.webdriver` (Boolean) property
+- [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/djQGD_wRw5E/-GsC9AMaAgAJ) CSS `paint-order` property for HTML text
 
 January 2018
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/6fVRnF4_g8s/piNtMNxBAAAJ) CSS `overscroll-behavior` property
