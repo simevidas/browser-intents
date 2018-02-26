@@ -9,11 +9,14 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 ### Chromium
 
 February 2018
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/T-OkMDASYfk/Mp7VsfDGBQAJ) `modulepreload` link relation
-- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/AZ-PYPMS7EA/DEqbe2u5BQAJ) CSS Animation Worklet API
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/dEsseBBMbs4/rvdT2wK4BQAJ) AudioWorklet
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/MAHQkH4vvUQ/i0yCobrMCQAJ) HTML `inputmode` attribute 
-- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/apdn-NbyZJg/RqHUfq3aCQAJ) Web Locks API 
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/6UNwnk97lrE/LmW0ni0NCwAJ) `<slot>` elements in the flat tree
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/TQN4jWHydTk/52JwsCJ8CgAJ) WebSockets over HTTP/2
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/8tVgAyS47y0/e9L-NbatBwAJ) `srcset` and `imgsizes` attributes on `<link rel="preload" as="image">` elements
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/T-OkMDASYfk/Mp7VsfDGBQAJ) `modulepreload` link relation
+- [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/AZ-PYPMS7EA/DEqbe2u5BQAJ) CSS Animation Worklet API
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/dEsseBBMbs4/rvdT2wK4BQAJ) AudioWorklet
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/MAHQkH4vvUQ/i0yCobrMCQAJ) HTML `inputmode` attribute 
+- [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/apdn-NbyZJg/RqHUfq3aCQAJ) Web Locks API 
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/GzDmvZO7IjU/syvJp9QjCAAJ): Expand list of properties that can apply to CSS `::first-letter` pseudo-elements
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/fVxkGlKpDbU/GJD6RgkbCAAJ) Payment Handler API
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/irhrlr6n5YQ/LOS8xSGsBwAJ) constructable style sheet objects (`CSSStyleSheet` constructor)
@@ -501,7 +504,7 @@ September 2015
 ### Firefox
 
 February 2018
-- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/DZ7YctNoUUk/c2w8Ue8QCgAJ) module scripts (`<script type="module">`)
+- [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/DZ7YctNoUUk/c2w8Ue8QCgAJ) module scripts (`<script type="module">`)
 - [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/GRNpjC4MuH8/hjxJxwgtAgAJ) `navigator.webdriver` (Boolean) property
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/djQGD_wRw5E/-GsC9AMaAgAJ) CSS `paint-order` property for HTML text
 
