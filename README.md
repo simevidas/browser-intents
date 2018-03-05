@@ -9,9 +9,12 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 ### Chromium
 
 February 2018
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/6UNwnk97lrE/LmW0ni0NCwAJ) `<slot>` elements in the flat tree
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/TQN4jWHydTk/52JwsCJ8CgAJ) WebSockets over HTTP/2
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/8tVgAyS47y0/e9L-NbatBwAJ) `srcset` and `imgsizes` attributes on `<link rel="preload" as="image">` elements
+- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/C5ouVl8q3rU/WZLU1iM4DQAJ)  AudioWorklet
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/-wN72ESFsyo/leH6DuuhAwAJ) CSS `:focus-visible` pseudo-class
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/aXYvQ01tMhw/SqA09gD7AgAJ) Media Capabilities API (getting information about decoding capabilities)
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/6UNwnk97lrE/LmW0ni0NCwAJ) `<slot>` elements in the flat tree
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/TQN4jWHydTk/52JwsCJ8CgAJ) WebSockets over HTTP/2
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/8tVgAyS47y0/e9L-NbatBwAJ) `srcset` and `imgsizes` attributes on `<link rel="preload" as="image">` elements
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/T-OkMDASYfk/Mp7VsfDGBQAJ) `modulepreload` link relation
 - [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/AZ-PYPMS7EA/DEqbe2u5BQAJ) CSS Animation Worklet API
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/dEsseBBMbs4/rvdT2wK4BQAJ) AudioWorklet
