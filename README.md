@@ -8,10 +8,15 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
+March 2018
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/EJ4xF_DwZyk/i6qz7FSnBQAJ) CSP `navigate-to` directive
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/8RBFue7RMXQ/c_Nf_XJ4AAAJ) HTTP `Accept-CH-Lifetime` response header
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/9BB64XIznsE/s_I4QTM0DgAJ) CSS Shadow Parts (`::part()` and `::theme()` pseudo-elements)
+- [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/C5ouVl8q3rU/WZLU1iM4DQAJ)  AudioWorklet
+
 February 2018
-- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/C5ouVl8q3rU/WZLU1iM4DQAJ)  AudioWorklet
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/-wN72ESFsyo/leH6DuuhAwAJ) CSS `:focus-visible` pseudo-class
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/aXYvQ01tMhw/SqA09gD7AgAJ) Media Capabilities API (getting information about decoding capabilities)
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/-wN72ESFsyo/leH6DuuhAwAJ) CSS `:focus-visible` pseudo-class
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/aXYvQ01tMhw/SqA09gD7AgAJ) Media Capabilities API (getting information about decoding capabilities)
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/6UNwnk97lrE/LmW0ni0NCwAJ) `<slot>` elements in the flat tree
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/TQN4jWHydTk/52JwsCJ8CgAJ) WebSockets over HTTP/2
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/8tVgAyS47y0/e9L-NbatBwAJ) `srcset` and `imgsizes` attributes on `<link rel="preload" as="image">` elements
