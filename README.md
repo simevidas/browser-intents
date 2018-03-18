@@ -9,9 +9,12 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 ### Chromium
 
 March 2018
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/EJ4xF_DwZyk/i6qz7FSnBQAJ) CSP `navigate-to` directive
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/8RBFue7RMXQ/c_Nf_XJ4AAAJ) HTTP `Accept-CH-Lifetime` response header
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/9BB64XIznsE/s_I4QTM0DgAJ) CSS Shadow Parts (`::part()` and `::theme()` pseudo-elements)
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/YEHinDOBaBw/JhMNfDiNAgAJ) `TransformStream` constructor
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/ySuNvyaB8jY/CtcfGxoCAgAJ) CSS `conic-gradient()` function
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/S3naD9vIcM4/7tKyfvi0AgAJ) customized built-in elements
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/EJ4xF_DwZyk/i6qz7FSnBQAJ) CSP `navigate-to` directive
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/8RBFue7RMXQ/c_Nf_XJ4AAAJ) HTTP `Accept-CH-Lifetime` response header
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/9BB64XIznsE/s_I4QTM0DgAJ) CSS Shadow Parts (`::part()` and `::theme()` pseudo-elements)
 - [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/C5ouVl8q3rU/WZLU1iM4DQAJ)  AudioWorklet
 
 February 2018
