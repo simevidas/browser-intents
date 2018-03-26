@@ -9,9 +9,12 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 ### Chromium
 
 March 2018
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/YEHinDOBaBw/JhMNfDiNAgAJ) `TransformStream` constructor
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/ySuNvyaB8jY/CtcfGxoCAgAJ) CSS `conic-gradient()` function
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/S3naD9vIcM4/7tKyfvi0AgAJ) customized built-in elements
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/l5PCVakcOCE/g0wnSg_jBAAJ) unified touch adjustment
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/r8iKkTXftm4/8iBn0c2UAAAJ) Motion Sensors (based on Generic Sensor API)
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/o9RU6Vv0xeM/EGnQOExbAAAJ) Web Authentication API (with FIDO U2F support)
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/YEHinDOBaBw/JhMNfDiNAgAJ) `TransformStream` constructor
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/ySuNvyaB8jY/CtcfGxoCAgAJ) CSS `conic-gradient()` function
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/S3naD9vIcM4/7tKyfvi0AgAJ) customized built-in elements
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/EJ4xF_DwZyk/i6qz7FSnBQAJ) CSP `navigate-to` directive
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/8RBFue7RMXQ/c_Nf_XJ4AAAJ) HTTP `Accept-CH-Lifetime` response header
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/9BB64XIznsE/s_I4QTM0DgAJ) CSS Shadow Parts (`::part()` and `::theme()` pseudo-elements)
@@ -513,6 +516,9 @@ September 2015
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/iBX_2xfX6jc/Uc0D6jr3AgAJ) `stale-while-revalidate` Cache-control extension
 
 ### Firefox
+
+March 2018
+- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/MO2S2FepLPk/mhDzdc1WAAAJ) OpenType variable fonts
 
 February 2018
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/DZ7YctNoUUk/c2w8Ue8QCgAJ) module scripts (`<script type="module">`)
