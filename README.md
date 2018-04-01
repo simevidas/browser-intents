@@ -9,9 +9,12 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 ### Chromium
 
 March 2018
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/l5PCVakcOCE/g0wnSg_jBAAJ) unified touch adjustment
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/r8iKkTXftm4/8iBn0c2UAAAJ) Motion Sensors (based on Generic Sensor API)
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/o9RU6Vv0xeM/EGnQOExbAAAJ) Web Authentication API (with FIDO U2F support)
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/MrKpBV26ik4/D_zmoAJrAQAJ) events for back/forward mouse buttons (`button` property values `3` and `4`)
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/RQVKGUjDz9U/ltwrLQ1HAQAJ) `style` option for `customElements.define` method (for providing a custom element’s default styles)
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/IIV1MfaPHYc/l0lsJ-agBQAJ) `formdata` event type (Form Participation API)
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/l5PCVakcOCE/g0wnSg_jBAAJ) unified touch adjustment
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/r8iKkTXftm4/8iBn0c2UAAAJ) Motion Sensors (based on Generic Sensor API)
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/o9RU6Vv0xeM/EGnQOExbAAAJ) Web Authentication API (with FIDO U2F support)
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/YEHinDOBaBw/JhMNfDiNAgAJ) `TransformStream` constructor
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/ySuNvyaB8jY/CtcfGxoCAgAJ) CSS `conic-gradient()` function
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/S3naD9vIcM4/7tKyfvi0AgAJ) customized built-in elements
@@ -518,7 +521,7 @@ September 2015
 ### Firefox
 
 March 2018
-- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/MO2S2FepLPk/mhDzdc1WAAAJ) OpenType variable fonts
+- [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/MO2S2FepLPk/mhDzdc1WAAAJ) OpenType variable fonts
 
 February 2018
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/DZ7YctNoUUk/c2w8Ue8QCgAJ) module scripts (`<script type="module">`)
