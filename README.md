@@ -8,10 +8,14 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
+April 2018
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/QNE6TVQve-0/y3KfnxOaBAAJ) Event Timing API (`'event'` performance entries)
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/zCQe7UkR07w/8In0oinBAgAJ) `customElements.upgrade` method
+
 March 2018
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/MrKpBV26ik4/D_zmoAJrAQAJ) events for back/forward mouse buttons (`button` property values `3` and `4`)
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/RQVKGUjDz9U/ltwrLQ1HAQAJ) `style` option for `customElements.define` method (for providing a custom element’s default styles)
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/IIV1MfaPHYc/l0lsJ-agBQAJ) `formdata` event type (Form Participation API)
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/MrKpBV26ik4/D_zmoAJrAQAJ) events for back/forward mouse buttons (`button` property values `3` and `4`)
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/RQVKGUjDz9U/ltwrLQ1HAQAJ) `style` option for `customElements.define` method (for providing a custom element’s default styles)
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/IIV1MfaPHYc/l0lsJ-agBQAJ) `formdata` event type (Form Participation API)
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/l5PCVakcOCE/g0wnSg_jBAAJ) unified touch adjustment
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/r8iKkTXftm4/8iBn0c2UAAAJ) Motion Sensors (based on Generic Sensor API)
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/o9RU6Vv0xeM/EGnQOExbAAAJ) Web Authentication API (with FIDO U2F support)
