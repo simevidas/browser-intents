@@ -9,8 +9,14 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 ### Chromium
 
 April 2018
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/QNE6TVQve-0/y3KfnxOaBAAJ) Event Timing API (`'event'` performance entries)
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/zCQe7UkR07w/8In0oinBAgAJ) `customElements.upgrade` method
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/4qF8XPQ1z2s/q2MFDxHxCAAJ) CSS `overflow` shorthand (accepts two values)
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/T-DgYf79sFU/Kuu6Ltt6CAAJ) User Timing Level 3 extensions
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/KMNZmMF1_H4/U6EGekDrBwAJ) Wake Lock API
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/XdRp1DXmUFs/5vda0YM6CAAJ) `prefersNavigationBar` option for Fullscreen API
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/hnAWBzq1qys/DhyRSDKKBQAJ) Cross-Origin Read Blocking (CORB)
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/m0OOlPJGNTY/Mofa0PzxBwAJ) Keyboard Map (`navigator.keyboard` and `keyboardchange` event)
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/QNE6TVQve-0/y3KfnxOaBAAJ) Event Timing API (`'event'` performance entries)
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/zCQe7UkR07w/8In0oinBAgAJ) `customElements.upgrade` method
 
 March 2018
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/MrKpBV26ik4/D_zmoAJrAQAJ) events for back/forward mouse buttons (`button` property values `3` and `4`)
@@ -523,6 +529,11 @@ September 2015
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/iBX_2xfX6jc/Uc0D6jr3AgAJ) `stale-while-revalidate` Cache-control extension
 
 ### Firefox
+
+April 2018
+- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/4vy-a5_a35o/FH_KnQFGBQAJ) CSS `overflow` shorthand (accepts two values)
+- :new: [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/-1SfS4jWqd8/D6aJ7XprBQAJ) CSS subgrid layout (prototype) 
+- :new: [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/7hOKZDuO3qI/w9FVLatSAAAJ) `SameSite` attribute for cookies
 
 March 2018
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/MO2S2FepLPk/mhDzdc1WAAAJ) OpenType variable fonts
