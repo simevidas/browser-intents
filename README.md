@@ -9,8 +9,10 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 ### Chromium
 
 April 2018
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/G_rkd0yo2AM/IGXDxRl9CwAJ) HTTP `Network-RTT` and `Network-BW` request headers (network quality estimates)
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/65lfM2f0eeM/-1ttGbZmCQAJ) Priority Hints API (`importance` attribute)
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/MFbJuzA5tH4/t6Q-LZHpAgAJ) infrastructure for Layered APIs
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/WOAtshyL2As/wITX3abkAQAJ) `'same-origin'` as the default credentials mode for `fetch()` (the previous default was `'omit'`)
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/G_rkd0yo2A) HTTP `Network-RTT` and `Network-BW` request headers (network quality estimates)
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/65lfM2f0eeM/-1ttGbZmCQAJ) Priority Hints API (`importance` attribute)
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/4qF8XPQ1z2s/q2MFDxHxCAAJ) CSS `overflow` shorthand (accepts two values)
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/T-DgYf79sFU/Kuu6Ltt6CAAJ) User Timing Level 3 extensions
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/KMNZmMF1_H4/U6EGekDrBwAJ) Wake Lock API
@@ -534,7 +536,8 @@ September 2015
 
 April 2018
 
-- :new: [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/1ZrtZlcI888/jOr1cTRHBQAJ) `application/javascript+binast` (JavaScript Binary AST content encoding)
+- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/MSzaY7_4mvg/hGpUlTzxAgAJ) Server Timing
+- [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/1ZrtZlcI888/jOr1cTRHBQAJ) `application/javascript+binast` (JavaScript Binary AST content encoding)
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/4vy-a5_a35o/FH_KnQFGBQAJ) CSS `overflow` shorthand (accepts two values)
 - [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/-1SfS4jWqd8/D6aJ7XprBQAJ) CSS subgrid layout (prototype) 
 - [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/7hOKZDuO3qI/w9FVLatSAAAJ) `SameSite` attribute for cookies
