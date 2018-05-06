@@ -8,9 +8,15 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
+May 2018
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/tudxAHN9-AY/vz91o_aNDwAJ) element visibility reporting for Intersection Observer API (`trackVisibility` and `isVisible` properties)
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/suT7pB2M9L0/ZuA8AQz6DgAJ) Async Local Storage API (layered API)
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/5411pauM9e8/aX4K4wz6DgAJ) HTML `<virtual-list>` element (layered API)
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/TNeeH17Y26c/YmWpxPBrBAAJ) `AnimationEvent` `pseudoElement` property (CSS Animations)
+
 April 2018
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/MFbJuzA5tH4/t6Q-LZHpAgAJ) infrastructure for Layered APIs
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/WOAtshyL2As/wITX3abkAQAJ) `'same-origin'` as the default credentials mode for `fetch()` (the previous default was `'omit'`)
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/MFbJuzA5tH4/t6Q-LZHpAgAJ) infrastructure for Layered APIs
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/WOAtshyL2As/wITX3abkAQAJ) `'same-origin'` as the default credentials mode for `fetch()` (the previous default was `'omit'`)
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/G_rkd0yo2A) HTTP `Network-RTT` and `Network-BW` request headers (network quality estimates)
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/65lfM2f0eeM/-1ttGbZmCQAJ) Priority Hints API (`importance` attribute)
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/4qF8XPQ1z2s/q2MFDxHxCAAJ) CSS `overflow` shorthand (accepts two values)
@@ -534,9 +540,12 @@ September 2015
 
 ### Firefox
 
-April 2018
+May 2018
+- :new: [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/EtjfqRd9FI0/30DfQ3c6DgAJ) `AudioWorklet` interface (Web Audio API)
+- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/y9KU21IBFvo/dVwVG9b1DgAJ) `Event` `srcElement` property (alias of `target` property)
 
-- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/MSzaY7_4mvg/hGpUlTzxAgAJ) Server Timing
+April 2018
+- [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/MSzaY7_4mvg/hGpUlTzxAgAJ) Server Timing
 - [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/1ZrtZlcI888/jOr1cTRHBQAJ) `application/javascript+binast` (JavaScript Binary AST content encoding)
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/4vy-a5_a35o/FH_KnQFGBQAJ) CSS `overflow` shorthand (accepts two values)
 - [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/-1SfS4jWqd8/D6aJ7XprBQAJ) CSS subgrid layout (prototype) 
