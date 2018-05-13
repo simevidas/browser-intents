@@ -9,10 +9,14 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 ### Chromium
 
 May 2018
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/tudxAHN9-AY/vz91o_aNDwAJ) element visibility reporting for Intersection Observer API (`trackVisibility` and `isVisible` properties)
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/suT7pB2M9L0/ZuA8AQz6DgAJ) Async Local Storage API (layered API)
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/5411pauM9e8/aX4K4wz6DgAJ) HTML `<virtual-list>` element (layered API)
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/TNeeH17Y26c/YmWpxPBrBAAJ) `AnimationEvent` `pseudoElement` property (CSS Animations)
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/jfd4knvCiio/qcf5uaspBQAJ) `<script referrerpolicy>` attribute
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/K4m85YRD1II/4NsXBn-pBAAJ) CSS Scroll Snap
+- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/xQiDYZEnwaA/MNGbYJnaBwAJ) Picture-in-Picture (`requestPictureInPicture` method)
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/isXS3f3Tqo8/GPIQi_8oCAAJ) Keyboard Lock API (second intent)
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/tudxAHN9-AY/vz91o_aNDwAJ) element visibility reporting for Intersection Observer API (`trackVisibility` and `isVisible` properties)
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/suT7pB2M9L0/ZuA8AQz6DgAJ) Async Local Storage API (layered API)
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/5411pauM9e8/aX4K4wz6DgAJ) HTML `<virtual-list>` element (layered API)
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/TNeeH17Y26c/YmWpxPBrBAAJ) `AnimationEvent` `pseudoElement` property (CSS Animations)
 
 April 2018
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/MFbJuzA5tH4/t6Q-LZHpAgAJ) infrastructure for Layered APIs
@@ -541,8 +545,8 @@ September 2015
 ### Firefox
 
 May 2018
-- :new: [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/EtjfqRd9FI0/30DfQ3c6DgAJ) `AudioWorklet` interface (Web Audio API)
-- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/y9KU21IBFvo/dVwVG9b1DgAJ) `Event` `srcElement` property (alias of `target` property)
+- [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/EtjfqRd9FI0/30DfQ3c6DgAJ) `AudioWorklet` interface (Web Audio API)
+- [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/y9KU21IBFvo/dVwVG9b1DgAJ) `Event` `srcElement` property (alias of `target` property)
 
 April 2018
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/MSzaY7_4mvg/hGpUlTzxAgAJ) Server Timing
