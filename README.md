@@ -552,7 +552,7 @@ September 2015
 ### Firefox
 
 May 2018
-- :new: [Ship]https://groups.google.com/d/msg/mozilla.dev.platform/HW64jE5y2r0/rpm3fbvgCQAJ) speech synthesis on Android (part of Web Speech API) 
+- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/HW64jE5y2r0/rpm3fbvgCQAJ) speech synthesis on Android (part of Web Speech API) 
 - :new: [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/ASfzHokKin0/-EpzV-GeCwAJ) `import.meta` meta property in module scripts
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/jKWIKsOpUwc/uM7wtRdfAQAJ) Media Capabilities API
 - [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/skHoHwfapEY/VQZZXvNxAQAJ) Async Clipboard API
