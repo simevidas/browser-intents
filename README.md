@@ -9,11 +9,12 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 ### Chromium
 
 May 2018
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/48OwfwZrbvI/yIElvmbkCQAJ) CSS Logical Properties
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/tNwA_l_o9lc/5wug6BcmCQAJ) HTTP `Sec-Metadata` request header
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Na7aTFJOpWs/_tpdtav8CAAJ) Web Lifecycle
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Va5xWNoBOeE/1pQGezNpCAAJ) `TextEncoderStream` and `TextDecoderStream` APIs 
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/aKI6doxffgQ/7dzrVvo4CAAJ) scroll target based on CSS selector in URL fragment
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/dxqWTSvyhDg/1UDaFD17AQAJ) WebGPU API
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/48OwfwZrbvI/yIElvmbkCQAJ) CSS Logical Properties
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/tNwA_l_o9lc/5wug6BcmCQAJ) HTTP `Sec-Metadata` request header
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Na7aTFJOpWs/_tpdtav8CAAJ) Web Lifecycle
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Va5xWNoBOeE/1pQGezNpCAAJ) `TextEncoderStream` and `TextDecoderStream` APIs 
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/aKI6doxffgQ/7dzrVvo4CAAJ) scroll target based on CSS selector in URL fragment
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/nNji_u7BRxo/Zh8Y9hRlBAAJ) Reporting API and Network Error Logging
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/PqEt_hXm9us/cG_LT9ZHAwAJ) Gamepad API touchpad extension
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/jfd4knvCiio/qcf5uaspBQAJ) `<script referrerpolicy>` attribute
@@ -552,8 +553,8 @@ September 2015
 ### Firefox
 
 May 2018
-- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/HW64jE5y2r0/rpm3fbvgCQAJ) speech synthesis on Android (part of Web Speech API) 
-- :new: [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/ASfzHokKin0/-EpzV-GeCwAJ) `import.meta` meta property in module scripts
+- [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/HW64jE5y2r0/rpm3fbvgCQAJ) speech synthesis on Android (part of Web Speech API) 
+- [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/ASfzHokKin0/-EpzV-GeCwAJ) `import.meta` meta property in module scripts
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/jKWIKsOpUwc/uM7wtRdfAQAJ) Media Capabilities API
 - [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/skHoHwfapEY/VQZZXvNxAQAJ) Async Clipboard API
 - [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/EtjfqRd9FI0/30DfQ3c6DgAJ) `AudioWorklet` interface (Web Audio API)
