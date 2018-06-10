@@ -8,8 +8,15 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
+June 2018
+- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/wybNlFUskig/l04GcYwVAgAJ) Event Timing API
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/5MSY_oNVEjo/pCeXIZLEAgAJ) `Request` `isHistoryNavigation` property
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/peRlfsYaDIw/bw2CJHrvAgAJ) an API for querying the user activation state
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/z4CWYor4UpQ/CVS65qLrAgAJ) deprecation reports and the `ReportingObserver` API
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/KZx0i3e5nZM/I7txb1mmAgAJ) nested, dedicated workers
+
 May 2018
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/dxqWTSvyhDg/1UDaFD17AQAJ) WebGPU API
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/dxqWTSvyhDg/1UDaFD17AQAJ) WebGPU API
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/48OwfwZrbvI/yIElvmbkCQAJ) CSS Logical Properties
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/tNwA_l_o9lc/5wug6BcmCQAJ) HTTP `Sec-Metadata` request header
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Na7aTFJOpWs/_tpdtav8CAAJ) Web Lifecycle
@@ -551,6 +558,9 @@ September 2015
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/iBX_2xfX6jc/Uc0D6jr3AgAJ) `stale-while-revalidate` Cache-control extension
 
 ### Firefox
+
+June 2018
+- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/KrJoz5XB8J4/pu8CMEWOAwAJ) CSS `shape-outside` property
 
 May 2018
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/HW64jE5y2r0/rpm3fbvgCQAJ) speech synthesis on Android (part of Web Speech API) 
