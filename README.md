@@ -9,11 +9,15 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 ### Chromium
 
 June 2018
-- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/wybNlFUskig/l04GcYwVAgAJ) Event Timing API
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/5MSY_oNVEjo/pCeXIZLEAgAJ) `Request` `isHistoryNavigation` property
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/peRlfsYaDIw/bw2CJHrvAgAJ) an API for querying the user activation state
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/z4CWYor4UpQ/CVS65qLrAgAJ) deprecation reports and the `ReportingObserver` API
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/KZx0i3e5nZM/I7txb1mmAgAJ) nested, dedicated workers
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/V2xR7cucnOA/slvSxt-KAQAJ) Keyboard Map (`navigator.keyboard` and `keyboardchange` event)
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/hnIOyxASKFU/nBkzXbvuAQAJ) module workers (`type: 'module'` option for `Worker` constructor)
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/j7k2nI_9nng/OE6IvgJyAQAJ) `navigator.getDisplayMedia` method (Screen Capture)
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/ibVPbqBQapU/rUZIrPPLAQAJ) Picture-in-Picture (`requestPictureInPicture` method)
+- [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/wybNlFUskig/l04GcYwVAgAJ) Event Timing API
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/5MSY_oNVEjo/pCeXIZLEAgAJ) `Request` `isHistoryNavigation` property
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/peRlfsYaDIw/bw2CJHrvAgAJ) an API for querying the user activation state
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/z4CWYor4UpQ/CVS65qLrAgAJ) deprecation reports and the `ReportingObserver` API
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/KZx0i3e5nZM/I7txb1mmAgAJ) nested, dedicated workers
 
 May 2018
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/dxqWTSvyhDg/1UDaFD17AQAJ) WebGPU API
@@ -560,7 +564,7 @@ September 2015
 ### Firefox
 
 June 2018
-- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/KrJoz5XB8J4/pu8CMEWOAwAJ) CSS `shape-outside` property
+- [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/KrJoz5XB8J4/pu8CMEWOAwAJ) CSS `shape-outside` property
 
 May 2018
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/HW64jE5y2r0/rpm3fbvgCQAJ) speech synthesis on Android (part of Web Speech API) 
