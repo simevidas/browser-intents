@@ -9,12 +9,14 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 ### Chromium
 
 June 2018
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/mAWBTaANvmE/OgaCRH04BAAJ) DOM `Element` `toggleAttribute` method
-- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/pdxkBoURmaA/vOTkwUBCBAAJ) Cookie Store API
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/PNTQCliD2oA/daIyhTskCQAJ) Notification Inline Replies
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/P8bZxeA84Z4/gGWF1_4JBAAJ) `stale-while-revalidate` directive for HTTP `Cache-Control` header
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Fim-KmT08PE/LIHNNXALBAAJ) CSS environment variables and `viewport-fit` descriptor for `<meta name="viewport">`
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/4dohVXDfEI4/tO6rhuv4AwAJ) CSP `'unsafe-hashes'` source expression
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/9cfRxXx5Cis/XRm0wHaNCAAJ) `gamepadbuttondown`, `gamepadbuttonup`, `gamepadbuttonchange`, and `gamepadaxismove` events
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/e2fg_-Ha-AE/nheenHnXBgAJ) Web Locks API
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/mAWBTaANvmE/OgaCRH04BAAJ) DOM `Element` `toggleAttribute` method
+- [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/pdxkBoURmaA/vOTkwUBCBAAJ) Cookie Store API
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/PNTQCliD2oA/daIyhTskCQAJ) Notification Inline Replies
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/P8bZxeA84Z4/gGWF1_4JBAAJ) `stale-while-revalidate` directive for HTTP `Cache-Control` header
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Fim-KmT08PE/LIHNNXALBAAJ) CSS environment variables and `viewport-fit` descriptor for `<meta name="viewport">`
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/4dohVXDfEI4/tO6rhuv4AwAJ) CSP `'unsafe-hashes'` source expression
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/V2xR7cucnOA/slvSxt-KAQAJ) Keyboard Map (`navigator.keyboard` and `keyboardchange` event)
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/hnIOyxASKFU/nBkzXbvuAQAJ) module workers (`type: 'module'` option for `Worker` constructor)
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/j7k2nI_9nng/OE6IvgJyAQAJ) `navigator.getDisplayMedia` method (Screen Capture)
@@ -570,8 +572,10 @@ September 2015
 ### Firefox
 
 June 2018
-- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/IUQBiW8wDrs/Urt2rnmlAwAJ) Storage API on Android (`persist` and `estimate` methods)
-- :new: [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/aDRU2iM0X-k/yTH1g65BBgAJ) HTTP `Clear-Site-Data` header
+- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/wwU0TW80u1g/X_V3091yCAAJ) DOM `Element` `toggleAttribute` method
+- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/sSx7WPiVLbw/Dd2dPBksBQAJ) range context for CSS media queries (with limitations)
+- [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/IUQBiW8wDrs/Urt2rnmlAwAJ) Storage API on Android (`persist` and `estimate` methods)
+- [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/aDRU2iM0X-k/yTH1g65BBgAJ) HTTP `Clear-Site-Data` header
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/KrJoz5XB8J4/pu8CMEWOAwAJ) CSS `shape-outside` property
 
 May 2018
