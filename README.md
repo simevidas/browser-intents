@@ -8,9 +8,12 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
+July 2018
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/gXXMY1grZ-o/b0y3ENIaCQAJ) `left` and `right` values for the CSS `text-underline-position` property
+
 June 2018
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/9cfRxXx5Cis/XRm0wHaNCAAJ) `gamepadbuttondown`, `gamepadbuttonup`, `gamepadbuttonchange`, and `gamepadaxismove` events
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/e2fg_-Ha-AE/nheenHnXBgAJ) Web Locks API
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/9cfRxXx5Cis/XRm0wHaNCAAJ) `gamepadbuttondown`, `gamepadbuttonup`, `gamepadbuttonchange`, and `gamepadaxismove` events
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/e2fg_-Ha-AE/nheenHnXBgAJ) Web Locks API
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/mAWBTaANvmE/OgaCRH04BAAJ) DOM `Element` `toggleAttribute` method
 - [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/pdxkBoURmaA/vOTkwUBCBAAJ) Cookie Store API
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/PNTQCliD2oA/daIyhTskCQAJ) Notification Inline Replies
@@ -572,8 +575,8 @@ September 2015
 ### Firefox
 
 June 2018
-- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/wwU0TW80u1g/X_V3091yCAAJ) DOM `Element` `toggleAttribute` method
-- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/sSx7WPiVLbw/Dd2dPBksBQAJ) range context for CSS media queries (with limitations)
+- [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/wwU0TW80u1g/X_V3091yCAAJ) DOM `Element` `toggleAttribute` method
+- [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/sSx7WPiVLbw/Dd2dPBksBQAJ) range context for CSS media queries (with limitations)
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/IUQBiW8wDrs/Urt2rnmlAwAJ) Storage API on Android (`persist` and `estimate` methods)
 - [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/aDRU2iM0X-k/yTH1g65BBgAJ) HTTP `Clear-Site-Data` header
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/KrJoz5XB8J4/pu8CMEWOAwAJ) CSS `shape-outside` property
