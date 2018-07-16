@@ -9,7 +9,12 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 ### Chromium
 
 July 2018
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/gXXMY1grZ-o/b0y3ENIaCQAJ) `left` and `right` values for the CSS `text-underline-position` property
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/xACYBou4f9A/Ft0-QlFMAQAJ) options argument for the `postMessage` method
+- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/dgmf_goI_S0/YyVOB2lQAQAJ) Web Locks API (cont.)
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/b7f_K30MBYo/T9iXfP4fBgAJ) Feature Policy `sync-script` feature (for disabling parser-blocking script execution)
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/sQrAZpTA8WI/EWC7W6GOCwAJ) intervention reports
+- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/k0jK4JIhiYk/tKePgtllBgAJ) `stale-while-revalidate` directive for HTTP `Cache-Control` header
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/gXXMY1grZ-o/b0y3ENIaCQAJ) `left` and `right` values for the CSS `text-underline-position` property
 
 June 2018
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/9cfRxXx5Cis/XRm0wHaNCAAJ) `gamepadbuttondown`, `gamepadbuttonup`, `gamepadbuttonchange`, and `gamepadaxismove` events
@@ -573,6 +578,9 @@ September 2015
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/iBX_2xfX6jc/Uc0D6jr3AgAJ) `stale-while-revalidate` Cache-control extension
 
 ### Firefox
+
+July 2018
+- :new: [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/X_tv4aH4NxQ/w497k6J7CQAJ) CSS `scrollbar-face-color` and `scrollbar-track-color` properties
 
 June 2018
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/wwU0TW80u1g/X_V3091yCAAJ) DOM `Element` `toggleAttribute` method
