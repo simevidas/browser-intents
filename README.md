@@ -9,11 +9,14 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 ### Chromium
 
 July 2018
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/xACYBou4f9A/Ft0-QlFMAQAJ) options argument for the `postMessage` method
-- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/dgmf_goI_S0/YyVOB2lQAQAJ) Web Locks API (cont.)
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/b7f_K30MBYo/T9iXfP4fBgAJ) Feature Policy `sync-script` feature (for disabling parser-blocking script execution)
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/sQrAZpTA8WI/EWC7W6GOCwAJ) intervention reports
-- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/k0jK4JIhiYk/tKePgtllBgAJ) `stale-while-revalidate` directive for HTTP `Cache-Control` header
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/SgsbpO08AeI/ZyDL6r5FBgAJ) HTML `<portal>` element for seamless navigations between sites or pages
+- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/pQZopKWaQIk/Z-XD1hvwBQAJ) Feature Policy API (`document.policy`)
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/-CYu9jVflMw/-_IVvtODBQAJ) `queueMicrotask` function
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/xACYBou4f9A/Ft0-QlFMAQAJ) options argument for the `postMessage` method
+- [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/dgmf_goI_S0/YyVOB2lQAQAJ) Web Locks API (cont.)
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/b7f_K30MBYo/T9iXfP4fBgAJ) Feature Policy `sync-script` feature (for disabling parser-blocking script execution)
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/sQrAZpTA8WI/EWC7W6GOCwAJ) intervention reports
+- [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/k0jK4JIhiYk/tKePgtllBgAJ) `stale-while-revalidate` directive for HTTP `Cache-Control` header
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/gXXMY1grZ-o/b0y3ENIaCQAJ) `left` and `right` values for the CSS `text-underline-position` property
 
 June 2018
@@ -580,7 +583,9 @@ September 2015
 ### Firefox
 
 July 2018
-- :new: [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/X_tv4aH4NxQ/w497k6J7CQAJ) CSS `scrollbar-face-color` and `scrollbar-track-color` properties
+- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/YzuvitvaFbY/CsIPdgDXBgAJ) HTTP `Clear-Site-Data` header
+- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/fcFctnUjs7A/mWv9pLMbBgAJ) Web Animations API (core interfaces)
+- [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/X_tv4aH4NxQ/w497k6J7CQAJ) CSS `scrollbar-face-color` and `scrollbar-track-color` properties
 
 June 2018
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/wwU0TW80u1g/X_V3091yCAAJ) DOM `Element` `toggleAttribute` method
