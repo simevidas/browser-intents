@@ -9,9 +9,11 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 ### Chromium
 
 July 2018
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/SgsbpO08AeI/ZyDL6r5FBgAJ) HTML `<portal>` element for seamless navigations between sites or pages
-- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/pQZopKWaQIk/Z-XD1hvwBQAJ) Feature Policy API (`document.policy`)
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/-CYu9jVflMw/-_IVvtODBQAJ) `queueMicrotask` function
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/WLuXgLp2WWY/WvzMRIjdAgAJ) iframe sandboxing features as Feature Policy features
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Fw764MVF5nI/FNlBi815AwAJ) Badging API
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/SgsbpO08AeI/ZyDL6r5FBgAJ) HTML `<portal>` element for seamless navigations between sites or pages
+- [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/pQZopKWaQIk/Z-XD1hvwBQAJ) Feature Policy API (`document.policy`)
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/-CYu9jVflMw/-_IVvtODBQAJ) `queueMicrotask` function
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/xACYBou4f9A/Ft0-QlFMAQAJ) options argument for the `postMessage` method
 - [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/dgmf_goI_S0/YyVOB2lQAQAJ) Web Locks API (cont.)
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/b7f_K30MBYo/T9iXfP4fBgAJ) Feature Policy `sync-script` feature (for disabling parser-blocking script execution)
@@ -583,8 +585,10 @@ September 2015
 ### Firefox
 
 July 2018
-- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/YzuvitvaFbY/CsIPdgDXBgAJ) HTTP `Clear-Site-Data` header
-- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/fcFctnUjs7A/mWv9pLMbBgAJ) Web Animations API (core interfaces)
+- :new: [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/bxyc26iatiQ/7FurvkSfCAAJ) `<img decoding>` attribute
+- :new: [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/faQvST2piv4/prtBa7rCBwAJ) CSS `prefers-reduced-motion` media feature (on Windows and macOS)
+- [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/YzuvitvaFbY/CsIPdgDXBgAJ) HTTP `Clear-Site-Data` header
+- [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/fcFctnUjs7A/mWv9pLMbBgAJ) Web Animations API (core interfaces)
 - [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/X_tv4aH4NxQ/w497k6J7CQAJ) CSS `scrollbar-face-color` and `scrollbar-track-color` properties
 
 June 2018
