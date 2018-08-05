@@ -8,9 +8,14 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
+August 2018
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/IVjeSC9tk64/u1kIxBFiBQAJ) Shadow DOM imperative distributed API
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/7MCjXU3zmCQ/ZSDsTaMuBQAJ) WebSockets over HTTP/2
+- :new: [Deprecate and remove](https://groups.google.com/a/chromium.org/d/msg/blink-dev/h-JwMiPUnuU/sl79aLoLBQAJ) Shadow DOM v0, Custom Elements v0, and HTML Imports
+
 July 2018
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/WLuXgLp2WWY/WvzMRIjdAgAJ) iframe sandboxing features as Feature Policy features
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Fw764MVF5nI/FNlBi815AwAJ) Badging API
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/WLuXgLp2WWY/WvzMRIjdAgAJ) iframe sandboxing features as Feature Policy features
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Fw764MVF5nI/FNlBi815AwAJ) Badging API
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/SgsbpO08AeI/ZyDL6r5FBgAJ) HTML `<portal>` element for seamless navigations between sites or pages
 - [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/pQZopKWaQIk/Z-XD1hvwBQAJ) Feature Policy API (`document.policy`)
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/-CYu9jVflMw/-_IVvtODBQAJ) `queueMicrotask` function
@@ -584,9 +589,15 @@ September 2015
 
 ### Firefox
 
+August 2018
+- :new: [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/hWuUoeDVPQo/TNIspBwICQAJ) CSS Motion Paths
+- :new: [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/K-i_WXuZ_bY/1-XAkm6wCQAJ) WebXR Device API (successor to WebVR)
+- :new: [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/BPZHwDp_Ciw/Blo-G1tqCQAJ) `HTMLMediaElement` `allowedToPlay` property
+- :new: [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/gchNtWfv_bk/kQEfdc0LBgAJ) Visual Viewport API
+
 July 2018
-- :new: [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/bxyc26iatiQ/7FurvkSfCAAJ) `<img decoding>` attribute
-- :new: [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/faQvST2piv4/prtBa7rCBwAJ) CSS `prefers-reduced-motion` media feature (on Windows and macOS)
+- [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/bxyc26iatiQ/7FurvkSfCAAJ) `<img decoding>` attribute
+- [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/faQvST2piv4/prtBa7rCBwAJ) CSS `prefers-reduced-motion` media feature (on Windows and macOS)
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/YzuvitvaFbY/CsIPdgDXBgAJ) HTTP `Clear-Site-Data` header
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/fcFctnUjs7A/mWv9pLMbBgAJ) Web Animations API (core interfaces)
 - [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/X_tv4aH4NxQ/w497k6J7CQAJ) CSS `scrollbar-face-color` and `scrollbar-track-color` properties
