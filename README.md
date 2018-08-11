@@ -9,9 +9,13 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 ### Chromium
 
 August 2018
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/IVjeSC9tk64/u1kIxBFiBQAJ) Shadow DOM imperative distributed API
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/7MCjXU3zmCQ/ZSDsTaMuBQAJ) WebSockets over HTTP/2
-- :new: [Deprecate and remove](https://groups.google.com/a/chromium.org/d/msg/blink-dev/h-JwMiPUnuU/sl79aLoLBQAJ) Shadow DOM v0, Custom Elements v0, and HTML Imports
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/HgDaX3qW0IY/AYg6t_oaDwAJ) TLS 1.3
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/hmASm1yhi5s/7vqmt7CwDgAJ) HTML `<a hreftranslate>` attribute
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/U4rXcm5CE4Y/3XmVtoAPDwAJ) Writable Files
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/yCGhf7EA1Zs/70_NL0AEDwAJ) Feature Policy `lazyload` feature
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/IVjeSC9tk64/u1kIxBFiBQAJ) Shadow DOM imperative distributed API
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/7MCjXU3zmCQ/ZSDsTaMuBQAJ) WebSockets over HTTP/2
+- [Deprecate and remove](https://groups.google.com/a/chromium.org/d/msg/blink-dev/h-JwMiPUnuU/sl79aLoLBQAJ) Shadow DOM v0, Custom Elements v0, and HTML Imports
 
 July 2018
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/WLuXgLp2WWY/WvzMRIjdAgAJ) iframe sandboxing features as Feature Policy features
@@ -590,10 +594,15 @@ September 2015
 ### Firefox
 
 August 2018
-- :new: [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/hWuUoeDVPQo/TNIspBwICQAJ) CSS Motion Paths
-- :new: [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/K-i_WXuZ_bY/1-XAkm6wCQAJ) WebXR Device API (successor to WebVR)
-- :new: [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/BPZHwDp_Ciw/Blo-G1tqCQAJ) `HTMLMediaElement` `allowedToPlay` property
-- :new: [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/gchNtWfv_bk/kQEfdc0LBgAJ) Visual Viewport API
+- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/RcanREo7hU0/TCS3Un6aBwAJ) Custom Elements and Shadow DOM
+- :new: [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/MQph7NaIYmM/cViEVLg0BwAJ) `block` and `inline` values for the CSS `resize` property
+- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/Fq6OH5SWeRo/lxHDXFnwCQAJ) CSS `-webkit-appearance` property
+- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/ef7O7PrmNh0/qy8k9HDjCQAJ) Async Clipboard API
+- :new: [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/JhdWiVwgQeo/tSKKqatvCQAJ) CSS `scrollbar-width` property
+- [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/hWuUoeDVPQo/TNIspBwICQAJ) CSS Motion Paths
+- [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/K-i_WXuZ_bY/1-XAkm6wCQAJ) WebXR Device API (successor to WebVR)
+- [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/BPZHwDp_Ciw/Blo-G1tqCQAJ) `HTMLMediaElement` `allowedToPlay` property
+- [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/gchNtWfv_bk/kQEfdc0LBgAJ) Visual Viewport API
 
 July 2018
 - [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/bxyc26iatiQ/7FurvkSfCAAJ) `<img decoding>` attribute
