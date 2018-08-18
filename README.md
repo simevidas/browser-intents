@@ -1,4 +1,4 @@
-This is my selection of relevant Chromium and Firefox intents (from blink-dev and mozilla.dev.platform, respectively); updated weekly (:new: marks latest additions).
+This is my selection of relevant Chromium and Firefox intents (from [blink-dev](https://groups.google.com/a/chromium.org/forum/#!forum/blink-dev) and [mozilla.dev.platform](https://groups.google.com/forum/#!forum/mozilla.dev.platform), respectively); updated weekly (:new: marks latest additions).
 
 ***
 
