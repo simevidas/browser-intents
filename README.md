@@ -9,11 +9,13 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 ### Chromium
 
 August 2018
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/mAwFEMP6JDQ/sTobLh4HDQAJ) HTML `intrinsicsize` attribute (for images and videos)
-- :new: [Remove](https://groups.google.com/a/chromium.org/d/msg/blink-dev/18r3whCBv0I/b8qrtFTsDAAJ) Budget API
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/nRNPNwlRS6E/iLB-b5H6DAAJ) Feature Policy `animations` feature
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/5-3woY4Y1Qg/xHDTmUFAEAAJ) Feature Policy violation reports (`'feature-policy-violation'` report type)
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Icw_sU6PqVA/8hwXw0jTDwAJ) searchable invisible DOM
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/84RGJvm_PMM/bYh0Ehv1DgAJ) `pointerrawmove` event type
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/-xagQ4UJawY/6NonQwt_CAAJ) an API to measure the memory footprint of the website
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/mAwFEMP6JDQ/sTobLh4HDQAJ) HTML `intrinsicsize` attribute (for images and videos)
+- [Remove](https://groups.google.com/a/chromium.org/d/msg/blink-dev/18r3whCBv0I/b8qrtFTsDAAJ) Budget API
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/nRNPNwlRS6E/iLB-b5H6DAAJ) Feature Policy `animations` feature
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/5-3woY4Y1Qg/xHDTmUFAEAAJ) Feature Policy violation reports (`'feature-policy-violation'` report type)
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Icw_sU6PqVA/8hwXw0jTDwAJ) searchable invisible DOM
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/HgDaX3qW0IY/AYg6t_oaDwAJ) TLS 1.3
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/hmASm1yhi5s/7vqmt7CwDgAJ) HTML `<a hreftranslate>` attribute
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/U4rXcm5CE4Y/3XmVtoAPDwAJ) Writable Files
@@ -599,6 +601,7 @@ September 2015
 ### Firefox
 
 August 2018
+- :new: [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/YU4jPJc6p6Y/CS-f2qeOAQAJ): “Treat `-webkit-` prefixed pseudo elements as valid CSS selectors”
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/RcanREo7hU0/TCS3Un6aBwAJ) Custom Elements and Shadow DOM
 - [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/MQph7NaIYmM/cViEVLg0BwAJ) `block` and `inline` values for the CSS `resize` property
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/Fq6OH5SWeRo/lxHDXFnwCQAJ) CSS `-webkit-appearance` property
