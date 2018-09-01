@@ -9,8 +9,10 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 ### Chromium
 
 August 2018
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/84RGJvm_PMM/bYh0Ehv1DgAJ) `pointerrawmove` event type
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/-xagQ4UJawY/6NonQwt_CAAJ) an API to measure the memory footprint of the website
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/ODzbWn-xRrQ/dhkJzD8-CgAJ) `prefersNavigationBar` option for Fullscreen API
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/PPuewynNpaE/4rP9YAMPCgAJ) Permission Delegation
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/84RGJvm_PMM/bYh0Ehv1DgAJ) `pointerrawmove` event type
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/-xagQ4UJawY/6NonQwt_CAAJ) an API to measure the memory footprint of the website
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/mAwFEMP6JDQ/sTobLh4HDQAJ) HTML `intrinsicsize` attribute (for images and videos)
 - [Remove](https://groups.google.com/a/chromium.org/d/msg/blink-dev/18r3whCBv0I/b8qrtFTsDAAJ) Budget API
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/nRNPNwlRS6E/iLB-b5H6DAAJ) Feature Policy `animations` feature
@@ -601,7 +603,7 @@ September 2015
 ### Firefox
 
 August 2018
-- :new: [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/YU4jPJc6p6Y/CS-f2qeOAQAJ): “Treat `-webkit-` prefixed pseudo elements as valid CSS selectors”
+- [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/YU4jPJc6p6Y/CS-f2qeOAQAJ): “Treat `-webkit-` prefixed pseudo elements as valid CSS selectors”
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/RcanREo7hU0/TCS3Un6aBwAJ) Custom Elements and Shadow DOM
 - [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/MQph7NaIYmM/cViEVLg0BwAJ) `block` and `inline` values for the CSS `resize` property
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/Fq6OH5SWeRo/lxHDXFnwCQAJ) CSS `-webkit-appearance` property
