@@ -8,9 +8,17 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
+September 2018
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/2twP4Xdd1VI/yFE1pbwVBgAJ) Element Timing for images (incl. `<img elementtiming>` attribute)
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/vTnSjFcPwNc/kkTX92hpBgAJ) User Activation API
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/jx2joIL5SbU/pGuwgvi7EAAJ) `TextEncoderStream` and `TextDecoderStream` APIs
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/uauMQQQ7fAI/UAY5FX9UBgAJ) CSP `script-src-attr`, `script-src-elem`, `style-src-attr`, and `style-src-elem` directives
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/LGCEO53Mb6A/9oc4olniBQAJ) `queueMicrotask` function
+- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/QdjD9onSDFU/TPL9NPPrEAAJ) WebXR Device API (cont.)
+
 August 2018
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/ODzbWn-xRrQ/dhkJzD8-CgAJ) `prefersNavigationBar` option for Fullscreen API
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/PPuewynNpaE/4rP9YAMPCgAJ) Permission Delegation
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/ODzbWn-xRrQ/dhkJzD8-CgAJ) `prefersNavigationBar` option for Fullscreen API
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/PPuewynNpaE/4rP9YAMPCgAJ) Permission Delegation
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/84RGJvm_PMM/bYh0Ehv1DgAJ) `pointerrawmove` event type
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/-xagQ4UJawY/6NonQwt_CAAJ) an API to measure the memory footprint of the website
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/mAwFEMP6JDQ/sTobLh4HDQAJ) HTML `intrinsicsize` attribute (for images and videos)
