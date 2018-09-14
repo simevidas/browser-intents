@@ -9,12 +9,15 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 ### Chromium
 
 September 2018
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/2twP4Xdd1VI/yFE1pbwVBgAJ) Element Timing for images (incl. `<img elementtiming>` attribute)
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/vTnSjFcPwNc/kkTX92hpBgAJ) User Activation API
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/jx2joIL5SbU/pGuwgvi7EAAJ) `TextEncoderStream` and `TextDecoderStream` APIs
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/uauMQQQ7fAI/UAY5FX9UBgAJ) CSP `script-src-attr`, `script-src-elem`, `style-src-attr`, and `style-src-elem` directives
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/LGCEO53Mb6A/9oc4olniBQAJ) `queueMicrotask` function
-- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/QdjD9onSDFU/TPL9NPPrEAAJ) WebXR Device API (cont.)
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/ljkPttdvVuc/atNE2qYSCAAJ) `navigator.isProtocolHandlerRegistered` method
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/eYCm_qnf9BA/zZvhlGXXBwAJ) CSP `report-to` directive
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/2Yo590-USNo/7Da9scWwBwAJ) Display Locking
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/2twP4Xdd1VI/yFE1pbwVBgAJ) Element Timing for images (incl. `<img elementtiming>` attribute)
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/vTnSjFcPwNc/kkTX92hpBgAJ) User Activation API
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/jx2joIL5SbU/pGuwgvi7EAAJ) `TextEncoderStream` and `TextDecoderStream` APIs
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/uauMQQQ7fAI/UAY5FX9UBgAJ) CSP `script-src-attr`, `script-src-elem`, `style-src-attr`, and `style-src-elem` directives
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/LGCEO53Mb6A/9oc4olniBQAJ) `queueMicrotask` function
+- [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/QdjD9onSDFU/TPL9NPPrEAAJ) WebXR Device API (cont.)
 
 August 2018
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/ODzbWn-xRrQ/dhkJzD8-CgAJ) `prefersNavigationBar` option for Fullscreen API
@@ -609,6 +612,10 @@ September 2015
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/iBX_2xfX6jc/Uc0D6jr3AgAJ) `stale-while-revalidate` Cache-control extension
 
 ### Firefox
+
+September 2018
+- :new: [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/w3elPpZlqIE/ZA5cuKOMCAAJ) Feature Policy
+- :new: [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/l8bV4RFgAc4/MKl9jbJpBQAJ) Storage Access API
 
 August 2018
 - [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/YU4jPJc6p6Y/CS-f2qeOAQAJ): “Treat `-webkit-` prefixed pseudo elements as valid CSS selectors”
