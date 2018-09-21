@@ -9,9 +9,13 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 ### Chromium
 
 September 2018
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/ljkPttdvVuc/atNE2qYSCAAJ) `navigator.isProtocolHandlerRegistered` method
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/eYCm_qnf9BA/zZvhlGXXBwAJ) CSP `report-to` directive
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/2Yo590-USNo/7Da9scWwBwAJ) Display Locking
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/rbqI2wiszyY/RzIx7aIFCQAJ) crash reports (Reporting API)
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/CgFyxYikn6A/viBXhqRSBgAJ) `PointerEvent` `getPredictedEvents` method
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/qKjn0tLMezI/TCix0GI0CgAJ) IndexedDB database enumeration API
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/GcqEnSW5yHs/r7G3iMmDCQAJ) Serial API
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/ljkPttdvVuc/atNE2qYSCAAJ) `navigator.isProtocolHandlerRegistered` method
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/eYCm_qnf9BA/zZvhlGXXBwAJ) CSP `report-to` directive
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/2Yo590-USNo/7Da9scWwBwAJ) Display Locking
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/2twP4Xdd1VI/yFE1pbwVBgAJ) Element Timing for images (incl. `<img elementtiming>` attribute)
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/vTnSjFcPwNc/kkTX92hpBgAJ) User Activation API
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/jx2joIL5SbU/pGuwgvi7EAAJ) `TextEncoderStream` and `TextDecoderStream` APIs
@@ -614,8 +618,11 @@ September 2015
 ### Firefox
 
 September 2018
-- :new: [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/w3elPpZlqIE/ZA5cuKOMCAAJ) Feature Policy
-- :new: [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/l8bV4RFgAc4/MKl9jbJpBQAJ) Storage Access API
+- :new: [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/oFZivEmLC40/1rHs3IuICQAJ) new cookie jar policy to block storage access from tracking resources
+- :new: [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/20EhEy_ahKg/2OWJTbGeCgAJ) `navigator.getDisplayMedia` method (Screen Capture)
+- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/uizXjqHDmQ8/5yrdVG-LCQAJ) unprefixed Fullscreen API
+- [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/w3elPpZlqIE/ZA5cuKOMCAAJ) Feature Policy
+- [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/l8bV4RFgAc4/MKl9jbJpBQAJ) Storage Access API
 
 August 2018
 - [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/YU4jPJc6p6Y/CS-f2qeOAQAJ): “Treat `-webkit-` prefixed pseudo elements as valid CSS selectors”
