@@ -9,10 +9,13 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 ### Chromium
 
 September 2018
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/rbqI2wiszyY/RzIx7aIFCQAJ) crash reports (Reporting API)
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/CgFyxYikn6A/viBXhqRSBgAJ) `PointerEvent` `getPredictedEvents` method
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/qKjn0tLMezI/TCix0GI0CgAJ) IndexedDB database enumeration API
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/GcqEnSW5yHs/r7G3iMmDCQAJ) Serial API
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/OaDCpCaEe_4/3taK3m75DAAJ) WebHID
+- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/MKHe54W996c/1E51GLbvAQAJ) Signed HTTP Exchanges   
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/cMoPvrdcF0E/bt2Uwsn8BgAJ) Gamepad API touchpad extension
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/rbqI2wiszyY/RzIx7aIFCQAJ) crash reports (Reporting API)
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/CgFyxYikn6A/viBXhqRSBgAJ) `PointerEvent` `getPredictedEvents` method
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/qKjn0tLMezI/TCix0GI0CgAJ) IndexedDB database enumeration API
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/GcqEnSW5yHs/r7G3iMmDCQAJ) Serial API
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/ljkPttdvVuc/atNE2qYSCAAJ) `navigator.isProtocolHandlerRegistered` method
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/eYCm_qnf9BA/zZvhlGXXBwAJ) CSP `report-to` directive
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/2Yo590-USNo/7Da9scWwBwAJ) Display Locking
@@ -618,9 +621,10 @@ September 2015
 ### Firefox
 
 September 2018
-- :new: [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/oFZivEmLC40/1rHs3IuICQAJ) new cookie jar policy to block storage access from tracking resources
-- :new: [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/20EhEy_ahKg/2OWJTbGeCgAJ) `navigator.getDisplayMedia` method (Screen Capture)
-- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/uizXjqHDmQ8/5yrdVG-LCQAJ) unprefixed Fullscreen API
+- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/YtuN54Fi-84/6CuLmKxODAAJ) CSS `scrollbar-color` and `scrollbar-width` properties
+- [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/oFZivEmLC40/1rHs3IuICQAJ) new cookie jar policy to block storage access from tracking resources
+- [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/20EhEy_ahKg/2OWJTbGeCgAJ) `navigator.getDisplayMedia` method (Screen Capture)
+- [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/uizXjqHDmQ8/5yrdVG-LCQAJ) unprefixed Fullscreen API
 - [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/w3elPpZlqIE/ZA5cuKOMCAAJ) Feature Policy
 - [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/l8bV4RFgAc4/MKl9jbJpBQAJ) Storage Access API
 
