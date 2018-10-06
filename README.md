@@ -1,17 +1,23 @@
 This is my selection of relevant Chromium and Firefox intents (from [blink-dev](https://groups.google.com/a/chromium.org/forum/#!forum/blink-dev) and [mozilla.dev.platform](https://groups.google.com/forum/#!forum/mozilla.dev.platform), respectively); updated weekly (:new: marks latest additions).
 
-***
+---
 
 Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
-***
+---
 
 ### Chromium
 
+October 2018
+
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/gYrR2nR6quI/gngoL0HLAwAJ) spec-compliant specificity for CSS Scoping selectors (`:host()`, etc.)
+- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/z5WX-2RMulo/JQqeF3XZAgAJ) Background Fetch
+
 September 2018
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/OaDCpCaEe_4/3taK3m75DAAJ) WebHID
-- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/MKHe54W996c/1E51GLbvAQAJ) Signed HTTP Exchanges   
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/cMoPvrdcF0E/bt2Uwsn8BgAJ) Gamepad API touchpad extension
+
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/OaDCpCaEe_4/3taK3m75DAAJ) WebHID
+- [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/MKHe54W996c/1E51GLbvAQAJ) Signed HTTP Exchanges
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/cMoPvrdcF0E/bt2Uwsn8BgAJ) Gamepad API touchpad extension
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/rbqI2wiszyY/RzIx7aIFCQAJ) crash reports (Reporting API)
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/CgFyxYikn6A/viBXhqRSBgAJ) `PointerEvent` `getPredictedEvents` method
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/qKjn0tLMezI/TCix0GI0CgAJ) IndexedDB database enumeration API
@@ -27,6 +33,7 @@ September 2018
 - [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/QdjD9onSDFU/TPL9NPPrEAAJ) WebXR Device API (cont.)
 
 August 2018
+
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/ODzbWn-xRrQ/dhkJzD8-CgAJ) `prefersNavigationBar` option for Fullscreen API
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/PPuewynNpaE/4rP9YAMPCgAJ) Permission Delegation
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/84RGJvm_PMM/bYh0Ehv1DgAJ) `pointerrawmove` event type
@@ -45,6 +52,7 @@ August 2018
 - [Deprecate and remove](https://groups.google.com/a/chromium.org/d/msg/blink-dev/h-JwMiPUnuU/sl79aLoLBQAJ) Shadow DOM v0, Custom Elements v0, and HTML Imports
 
 July 2018
+
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/WLuXgLp2WWY/WvzMRIjdAgAJ) iframe sandboxing features as Feature Policy features
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Fw764MVF5nI/FNlBi815AwAJ) Badging API
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/SgsbpO08AeI/ZyDL6r5FBgAJ) HTML `<portal>` element for seamless navigations between sites or pages
@@ -58,6 +66,7 @@ July 2018
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/gXXMY1grZ-o/b0y3ENIaCQAJ) `left` and `right` values for the CSS `text-underline-position` property
 
 June 2018
+
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/9cfRxXx5Cis/XRm0wHaNCAAJ) `gamepadbuttondown`, `gamepadbuttonup`, `gamepadbuttonchange`, and `gamepadaxismove` events
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/e2fg_-Ha-AE/nheenHnXBgAJ) Web Locks API
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/mAWBTaANvmE/OgaCRH04BAAJ) DOM `Element` `toggleAttribute` method
@@ -77,11 +86,12 @@ June 2018
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/KZx0i3e5nZM/I7txb1mmAgAJ) nested, dedicated workers
 
 May 2018
+
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/dxqWTSvyhDg/1UDaFD17AQAJ) WebGPU API
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/48OwfwZrbvI/yIElvmbkCQAJ) CSS Logical Properties
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/tNwA_l_o9lc/5wug6BcmCQAJ) HTTP `Sec-Metadata` request header
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Na7aTFJOpWs/_tpdtav8CAAJ) Web Lifecycle
-- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Va5xWNoBOeE/1pQGezNpCAAJ) `TextEncoderStream` and `TextDecoderStream` APIs 
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Va5xWNoBOeE/1pQGezNpCAAJ) `TextEncoderStream` and `TextDecoderStream` APIs
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/aKI6doxffgQ/7dzrVvo4CAAJ) scroll target based on CSS selector in URL fragment
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/nNji_u7BRxo/Zh8Y9hRlBAAJ) Reporting API and Network Error Logging
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/PqEt_hXm9us/cG_LT9ZHAwAJ) Gamepad API touchpad extension
@@ -95,6 +105,7 @@ May 2018
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/TNeeH17Y26c/YmWpxPBrBAAJ) `AnimationEvent` `pseudoElement` property (CSS Animations)
 
 April 2018
+
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/MFbJuzA5tH4/t6Q-LZHpAgAJ) infrastructure for Layered APIs
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/WOAtshyL2As/wITX3abkAQAJ) `'same-origin'` as the default credentials mode for `fetch()` (the previous default was `'omit'`)
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/G_rkd0yo2A) HTTP `Network-RTT` and `Network-BW` request headers (network quality estimates)
@@ -109,6 +120,7 @@ April 2018
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/zCQe7UkR07w/8In0oinBAgAJ) `customElements.upgrade` method
 
 March 2018
+
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/MrKpBV26ik4/D_zmoAJrAQAJ) events for back/forward mouse buttons (`button` property values `3` and `4`)
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/RQVKGUjDz9U/ltwrLQ1HAQAJ) `style` option for `customElements.define` method (for providing a custom element’s default styles)
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/IIV1MfaPHYc/l0lsJ-agBQAJ) `formdata` event type (Form Participation API)
@@ -121,9 +133,10 @@ March 2018
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/EJ4xF_DwZyk/i6qz7FSnBQAJ) CSP `navigate-to` directive
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/8RBFue7RMXQ/c_Nf_XJ4AAAJ) HTTP `Accept-CH-Lifetime` response header
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/9BB64XIznsE/s_I4QTM0DgAJ) CSS Shadow Parts (`::part()` and `::theme()` pseudo-elements)
-- [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/C5ouVl8q3rU/WZLU1iM4DQAJ)  AudioWorklet
+- [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/C5ouVl8q3rU/WZLU1iM4DQAJ) AudioWorklet
 
 February 2018
+
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/-wN72ESFsyo/leH6DuuhAwAJ) CSS `:focus-visible` pseudo-class
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/aXYvQ01tMhw/SqA09gD7AgAJ) Media Capabilities API (getting information about decoding capabilities)
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/6UNwnk97lrE/LmW0ni0NCwAJ) `<slot>` elements in the flat tree
@@ -132,14 +145,15 @@ February 2018
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/T-OkMDASYfk/Mp7VsfDGBQAJ) `modulepreload` link relation
 - [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/AZ-PYPMS7EA/DEqbe2u5BQAJ) CSS Animation Worklet API
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/dEsseBBMbs4/rvdT2wK4BQAJ) AudioWorklet
-- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/MAHQkH4vvUQ/i0yCobrMCQAJ) HTML `inputmode` attribute 
-- [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/apdn-NbyZJg/RqHUfq3aCQAJ) Web Locks API 
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/MAHQkH4vvUQ/i0yCobrMCQAJ) HTML `inputmode` attribute
+- [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/apdn-NbyZJg/RqHUfq3aCQAJ) Web Locks API
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/GzDmvZO7IjU/syvJp9QjCAAJ): Expand list of properties that can apply to CSS `::first-letter` pseudo-elements
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/fVxkGlKpDbU/GJD6RgkbCAAJ) Payment Handler API
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/irhrlr6n5YQ/LOS8xSGsBwAJ) constructable style sheet objects (`CSSStyleSheet` constructor)
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/BLBHKKG90DM/MxokOGuaBwAJ) CSS `:is()` pseudo-class
 
 January 2018
+
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/FsD97U77tss/n3m_yvyoAAAJ) CSS `x` unit (synonym for `dppx`)
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/czmmZUd4Vww/1-H6j-zdAwAJ) “Lazily load below-the-fold iframes and images”
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/wP4NWLgbIpA/P1rebd9ZAgAJ) CSS `justify-items: legacy` value
@@ -163,6 +177,7 @@ January 2018
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/8vqcABTnDF4/2kZzScnzBgAJ) Fetch API `keepalive` option
 
 December 2017
+
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/XzdNrEvn4Qk/650SpqXTBAAJ) CSS `display: contents` value
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/kqD_G4sxfZE/6CJM01X2BwAJ) CSS `:matches()` pseudo-class
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/RX0GN4PyCF8/6XVhJ_oTCgAJ) Feature Policy `accelerometer`, `gyroscope`, `magnetometer` features
@@ -175,6 +190,7 @@ December 2017
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/AgonJunvfIE/O7Gb0fzXAgAJ) Network Information `saveData` property
 
 November 2017
+
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/dJkNHglu1Z0/eodHxUDdAgAJ) CSS `:any-link` pseudo-class
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/KeQ2s0z6ZkM/GhGv3vhlBgAJ) HTTP 425 (Too Early) status code
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/KTLndMOFLLA/VykZ7bg8BgAJ) Feature Policy `autoplay` feature
@@ -192,9 +208,10 @@ November 2017
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/55sC81ciQgY/7jAt5YpgBAAJ) `preventScroll` option for focus APIs
 
 October 2017
+
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/F4h7sdBdiBM/oVnhPTV5BAAJ) HTML `<iframe delegatestickyuseractivation>` attibute
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/4ZWHz8tCONI/XBTvQtw2BAAJ) CSS `transform-box` property
-- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/47BHtmz0jVY/itAC_xpwBgAJ) CSS ` text-decoration-skip-ink` property (and remove `text-decoration-skip: ink` value)
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/47BHtmz0jVY/itAC_xpwBgAJ) CSS `text-decoration-skip-ink` property (and remove `text-decoration-skip: ink` value)
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/5s1nbytTL68/SnnummScBAAJ) stylable `<slot>` elements (assigned nodes inherit style)
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/AUAIHVF63SM/naGVAnoBAwAJ) Fetch API `keepalive` option
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/1WFVPbRL640/TPPG9gs5AwAJ) Web Lifecycle
@@ -203,6 +220,7 @@ October 2017
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/bUAhkdsrmqE/nimnFDG3BAAJ) CSP `'unsafe-hashed-attributes'` source expression
 
 September 2017
+
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/z6ienONUb5A/GlHRa9S2AAAJ) Resize Observer API
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/2tutRHmhwTE/X0UX8G5eBgAJ) `<textarea autocomplete>` and `<select autocomplete>` attributes
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/fP1jDcQu68g/qSjd8EI8BQAJ) CSS `overflow-wrap: break-spaces` value
@@ -223,6 +241,7 @@ September 2017
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/QeiK3lAXcmI/MQpErASnAwAJ) options argument for Element `focus` method
 
 August 2017
+
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/MFBsNZCkotU/heK7JapxAgAJ) `navigator.deviceMemory` property
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/DZHASdj7kQc/tpy5mEbrCgAJ) `history.index` property
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/RC9dSw-O3fE/E3_0XaT0BAAJ) “Treat `http://localhost` as a secure context”
@@ -237,6 +256,7 @@ August 2017
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/mdkHs4jybG4/QQCJJQSsAgAJ) Origin Policy
 
 July 2017
+
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/0uSHjqvgAwQ/CqmFd6KNAwAJ) `s` flag for JavaScript regular expressions
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/ck9M6Ev21lo/0wf6sg6ZBwAJ) `performance.timeOrigin` property
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Su9wM-T6NHc/om3tojbSBgAJ) HTMLImageElement `decode` method
@@ -245,7 +265,8 @@ July 2017
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/wRLMM5-kpCY/Y0be_ASaAwAJ) JavaScript `import()` syntax for dynamic imports
 
 June 2017
-- [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/eJnB-5Sg-mQ/uvdWnO2OBQAJ)  Shape Detection API
+
+- [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/eJnB-5Sg-mQ/uvdWnO2OBQAJ) Shape Detection API
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/AzphlHk8orw/0fiWYuVLAQAJ) OpenType variable fonts
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/3B0I0EDKfpk/leSOUkN0AQAJ) `beforeprint` and `afterprint` events
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/e52E3t3ijHo/eyEaNDt1AQAJ) HTML `<time>` element
@@ -262,6 +283,7 @@ June 2017
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/TgtPUowSWuU/Y-Sn2oRsCAAJ) Referrer Policy `'same-origin'`, `'strict-origin'`, and `'strict-origin-when-cross-origin'` values
 
 May 2017
+
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/waIh70rrNKM/YzfvTGLvBgAJ) “Exit fullscreen mode if a JavaScript dialog is shown”
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/s0pPWgyGexg/HQa8IErlBgAJ) Element `getAttributeNames` method
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/KuXx_k2KIis/-g-75FScBgAJ) WebUSB
@@ -280,6 +302,7 @@ May 2017
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/DxYtgt49OjA/dH7-4knVAgAJ) Fetch API `formData` method
 
 April 2017
+
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/CvheM4B71Ws/P1c1Hf6xBAAJ) HTTP `Device-Ram` header and `navigator.deviceRam` API
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/gQCGIrnMxFU/Fz0UDLNeBAAJ) Web Payment Manifest
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/d8KxOilsS2g/9M1igHrpDgAJ) Navigation Preload for Service Worker
@@ -289,9 +312,10 @@ April 2017
 - [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/_l_fxUTWCHs/BQNBSuAVDQAJ) Budget API `getCost` and `getBudget` methods
 
 March 2017
+
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/LMV9dBG_1-I/Bx5VsRWLCgAJ) HTMLImageElement `decode` method
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/0EW0_vT_MOU/rY-0w8efCwAJ) ReadableStream `pipeTo` and `pipeThrough` methods
-- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/qpY1dj_ND-Q/L5a2M3OaCwAJ) writable streams 
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/qpY1dj_ND-Q/L5a2M3OaCwAJ) writable streams
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/xEOyu8QFCr0/3oqSlHBxCwAJ) APNG
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/v8g3QF8pRF8/Wptgd-sQCwAJ) CSS `transform-box` property
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/t2ai4lsHhWI/MndrZyEWCwAJ) “CSP hash expressions matching external scripts” (`<script integrity>`)
@@ -307,16 +331,17 @@ March 2017
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/-z66SwKdklc/5t-NBchECQAJ) CSS `conic-gradient()` notation
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/hlRQU77Wq0o/Apbt1WNQBwAJ) Accessibility Object Model
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/y3qwr490Fc4/boGoo41-BwAJ) Server Timing
-- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/c-b866DUg10/MxS1WTWfBgAJ) HDR display detection via `screen.colorDepth`, `screen.pixelDepth`, and the CSS `color` media feature 
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/c-b866DUg10/MxS1WTWfBgAJ) HDR display detection via `screen.colorDepth`, `screen.pixelDepth`, and the CSS `color` media feature
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/cAiTOdSGyes/Su7dlx32EQAJ) Geometry Interfaces
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Tr43oT4DQoY/XRxLWmrrEQAJ) “Android on-screen keyboard doesn’t resize layout”
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/6W9r_sX3zTQ/5XCSBUQBEAAJ) `sample` property for CSP reports
 
 February 2017
+
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/_DPl-JG6bV8/y2_GUwFVDwAJ) animations/transitions on the CSS `offset-path` property
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/fHl9GNxPPpA/VwhB6h5cDwAJ) “Temporarily stop permission requests after 3 dismissals”
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/tFuQd3AcsIQ/c-sUR-AxDwAJ) HTMLMediaElement `controlsList` property (for customizing native media controls)
-- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/qCfsZJhGtOQ/sC5n92IwDgAJ) CSS Box Alignment `place-*` (shorthand) properties 
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/qCfsZJhGtOQ/sC5n92IwDgAJ) CSS Box Alignment `place-*` (shorthand) properties
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/El0ueyoNgRE/N-6u2SdNDgAJ) `allow-top-navigation-by-user-activation` keyword for `<iframe sandbox>`
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/bmQjmh0-YB8/iG-7lrqvCgAJ) IndexedDB 2.0 APIs
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/N--HhuYFJQI/bmwhhHDZCQAJ) HTML `inert` attribute
@@ -328,6 +353,7 @@ February 2017
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Mx9q5WXunSE/TOAXeHFZBgAJ) Long Task API
 
 January 2017
+
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/36CcloDrB3E/1wMSNMl9BQAJ) CSS `color-gamut` media feature
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Ia9_-CVrl1U/oW0riJbHBAAJ) Background Fetch API
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/CGeXqTudllA/3t72vfXOBAAJ) uncancellable touch events when the main thread is busy (intervention)
@@ -349,6 +375,7 @@ January 2017
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/qu73qpdGunE/FoOgPZ6-FAAJ) Canvas color management (`colorSpace` property)
 
 December 2016
+
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/8Zo2HiNEs94/h8mDVkx0EwAJ) `rel="prefetch"` in `Link` header
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/pFI8AMdDChM/GEWPKoGzEgAJ) asynchronous Clipboard API
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/2XJ51Apy5XY/9wh9z2zSDwAJ) ARIA 1.1
@@ -365,6 +392,7 @@ December 2016
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/sa5Tvr4QyWI/Pk_ohqbpBAAJ) Phone number API (a.k.a. Sign up API)
 
 November 2016
+
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/5AgbvQwEEdM/bLQcXkF7BAAJ) ReadableStream `pipeTo` and `pipeThrough` methods
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/kyll3WFKTig/gMNvZ66eBAAJ) PerformancePaintTiming interface (incl. time to first paint)
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/npKDoKVOUAs/ogtlIFmLBAAJ) changes to CSP’s model for workers
@@ -387,14 +415,15 @@ November 2016
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/VJmxBRYGVIE/CogbbYWXCAAJ) scroll anchoring
 
 October 2016
+
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/LukPJ86fcs8/RX_dsbUiCAAJ) `<link referrerpolicy>` attribute
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/X_vBQp60kp8/v43CLS89CAAJ) CSS `position: sticky` value
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/wfIVkXvQ7kQ/VfuOr_FhBwAJ) FIDO U2F API
-- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/1kroHAnh3BU/uYZb6uZRBwAJ) Fractional MouseEvent coordinates 
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/1kroHAnh3BU/uYZb6uZRBwAJ) Fractional MouseEvent coordinates
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/6o1W8mVUDsA/JOKZ-aRfBwAJ) KeyboardEvent `isComposing` property
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/f1zzIHtRomQ/foZ6f5dKBwAJ) WritableStream (part of Streams API)
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/vNNQ50QRNuY/u6n62FlqBgAJ) CSS `shape` media feature
-- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/VAEv-MUFGC8/n7gz63UfBgAJ) WebGL 2.0 
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/VAEv-MUFGC8/n7gz63UfBgAJ) WebGL 2.0
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/___gftRPAvg/TsANSIDHBQAJ) TLS 1.3 1-RTT (field trial)
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/toKFfP_oOac/jde6w6xuBQAJ) ImageBitmap rendering context for `<canvas>`
 - [Remove](https://groups.google.com/a/chromium.org/d/msg/blink-dev/JqUlPA-HFfU/l77tAggtBQAJ) CSP `'referrer'` directive
@@ -410,6 +439,7 @@ October 2016
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/y4a1OWfMzN0/XFBIp_GIBgAJ) HTTP `Referrer-Policy` header
 
 September 2016
+
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/ip4dmVNr15Y/jyE0Gc8jBQAJ) CSP violation event `disposition` property
 - [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/3tViQmRF2l8/0hRE9EBUBQAJ) Long Task API
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Uzit4zDQ1ps/pD_3k2rqBAAJ) CSS `overscroll-action` property
@@ -429,6 +459,7 @@ September 2016
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/fBfWECEGZa8/Jr_3UDsCAQAJ) AudioWorklets for Web Audio API
 
 August 2016
+
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/_IReUkNKF6o/S1GCeqxMAAAJ) Accelerometer, Gyroscope and Magnetometer Sensor APIs
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/b6UBgAZt1kQ/nZTYfu0AAgAJ) CSS Properties and Values API
 - [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/zuqQaLp3js8/5V9wpRWhBgAJ) Web Share API on Android
@@ -438,7 +469,7 @@ August 2016
 - [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/lLX_NIuTpkM/-iP0Kq23BQAJ) WebUSB (updated)
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/P2UKXfsFWWE/Nii0d7snBQAJ) custom elements v1
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/uMC1NQP4kpY/Rh8LYedWBAAJ) `once` option for `addEventListener` method
-- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Yk8u329AmIs/eXTS5WeaAwAJ) media tracks (limited to  1 audio/video track)
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Yk8u329AmIs/eXTS5WeaAwAJ) media tracks (limited to 1 audio/video track)
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/zXlpFPXhyvE/PPbUFRAvAgAJ) `dataset` API on SVG elements
 - [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/sIzHpZVhmBE/fF0Qf15qAQAJ) foreign fetch and `serviceworker` link relation
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Tf5TwA45W8Q/eycERiHpAAAJ) unprefixed CSS `-webkit-image-set` function
@@ -447,6 +478,7 @@ August 2016
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/I3FhKqtui_k/YY4AvQq6AAAJ) Budget API
 
 July 2016
+
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/fH5bzd0_lRI/58_8fyxIBwAJ) ParentNode/ChildNode `prepend`/`append`/`before`/`after`/`replaceWith` methods
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/bcD93CiIJHE/2a9_ibfbDQAJ) `pan-up`/`pan-down`/`pan-left`/`pan-right` values for CSS `touch-action` property (follow up)
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Z2fllXoSjcU/P-kHtCVJBQAJ) “Allow web pages to request fullscreen while an orientation change event handler is running”
@@ -461,6 +493,7 @@ July 2016
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/VhYxkRlfQng/EXRHD7A5BQAJ) `pan-up`/`pan-down`/`pan-left`/`pan-right` values for CSS `touch-action` property
 
 June 2016
+
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/p1DYoxHlkKg/qxS32AaCAgAJ) PaymentRequest API
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/hWT6i_qXcjo/7uN5KoiJAgAJ) `"install"` event for Web App Manifest
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/_Lhz8THHk2Q/f8j8E49rAgAJ) timer throttling for hidden, cross-origin frames
@@ -478,6 +511,7 @@ June 2016
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/ezyGy6JE7hs/lz5TuPcbGwAJ) Media Capture Depth Stream Extensions (media stream from depth camera)
 
 May 2016
+
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/L-BRotfWD8U/YiYj6aGCAgAJ) HTTP Alternative Services
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/QC5iefctcag/kkoBNliBAgAJ) “External stylesheets in `<body>` do not block paint”
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/g09B730nI80/tWiUWVWFAQAJ) CSS `nav-up`, `nav-down`, `nav-left`, `nav-right` properties
@@ -496,8 +530,8 @@ May 2016
 - [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/5Sihi1iAXYc/SISKuRppAwA) durable storage (`navigator.storage.persist` and `.persisted` methods)
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/zLL_d4DLAno/paH269ijAwAJ) Performance Observer API
 
-
 April 2016
+
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Wo7fimlUUjc/sN34ExpqAQAJ) Web Push protocol and subscription restrictions
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/NHkG8FXFEWU/KLPutppmAQAJ) `Clear-Site-Data` HTTP header
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/TkfdVqYAYiE/xLGN2b1-AAAJ) Generic Sensor and Ambient Light Sensor APIs
@@ -519,6 +553,7 @@ April 2016
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/0b5Jgk47uMU/ldEJNx94CAAJ) `Node.isConnected` property
 
 March 2016
+
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/7GYNDnQHRCs/BXHM0jn8BgAJ) Fetch API `Request.referrerPolicy` property
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/KhRce4bmnb0/h--WcEzKBgAJ) DOM `KeyboardEvent.key` property
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/7ZWqizEIK1E/D3rDr_HEAwAJ) multiple audio and video tracks
@@ -538,6 +573,7 @@ March 2016
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/kX6a99C1FGw/MQSorHYwAQAJ) CORS restrictions on internet-to-intranet connections
 
 February 2016
+
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Sf1C6blXmUo/bFNlBk1MDwAJ) Remote Playback API
 - [Implement and experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/0xXsJYdkaWg/2NwHKmZBEAAJ) AppInstalled API
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/gDokxXYyeSo/uCS1Gq8oDwAJ) `referrerpolicy` attribute
@@ -566,11 +602,12 @@ February 2016
 - [Implement and ship](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/bvs8ledF4tU/qC__g3yICAAJ) “`HTMLMediaElement.play()` retuns a promise”
 
 January 2016
+
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/fePanzKy6ec/fscI5AOoBgAJ) `"notificationclose"` event
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/_nu6HlbNQfo/XzaLNb1bBgAJ) `"preload"` link relationship
 - [Implement](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/A4PZz_mXOTg/D9sNjsGWBQAJ) CSS Paint API
 - [Ship](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/JufzX024oy0/WEOGbN43AwAJ) Brotli (`Accept-encoding: br` on HTTPS connection)
-- [Ship](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/8P5RWP_nRTk/7QNvJVrmAgAJ) Unprefixed CSS Multi-column Layout 
+- [Ship](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/8P5RWP_nRTk/7QNvJVrmAgAJ) Unprefixed CSS Multi-column Layout
 - [Ship](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/jRzvehX9U1U/RReEdlqpAgAJ) `ImageBitmap` and `createImageBitmap` method
 - [Implement](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/ZuseXCSZY2U/p1gLNcCMAgAJ) Media Capture from `HTMLMediaElement`
 - [Implement and ship](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/WUUEUWha5cI/lnw0T_5XAgAJ) CSS `column-fill` property
@@ -580,6 +617,7 @@ January 2016
 - [Ship](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/QnBcTm29mJU/3fMvH0XuAAAJ) Canvas Hit Regions
 
 December 2015
+
 - [Implement and ship](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/N9a8eAT6Jug/c5LwnvEiBQAJ) CSS `inverted-colors` media feature
 - [Ship](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/Vga32co0YMQ/4i6qXvfeAwAJ) Push messaging payloads (`PushEvent.data` property)
 - [Ship](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/iJ_enKAj9gE/swGKdCAlAwAJ) CSS Custom Properties Level 1
@@ -591,6 +629,7 @@ December 2015
 - [Ship](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/AmChp_uVpXU/SNEykhRLBwAJ) Promise rejection tracking events
 
 November 2015
+
 - [Implement and ship](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/sWoR3JJpowc/WCd9GofQBQAJ) `HTMLMediaElement.disableRemotePlayback`
 - [Ship](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/76HB0BIxk_o/RTel6y2IBQAJ) Media Stream Recording API
 - [Ship](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/t9apD7cQb6I/NlTgcjt_BQAJ) Background Sync (one-shot)
@@ -602,6 +641,7 @@ November 2015
 - [Implement and ship](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/hqW3RGDV8WI/bGe64uK-AQAJ) `"noopener"` link relation
 
 October 2015
+
 - [Ship](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/8iSlPpwokbY/LWMJ8IffDQAJ) notification action buttons
 - [Implement and ship](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/el1cAmGOrvY/0tnBa3bvDAAJ) `"navigate"` mode in `fetch` requests
 - [Ship](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/ELz4SxMwa0U/CWsWMGjfCwAJ) Audio Output Devices API
@@ -610,6 +650,7 @@ October 2015
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/21YdGHt2ogM/pkNLbZftCAAJ) `WindowClient.navigate` method for service workers
 
 September 2015
+
 - [Ship](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/G-hC66MRTso/uVrmHV0NAwAJ) Local Font Access API
 - [Ship](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/Md2SYtNazVU/QbN4NGgTAwAJ) durable storage
 - [Implement](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/VscIPcVtKrc/VfJHxeGUAgAJ) iterable `NodeList`
@@ -621,7 +662,8 @@ September 2015
 ### Firefox
 
 September 2018
-- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/YtuN54Fi-84/6CuLmKxODAAJ) CSS `scrollbar-color` and `scrollbar-width` properties
+
+- [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/YtuN54Fi-84/6CuLmKxODAAJ) CSS `scrollbar-color` and `scrollbar-width` properties
 - [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/oFZivEmLC40/1rHs3IuICQAJ) new cookie jar policy to block storage access from tracking resources
 - [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/20EhEy_ahKg/2OWJTbGeCgAJ) `navigator.getDisplayMedia` method (Screen Capture)
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/uizXjqHDmQ8/5yrdVG-LCQAJ) unprefixed Fullscreen API
@@ -629,6 +671,7 @@ September 2018
 - [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/l8bV4RFgAc4/MKl9jbJpBQAJ) Storage Access API
 
 August 2018
+
 - [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/YU4jPJc6p6Y/CS-f2qeOAQAJ): “Treat `-webkit-` prefixed pseudo elements as valid CSS selectors”
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/RcanREo7hU0/TCS3Un6aBwAJ) Custom Elements and Shadow DOM
 - [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/MQph7NaIYmM/cViEVLg0BwAJ) `block` and `inline` values for the CSS `resize` property
@@ -641,6 +684,7 @@ August 2018
 - [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/gchNtWfv_bk/kQEfdc0LBgAJ) Visual Viewport API
 
 July 2018
+
 - [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/bxyc26iatiQ/7FurvkSfCAAJ) `<img decoding>` attribute
 - [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/faQvST2piv4/prtBa7rCBwAJ) CSS `prefers-reduced-motion` media feature (on Windows and macOS)
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/YzuvitvaFbY/CsIPdgDXBgAJ) HTTP `Clear-Site-Data` header
@@ -648,6 +692,7 @@ July 2018
 - [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/X_tv4aH4NxQ/w497k6J7CQAJ) CSS `scrollbar-face-color` and `scrollbar-track-color` properties
 
 June 2018
+
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/wwU0TW80u1g/X_V3091yCAAJ) DOM `Element` `toggleAttribute` method
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/sSx7WPiVLbw/Dd2dPBksBQAJ) range context for CSS media queries (with limitations)
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/IUQBiW8wDrs/Urt2rnmlAwAJ) Storage API on Android (`persist` and `estimate` methods)
@@ -655,7 +700,8 @@ June 2018
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/KrJoz5XB8J4/pu8CMEWOAwAJ) CSS `shape-outside` property
 
 May 2018
-- [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/HW64jE5y2r0/rpm3fbvgCQAJ) speech synthesis on Android (part of Web Speech API) 
+
+- [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/HW64jE5y2r0/rpm3fbvgCQAJ) speech synthesis on Android (part of Web Speech API)
 - [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/ASfzHokKin0/-EpzV-GeCwAJ) `import.meta` meta property in module scripts
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/jKWIKsOpUwc/uM7wtRdfAQAJ) Media Capabilities API
 - [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/skHoHwfapEY/VQZZXvNxAQAJ) Async Clipboard API
@@ -663,30 +709,36 @@ May 2018
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/y9KU21IBFvo/dVwVG9b1DgAJ) `Event` `srcElement` property (alias of `target` property)
 
 April 2018
+
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/MSzaY7_4mvg/hGpUlTzxAgAJ) Server Timing
 - [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/1ZrtZlcI888/jOr1cTRHBQAJ) `application/javascript+binast` (JavaScript Binary AST content encoding)
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/4vy-a5_a35o/FH_KnQFGBQAJ) CSS `overflow` shorthand (accepts two values)
-- [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/-1SfS4jWqd8/D6aJ7XprBQAJ) CSS subgrid layout (prototype) 
+- [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/-1SfS4jWqd8/D6aJ7XprBQAJ) CSS subgrid layout (prototype)
 - [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/7hOKZDuO3qI/w9FVLatSAAAJ) `SameSite` attribute for cookies
 
 March 2018
+
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/MO2S2FepLPk/mhDzdc1WAAAJ) OpenType variable fonts
 
 February 2018
+
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/DZ7YctNoUUk/c2w8Ue8QCgAJ) module scripts (`<script type="module">`)
 - [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/GRNpjC4MuH8/hjxJxwgtAgAJ) `navigator.webdriver` (Boolean) property
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/djQGD_wRw5E/-GsC9AMaAgAJ) CSS `paint-order` property for HTML text
 
 January 2018
+
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/6fVRnF4_g8s/piNtMNxBAAAJ) CSS `overscroll-behavior` property
 
 December 2017
+
 - [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/mogT087VmJM/1263_6MlCQAJ) CSS `paint-order` property for HTML text
 - [Remove](https://groups.google.com/d/msg/mozilla.dev.platform/DcSi_wLG4fc/QI1X8SjbCgAJ) Ambient Light and Proximity Sensor APIs
 - [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/uidYTDXu1CE/_Ax4VvckCgAJ) CSS `translate`, `scale`, and `rotate` properties (individual transforms)
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/tsevyqfBHLE/lccldWNNBwAJ) Web Authentication API (initially for FIDO U2F tokens)
 
 November 2017
+
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/Cy2rIx2MACc/mXn9qHsFBQAJ) CSS Shapes
 - [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/BI3I0U7TDw0/6-W39tXpBAAJ) Custom Elements v1
 - [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/aJvUlADn-Hk/BYB52MgDBQAJ) Shadow DOM v1
@@ -696,6 +748,7 @@ November 2017
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/c6PqC5RuKLs/7X9pu7m4AAAJ) CSP violation events
 
 October 2017
+
 - [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/3hujzpw-LDA/pKl0V27zAwAJ) CSS `overscroll-behavior` property
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/RPELgLHAhjM/gmkupELMAgAJ) Pointer Events on desktop
 - [Unship](https://groups.google.com/d/msg/mozilla.dev.platform/aNUUx0S6PxE/3E3TkBXtAgAJ) `preload` link relation (temporary)
@@ -706,20 +759,25 @@ October 2017
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/t9tz_hN6WMs/qsxb169ECAAJ) `<a ping>` attribute
 
 September 2017
+
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/MCSJOhbqSVE/ce6sF7JkAAAJ) WebVR on macOS
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/ELX9G6OOAjw/_axw46TQAAAJ) Performance Observer API
 
 August 2017
+
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/jk6XtUch4GQ/lYNjSuHDBQAJ) Abort API (`AbortController`)
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/gPcjLOuCFWg/8hWKvdAcBQAJ) CSS `font-display` descriptor
 
 July 2017
+
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/Q8R1O_2rG6w/10xkqIUjAgAJ) `preload` link relation
 
 May 2017
+
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/s9MOnejqLsc/jSoAGdIjAwAJ) HTTP `SourceMap` response header
 
 March 2017
+
 - [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/cnEN_sccXJY/-0W_P31cCwAJ) CSS `line-height-step` property
 - [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/xAtirsgM86c/A_qupX7TCgAJ) CSS `::cue` pseudo-element
 - [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/4YST7JQysiU/65zkGTd0CQAJ) ScrollTimeline API (for creating scroll-linked animations)
@@ -730,6 +788,7 @@ March 2017
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/TB2gVavDe6w/Be2oSxwdAgAJ) WebVR (on Windows)
 
 February 2017
+
 - [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/w-3HBnN3sc4/p1geixAzAAAJ) CSS `frames()` timing function
 - [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/8RJ6lACmJTM/M9dDRkphBQAJ) CSS `animationcancel` event
 - [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/B4F7jCC9jAI/A2c8c7_zBAAJ) global `origin` property (`self.origin`)
@@ -737,12 +796,14 @@ February 2017
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/X29xtxQRPJc/gxRNbLFzBAAJ) basic shape values for CSS `clip-path` property (`inset()`, `circle()`, `ellipse()`, `polygon()`)
 
 January 2017
+
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/kXX7TrKhIRw/4eS85MEwAAAJ) new syntax of CSS color functions (e.g. `rgb(0 0 0 / 100%)`)
 - [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/WAaqNIo9Fvc/4-24kwmJAgAJ) HTTP `Large-Allocation` header (non-standard)
 - [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/dr67sITwva8/G3aHo1MKGAAJ) module scripts (`<script type="module">`)
 - [Experiment](https://groups.google.com/d/msg/mozilla.dev.platform/uI5bHZil2KU/VPrlTdOQFQAJ) CSS Houdini Paint API Level 1
 
 December 2016
+
 - [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/Ycr5zeYEcgs/ajxJ8nseEwAJ) CSS box alignment properties on block containers
 - [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/T_7HTTdt-Es/QCZVZw-zEgAJ) SVG `vector-effect` property (additional values)
 - [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/lOpCwCMIWwo/nom3la3CEAAJ) CSS `caret-color` property
@@ -756,14 +817,16 @@ December 2016
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/Q-dSrp4PYe4/hS7r9Y3OCwAJ) Presentation API (on Android)
 
 November 2016
+
 - [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/1K_Uq_fx1l4/Yc93M2P2CgAJ) Web2Native Bridge
 - [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/B9bIszPlVX4/3OVBjLBTCQAJ) CSS `background-repeat-x`/`background-repeat-y` and `mask-repeat-x`/`mask-repeat-y` properties
 - [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/n-2o58jcTK8/sFisJf6pCAAJ) Payment Request API
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/6shk3TZX5vo/avSCrtLCBgAJ) CSS Grid Layout
 - [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/F0rCRF8z87E/CPh7dIJ9BQAJ) Web Authentication API
-- [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/PYPzrwNh6kA/_ErvsqkEAwAJ) `requestIdleCallback` function 
+- [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/PYPzrwNh6kA/_ErvsqkEAwAJ) `requestIdleCallback` function
 
 October 2016
+
 - [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/Yy4WAqnGxGo/8bUPmXyJBgAJ) `transitionrun`, `transitionstart`, and `transitioncancel` events
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/sfeqeMkyxCI/J04LFWcnBgAJ) TLS 1.3 (draft 16)
 - [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/PhG4Upk4Mo4/ie0Mr2xsBAAJ) CSS `shape-outside` property
@@ -771,18 +834,21 @@ October 2016
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/6CGjsm1XpD4/GDbW6mCDAQAJ) CSS `touch-action` property (only Level 1 values)
 
 September 2016
+
 - [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/FO-x9WCJfxM/yfH9YpnDBQAJ) CSS `initial-letter` property
 - [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/UnBVw8R4Kl0/tOIqsr0qBAAJ) global `isSecureContext` property in workers
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/-stfRvwwEHU/J5P1mzlHAwAJ) Storage API `estimate` method
 - [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/dYn5Fel_p-M/3sPPJvLqCQAJ) Canvas 2d context `getTransform`/`setTransform` methods
 
 August 2016
+
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/ozygu09pg_o/ux577V_zBAAJ) Canvas 2D context `imageSmoothingEnabled` property
 - [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/PR_AP6i-xIo/YQ_qTJqyBAAJ) `transitionstart` event
 - [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/S1_0_G6lqAs/7C4P3xb4AwAJ) HTML `minlength` attribute and `tooShort` validity state
 - [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/Ja4GCMopHVg/0D2Zu4VNAQAJ) `dataset` API on SVG elements
 
 July 2016
+
 - [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/YnTqCbrusb0/ENLHDcUhBAAJ) `forEach` method on NodeList and DOMTokenList
 - [Ship]() Blink’s Entries API (`webkitGetAsEntry` method) incl. file input `webkitdirectory` attribute
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/UwD8xIPNK0c/CBlM4FxiAwAJ) (unprefixed) CSS `:any-link` pseudo-class
@@ -795,10 +861,12 @@ July 2016
 - [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/NGms9X06tW8/ZK5jthS3BQAJ) “Force flattening of `transform-style: preserve-3d` when opacity is applied”
 
 June 2016
+
 - [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/azNSLhfv978/Rb2evmprBQAJ) Service Worker `WindowClient.navigate` method
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/6lMOvomdZFU/Q1AScq2SAgAJ) CSS `mask-image` property
 
 May 2016
+
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/KaFZG0WoJnw/DqI5UA0OPAAJ) filters in 2D canvas
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/jbMO8mkFZwE/ATXLMHECPAAJ) unprefixed CSS `text-align-last` property
 - [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/VzYoDjzn1CE/-YmQS3LpOwAJ) HTMLMediaElement `seekToNextFrame` method (non-standard)
@@ -813,11 +881,12 @@ May 2016
 - [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/YFRTGKaY5-g/vgam5EksAAAJ) `DOMTokenList.prototype.supports` property
 
 April 2016
+
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/5FwFLRW5bBE/lYHzKIb0AwAJ) Speech Synthesis API
 - [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/2gjY07E0D5E/6MxWoygDAwAJ) `"noopener"` link relation
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/wouDQLBbm9A/D9K5e2PIAQAJ) “Restrict `geolocation.watchPosition` to secure contexts”
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/1cTAxTf916c/-9fwpSORAQAJ) basic shapes (`polygon` et al) for CSS `clip-path` property
-- [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/q6AQnTEeX6o/dqS48DbtAwAJ) `requestIdleCallback` function 
+- [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/q6AQnTEeX6o/dqS48DbtAwAJ) `requestIdleCallback` function
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/2INRr96R3IU/do-AigNwAwAJ) `Element.animate` method
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/SeuzXf0mdRs/Z1x-wh-hAwAJ) ParentNode `prepend`, `append`, `before`, `after`, `replaceWith` methods
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/v11adKDvK04/W05rm0f0AgAJ) `document.scrollingElement` property
@@ -826,6 +895,7 @@ April 2016
 - [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/d_zmnSd_yts/guM1BxZHAgAJ) CSS `-webkit-text-stroke` property
 
 March 2016
+
 - [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/eEm0CPr8lGI/x0AZZxzgCAAJ) CSS `-webkit-background-clip: text`
 - [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/RKTuYDrsnvo/ysG8aeLhCAAJ) CSS `text-combine-upright: all`
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/1ExwWZOmV74/BerMieDzBgAJ) `navigator.hardwareConcurrency`
@@ -834,19 +904,23 @@ March 2016
 - [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/Bp02mJMc7V4/O1iYSRsjAwAJ) Push API in Firefox for Android
 
 February 2016
+
 - [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/hmFYDmGlzRU/vQNnYWOnAQAJ) `IDBKeyRange.includes()`
 - [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/UWqtgnztHts/ENmvJiSQAQAJ) `fetch()` referrer and Referrer Policy API
 
 January 2016
+
 - [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/Hcudhkexz8A/YvafGQcnAgAJ) `document.elementsFromPoint` method
 
 December 2015
+
 - [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/969k-Iryiyo/LsqkHKZ0BAAJ) Support for a subset of `-webkit-` prefixed CSS properties and features
 - [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/cTAnBeZFtUE/kx0I4UC-AQAJ) One-off Background Sync API
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/TXFImc_r9Jo/iW_5u0ICCwAJ) `referrerpolicy` attribute
 - [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/IVGEJnQW3Uo/Eu5tvyLmCgAJ) FIDO U2F API
 
 November 2015
+
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/2gn7ywXZ6e4/5R6JdndvBwAJ) Service Workers with FetchEvent
 - [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/b0UMDIasfq8/tW49QLgCBwAJ) HTML `<details>` and `<summary>` elements
 - [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/Udt3psYNFuY/7qDFZK8sBwAJ) `Performance.translateTime` method
@@ -856,6 +930,7 @@ November 2015
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/bRDUCA4tb84/_c1Ch4T2AQAJ) Web Speech API - Synthesis
 
 October 2015
-- [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/BeVaHGEgZNA/vIVnbrLgBwAJ) WebVR 
+
+- [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/BeVaHGEgZNA/vIVnbrLgBwAJ) WebVR
 - [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/N3i7Yc2UpR0/huNQI2fVBQAJ) `window.orientation` and `'orientationchange'` event
 - [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/pH98pOjGgX4/u1D_zBiVBAAJ) `::backdrop pseudo-element` for Fullscreen API
