@@ -10,8 +10,12 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 October 2018
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/gYrR2nR6quI/gngoL0HLAwAJ) spec-compliant specificity for CSS Scoping selectors (`:host()`, etc.)
-- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/z5WX-2RMulo/JQqeF3XZAgAJ) Background Fetch
+- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/jWBA5ooXNIU/TQ7ULG8cBwAJ) `lowLatency` option for `'2d'` and `'webgl'` canvas contexts
+- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/mGkwLYpHOxM/rvpxhsYUBAAJ) Event Timing API (cont.)
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/jF1-M8KWAMU/ubGV4Fx2BgAJ) `'layoutjank'` performance entry (Performance API)
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/eKS6bOz9a_o/bSAKi3RdBAAJ) `navigator.getDisplayMedia` method (Screen Capture)
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/gYrR2nR6quI/gngoL0HLAwAJ) spec-compliant specificity for CSS Scoping selectors (`:host()`, etc.)
+- [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/z5WX-2RMulo/JQqeF3XZAgAJ) Background Fetch
 
 September 2018
 
@@ -660,6 +664,10 @@ September 2015
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/iBX_2xfX6jc/Uc0D6jr3AgAJ) `stale-while-revalidate` Cache-control extension
 
 ### Firefox
+
+October 2018
+
+- :new: [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/ywu0gzoQfRY/1xMM1bfUAwAJ) WebP image format
 
 September 2018
 
