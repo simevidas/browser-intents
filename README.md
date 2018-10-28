@@ -10,7 +10,8 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 October 2018
 
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/C6taiCkYayU/hlKC-v0GCQAJ) CSS `font-display` descriptor for `@font-feature-values` (setting the default `font-display` value for a font family)
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/QILBb4Oqb-k/tvdXEy7dBwAJ) `colorSpace` and `pixelFormat` options for canvas contexts (canvas color management)
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/C6taiCkYayU/hlKC-v0GCQAJ) CSS `font-display` descriptor for `@font-feature-values` (setting the default `font-display` value for a font family)
 - [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/jWBA5ooXNIU/TQ7ULG8cBwAJ) `lowLatency` option for `'2d'` and `'webgl'` canvas contexts
 - [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/mGkwLYpHOxM/rvpxhsYUBAAJ) Event Timing API (cont.)
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/jF1-M8KWAMU/ubGV4Fx2BgAJ) `'layoutjank'` performance entry (Performance API)
@@ -668,9 +669,9 @@ September 2015
 
 October 2018
 
-- :new: [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/8xmgmr9wJhc/DKWJOQgfBAAJ) JavaScript `import()` syntax for dynamic imports
-- :new: [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/BBUhv8zLy7Y/_jvOE3h1BQAJ) `screenLeft` and `screenTop` properties (aliases for `screenX` and `screenY`)
-- :new: [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/JNLPcIZRd2w/r6Boq0h2BQAJ) CSS `@supports` `selector` function
+- [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/8xmgmr9wJhc/DKWJOQgfBAAJ) JavaScript `import()` syntax for dynamic imports
+- [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/BBUhv8zLy7Y/_jvOE3h1BQAJ) `screenLeft` and `screenTop` properties (aliases for `screenX` and `screenY`)
+- [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/JNLPcIZRd2w/r6Boq0h2BQAJ) CSS `@supports` `selector` function
 - [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/ywu0gzoQfRY/1xMM1bfUAwAJ) WebP image format
 
 September 2018
