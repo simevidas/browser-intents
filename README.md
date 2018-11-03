@@ -12,11 +12,11 @@ November 2018
 
 - :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/xSf7B0aVxnI/0E05ZEB6DAAJ) an API for enumerating IndexedDB databases
 - :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/QjcyhPZ_sNI/SuB-GuNPDAAJ) CSS Properties and Values API Level 1 (subset)
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/WS17dXHV6xQ/rOnUbU4CCgAJ) `FetchEvent` Worker Timing (measuring the performance of service workers)
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/ulyuFI9aMig/zCegnl22CQAJ) an explicit API for commiting IndexedDB transactions
 
 October 2018
 
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/WS17dXHV6xQ/rOnUbU4CCgAJ) `FetchEvent` Worker Timing (measuring the performance of service workers)
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/ulyuFI9aMig/zCegnl22CQAJ) an explicit API for commiting IndexedDB transactions
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/QILBb4Oqb-k/tvdXEy7dBwAJ) `colorSpace` and `pixelFormat` options for canvas contexts (canvas color management)
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/C6taiCkYayU/hlKC-v0GCQAJ) CSS `font-display` descriptor for `@font-feature-values` (setting the default `font-display` value for a font family)
 - [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/jWBA5ooXNIU/TQ7ULG8cBwAJ) `lowLatency` option for `'2d'` and `'webgl'` canvas contexts
