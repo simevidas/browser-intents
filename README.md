@@ -1,5 +1,7 @@
 This is my selection of relevant Chromium and Firefox intents (from [blink-dev](https://groups.google.com/a/chromium.org/forum/#!forum/blink-dev) and [mozilla.dev.platform](https://groups.google.com/forum/#!forum/mozilla.dev.platform), respectively); updated weekly (:new: marks latest additions).
 
+[Atom feed](https://github.com/simevidas/browser-intents/commits/master.atom).
+
 ---
 
 Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
