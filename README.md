@@ -22,8 +22,8 @@ November 2018
 
 October 2018
 
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/WS17dXHV6xQ/rOnUbU4CCgAJ) `FetchEvent` Worker Timing (measuring the performance of service workers)
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/ulyuFI9aMig/zCegnl22CQAJ) an explicit API for commiting IndexedDB transactions
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/WS17dXHV6xQ/rOnUbU4CCgAJ) `FetchEvent` Worker Timing (measuring the performance of service workers)
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/ulyuFI9aMig/zCegnl22CQAJ) an explicit API for commiting IndexedDB transactions
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/QILBb4Oqb-k/tvdXEy7dBwAJ) `colorSpace` and `pixelFormat` options for canvas contexts (canvas color management)
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/C6taiCkYayU/hlKC-v0GCQAJ) CSS `font-display` descriptor for `@font-feature-values` (setting the default `font-display` value for a font family)
 - [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/jWBA5ooXNIU/TQ7ULG8cBwAJ) `lowLatency` option for `'2d'` and `'webgl'` canvas contexts
@@ -691,7 +691,7 @@ November 2018
 
 October 2018
 
-- :new: [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/eeyxS9WDCOs/M1dLpEFfDAAJ) `<script referrerpolicy>` attribute
+- [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/eeyxS9WDCOs/M1dLpEFfDAAJ) `<script referrerpolicy>` attribute
 - [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/8xmgmr9wJhc/DKWJOQgfBAAJ) JavaScript `import()` syntax for dynamic imports
 - [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/BBUhv8zLy7Y/_jvOE3h1BQAJ) `screenLeft` and `screenTop` properties (aliases for `screenX` and `screenY`)
 - [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/JNLPcIZRd2w/r6Boq0h2BQAJ) CSS `@supports` `selector` function
