@@ -10,8 +10,13 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 November 2018
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/xSf7B0aVxnI/0E05ZEB6DAAJ) an API for enumerating IndexedDB databases
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/QjcyhPZ_sNI/SuB-GuNPDAAJ) CSS Properties and Values API Level 1 (subset)
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/brKChSa9_d0/GmzVbvYcAAAJ) Contacts API
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Ff6Ywg5vnh4/VbDH4X6wBQAJ) Feature Policy `document-domain` feature
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/_TllF9146H0/PgI3cqEMBAAJ) `Intl.ListFormat` API
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/ryK8SHcBzZw/2cjTF_OCBwAJ) crash reports (Reporting API)
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Fku6784p0wI/3MyOMTk7BwAJ) keyboard-focusable scroll containers
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/xSf7B0aVxnI/0E05ZEB6DAAJ) an API for enumerating IndexedDB databases
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/QjcyhPZ_sNI/SuB-GuNPDAAJ) CSS Properties and Values API Level 1 (subset)
 
 October 2018
 
@@ -676,7 +681,11 @@ September 2015
 
 November 2018
 
-- :new: [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/EVKyR1B87T0/_l-_qK8SAAAJ) CSS `env()` notation (environment variables)
+- :new: [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/4TxLKumAOiE/Feuvlg9jAAAJ) CSS Scroll Anchoring
+- :new: [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/B9VPjyia7wA/_qhevcK0BwAJ) Reporting API (`ReportingObserver`)
+- :new: [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/B36jo-tK9Wk/tssG8exBBgAJ) CSS `overflow-wrap: anywhere` value
+- :new: [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/7l8FJCEwdaI/-C9kVDXzBQAJ) image `decode` method
+- [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/EVKyR1B87T0/_l-_qK8SAAAJ) CSS `env()` notation (environment variables)
 
 October 2018
 
