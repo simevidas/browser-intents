@@ -15,7 +15,7 @@ November 2018
 - :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/4DZIDt9o1ME/L4878LGOBwAJ) `<a hrefTranslate>` attribute
 - :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/OuwzBmH02M4/5ChXdXZQBwAJ) User Idle Detection
 - :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/HW8j_JLLiPo/V_SmVZkwBgAJ) form-associated custom elements
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/brKChSa9_d0/GmzVbvYcAAAJ) Contacts API
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/brKChSa9_d0/GmzVbvYcAAAJ) Contacts API
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Ff6Ywg5vnh4/VbDH4X6wBQAJ) Feature Policy `document-domain` feature
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/_TllF9146H0/PgI3cqEMBAAJ) `Intl.ListFormat` API
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/ryK8SHcBzZw/2cjTF_OCBwAJ) crash reports (Reporting API)
