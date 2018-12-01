@@ -12,9 +12,12 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 November 2018
 
-- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/4DZIDt9o1ME/L4878LGOBwAJ) `<a hrefTranslate>` attribute
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/OuwzBmH02M4/5ChXdXZQBwAJ) User Idle Detection
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/HW8j_JLLiPo/V_SmVZkwBgAJ) form-associated custom elements
+- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/vWg9cs2t648/QaGw3B3cAAAJ) Web XR Device API (cont.)
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/LN92hkaKCzw/Y-ryVxu5AgAJ) First Input Timing
+- :new: [Imlement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/CwAwSbTUmeg/27O5K12iBgAJ) Storage Quota Usage Details
+- [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/4DZIDt9o1ME/L4878LGOBwAJ) `<a hrefTranslate>` attribute
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/OuwzBmH02M4/5ChXdXZQBwAJ) User Idle Detection
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/HW8j_JLLiPo/V_SmVZkwBgAJ) form-associated custom elements
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/brKChSa9_d0/GmzVbvYcAAAJ) Contacts API
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Ff6Ywg5vnh4/VbDH4X6wBQAJ) Feature Policy `document-domain` feature
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/_TllF9146H0/PgI3cqEMBAAJ) `Intl.ListFormat` API
@@ -686,7 +689,9 @@ September 2015
 
 November 2018
 
-- :new: [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/d4R7WIHSOMY/KqovfoeFCQAJ) implicit `rel="noopener"` for `<a target="_blank">` elements
+- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/E8DyIJBhu1g/dggFj14MBQAJ) no `"keypress"` events when pressed key does not introduce text input
+- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/DrYa0gDxI5Q/5odWBZcLBQAJ) `"keydown"` and `"keyup"` events during IME composition
+- [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/d4R7WIHSOMY/KqovfoeFCQAJ) implicit `rel="noopener"` for `<a target="_blank">` elements
 - [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/4TxLKumAOiE/Feuvlg9jAAAJ) CSS Scroll Anchoring
 - [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/B9VPjyia7wA/_qhevcK0BwAJ) Reporting API (`ReportingObserver`)
 - [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/B36jo-tK9Wk/tssG8exBBgAJ) CSS `overflow-wrap: anywhere` value
