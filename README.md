@@ -10,11 +10,17 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
+December 2018
+
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/pc5Jx9qcEJo/JyFBJTbXBQAJ) `GamepadButton` `touched` property
+- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/KEUnHsvulEU/tMzKbzHxBQAJ) Badging API
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/XZU_DhQ9ZGs/whPNC357BQAJ) `PerformanceObserver.supportedEntryTypes` property
+
 November 2018
 
-- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/vWg9cs2t648/QaGw3B3cAAAJ) Web XR Device API (cont.)
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/LN92hkaKCzw/Y-ryVxu5AgAJ) First Input Timing
-- :new: [Imlement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/CwAwSbTUmeg/27O5K12iBgAJ) Storage Quota Usage Details
+- [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/vWg9cs2t648/QaGw3B3cAAAJ) Web XR Device API (cont.)
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/LN92hkaKCzw/Y-ryVxu5AgAJ) First Input Timing
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/CwAwSbTUmeg/27O5K12iBgAJ) Storage Quota Usage Details
 - [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/4DZIDt9o1ME/L4878LGOBwAJ) `<a hrefTranslate>` attribute
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/OuwzBmH02M4/5ChXdXZQBwAJ) User Idle Detection
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/HW8j_JLLiPo/V_SmVZkwBgAJ) form-associated custom elements
@@ -687,10 +693,14 @@ September 2015
 
 ### Firefox
 
+December 2018
+
+- :new: [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/pZBNiEwBhyA/KMjTYg6zBQAJ) CSS `break-before`, `break-after`, and `break-inside` properties
+
 November 2018
 
-- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/E8DyIJBhu1g/dggFj14MBQAJ) no `"keypress"` events when pressed key does not introduce text input
-- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/DrYa0gDxI5Q/5odWBZcLBQAJ) `"keydown"` and `"keyup"` events during IME composition
+- [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/E8DyIJBhu1g/dggFj14MBQAJ) no `"keypress"` events when pressed key does not introduce text input
+- [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/DrYa0gDxI5Q/5odWBZcLBQAJ) `"keydown"` and `"keyup"` events during IME composition
 - [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/d4R7WIHSOMY/KqovfoeFCQAJ) implicit `rel="noopener"` for `<a target="_blank">` elements
 - [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/4TxLKumAOiE/Feuvlg9jAAAJ) CSS Scroll Anchoring
 - [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/B9VPjyia7wA/_qhevcK0BwAJ) Reporting API (`ReportingObserver`)
