@@ -12,9 +12,14 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 December 2018
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/pc5Jx9qcEJo/JyFBJTbXBQAJ) `GamepadButton` `touched` property
-- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/KEUnHsvulEU/tMzKbzHxBQAJ) Badging API
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/XZU_DhQ9ZGs/whPNC357BQAJ) `PerformanceObserver.supportedEntryTypes` property
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/rspPrQHfFkI/rrhGyO4DBwAJ) `stale-while-revalidate` `Cache-control` extension
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/DAmfw08GGis/-0OyBbTmBgAJ) CSS `::part` pseudo-element (CSS Shadow Parts)
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/gL2EVBzO5og/YfId9-vqBAAJ) Constructable Stylesheet Objects
+- :new: [Experiment](https://groups.google.com/a/chromium.org/forum/#!topic/blink-dev/gJB_mlA6joQ) Signed HTTP Exchanges (cont.)
+- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/9yCtIXtw_Qw/PA2bXNQOBwAJ) `lowLatency` option for `'2d'` and `'webgl'` canvas contexts (cont.)
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/pc5Jx9qcEJo/JyFBJTbXBQAJ) `GamepadButton` `touched` property
+- [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/KEUnHsvulEU/tMzKbzHxBQAJ) Badging API
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/XZU_DhQ9ZGs/whPNC357BQAJ) `PerformanceObserver.supportedEntryTypes` property
 
 November 2018
 
@@ -695,7 +700,9 @@ September 2015
 
 December 2018
 
-- :new: [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/pZBNiEwBhyA/KMjTYg6zBQAJ) CSS `break-before`, `break-after`, and `break-inside` properties
+- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/qqPRzzvkAE0/28u0Nl-2CAAJ) `InputEvent` `inputType` property
+- :new: [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/NMpix5gqXlY/dbvk94zuBgAJ) `s` modifier for attribute selectors
+- [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/pZBNiEwBhyA/KMjTYg6zBQAJ) CSS `break-before`, `break-after`, and `break-inside` properties
 
 November 2018
 
