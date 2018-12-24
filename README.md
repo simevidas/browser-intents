@@ -12,11 +12,14 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 December 2018
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/rspPrQHfFkI/rrhGyO4DBwAJ) `stale-while-revalidate` `Cache-control` extension
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/DAmfw08GGis/-0OyBbTmBgAJ) CSS `::part` pseudo-element (CSS Shadow Parts)
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/gL2EVBzO5og/YfId9-vqBAAJ) Constructable Stylesheet Objects
-- :new: [Experiment](https://groups.google.com/a/chromium.org/forum/#!topic/blink-dev/gJB_mlA6joQ) Signed HTTP Exchanges (cont.)
-- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/9yCtIXtw_Qw/PA2bXNQOBwAJ) `lowLatency` option for `'2d'` and `'webgl'` canvas contexts (cont.)
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/qwLRSNFsfUQ/ZhxYYusjCAAJ) `document.featurePolicy` API (for policy introspection)
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/aVxGkVQ2xRk/iYw0yIB4CQAJ) Web Bluetooth Scanning
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/8V4ixKVmNY4/vJQdo9GCBgAJ) scroll-linked animations (only JavaScript part)
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/rspPrQHfFkI/rrhGyO4DBwAJ) `stale-while-revalidate` `Cache-control` extension
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/DAmfw08GGis/-0OyBbTmBgAJ) CSS `::part` pseudo-element (CSS Shadow Parts)
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/gL2EVBzO5og/YfId9-vqBAAJ) Constructable Stylesheet Objects
+- [Experiment](https://groups.google.com/a/chromium.org/forum/#!topic/blink-dev/gJB_mlA6joQ) Signed HTTP Exchanges (cont.)
+- [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/9yCtIXtw_Qw/PA2bXNQOBwAJ) `lowLatency` option for `'2d'` and `'webgl'` canvas contexts (cont.)
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/pc5Jx9qcEJo/JyFBJTbXBQAJ) `GamepadButton` `touched` property
 - [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/KEUnHsvulEU/tMzKbzHxBQAJ) Badging API
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/XZU_DhQ9ZGs/whPNC357BQAJ) `PerformanceObserver.supportedEntryTypes` property
@@ -700,8 +703,10 @@ September 2015
 
 December 2018
 
-- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/qqPRzzvkAE0/28u0Nl-2CAAJ) `InputEvent` `inputType` property
-- :new: [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/NMpix5gqXlY/dbvk94zuBgAJ) `s` modifier for attribute selectors
+- :new: [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/0XQjow3t5vY/tmgRdojAAgAJ) CSS `overflow-inline` and `overflow-block` media features
+- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/BZ36ZDV0Fik/i5ZtGyN8CgAJ) Storage Access API
+- [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/qqPRzzvkAE0/28u0Nl-2CAAJ) `InputEvent` `inputType` property
+- [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/NMpix5gqXlY/dbvk94zuBgAJ) `s` modifier for attribute selectors
 - [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/pZBNiEwBhyA/KMjTYg6zBQAJ) CSS `break-before`, `break-after`, and `break-inside` properties
 
 November 2018
