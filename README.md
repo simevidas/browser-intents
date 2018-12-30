@@ -12,9 +12,9 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 December 2018
 
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/qwLRSNFsfUQ/ZhxYYusjCAAJ) `document.featurePolicy` API (for policy introspection)
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/aVxGkVQ2xRk/iYw0yIB4CQAJ) Web Bluetooth Scanning
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/8V4ixKVmNY4/vJQdo9GCBgAJ) scroll-linked animations (only JavaScript part)
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/qwLRSNFsfUQ/ZhxYYusjCAAJ) `document.featurePolicy` API (for policy introspection)
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/aVxGkVQ2xRk/iYw0yIB4CQAJ) Web Bluetooth Scanning
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/8V4ixKVmNY4/vJQdo9GCBgAJ) scroll-linked animations (only JavaScript part)
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/rspPrQHfFkI/rrhGyO4DBwAJ) `stale-while-revalidate` `Cache-control` extension
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/DAmfw08GGis/-0OyBbTmBgAJ) CSS `::part` pseudo-element (CSS Shadow Parts)
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/gL2EVBzO5og/YfId9-vqBAAJ) Constructable Stylesheet Objects
@@ -703,8 +703,8 @@ September 2015
 
 December 2018
 
-- :new: [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/0XQjow3t5vY/tmgRdojAAgAJ) CSS `overflow-inline` and `overflow-block` media features
-- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/BZ36ZDV0Fik/i5ZtGyN8CgAJ) Storage Access API
+- [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/0XQjow3t5vY/tmgRdojAAgAJ) CSS `overflow-inline` and `overflow-block` media features
+- [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/BZ36ZDV0Fik/i5ZtGyN8CgAJ) Storage Access API
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/qqPRzzvkAE0/28u0Nl-2CAAJ) `InputEvent` `inputType` property
 - [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/NMpix5gqXlY/dbvk94zuBgAJ) `s` modifier for attribute selectors
 - [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/pZBNiEwBhyA/KMjTYg6zBQAJ) CSS `break-before`, `break-after`, and `break-inside` properties
