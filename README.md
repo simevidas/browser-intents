@@ -10,6 +10,14 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
+January 2018
+
+- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/sJ4lxamz2V0/YSRPP3SwBgAJ) Event Timing API (cont.)
+- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/I9To21DXcLo/NrU9P0M4EAAJ) Trusted Types for DOM Manipulation
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/07CbItWfA4M/CG1qF8IoEAAJ) `imagesrcset` and `imagesizes` attributes for the `<link>` element (selectively preloading images)
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/NZ3c9d4ivA8/BIHFbOj6DAAJ) CSS `prefers-reduced-motion` media feature
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Muw0N43ntSw/WZZZI7w7DQAJ) CSS `prefers-color-scheme` media feature
+
 December 2018
 
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/qwLRSNFsfUQ/ZhxYYusjCAAJ) `document.featurePolicy` API (for policy introspection)
@@ -700,6 +708,10 @@ September 2015
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/iBX_2xfX6jc/Uc0D6jr3AgAJ) `stale-while-revalidate` Cache-control extension
 
 ### Firefox
+
+January 2018
+
+- :new: [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/7dykNEdqvzA/DWcGTm4tDwAJ) HTTP `Report-To` header (part of Reporting API)
 
 December 2018
 
