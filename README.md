@@ -13,7 +13,7 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 January 2018
 
 - :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/g-pdQdSR0HI/LY6lcGKOCgAJ) Intersection Observer V2
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/TBNHorRPhZk/4_gfRjfzDgAJ) HTTP `Cross-Origin Resource Policy` header
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/TBNHorRPhZk/4_gfRjfzDgAJ) HTTP `Cross-Origin-Resource-Policy` header
 - :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/WQ0eC_Gf8bw/dhWMhCYYDwAJ) HTTP `Sec-CH-UA-*` headers (Client Hints)
 - :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/jpeSdM897Xw/CY6tothSDgAJ) HTML `importance` attribute (Priority Hints)
 - :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/GBgoS_eCmzM/Ot7ePqCbCgAJ) Web Contact API
