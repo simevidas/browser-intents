@@ -12,13 +12,20 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 January 2018
 
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Y3lhEykjfV0/FKa0H8zwDQAJ) CSS `font-optical-sizing` property
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/gPH_BcOBEtc/Z41GR0mwEQAJ) Signed HTTP Exchanges (SXG)
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/AiKgWvv3cq0/xAsjfSfMDQAJ) file sharing in Web Share API
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/ewfRSdqcOd8/w_Fr6rJ3DQAJ) HTML Modules
-- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/9LV2L8sDgPY/5-PSyCOkBwAJ) `<img elementtiming>` attribute
-- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/2aHJE8YNXE0/9oo5x3s2EQAJ) Feature Policy Reporting
-- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/QRK6RbAwsb4/L6s-XUAvEQAJ) `'layoutjank'` performance entries
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/g-pdQdSR0HI/LY6lcGKOCgAJ) Intersection Observer V2
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/TBNHorRPhZk/4_gfRjfzDgAJ) HTTP `Cross-Origin Resource Policy` header
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/WQ0eC_Gf8bw/dhWMhCYYDwAJ) HTTP `Sec-CH-UA-*` headers (Client Hints)
+- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/jpeSdM897Xw/CY6tothSDgAJ) HTML `importance` attribute (Priority Hints)
+- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/GBgoS_eCmzM/Ot7ePqCbCgAJ) Web Contact API
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/vN-5SjwHPus/saJY6qwXDwAJ) HTTP `Sec-CH-Lang` header (Client Hints)
+- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/hi1RKJcdplo/T_BvnpHhDgAJ) `navigator.getInstalledRelatedApps` API
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Y3lhEykjfV0/FKa0H8zwDQAJ) CSS `font-optical-sizing` property
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/gPH_BcOBEtc/Z41GR0mwEQAJ) Signed HTTP Exchanges (SXG)
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/AiKgWvv3cq0/xAsjfSfMDQAJ) file sharing in Web Share API
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/ewfRSdqcOd8/w_Fr6rJ3DQAJ) HTML Modules
+- [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/9LV2L8sDgPY/5-PSyCOkBwAJ) `<img elementtiming>` attribute
+- [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/2aHJE8YNXE0/9oo5x3s2EQAJ) Feature Policy Reporting
+- [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/QRK6RbAwsb4/L6s-XUAvEQAJ) `'layoutjank'` performance entries
 - [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/sJ4lxamz2V0/YSRPP3SwBgAJ) Event Timing API (cont.)
 - [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/I9To21DXcLo/NrU9P0M4EAAJ) Trusted Types for DOM Manipulation
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/07CbItWfA4M/CG1qF8IoEAAJ) `imagesrcset` and `imagesizes` attributes for the `<link>` element (selectively preloading images)
@@ -718,11 +725,12 @@ September 2015
 
 January 2018
 
-- :new: [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/WjKAMVeKb7o/xLqWZafbEQAJ) CSS `border-block-color`, etc. properties and shorthands
-- :new: [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/Pjf2a6t-sFA/M8uHtP4vEgAJ) CSS `border-start-start-radius`, etc. properties
-- :new: [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/8dvTjUpgcqU/ndU2k8faEQAJ) CSS `inset`, `inset-block`, and `inset-inline` shorthands
-- :new: [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/SSDCEvyqAAE/gEFqO9jSDQAJ) CSS `margin-block` and `margin-inline` shorthands
-- :new: [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/gpubhXTxI6o/8CzbtxK7DQAJ) CSS `padding-block` and `padding-inline` shorthands
+- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/DDQP5xIKYiY/3ppe9V-ZCgAJ) implicit `rel="noopener"` for `<a target="_blank">` elements
+- [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/WjKAMVeKb7o/xLqWZafbEQAJ) CSS `border-block-color`, etc. properties and shorthands
+- [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/Pjf2a6t-sFA/M8uHtP4vEgAJ) CSS `border-start-start-radius`, etc. properties
+- [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/8dvTjUpgcqU/ndU2k8faEQAJ) CSS `inset`, `inset-block`, and `inset-inline` shorthands
+- [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/SSDCEvyqAAE/gEFqO9jSDQAJ) CSS `margin-block` and `margin-inline` shorthands
+- [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/gpubhXTxI6o/8CzbtxK7DQAJ) CSS `padding-block` and `padding-inline` shorthands
 - [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/7dykNEdqvzA/DWcGTm4tDwAJ) HTTP `Report-To` header (part of Reporting API)
 
 December 2018
