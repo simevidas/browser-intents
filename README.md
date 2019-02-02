@@ -12,13 +12,16 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 January 2018
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/g-pdQdSR0HI/LY6lcGKOCgAJ) Intersection Observer V2
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/TBNHorRPhZk/4_gfRjfzDgAJ) HTTP `Cross-Origin-Resource-Policy` header
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/WQ0eC_Gf8bw/dhWMhCYYDwAJ) HTTP `Sec-CH-UA-*` headers (Client Hints)
-- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/jpeSdM897Xw/CY6tothSDgAJ) HTML `importance` attribute (Priority Hints)
-- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/GBgoS_eCmzM/Ot7ePqCbCgAJ) Web Contact API
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/vN-5SjwHPus/saJY6qwXDwAJ) HTTP `Sec-CH-Lang` header (Client Hints)
-- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/hi1RKJcdplo/T_BvnpHhDgAJ) `navigator.getInstalledRelatedApps` API
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/L5J1DUzfQIw/3SSWuKkaDAAJ) CSS transition events (`transitionrun`, `transitionstart`, and `transitioncancel`)
+- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/eFZ3h_A3VTY/NuXabBbQDQAJ) HTML `<video autoPictureInPicture>` attribute
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/8NsJruvDJIw/xgtAfWJoDAAJ) HTML `<meta name="supported-color-schemes">` element
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/g-pdQdSR0HI/LY6lcGKOCgAJ) Intersection Observer V2
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/TBNHorRPhZk/4_gfRjfzDgAJ) HTTP `Cross-Origin-Resource-Policy` header
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/WQ0eC_Gf8bw/dhWMhCYYDwAJ) HTTP `Sec-CH-UA-*` headers (Client Hints)
+- [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/jpeSdM897Xw/CY6tothSDgAJ) HTML `importance` attribute (Priority Hints)
+- [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/GBgoS_eCmzM/Ot7ePqCbCgAJ) Web Contact API
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/vN-5SjwHPus/saJY6qwXDwAJ) HTTP `Sec-CH-Lang` header (Client Hints)
+- [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/hi1RKJcdplo/T_BvnpHhDgAJ) `navigator.getInstalledRelatedApps` API
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Y3lhEykjfV0/FKa0H8zwDQAJ) CSS `font-optical-sizing` property
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/gPH_BcOBEtc/Z41GR0mwEQAJ) Signed HTTP Exchanges (SXG)
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/AiKgWvv3cq0/xAsjfSfMDQAJ) file sharing in Web Share API
@@ -725,7 +728,7 @@ September 2015
 
 January 2018
 
-- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/DDQP5xIKYiY/3ppe9V-ZCgAJ) implicit `rel="noopener"` for `<a target="_blank">` elements
+- [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/DDQP5xIKYiY/3ppe9V-ZCgAJ) implicit `rel="noopener"` for `<a target="_blank">` elements
 - [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/WjKAMVeKb7o/xLqWZafbEQAJ) CSS `border-block-color`, etc. properties and shorthands
 - [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/Pjf2a6t-sFA/M8uHtP4vEgAJ) CSS `border-start-start-radius`, etc. properties
 - [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/8dvTjUpgcqU/ndU2k8faEQAJ) CSS `inset`, `inset-block`, and `inset-inline` shorthands
