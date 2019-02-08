@@ -10,7 +10,7 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
-January 2018
+January 2019
 
 - :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/L5J1DUzfQIw/3SSWuKkaDAAJ) CSS transition events (`transitionrun`, `transitionstart`, and `transitioncancel`)
 - :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/eFZ3h_A3VTY/NuXabBbQDQAJ) HTML `<video autoPictureInPicture>` attribute
@@ -726,7 +726,7 @@ September 2015
 
 ### Firefox
 
-January 2018
+January 2019
 
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/DDQP5xIKYiY/3ppe9V-ZCgAJ) implicit `rel="noopener"` for `<a target="_blank">` elements
 - [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/WjKAMVeKb7o/xLqWZafbEQAJ) CSS `border-block-color`, etc. properties and shorthands
