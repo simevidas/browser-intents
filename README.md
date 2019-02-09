@@ -10,11 +10,16 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
+February 2019
+
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/ZcJNEfRFbj0/kl42H12-GAAJ) Signed Exchange Reporting for distributors
+- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/1Tqsa-0I04E/wXKUtUiqGAAJ) Event Timing API (cont.)
+
 January 2019
 
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/L5J1DUzfQIw/3SSWuKkaDAAJ) CSS transition events (`transitionrun`, `transitionstart`, and `transitioncancel`)
-- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/eFZ3h_A3VTY/NuXabBbQDQAJ) HTML `<video autoPictureInPicture>` attribute
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/8NsJruvDJIw/xgtAfWJoDAAJ) HTML `<meta name="supported-color-schemes">` element
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/L5J1DUzfQIw/3SSWuKkaDAAJ) CSS transition events (`transitionrun`, `transitionstart`, and `transitioncancel`)
+- [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/eFZ3h_A3VTY/NuXabBbQDQAJ) HTML `<video autoPictureInPicture>` attribute
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/8NsJruvDJIw/xgtAfWJoDAAJ) HTML `<meta name="supported-color-schemes">` element
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/g-pdQdSR0HI/LY6lcGKOCgAJ) Intersection Observer V2
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/TBNHorRPhZk/4_gfRjfzDgAJ) HTTP `Cross-Origin-Resource-Policy` header
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/WQ0eC_Gf8bw/dhWMhCYYDwAJ) HTTP `Sec-CH-UA-*` headers (Client Hints)
