@@ -12,8 +12,11 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 February 2019
 
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/ZcJNEfRFbj0/kl42H12-GAAJ) Signed Exchange Reporting for distributors
-- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/1Tqsa-0I04E/wXKUtUiqGAAJ) Event Timing API (cont.)
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/emvtXAXtqWs/ohZ_ZkYSEAAJ) `PointerEvent` `getPredictedEvents` method
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/sFb2H2pwEug/rKue2Dy_DwAJ) Notification Triggers (show notifications when certain conditions are met)
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/qYeQFqgFOyA/rXJapjMaEAAJ) import maps (`<script type="importmap">`)
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/ZcJNEfRFbj0/kl42H12-GAAJ) Signed Exchange Reporting for distributors
+- [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/1Tqsa-0I04E/wXKUtUiqGAAJ) Event Timing API (cont.)
 
 January 2019
 
@@ -730,6 +733,12 @@ September 2015
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/iBX_2xfX6jc/Uc0D6jr3AgAJ) `stale-while-revalidate` Cache-control extension
 
 ### Firefox
+
+February 2019
+
+- :new: [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/VnJ49XN6flE/rKSza-TyGQAJ) CSS `prefers-color-scheme` media feature
+- :new: [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/oJBDSC6ENtk/WTHh6Jm9GQAJ) CSS `-webkit-line-clamp` property
+- :new: [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/To_1vtUtCN0/HW3s0k-hGgAJ) `InputEvent` `data` and `dataTransfer` properties
 
 January 2019
 
