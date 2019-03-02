@@ -12,7 +12,9 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 February 2019
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/bHo6cy9qKuw/6xqZt_1LAAAJ) Signed Exchange Reporting for distributors
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/NcLn2-BpBd0/ItPPTEZPBAAJ) image support for the Async Clipboard API
+- :new: [Implement and experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/d5f7djVL5H0/7HX9Dl5ABAAJ) Feature Policy `unoptimized-images` and `oversized-images` features
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/bHo6cy9qKuw/6xqZt_1LAAAJ) Signed Exchange Reporting for distributors
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/emvtXAXtqWs/ohZ_ZkYSEAAJ) `PointerEvent` `getPredictedEvents` method
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/sFb2H2pwEug/rKue2Dy_DwAJ) Notification Triggers (show notifications when certain conditions are met)
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/qYeQFqgFOyA/rXJapjMaEAAJ) import maps (`<script type="importmap">`)
