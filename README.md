@@ -10,10 +10,16 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
+March 2019
+
+- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/sEwWEF80T4s/Nss9VxM3BAAJ) KV Storage + import maps
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/-iAATJCpcNY/o6Kb_ktrBQAJ) Background Fetch
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/r7PkIqQDvlU/X0aocVo9BQAJ) CSS `line-break: anywhere` value
+
 February 2019
 
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/NcLn2-BpBd0/ItPPTEZPBAAJ) image support for the Async Clipboard API
-- :new: [Implement and experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/d5f7djVL5H0/7HX9Dl5ABAAJ) Feature Policy `unoptimized-images` and `oversized-images` features
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/NcLn2-BpBd0/ItPPTEZPBAAJ) image support for the Async Clipboard API
+- [Implement and experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/d5f7djVL5H0/7HX9Dl5ABAAJ) Feature Policy `unoptimized-images` and `oversized-images` features
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/bHo6cy9qKuw/6xqZt_1LAAAJ) Signed Exchange Reporting for distributors
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/emvtXAXtqWs/ohZ_ZkYSEAAJ) `PointerEvent` `getPredictedEvents` method
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/sFb2H2pwEug/rKue2Dy_DwAJ) Notification Triggers (show notifications when certain conditions are met)
@@ -736,6 +742,12 @@ September 2015
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/iBX_2xfX6jc/Uc0D6jr3AgAJ) `stale-while-revalidate` Cache-control extension
 
 ### Firefox
+
+March 2019
+
+- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/Mji-LGbuPOg/heV3n1BvAwAJ) JavaScript `import()` syntax for dynamic imports
+- :new: [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/AvR6VqGeSJs/HgWB907xCAAJ) CSS `revert` keyword
+- :new: [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/s0rMvOBnO_4/AFjL0qHpAwAJ) CSS Scroll Snap
 
 February 2019
 
