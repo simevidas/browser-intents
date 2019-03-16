@@ -12,9 +12,12 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 March 2019
 
-- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/sEwWEF80T4s/Nss9VxM3BAAJ) KV Storage + import maps
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/-iAATJCpcNY/o6Kb_ktrBQAJ) Background Fetch
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/r7PkIqQDvlU/X0aocVo9BQAJ) CSS `line-break: anywhere` value
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/p0nHeY_ZSEg/-leLPafWCQAJ) CSS `outline-color: invert` value
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/GRl1_Qy97jM/h7v1qIDsBwAJ) CSS `backdrop-filter` property
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/xnoMlEorXxw/mZisL9zqBwAJ) alternative text for the CSS `content` property
+- [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/sEwWEF80T4s/Nss9VxM3BAAJ) KV Storage + import maps
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/-iAATJCpcNY/o6Kb_ktrBQAJ) Background Fetch
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/r7PkIqQDvlU/X0aocVo9BQAJ) CSS `line-break: anywhere` value
 
 February 2019
 
@@ -745,9 +748,9 @@ September 2015
 
 March 2019
 
-- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/Mji-LGbuPOg/heV3n1BvAwAJ) JavaScript `import()` syntax for dynamic imports
-- :new: [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/AvR6VqGeSJs/HgWB907xCAAJ) CSS `revert` keyword
-- :new: [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/s0rMvOBnO_4/AFjL0qHpAwAJ) CSS Scroll Snap
+- [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/Mji-LGbuPOg/heV3n1BvAwAJ) JavaScript `import()` syntax for dynamic imports
+- [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/AvR6VqGeSJs/HgWB907xCAAJ) CSS `revert` keyword
+- [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/s0rMvOBnO_4/AFjL0qHpAwAJ) CSS Scroll Snap
 
 February 2019
 
