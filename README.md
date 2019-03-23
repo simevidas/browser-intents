@@ -12,9 +12,12 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 March 2019
 
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/p0nHeY_ZSEg/-leLPafWCQAJ) CSS `outline-color: invert` value
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/GRl1_Qy97jM/h7v1qIDsBwAJ) CSS `backdrop-filter` property
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/xnoMlEorXxw/mZisL9zqBwAJ) alternative text for the CSS `content` property
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/9B7OHgwwEzs/jnmdgx_7DAAJ) Element Timing for text
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/rZOaOONFCNI/4IZTJBYMCAAJ) Feature Policy `document-domain` feature
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/0TJyePKiegs/24w8YsCQCAAJ) HTML `<video playsinline>` attribute
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/p0nHeY_ZSEg/-leLPafWCQAJ) CSS `outline-color: invert` value
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/GRl1_Qy97jM/h7v1qIDsBwAJ) CSS `backdrop-filter` property
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/xnoMlEorXxw/mZisL9zqBwAJ) alternative text for the CSS `content` property
 - [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/sEwWEF80T4s/Nss9VxM3BAAJ) KV Storage + import maps
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/-iAATJCpcNY/o6Kb_ktrBQAJ) Background Fetch
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/r7PkIqQDvlU/X0aocVo9BQAJ) CSS `line-break: anywhere` value
@@ -748,6 +751,7 @@ September 2015
 
 March 2019
 
+- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/lcGPwhu1Bcg/TxZz8qz2BgAJ) CSS `contain` property
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/Mji-LGbuPOg/heV3n1BvAwAJ) JavaScript `import()` syntax for dynamic imports
 - [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/AvR6VqGeSJs/HgWB907xCAAJ) CSS `revert` keyword
 - [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/s0rMvOBnO_4/AFjL0qHpAwAJ) CSS Scroll Snap
