@@ -16,7 +16,7 @@ March 2019
 - :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/ZEEwLuKlmcw/Nrj2wFkJAwAJ) Native Caret Browsing
 - :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/X-qPSmdSR_g/Yd0xweofBgAJ) CSS `:picture-in-picture` pseudo-class
 - :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/IKe_SAgdNAA/NCTyawqYAwAJ) SVG favicons (`<link rel="icon">`)
-- :new: [Ship]() `desynchronized` option for 2D canvas context (was `lowLatency`)
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/nxjWgMIeC1Q/LyC1sle2BQAJ) `desynchronized` option for 2D canvas context (was `lowLatency`)
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/9B7OHgwwEzs/jnmdgx_7DAAJ) Element Timing for text
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/rZOaOONFCNI/4IZTJBYMCAAJ) Feature Policy `document-domain` feature
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/0TJyePKiegs/24w8YsCQCAAJ) HTML `<video playsinline>` attribute
