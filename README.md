@@ -11,14 +11,11 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 ### Chromium
 
 April 2019
+s
 
-- :new: [Implement and ship]()
-- :new: [Implement and ship]()
-- :new: [Implement and ship]()
-- :new: [Implement and ship]()
-- :new: [Implement and ship]()
-- :new: [Implement and ship]()
-- :new: [Implement and ship]()
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/GzllP8DToqw/evfBnu58BQAJ) Gamepad light indicator extension
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/yQgJlq5PEOQ/erexYRWHBgAJ) HTTP `Sec-Fetch-Mode`, `Sec-Fetch-Site`, and `Sec-Fetch-User` request headers
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/CWN34Qo8icI/cpHrV7GPBgAJ) arbitrary timestamps and metadata in User Timing
 - :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/UMxgGkxhdCo/CHZ2H9DsBgAJ) `Animation` constructor (Web Animations)
 
 March 2019
