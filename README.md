@@ -10,13 +10,24 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
+April 2019
+
+- :new: [Implement and ship]()
+- :new: [Implement and ship]()
+- :new: [Implement and ship]()
+- :new: [Implement and ship]()
+- :new: [Implement and ship]()
+- :new: [Implement and ship]()
+- :new: [Implement and ship]()
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/UMxgGkxhdCo/CHZ2H9DsBgAJ) `Animation` constructor (Web Animations)
+
 March 2019
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/gETVpeiayNE/H7_YDB61BQAJ) Web Share Target Level 2 (adds support for files)
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/ZEEwLuKlmcw/Nrj2wFkJAwAJ) Native Caret Browsing
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/X-qPSmdSR_g/Yd0xweofBgAJ) CSS `:picture-in-picture` pseudo-class
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/IKe_SAgdNAA/NCTyawqYAwAJ) SVG favicons (`<link rel="icon">`)
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/nxjWgMIeC1Q/LyC1sle2BQAJ) `desynchronized` option for 2D canvas context (was `lowLatency`)
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/gETVpeiayNE/H7_YDB61BQAJ) Web Share Target Level 2 (adds support for files)
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/ZEEwLuKlmcw/Nrj2wFkJAwAJ) Native Caret Browsing
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/X-qPSmdSR_g/Yd0xweofBgAJ) CSS `:picture-in-picture` pseudo-class
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/IKe_SAgdNAA/NCTyawqYAwAJ) SVG favicons (`<link rel="icon">`)
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/nxjWgMIeC1Q/LyC1sle2BQAJ) `desynchronized` option for 2D canvas context (was `lowLatency`)
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/9B7OHgwwEzs/jnmdgx_7DAAJ) Element Timing for text
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/rZOaOONFCNI/4IZTJBYMCAAJ) Feature Policy `document-domain` feature
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/0TJyePKiegs/24w8YsCQCAAJ) HTML `<video playsinline>` attribute
@@ -756,8 +767,8 @@ September 2015
 
 March 2019
 
-- :new: [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/PSbIck_Jj4s/CG2eGjpiAwAJ) CSS `::marker` pseudo-element
-- :new: [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/vOGqau_-5qo/tU9IjS5iAwAJ) CSS `counter-set` property
+- [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/PSbIck_Jj4s/CG2eGjpiAwAJ) CSS `::marker` pseudo-element
+- [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/vOGqau_-5qo/tU9IjS5iAwAJ) CSS `counter-set` property
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/lcGPwhu1Bcg/TxZz8qz2BgAJ) CSS `contain` property
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/Mji-LGbuPOg/heV3n1BvAwAJ) JavaScript `import()` syntax for dynamic imports
 - [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/AvR6VqGeSJs/HgWB907xCAAJ) CSS `revert` keyword
