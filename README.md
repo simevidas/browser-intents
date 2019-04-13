@@ -764,7 +764,7 @@ September 2015
 
 April 2019
 
-- :new: [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/bF2yaNQ1rWs/Ndshaq-oCgAJ) `preventSCroll` option for the `focus` method
+- :new: [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/bF2yaNQ1rWs/Ndshaq-oCgAJ) `preventScroll` option for the `focus` method
 
 March 2019
 
