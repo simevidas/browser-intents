@@ -12,7 +12,10 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 April 2019
 
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/-lgbwMK0O5M/P7kABDjeCAAJ) `Blob` `text`, `arrayBuffer`, and `stream` methods
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/lq83adC8QRo/Vcr9NfGpCgAJ) Storage Quota Usage Details
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Drmmb_t4eE8/z_k9l09gCgAJ) SMS OTP Retriever API
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/TssvWe8TzBc/ewO5G9TCCAAJ) image support for the Async Clipboard API
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/-lgbwMK0O5M/P7kABDjeCAAJ) `Blob` `text`, `arrayBuffer`, and `stream` methods
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/GzllP8DToqw/evfBnu58BQAJ) Gamepad light indicator extension
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/yQgJlq5PEOQ/erexYRWHBgAJ) HTTP `Sec-Fetch-Mode`, `Sec-Fetch-Site`, and `Sec-Fetch-User` request headers
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/CWN34Qo8icI/cpHrV7GPBgAJ) arbitrary timestamps and metadata in User Timing
@@ -764,7 +767,8 @@ September 2015
 
 April 2019
 
-- :new: [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/bF2yaNQ1rWs/Ndshaq-oCgAJ) `preventScroll` option for the `focus` method
+- :new: [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/BdgNaChHnpY/mhXzCBwSCgAJ) `<link rel="stylesheet" disabled>` attribute
+- [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/bF2yaNQ1rWs/Ndshaq-oCgAJ) `preventScroll` option for the `focus` method
 
 March 2019
 
