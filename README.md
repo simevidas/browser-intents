@@ -12,9 +12,14 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 April 2019
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/lq83adC8QRo/Vcr9NfGpCgAJ) Storage Quota Usage Details
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Drmmb_t4eE8/z_k9l09gCgAJ) SMS OTP Retriever API
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/TssvWe8TzBc/ewO5G9TCCAAJ) image support for the Async Clipboard API
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/uK0hyACy_fg/XXFsm_4kDAAJ) Picture-in-Picture for arbitrary content
+- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/LpE_bzcSv5Y/mLEg7wMLDAAJ) `<a hrefTranslate>` attribute (cont.)
+- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/WwszZpavn6U/x9pyllbZCQAJ) Event Timing API (cont.)
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/66BSOtd7jYc/md5JrQsSCgAJ) CSS `white-space: break-spaces` value
+- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/oRp0lYze0oA/nsB1TGUaCwAJ) HTML `importance` attribute (Priority Hints) (cont.)
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/lq83adC8QRo/Vcr9NfGpCgAJ) Storage Quota Usage Details
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Drmmb_t4eE8/z_k9l09gCgAJ) SMS OTP Retriever API
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/TssvWe8TzBc/ewO5G9TCCAAJ) image support for the Async Clipboard API
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/-lgbwMK0O5M/P7kABDjeCAAJ) `Blob` `text`, `arrayBuffer`, and `stream` methods
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/GzllP8DToqw/evfBnu58BQAJ) Gamepad light indicator extension
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/yQgJlq5PEOQ/erexYRWHBgAJ) HTTP `Sec-Fetch-Mode`, `Sec-Fetch-Site`, and `Sec-Fetch-User` request headers
@@ -767,7 +772,8 @@ September 2015
 
 April 2019
 
-- :new: [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/BdgNaChHnpY/mhXzCBwSCgAJ) `<link rel="stylesheet" disabled>` attribute
+- :new: [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/eTt1nd1Ia_Y/x-8JIf2TCwAJ) `noreferrer` feature for `window.open` method
+- [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/BdgNaChHnpY/mhXzCBwSCgAJ) `<link rel="stylesheet" disabled>` attribute
 - [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/bF2yaNQ1rWs/Ndshaq-oCgAJ) `preventScroll` option for the `focus` method
 
 March 2019
