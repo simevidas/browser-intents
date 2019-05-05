@@ -10,13 +10,22 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
+May 2019
+
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Gstf0GA7cbg/711ymCKKAAAJ) `Animation` `pending` property
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/sLK1cLgvieg/8bvIdznFAAAJ) CSS `prefers-color-scheme` media feature
+
 April 2019
 
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/uK0hyACy_fg/XXFsm_4kDAAJ) Picture-in-Picture for arbitrary content
-- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/LpE_bzcSv5Y/mLEg7wMLDAAJ) `<a hrefTranslate>` attribute (cont.)
-- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/WwszZpavn6U/x9pyllbZCQAJ) Event Timing API (cont.)
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/66BSOtd7jYc/md5JrQsSCgAJ) CSS `white-space: break-spaces` value
-- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/oRp0lYze0oA/nsB1TGUaCwAJ) HTML `importance` attribute (Priority Hints) (cont.)
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/_-WBHYZ-rBk/yltzslk4DQAJ) `IDBTransaction` `commit` method
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/VytOh5dHdDo/THj8cgZeDQAJ) Feature Policy `execution-while-out-of-viewport` and `execution-while-not-rendered` features (enables freezing hidden iframes)
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/61yC4_xbZRA/mpB5rMBTDwAJ) Periodic Background Sync
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/cl_WCx9OEcg/9b-6_7DPDAAJ) JS Self-Profiling API
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/uK0hyACy_fg/XXFsm_4kDAAJ) Picture-in-Picture for arbitrary content
+- [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/LpE_bzcSv5Y/mLEg7wMLDAAJ) `<a hrefTranslate>` attribute (cont.)
+- [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/WwszZpavn6U/x9pyllbZCQAJ) Event Timing API (cont.)
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/66BSOtd7jYc/md5JrQsSCgAJ) CSS `white-space: break-spaces` value
+- [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/oRp0lYze0oA/nsB1TGUaCwAJ) HTML `importance` attribute (Priority Hints) (cont.)
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/lq83adC8QRo/Vcr9NfGpCgAJ) Storage Quota Usage Details
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Drmmb_t4eE8/z_k9l09gCgAJ) SMS OTP Retriever API
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/TssvWe8TzBc/ewO5G9TCCAAJ) image support for the Async Clipboard API
@@ -772,7 +781,7 @@ September 2015
 
 April 2019
 
-- :new: [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/eTt1nd1Ia_Y/x-8JIf2TCwAJ) `noreferrer` feature for `window.open` method
+- [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/eTt1nd1Ia_Y/x-8JIf2TCwAJ) `noreferrer` feature for `window.open` method
 - [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/BdgNaChHnpY/mhXzCBwSCgAJ) `<link rel="stylesheet" disabled>` attribute
 - [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/bF2yaNQ1rWs/Ndshaq-oCgAJ) `preventScroll` option for the `focus` method
 
