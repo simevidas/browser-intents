@@ -12,15 +12,19 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 May 2019
 
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Gstf0GA7cbg/711ymCKKAAAJ) `Animation` `pending` property
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/sLK1cLgvieg/8bvIdznFAAAJ) CSS `prefers-color-scheme` media feature
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/bkUwigYHJDM/Bzvm8tkHAgAJ) CSS `scroll-snap-stop` property
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/hVszlf4l2_E/1K_ZgQ4lBQAJ) Bundled HTTP Exchanges
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/mUW58VMIrTM/gIotA4HwBAAJ) `pointerrawmove` event type
+- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/VqoLPVSXE4g/7N5veAaeBAAJ) Badging API (cont.)
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Gstf0GA7cbg/711ymCKKAAAJ) `Animation` `pending` property
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/sLK1cLgvieg/8bvIdznFAAAJ) CSS `prefers-color-scheme` media feature
 
 April 2019
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/_-WBHYZ-rBk/yltzslk4DQAJ) `IDBTransaction` `commit` method
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/VytOh5dHdDo/THj8cgZeDQAJ) Feature Policy `execution-while-out-of-viewport` and `execution-while-not-rendered` features (enables freezing hidden iframes)
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/61yC4_xbZRA/mpB5rMBTDwAJ) Periodic Background Sync
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/cl_WCx9OEcg/9b-6_7DPDAAJ) JS Self-Profiling API
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/_-WBHYZ-rBk/yltzslk4DQAJ) `IDBTransaction` `commit` method
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/VytOh5dHdDo/THj8cgZeDQAJ) Feature Policy `execution-while-out-of-viewport` and `execution-while-not-rendered` features (enables freezing hidden iframes)
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/61yC4_xbZRA/mpB5rMBTDwAJ) Periodic Background Sync
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/cl_WCx9OEcg/9b-6_7DPDAAJ) JS Self-Profiling API
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/uK0hyACy_fg/XXFsm_4kDAAJ) Picture-in-Picture for arbitrary content
 - [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/LpE_bzcSv5Y/mLEg7wMLDAAJ) `<a hrefTranslate>` attribute (cont.)
 - [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/WwszZpavn6U/x9pyllbZCQAJ) Event Timing API (cont.)
@@ -778,6 +782,10 @@ September 2015
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/iBX_2xfX6jc/Uc0D6jr3AgAJ) `stale-while-revalidate` Cache-control extension
 
 ### Firefox
+
+May 2019
+
+- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/Mkw_Toh9Siw/CHiWMZmAAAAJ) Visual Viewport API on Android
 
 April 2019
 
