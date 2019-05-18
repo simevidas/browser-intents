@@ -12,10 +12,17 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 May 2019
 
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/bkUwigYHJDM/Bzvm8tkHAgAJ) CSS `scroll-snap-stop` property
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/hVszlf4l2_E/1K_ZgQ4lBQAJ) Bundled HTTP Exchanges
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/mUW58VMIrTM/gIotA4HwBAAJ) `pointerrawmove` event type
-- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/VqoLPVSXE4g/7N5veAaeBAAJ) Badging API (cont.)
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/xXVJlqlDL_k/pxwluzwSAwAJ) CSS `color-scheme` property
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Hfe5xktjSV8/Re-SMF3wAwAJ) `enterkeyhint` attribute
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/ufFQ4OvtqxQ/Ib0n6M5nAwAJ) `ImageBitmap` rendering context for `OffscreenCanvas`
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/0w_Z-9_kSNs/QV6ChIapAwAJ) form-associated custom elements
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/ONvzLM5fPvk/FZDswIOpAwAJ) `'formdata'` event type
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/CxelaeahNho/aC6Zp8KvAwAJ) `HTMLFormElement` `requestSubmit` method
+- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/nlMUxXEqMgg/fmiVVcKqAwAJ) WebXR Device API (cont.)
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/bkUwigYHJDM/Bzvm8tkHAgAJ) CSS `scroll-snap-stop` property
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/hVszlf4l2_E/1K_ZgQ4lBQAJ) Bundled HTTP Exchanges
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/mUW58VMIrTM/gIotA4HwBAAJ) `pointerrawmove` event type
+- [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/VqoLPVSXE4g/7N5veAaeBAAJ) Badging API (cont.)
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Gstf0GA7cbg/711ymCKKAAAJ) `Animation` `pending` property
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/sLK1cLgvieg/8bvIdznFAAAJ) CSS `prefers-color-scheme` media feature
 
@@ -785,7 +792,8 @@ September 2015
 
 May 2019
 
-- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/Mkw_Toh9Siw/CHiWMZmAAAAJ) Visual Viewport API on Android
+- :new: [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/NSpFyh3WBN4/1H1bGmROAQAJ) CSS `line-break` property
+- [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/Mkw_Toh9Siw/CHiWMZmAAAAJ) Visual Viewport API on Android
 
 April 2019
 
