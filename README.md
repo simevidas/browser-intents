@@ -12,13 +12,17 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 May 2019
 
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/xXVJlqlDL_k/pxwluzwSAwAJ) CSS `color-scheme` property
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Hfe5xktjSV8/Re-SMF3wAwAJ) `enterkeyhint` attribute
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/ufFQ4OvtqxQ/Ib0n6M5nAwAJ) `ImageBitmap` rendering context for `OffscreenCanvas`
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/0w_Z-9_kSNs/QV6ChIapAwAJ) form-associated custom elements
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/ONvzLM5fPvk/FZDswIOpAwAJ) `'formdata'` event type
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/CxelaeahNho/aC6Zp8KvAwAJ) `HTMLFormElement` `requestSubmit` method
-- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/nlMUxXEqMgg/fmiVVcKqAwAJ) WebXR Device API (cont.)
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/WVqgYtyaGJk/q-TGbeExBgAJ) Largest Contentful Paint (LCP) metric
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/AknSSyQTGYs/SSB1rTEkBgAJ) changes to cookies (add `SameSite=Lax` by default)
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/pnUiTrLHHmw/CDN1s3F1BQAJ) Feature Policy `focus-without-user-activation` policy
+- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/hqhrB2BIIr0/q7TfR2I1BgAJ) `lowLatency` option for `'2d'` and `'webgl'` canvas contexts (cont.)
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/xXVJlqlDL_k/pxwluzwSAwAJ) CSS `color-scheme` property
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Hfe5xktjSV8/Re-SMF3wAwAJ) `enterkeyhint` attribute
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/ufFQ4OvtqxQ/Ib0n6M5nAwAJ) `ImageBitmap` rendering context for `OffscreenCanvas`
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/0w_Z-9_kSNs/QV6ChIapAwAJ) form-associated custom elements
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/ONvzLM5fPvk/FZDswIOpAwAJ) `'formdata'` event type
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/CxelaeahNho/aC6Zp8KvAwAJ) `HTMLFormElement` `requestSubmit` method
+- [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/nlMUxXEqMgg/fmiVVcKqAwAJ) WebXR Device API (cont.)
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/bkUwigYHJDM/Bzvm8tkHAgAJ) CSS `scroll-snap-stop` property
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/hVszlf4l2_E/1K_ZgQ4lBQAJ) Bundled HTTP Exchanges
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/mUW58VMIrTM/gIotA4HwBAAJ) `pointerrawmove` event type
@@ -792,7 +796,9 @@ September 2015
 
 May 2019
 
-- :new: [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/NSpFyh3WBN4/1H1bGmROAQAJ) CSS `line-break` property
+- :new: [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/QFSmwlof1_I/lHLmiFw7AgAJ) `queueMicrotask` function
+- :new: [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/nx2uP0CzA9k/BNVPWDHsAQAJ) changes to cookies (add `SameSite=Lax` by default, require `Secure` for `SameSite=None`)
+- [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/NSpFyh3WBN4/1H1bGmROAQAJ) CSS `line-break` property
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/Mkw_Toh9Siw/CHiWMZmAAAAJ) Visual Viewport API on Android
 
 April 2019
