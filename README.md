@@ -12,8 +12,8 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 May 2019
 
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/u65DesVOzmY/htUnPfFcBgAJ) `jump-start`, `jump-end`, `jump-none`, and `jump-both` keywords for the CSS `steps()` easing function
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/RN0PfhoxdHI/ASzdxxoMBgAJ) HTTP `Cross-Origin-Opener-Policy` response header
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/u65DesVOzmY/htUnPfFcBgAJ) `jump-start`, `jump-end`, `jump-none`, and `jump-both` keywords for the CSS `steps()` easing function
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/RN0PfhoxdHI/ASzdxxoMBgAJ) HTTP `Cross-Origin-Opener-Policy` response header
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/WVqgYtyaGJk/q-TGbeExBgAJ) Largest Contentful Paint (LCP) metric
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/AknSSyQTGYs/SSB1rTEkBgAJ) changes to cookies (add `SameSite=Lax` by default)
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/pnUiTrLHHmw/CDN1s3F1BQAJ) Feature Policy `focus-without-user-activation` policy
