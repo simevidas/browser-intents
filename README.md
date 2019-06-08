@@ -796,6 +796,10 @@ September 2015
 
 ### Firefox
 
+June 2019
+
+- :new: [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/26MI90sjjSY/BX_TWFfwAAAJ) `text`, `arrayBuffer`, and `stream` methods on `Blob` interface
+
 May 2019
 
 - [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/QFSmwlof1_I/lHLmiFw7AgAJ) `queueMicrotask` function
