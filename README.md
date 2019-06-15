@@ -10,6 +10,16 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
+June 2019
+
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/ucEUTqoi4Nc/wx3q-B7tAQAJ) CSS `font-size: xxx-large` value
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Gl7FIKM5IFw/tA70X9ZIBQAJ) `<std-toast>` element (toast notification)
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/qERxZjYu6SE/JGd_lkyXBQAJ) Content Indexing
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/qoJkuLOMKqI/I3DGDTCRBQAJ) CSS `@property` at-rule
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/cdUOyBAtWzo/MRmGAURjBQAJ) JavaScript Memory API (`performance.measureMemory` method)
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/kP556piqDR8/XHuly9HMAwAJ) `<std-switch>` element (toggle switch control)
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/093IZbeZ6RA/PdhQFP6NAgAJ) Web Bluetooth `getAvailability` method
+
 May 2019
 
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/u65DesVOzmY/htUnPfFcBgAJ) `jump-start`, `jump-end`, `jump-none`, and `jump-both` keywords for the CSS `steps()` easing function
@@ -798,7 +808,12 @@ September 2015
 
 June 2019
 
-- :new: [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/26MI90sjjSY/BX_TWFfwAAAJ) `text`, `arrayBuffer`, and `stream` methods on `Blob` interface
+- :new: [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/RB8dwZ3_DeA/ZCaq16JxAQAJ) CSS `white-space: break-spaces` value
+- :new: [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/WXeYAj_ji8I/ighAqJ3DAQAJ) Resize Observer API
+- :new: [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/VWcV5QUzJF0/O9hET80TAgAJ) CSS `text-decoration-width` property
+- :new: [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/iwkhLi-2mxw/2aJPi80TAgAJ) CSS `text-underline-offset` property
+- :new: [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/-xbC8eAcy7k/6k8CsZ3xAQAJ) CSS `overflow-block` and `overflow-inline` properties
+- [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/26MI90sjjSY/BX_TWFfwAAAJ) `text`, `arrayBuffer`, and `stream` methods on `Blob` interface
 
 May 2019
 
