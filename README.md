@@ -12,11 +12,11 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 June 2019
 
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/V86fOkIaEQA/7bbQ4rP8AgAJ) CSS `overscroll-behavior-inline` and `overscroll-behavior-block` properties
-- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/NySZyk6UMEs/XGquAepZAwAJ) Scroll To Text Fragment
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/nC5p6W8nM3g/Bk6GOoaYAwAJ) alternative text for the CSS `content` property
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/7FaMtRBfTBU/-Sm3s-gFAwAJ) CSS `min()`, `max()` and `clamp()` functions
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/aRKT0BkrF-8/G-KuTnMBBgAJ) Animation Worklet
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/V86fOkIaEQA/7bbQ4rP8AgAJ) CSS `overscroll-behavior-inline` and `overscroll-behavior-block` properties
+- [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/NySZyk6UMEs/XGquAepZAwAJ) Scroll To Text Fragment
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/nC5p6W8nM3g/Bk6GOoaYAwAJ) alternative text for the CSS `content` property
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/7FaMtRBfTBU/-Sm3s-gFAwAJ) CSS `min()`, `max()` and `clamp()` functions
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/aRKT0BkrF-8/G-KuTnMBBgAJ) Animation Worklet
 - [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/PyYXyqBI3fk/2SBwjUPkBgAJ) Feature Policy Reporting (cont.)
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/F0IiHq9EHyc/F4qC3QCQCwAJ) `integrity` attribute on `<link rel="preload">` elements
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/ucEUTqoi4Nc/wx3q-B7tAQAJ) CSS `font-size: xxx-large` value
@@ -813,11 +813,16 @@ September 2015
 
 ### Firefox
 
+July 2019
+
+- :new: [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/7tgkiUSa70w/6UPVgRbPCgAJ) CSS `backdrop-filter` property
+- :new: [Experiment](https://groups.google.com/d/msg/mozilla.dev.platform/RHk3QJbV_7o/YCDCWRCCCgAJ) Web Share API
+
 June 2019
 
-- :new: [Experiment](https://groups.google.com/d/msg/mozilla.dev.platform/axGM9N0-jZk/SG3bRYlyCQAJ): Infer `aspect-ratio` from image `width`/`height` attributes
-- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/xeODJ3-0jH4/RAz3vmY-CQAJ) CSS `@supports selector()` function
-- :new: [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/i71d0e4EWow/Rwsti6OhBAAJ) `webkitURL` constructor (legacy compatibility alias of `URL`)
+- [Experiment](https://groups.google.com/d/msg/mozilla.dev.platform/axGM9N0-jZk/SG3bRYlyCQAJ): Infer `aspect-ratio` from image `width`/`height` attributes
+- [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/xeODJ3-0jH4/RAz3vmY-CQAJ) CSS `@supports selector()` function
+- [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/i71d0e4EWow/Rwsti6OhBAAJ) `webkitURL` constructor (legacy compatibility alias of `URL`)
 - [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/RB8dwZ3_DeA/ZCaq16JxAQAJ) CSS `white-space: break-spaces` value
 - [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/WXeYAj_ji8I/ighAqJ3DAQAJ) Resize Observer API
 - [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/VWcV5QUzJF0/O9hET80TAgAJ) CSS `text-decoration-width` property
