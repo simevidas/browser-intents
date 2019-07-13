@@ -824,13 +824,6 @@ September 2015
 
 July 2019
 
-- :new: [Implement and ship]()
-- :new: [Implement and ship]()
-- :new: [Implement and ship]()
-- :new: [Implement and ship]()
-- :new: [Implement and ship]()
-- :new: [Implement and ship]()
-- :new: [Implement and ship]()
 - :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/IgqT8s21rsQ/hddyOIIFAwAJ) percentage opacity values in CSS
 - :new: [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/J6Ra3i77mRQ/K3EY4p-NAgAJ) CSS `quotes: auto` value
 - [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/7tgkiUSa70w/6UPVgRbPCgAJ) CSS `backdrop-filter` property
