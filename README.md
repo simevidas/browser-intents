@@ -12,12 +12,13 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 July 2019
 
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/ojwkySW-bpQ/ecR5pnocAgAJ) JSON Modules
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/YMrf4l2DqtM/B8FB2axQAQAJ) `buffered` option for `PerformanceObserver` `observe` method
-- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/JVQ34vvuApE/RC2wl0hOAgAJ) Trusted Types (cont.)
-- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/M3ZMGLo362Y/oCUiqQrAAQAJ) `navigator.getInstalledRelatedApps` API (cont.)
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/DXSoS7dMmok/30ColVMUAQAJ) Element Timing
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/S36p6Y16u5c/tCz9124UAQAJ) Largest Contentful Paint (LCP) page-load metric
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/bI7qfrSQBZY/RgzD9zMrBAAJ) Layout Instability API
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/ojwkySW-bpQ/ecR5pnocAgAJ) JSON Modules
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/YMrf4l2DqtM/B8FB2axQAQAJ) `buffered` option for `PerformanceObserver` `observe` method
+- [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/JVQ34vvuApE/RC2wl0hOAgAJ) Trusted Types (cont.)
+- [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/M3ZMGLo362Y/oCUiqQrAAQAJ) `navigator.getInstalledRelatedApps` API (cont.)
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/DXSoS7dMmok/30ColVMUAQAJ) Element Timing
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/S36p6Y16u5c/tCz9124UAQAJ) Largest Contentful Paint (LCP) page-load metric
 
 June 2019
 
@@ -824,8 +825,9 @@ September 2015
 
 July 2019
 
-- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/IgqT8s21rsQ/hddyOIIFAwAJ) percentage opacity values in CSS
-- :new: [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/J6Ra3i77mRQ/K3EY4p-NAgAJ) CSS `quotes: auto` value
+- :new: [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/VWcV5QUzJF0/O9hET80TAgAJ) CSS `text-decoration-width` property
+- [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/IgqT8s21rsQ/hddyOIIFAwAJ) percentage opacity values in CSS
+- [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/J6Ra3i77mRQ/K3EY4p-NAgAJ) CSS `quotes: auto` value
 - [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/7tgkiUSa70w/6UPVgRbPCgAJ) CSS `backdrop-filter` property
 - [Experiment](https://groups.google.com/d/msg/mozilla.dev.platform/RHk3QJbV_7o/YCDCWRCCCgAJ) Web Share API
 
