@@ -12,7 +12,10 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 July 2019
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/bI7qfrSQBZY/RgzD9zMrBAAJ) Layout Instability API
+- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/0Bw-JW1POdw/ru7xMH2vCwAJ) `navigator.scheduling.isInputPending` method (early detection of input events)
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/e5fu5Q06ntA/UUqPuA8hEQAJ) Storage Access API
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/j-PLtssE5fo/budv_U6fCwAJ) Barcode Detection API (part of Shape Detection API)
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/bI7qfrSQBZY/RgzD9zMrBAAJ) Layout Instability API
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/ojwkySW-bpQ/ecR5pnocAgAJ) JSON Modules
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/YMrf4l2DqtM/B8FB2axQAQAJ) `buffered` option for `PerformanceObserver` `observe` method
 - [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/JVQ34vvuApE/RC2wl0hOAgAJ) Trusted Types (cont.)
@@ -825,7 +828,7 @@ September 2015
 
 July 2019
 
-- :new: [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/VWcV5QUzJF0/O9hET80TAgAJ) CSS `text-decoration-width` property
+- [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/VWcV5QUzJF0/O9hET80TAgAJ) CSS `text-decoration-width` property
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/IgqT8s21rsQ/hddyOIIFAwAJ) percentage opacity values in CSS
 - [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/J6Ra3i77mRQ/K3EY4p-NAgAJ) CSS `quotes: auto` value
 - [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/7tgkiUSa70w/6UPVgRbPCgAJ) CSS `backdrop-filter` property
