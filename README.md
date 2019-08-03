@@ -10,10 +10,13 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
-July 2019
+August 2019
 
 - :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/aHdERJoKYh8/o3IysK5PFQAJ) Periodic Background Sync
-- :new: [Deprecate and remove](https://groups.google.com/a/chromium.org/d/msg/blink-dev/PoC7ShITSJI/-mrg7qQRBQAJ) Shadow DOM v0, Custom Elements v0, and HTML Imports (cont.)
+- :new: [Deprecate and remove](https://groups.google.com/a/chromium.org/d/msg/blink-dev/PoC7ShITSJI/-mrg7qQRBQAJ) Shadow DOM v0, Custom Elements v0, and HTML Imports (cont.)s
+
+July 2019
+
 - :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/HvqbB7TGJKU/xda9kTXGBAAJ) `scheduler.postTask` method for main-thread scheduling
 - :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Cibo-GNPs7Y/RznlX7WKDAAJ) Feature Policy `document-access` policy
 - [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/0Bw-JW1POdw/ru7xMH2vCwAJ) `navigator.scheduling.isInputPending` method (early detection of input events)
