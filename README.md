@@ -12,9 +12,13 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 July 2019
 
-- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/0Bw-JW1POdw/ru7xMH2vCwAJ) `navigator.scheduling.isInputPending` method (early detection of input events)
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/e5fu5Q06ntA/UUqPuA8hEQAJ) Storage Access API
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/j-PLtssE5fo/budv_U6fCwAJ) Barcode Detection API (part of Shape Detection API)
+- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/aHdERJoKYh8/o3IysK5PFQAJ) Periodic Background Sync
+- :new: [Deprecate and remove](https://groups.google.com/a/chromium.org/d/msg/blink-dev/PoC7ShITSJI/-mrg7qQRBQAJ) Shadow DOM v0, Custom Elements v0, and HTML Imports (cont.)
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/HvqbB7TGJKU/xda9kTXGBAAJ) `scheduler.postTask` method for main-thread scheduling
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Cibo-GNPs7Y/RznlX7WKDAAJ) Feature Policy `document-access` policy
+- [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/0Bw-JW1POdw/ru7xMH2vCwAJ) `navigator.scheduling.isInputPending` method (early detection of input events)
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/e5fu5Q06ntA/UUqPuA8hEQAJ) Storage Access API
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/j-PLtssE5fo/budv_U6fCwAJ) Barcode Detection API (part of Shape Detection API)
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/bI7qfrSQBZY/RgzD9zMrBAAJ) Layout Instability API
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/ojwkySW-bpQ/ecR5pnocAgAJ) JSON Modules
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/YMrf4l2DqtM/B8FB2axQAQAJ) `buffered` option for `PerformanceObserver` `observe` method
