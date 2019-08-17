@@ -12,8 +12,12 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 August 2019
 
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/EAj0HR-jIWI/wiZx2NmqBwAJ) WebXR Anchors
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/b-cGz9c67pM/0zvBzjhrAAAJ) default accessibility semantics for custom elements
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Biu2XfAls5A/tJFlkdE0AgAJ) Document Policy
+- :new: [Deprecate and remove](https://groups.google.com/a/chromium.org/d/msg/blink-dev/6KhRNH3PrvU/Xz6YyNXbAQAJ) non-`Secure` cookies in third-party contexts
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/NB6BMfcyKok/26LODCniAQAJ) WebAuthn in cross-origin iframes
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/vCrJCQxNnzo/OAYI9cPWAQAJ) CSS Modules V1
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/EAj0HR-jIWI/wiZx2NmqBwAJ) WebXR Anchors
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/b-cGz9c67pM/0zvBzjhrAAAJ) default accessibility semantics for custom elements
 - [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/aHdERJoKYh8/o3IysK5PFQAJ) Periodic Background Sync
 - [Deprecate and remove](https://groups.google.com/a/chromium.org/d/msg/blink-dev/PoC7ShITSJI/-mrg7qQRBQAJ) Shadow DOM v0, Custom Elements v0, and HTML Imports (cont.)s
 
@@ -837,8 +841,11 @@ September 2015
 
 August 2019
 
-- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/eu2WCpjpRQA/v1Ww22aiAAAJ) CSS `font-size: xxx-large` value
-- :new: [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/Xsts-2ORpRY/j96vHsIRAAAJ) CSS `text-decoration-skip-ink` property
+- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/ddztUGUpYbE/YonPIdjUCwAJ) multi-keyword values for the CSS `display` property
+- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/0WFI1WvBbic/2yVDD9_UCwAJ) `inline list-item` and `inline flow-root list-item` values for the CSS `display` property
+- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/371s6O1xcJo/gwK89OLUCwAJ) `block ruby` value for the CSS `display` property
+- [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/eu2WCpjpRQA/v1Ww22aiAAAJ) CSS `font-size: xxx-large` value
+- [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/Xsts-2ORpRY/j96vHsIRAAAJ) CSS `text-decoration-skip-ink` property
 
 July 2019
 
