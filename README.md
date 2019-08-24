@@ -12,10 +12,17 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 August 2019
 
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Biu2XfAls5A/tJFlkdE0AgAJ) Document Policy
-- :new: [Deprecate and remove](https://groups.google.com/a/chromium.org/d/msg/blink-dev/6KhRNH3PrvU/Xz6YyNXbAQAJ) non-`Secure` cookies in third-party contexts
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/NB6BMfcyKok/26LODCniAQAJ) WebAuthn in cross-origin iframes
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/vCrJCQxNnzo/OAYI9cPWAQAJ) CSS Modules V1
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/RMCpsWaqds0/_H9hTQ5tAgAJ) CSS `content-size` property
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/rebS5clSnIg/U0Nze97LAQAJ) inline styles in WebVTT files
+- :new: [Implement(https://groups.google.com/a/chromium.org/d/msg/blink-dev/XfkSdpMWNik/IX67fOTLAQAJ) Font Enumeration API
+- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/TGe5hYfJZU4/1mFm4a5AAgAJ) Badging API V2 (different badges depending on URL scope)
+- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/GP0OlwtC1EQ/7Q8P3v8nAgAJ) JS Self-Profiling API
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/pWxNRxNcxFE/cjjqFse5AQAJ) Element Reflection (“allow specifying semantic relationships between elements without the need to assign globally unique ID attributes”)
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/-8wPGNpuV2Y/C5wdLebLAQAJ) API for accessing TrueType/OpenType font tables
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Biu2XfAls5A/tJFlkdE0AgAJ) Document Policy
+- [Deprecate and remove](https://groups.google.com/a/chromium.org/d/msg/blink-dev/6KhRNH3PrvU/Xz6YyNXbAQAJ) non-`Secure` cookies in third-party contexts
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/NB6BMfcyKok/26LODCniAQAJ) WebAuthn in cross-origin iframes
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/vCrJCQxNnzo/OAYI9cPWAQAJ) CSS Modules V1
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/EAj0HR-jIWI/wiZx2NmqBwAJ) WebXR Anchors
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/b-cGz9c67pM/0zvBzjhrAAAJ) default accessibility semantics for custom elements
 - [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/aHdERJoKYh8/o3IysK5PFQAJ) Periodic Background Sync
@@ -841,9 +848,10 @@ September 2015
 
 August 2019
 
-- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/ddztUGUpYbE/YonPIdjUCwAJ) multi-keyword values for the CSS `display` property
-- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/0WFI1WvBbic/2yVDD9_UCwAJ) `inline list-item` and `inline flow-root list-item` values for the CSS `display` property
-- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/371s6O1xcJo/gwK89OLUCwAJ) `block ruby` value for the CSS `display` property
+- :new: [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/eFx-93iBPpU/Hs4jUZRgDgAJ) double-keyed HTTP cache
+- [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/ddztUGUpYbE/YonPIdjUCwAJ) multi-keyword values for the CSS `display` property
+- [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/0WFI1WvBbic/2yVDD9_UCwAJ) `inline list-item` and `inline flow-root list-item` values for the CSS `display` property
+- [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/371s6O1xcJo/gwK89OLUCwAJ) `block ruby` value for the CSS `display` property
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/eu2WCpjpRQA/v1Ww22aiAAAJ) CSS `font-size: xxx-large` value
 - [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/Xsts-2ORpRY/j96vHsIRAAAJ) CSS `text-decoration-skip-ink` property
 
