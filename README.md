@@ -14,7 +14,7 @@ August 2019
 
 - :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/RMCpsWaqds0/_H9hTQ5tAgAJ) CSS `content-size` property
 - :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/rebS5clSnIg/U0Nze97LAQAJ) inline styles in WebVTT files
-- :new: [Implement(https://groups.google.com/a/chromium.org/d/msg/blink-dev/XfkSdpMWNik/IX67fOTLAQAJ) Font Enumeration API
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/XfkSdpMWNik/IX67fOTLAQAJ) Font Enumeration API
 - :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/TGe5hYfJZU4/1mFm4a5AAgAJ) Badging API V2 (different badges depending on URL scope)
 - :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/GP0OlwtC1EQ/7Q8P3v8nAgAJ) JS Self-Profiling API
 - :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/pWxNRxNcxFE/cjjqFse5AQAJ) Element Reflection (“allow specifying semantic relationships between elements without the need to assign globally unique ID attributes”)
