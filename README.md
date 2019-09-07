@@ -10,11 +10,21 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
+September 2019
+
+- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/-bdqHhCyBwM/yFoKtQQRAQAJ) SMS Receiver API
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/OHqvPx9mFww/ikcYp9K_DwAJ) `EditContext` API
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/hbhKRuBzZ4o/pmehGGHKAAAJ) image/video aspect ratios from HTML `width` and `height` attributes
+- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/5dCim99q5hM/-qGaZpUEAQAJ) Notification Triggers (show notifications when certain conditions are met)
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/g8MP8KUf96w/360rLewrDwAJ) `autofocus` attribute on any focusable HTML/SVG element
+- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/noan0cgEBGQ/t8DuK8_hDwAJ) Native File System API
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/aDDJXM8TZnk/xdhSlY-ZDwAJ) `relaxedDurability` option for the IndexedDB `transaction` method (controls flushing to disk)
+
 August 2019
 
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/brAJpwPoix8/FDmDG9VfDgAJ) `navigator.scheduling.isFramePending` method
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/9gaUKa3QmmE/z_Ef9Xr_DQAJ) `CompressStream` and `DecompressStream` APIs
-- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/_NfpCRzST-k/XVYPHCxPAwAJ) WebXR Device API (cont.)
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/brAJpwPoix8/FDmDG9VfDgAJ) `navigator.scheduling.isFramePending` method
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/9gaUKa3QmmE/z_Ef9Xr_DQAJ) `CompressStream` and `DecompressStream` APIs
+- [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/_NfpCRzST-k/XVYPHCxPAwAJ) WebXR Device API (cont.)
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/RMCpsWaqds0/_H9hTQ5tAgAJ) CSS `content-size` property
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/rebS5clSnIg/U0Nze97LAQAJ) inline styles in WebVTT files
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/XfkSdpMWNik/IX67fOTLAQAJ) Font Enumeration API
@@ -849,9 +859,14 @@ September 2015
 
 ### Firefox
 
+September 2019
+
+- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/-VDYiEAWjw4/SspRnY1HAQAJ) event-based form participation (incl. `formdata` event)
+- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/nC0DLYQsR5w/etyfo4sDAQAJ) `X-Content-Type-Options: nosniff` for navigations
+
 August 2019
 
-- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/RM5O36MZ4x4/FV5Tp9y4EQAJ) CSS `clip-path: path()` values
+- [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/RM5O36MZ4x4/FV5Tp9y4EQAJ) CSS `clip-path: path()` values
 - [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/eFx-93iBPpU/Hs4jUZRgDgAJ) double-keyed HTTP cache
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/ddztUGUpYbE/YonPIdjUCwAJ) multi-keyword values for the CSS `display` property
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/0WFI1WvBbic/2yVDD9_UCwAJ) `inline list-item` and `inline flow-root list-item` values for the CSS `display` property
