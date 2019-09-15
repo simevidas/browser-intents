@@ -12,13 +12,19 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 September 2019
 
-- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/-bdqHhCyBwM/yFoKtQQRAQAJ) SMS Receiver API
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/OHqvPx9mFww/ikcYp9K_DwAJ) `EditContext` API
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/hbhKRuBzZ4o/pmehGGHKAAAJ) image/video aspect ratios from HTML `width` and `height` attributes
-- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/5dCim99q5hM/-qGaZpUEAQAJ) Notification Triggers (show notifications when certain conditions are met)
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/g8MP8KUf96w/360rLewrDwAJ) `autofocus` attribute on any focusable HTML/SVG element
-- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/noan0cgEBGQ/t8DuK8_hDwAJ) Native File System API
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/aDDJXM8TZnk/xdhSlY-ZDwAJ) `relaxedDurability` option for the IndexedDB `transaction` method (controls flushing to disk)
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Bh0bSdkQlbk/7n6b50N6AwAJ) HTML `rendersubtree` attribute
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/LDymWZeV7jo/DCcYyBYtAwAJ) Screen Enumeration (`navigator.screen.requestDisplays` method)
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/XI1otbsuvMw/X_65dN7qAgAJ) auto-upgrade mixed audio and video content (`http:` to `https:`)
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/XQEO617FMhA/LShCefAgAgAJ) navigation to Bundled HTTP Exchanges (Web Packaging)
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/b5vXvm1bP3s/BDBx92QxAwAJ) CSS `navigation-controls` media feature
+- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/nrDKOvVl_I4/N9T_Mpu9AgAJ) Wake Lock API
+- [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/-bdqHhCyBwM/yFoKtQQRAQAJ) SMS Receiver API
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/OHqvPx9mFww/ikcYp9K_DwAJ) `EditContext` API
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/hbhKRuBzZ4o/pmehGGHKAAAJ) image/video aspect ratios from HTML `width` and `height` attributes
+- [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/5dCim99q5hM/-qGaZpUEAQAJ) Notification Triggers (show notifications when certain conditions are met)
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/g8MP8KUf96w/360rLewrDwAJ) `autofocus` attribute on any focusable HTML/SVG element
+- [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/noan0cgEBGQ/t8DuK8_hDwAJ) Native File System API
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/aDDJXM8TZnk/xdhSlY-ZDwAJ) `relaxedDurability` option for the IndexedDB `transaction` method (controls flushing to disk)
 
 August 2019
 
@@ -861,8 +867,9 @@ September 2015
 
 September 2019
 
-- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/-VDYiEAWjw4/SspRnY1HAQAJ) event-based form participation (incl. `formdata` event)
-- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/nC0DLYQsR5w/etyfo4sDAQAJ) `X-Content-Type-Options: nosniff` for navigations
+- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/2h1Nlx4_WIU/URQBNSN_BAAJ) CSS `text-decoration-skip-ink`, `text-decoration-thickness`, and `text-underline-offset` properties
+- [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/-VDYiEAWjw4/SspRnY1HAQAJ) event-based form participation (incl. `formdata` event)
+- [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/nC0DLYQsR5w/etyfo4sDAQAJ) `X-Content-Type-Options: nosniff` for navigations
 
 August 2019
 
