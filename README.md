@@ -12,12 +12,14 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 September 2019
 
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Bh0bSdkQlbk/7n6b50N6AwAJ) HTML `rendersubtree` attribute
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/LDymWZeV7jo/DCcYyBYtAwAJ) Screen Enumeration (`navigator.screen.requestDisplays` method)
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/XI1otbsuvMw/X_65dN7qAgAJ) auto-upgrade mixed audio and video content (`http:` to `https:`)
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/XQEO617FMhA/LShCefAgAgAJ) navigation to Bundled HTTP Exchanges (Web Packaging)
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/b5vXvm1bP3s/BDBx92QxAwAJ) CSS `navigation-controls` media feature
-- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/nrDKOvVl_I4/N9T_Mpu9AgAJ) Wake Lock API
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/wdWtyA1gyvI/37hqCDu5BgAJ) ARIA roles for annotation purposes
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Y3lhEykjfV0/FKa0H8zwDQAJ) CSS `font-optical-sizing` property
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Bh0bSdkQlbk/7n6b50N6AwAJ) HTML `rendersubtree` attribute
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/LDymWZeV7jo/DCcYyBYtAwAJ) Screen Enumeration (`navigator.screen.requestDisplays` method)
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/XI1otbsuvMw/X_65dN7qAgAJ) auto-upgrade mixed audio and video content (`http:` to `https:`)
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/XQEO617FMhA/LShCefAgAgAJ) navigation to Bundled HTTP Exchanges (Web Packaging)
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/b5vXvm1bP3s/BDBx92QxAwAJ) CSS `navigation-controls` media feature
+- [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/nrDKOvVl_I4/N9T_Mpu9AgAJ) Wake Lock API
 - [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/-bdqHhCyBwM/yFoKtQQRAQAJ) SMS Receiver API
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/OHqvPx9mFww/ikcYp9K_DwAJ) `EditContext` API
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/hbhKRuBzZ4o/pmehGGHKAAAJ) image/video aspect ratios from HTML `width` and `height` attributes
@@ -867,7 +869,7 @@ September 2015
 
 September 2019
 
-- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/2h1Nlx4_WIU/URQBNSN_BAAJ) CSS `text-decoration-skip-ink`, `text-decoration-thickness`, and `text-underline-offset` properties
+- [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/2h1Nlx4_WIU/URQBNSN_BAAJ) CSS `text-decoration-skip-ink`, `text-decoration-thickness`, and `text-underline-offset` properties
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/-VDYiEAWjw4/SspRnY1HAQAJ) event-based form participation (incl. `formdata` event)
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/nC0DLYQsR5w/etyfo4sDAQAJ) `X-Content-Type-Options: nosniff` for navigations
 
