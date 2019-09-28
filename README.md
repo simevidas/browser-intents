@@ -12,8 +12,10 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 September 2019
 
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/wdWtyA1gyvI/37hqCDu5BgAJ) ARIA roles for annotation purposes
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Y3lhEykjfV0/FKa0H8zwDQAJ) CSS `font-optical-sizing` property
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/U3kH6_98BuY/uiaeS3D2AwAJ) percent-based scrolling
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/pZq73q_Mc-c/chp8ssUKBgAJ) “heavy ad” intervention
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/wdWtyA1gyvI/37hqCDu5BgAJ) ARIA roles for annotation purposes
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Y3lhEykjfV0/FKa0H8zwDQAJ) CSS `font-optical-sizing` property
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Bh0bSdkQlbk/7n6b50N6AwAJ) HTML `rendersubtree` attribute
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/LDymWZeV7jo/DCcYyBYtAwAJ) Screen Enumeration (`navigator.screen.requestDisplays` method)
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/XI1otbsuvMw/X_65dN7qAgAJ) auto-upgrade mixed audio and video content (`http:` to `https:`)
