@@ -10,9 +10,19 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
+October 2019
+
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/GePU9T8UpEc/bET6Mi60CgAJ) image/video aspect ratios from HTML `width` and `height` attributes
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/I6MS2kOKcx0/NAdg7Sc-CwAJ) QuicTransport API (part of the WebTransport framework)
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/CHCM_xALBG4/JeQQYkONBwAJ) WebXR Device API
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Nvll21RaKwM/fTn8qUaNBwAJ) WebXR Gamepads Module
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/GojYpoeDbqc/Ly-gpSrxCgAJ) string values for the CSS `list-style-type` property
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/8qesjfh0a80/xrruWrixBwAJ) CSS `line-break: anywhere` value
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/CeGWh7l1Jq4/NeQXxZ4UCAAJ) CSS `overflow-wrap: anywhere` value
+
 September 2019
 
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/U3kH6_98BuY/uiaeS3D2AwAJ) percent-based scrolling
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/U3kH6_98BuY/uiaeS3D2AwAJ) percent-based scrolling
 - :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/pZq73q_Mc-c/chp8ssUKBgAJ) “heavy ad” intervention
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/wdWtyA1gyvI/37hqCDu5BgAJ) ARIA roles for annotation purposes
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Y3lhEykjfV0/FKa0H8zwDQAJ) CSS `font-optical-sizing` property
@@ -868,6 +878,11 @@ September 2015
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/iBX_2xfX6jc/Uc0D6jr3AgAJ) `stale-while-revalidate` Cache-control extension
 
 ### Firefox
+
+October 2019
+
+- :new: [Experiment](https://groups.google.com/d/msg/mozilla.dev.platform/CZ3IDkObpCs/3EdCuMwaCwAJ) Web Share Target
+- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/H9j3aJ20IgE/fs9Df3loCQAJ): Infer `aspect-ratio` from image `width`/`height` attributes
 
 September 2019
 
