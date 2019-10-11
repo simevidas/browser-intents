@@ -888,7 +888,7 @@ September 2015
 
 October 2019
 
-- :new: [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/p80ptKoqVvk/uKJwoK6JDAAJ) CSS `column-span` property
+- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/p80ptKoqVvk/uKJwoK6JDAAJ) CSS `column-span` property
 - :new: [Experiment](https://groups.google.com/d/msg/mozilla.dev.platform/x-ZWH5sodNk/jlipsa4EDAAJ) Web Speech API
 - [Experiment](https://groups.google.com/d/msg/mozilla.dev.platform/CZ3IDkObpCs/3EdCuMwaCwAJ) Web Share Target
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/H9j3aJ20IgE/fs9Df3loCQAJ): Infer `aspect-ratio` from image `width`/`height` attributes
