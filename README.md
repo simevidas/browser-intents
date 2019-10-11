@@ -12,13 +12,20 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 October 2019
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/GePU9T8UpEc/bET6Mi60CgAJ) image/video aspect ratios from HTML `width` and `height` attributes
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/I6MS2kOKcx0/NAdg7Sc-CwAJ) QuicTransport API (part of the WebTransport framework)
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/CHCM_xALBG4/JeQQYkONBwAJ) WebXR Device API
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Nvll21RaKwM/fTn8qUaNBwAJ) WebXR Gamepads Module
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/GojYpoeDbqc/Ly-gpSrxCgAJ) string values for the CSS `list-style-type` property
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/8qesjfh0a80/xrruWrixBwAJ) CSS `line-break: anywhere` value
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/CeGWh7l1Jq4/NeQXxZ4UCAAJ) CSS `overflow-wrap: anywhere` value
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/CApU9QIu3TM/jCR5dyZFDAAJ) CSS `:state()` pseudo-class
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/zlLSxQ9BA8Y/uw9HcwIVDQAJ) Scroll To Text Fragment
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/rkGWbui8B9A/KLDR1ASCDAAJ) Raw Clipboard Access
+- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/-6Cp2osHn50/VZhPCrXHDAAJ) HTML `rendersubtree` attribute and CSS `content-size` property
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Il-wfnw9TAw/JRt5MTXHDAAJ) Trusted Types
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/LGPUCOCVQxs/IKVPne8wDQAJ) `requestAnimationFrame` method for `<video>` elements
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/MVXTnyC_4bQ/ytY3XJq7CwAJ) CSS `@supports selector()` function
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/GePU9T8UpEc/bET6Mi60CgAJ) image/video aspect ratios from HTML `width` and `height` attributes
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/I6MS2kOKcx0/NAdg7Sc-CwAJ) QuicTransport API (part of the WebTransport framework)
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/CHCM_xALBG4/JeQQYkONBwAJ) WebXR Device API
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Nvll21RaKwM/fTn8qUaNBwAJ) WebXR Gamepads Module
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/GojYpoeDbqc/Ly-gpSrxCgAJ) string values for the CSS `list-style-type` property
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/8qesjfh0a80/xrruWrixBwAJ) CSS `line-break: anywhere` value
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/CeGWh7l1Jq4/NeQXxZ4UCAAJ) CSS `overflow-wrap: anywhere` value
 
 September 2019
 
@@ -881,8 +888,10 @@ September 2015
 
 October 2019
 
-- :new: [Experiment](https://groups.google.com/d/msg/mozilla.dev.platform/CZ3IDkObpCs/3EdCuMwaCwAJ) Web Share Target
-- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/H9j3aJ20IgE/fs9Df3loCQAJ): Infer `aspect-ratio` from image `width`/`height` attributes
+- :new: [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/p80ptKoqVvk/uKJwoK6JDAAJ) CSS `column-span` property
+- :new: [Experiment](https://groups.google.com/d/msg/mozilla.dev.platform/x-ZWH5sodNk/jlipsa4EDAAJ) Web Speech API
+- [Experiment](https://groups.google.com/d/msg/mozilla.dev.platform/CZ3IDkObpCs/3EdCuMwaCwAJ) Web Share Target
+- [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/H9j3aJ20IgE/fs9Df3loCQAJ): Infer `aspect-ratio` from image `width`/`height` attributes
 
 September 2019
 
