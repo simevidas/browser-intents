@@ -12,13 +12,18 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 October 2019
 
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/CApU9QIu3TM/jCR5dyZFDAAJ) CSS `:state()` pseudo-class
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/zlLSxQ9BA8Y/uw9HcwIVDQAJ) Scroll To Text Fragment
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/rkGWbui8B9A/KLDR1ASCDAAJ) Raw Clipboard Access
-- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/-6Cp2osHn50/VZhPCrXHDAAJ) HTML `rendersubtree` attribute and CSS `content-size` property
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Il-wfnw9TAw/JRt5MTXHDAAJ) Trusted Types
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/LGPUCOCVQxs/IKVPne8wDQAJ) `requestAnimationFrame` method for `<video>` elements
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/MVXTnyC_4bQ/ytY3XJq7CwAJ) CSS `@supports selector()` function
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/aBtuQUga1Tk/n4BLwof4DgAJ) `strict-origin-when-cross-origin` as new default for Referrer Policy
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/7B0ldtZR_68/GjLBu0n4DgAJ) Conversion Measurement API
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/OOZIrtSPLeM/QsTCnouFDgAJ) MathML Core
+- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/AiGJihoCbl4/OmA24108DwAJ) Serial API
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/X9sF2uLe9rA/1aUxs8mnDgAJ) Trust Token API
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/CApU9QIu3TM/jCR5dyZFDAAJ) CSS `:state()` pseudo-class
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/zlLSxQ9BA8Y/uw9HcwIVDQAJ) Scroll To Text Fragment
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/rkGWbui8B9A/KLDR1ASCDAAJ) Raw Clipboard Access
+- [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/-6Cp2osHn50/VZhPCrXHDAAJ) HTML `rendersubtree` attribute and CSS `content-size` property
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Il-wfnw9TAw/JRt5MTXHDAAJ) Trusted Types
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/LGPUCOCVQxs/IKVPne8wDQAJ) `requestAnimationFrame` method for `<video>` elements
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/MVXTnyC_4bQ/ytY3XJq7CwAJ) CSS `@supports selector()` function
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/GePU9T8UpEc/bET6Mi60CgAJ) image/video aspect ratios from HTML `width` and `height` attributes
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/I6MS2kOKcx0/NAdg7Sc-CwAJ) QuicTransport API (part of the WebTransport framework)
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/CHCM_xALBG4/JeQQYkONBwAJ) WebXR Device API
@@ -888,8 +893,10 @@ September 2015
 
 October 2019
 
-- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/p80ptKoqVvk/uKJwoK6JDAAJ) CSS `column-span` property
-- :new: [Experiment](https://groups.google.com/d/msg/mozilla.dev.platform/x-ZWH5sodNk/jlipsa4EDAAJ) Web Speech API
+- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/IKzfuoD77yE/-DiLKfkNDwAJ) CSS subgrid layout
+- :new: [Experiment](https://groups.google.com/d/msg/mozilla.dev.platform/SdnMKYwWxzU/a1FcX-nnCgAJ) heading level based on outline depth
+- [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/p80ptKoqVvk/uKJwoK6JDAAJ) CSS `column-span` property
+- [Experiment](https://groups.google.com/d/msg/mozilla.dev.platform/x-ZWH5sodNk/jlipsa4EDAAJ) Web Speech API
 - [Experiment](https://groups.google.com/d/msg/mozilla.dev.platform/CZ3IDkObpCs/3EdCuMwaCwAJ) Web Share Target
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/H9j3aJ20IgE/fs9Df3loCQAJ): Infer `aspect-ratio` from image `width`/`height` attributes
 
