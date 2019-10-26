@@ -12,11 +12,14 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 October 2019
 
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/aBtuQUga1Tk/n4BLwof4DgAJ) `strict-origin-when-cross-origin` as new default for Referrer Policy
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/7B0ldtZR_68/GjLBu0n4DgAJ) Conversion Measurement API
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/OOZIrtSPLeM/QsTCnouFDgAJ) MathML Core
-- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/AiGJihoCbl4/OmA24108DwAJ) Serial API
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/X9sF2uLe9rA/1aUxs8mnDgAJ) Trust Token API
+- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/hxV0yjyS8_4/Fz4t4WseEQAJ) ARIA `annotation-attribution`, `annotation-commentary`, `annotation-presence`, `annotation-revision`, `annotation-suggestion` roles
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/3oVuczJ5Ty4/b8VLNNvyEAAJ) WebCodecs (access to built-in media encoders/decoders)
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/-apVTp8jBi0/x7kSszjUEAAJ) CSS `Canvas` and `Text` system color keywords
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/aBtuQUga1Tk/n4BLwof4DgAJ) `strict-origin-when-cross-origin` as new default for Referrer Policy
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/7B0ldtZR_68/GjLBu0n4DgAJ) Conversion Measurement API
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/OOZIrtSPLeM/QsTCnouFDgAJ) MathML Core
+- [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/AiGJihoCbl4/OmA24108DwAJ) Serial API
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/X9sF2uLe9rA/1aUxs8mnDgAJ) Trust Token API
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/CApU9QIu3TM/jCR5dyZFDAAJ) CSS `:state()` pseudo-class
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/zlLSxQ9BA8Y/uw9HcwIVDQAJ) Scroll To Text Fragment
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/rkGWbui8B9A/KLDR1ASCDAAJ) Raw Clipboard Access
@@ -893,8 +896,8 @@ September 2015
 
 October 2019
 
-- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/IKzfuoD77yE/-DiLKfkNDwAJ) CSS subgrid layout
-- :new: [Experiment](https://groups.google.com/d/msg/mozilla.dev.platform/SdnMKYwWxzU/a1FcX-nnCgAJ) heading level based on outline depth
+- [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/IKzfuoD77yE/-DiLKfkNDwAJ) CSS subgrid layout
+- [Experiment](https://groups.google.com/d/msg/mozilla.dev.platform/SdnMKYwWxzU/a1FcX-nnCgAJ) heading level based on outline depth
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/p80ptKoqVvk/uKJwoK6JDAAJ) CSS `column-span` property
 - [Experiment](https://groups.google.com/d/msg/mozilla.dev.platform/x-ZWH5sodNk/jlipsa4EDAAJ) Web Speech API
 - [Experiment](https://groups.google.com/d/msg/mozilla.dev.platform/CZ3IDkObpCs/3EdCuMwaCwAJ) Web Share Target
