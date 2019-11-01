@@ -12,9 +12,12 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 October 2019
 
-- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/hxV0yjyS8_4/Fz4t4WseEQAJ) ARIA `annotation-attribution`, `annotation-commentary`, `annotation-presence`, `annotation-revision`, `annotation-suggestion` roles
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/3oVuczJ5Ty4/b8VLNNvyEAAJ) WebCodecs (access to built-in media encoders/decoders)
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/-apVTp8jBi0/x7kSszjUEAAJ) CSS `Canvas` and `Text` system color keywords
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/BcWAX13du9w/wlp9E1YGEAAJ) default semantics for custom elements via the `ElementInternals` object
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/882iPcdnNQs/UP-PI8H2DwAJ) ARIA attribute reflection
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/_j4TT0laYRs/QorCYE3TDQAJ) `latencyHint` attribute for HTML media elements
+- [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/hxV0yjyS8_4/Fz4t4WseEQAJ) ARIA `annotation-attribution`, `annotation-commentary`, `annotation-presence`, `annotation-revision`, `annotation-suggestion` roles
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/3oVuczJ5Ty4/b8VLNNvyEAAJ) WebCodecs (access to built-in media encoders/decoders)
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/-apVTp8jBi0/x7kSszjUEAAJ) CSS `Canvas` and `Text` system color keywords
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/aBtuQUga1Tk/n4BLwof4DgAJ) `strict-origin-when-cross-origin` as new default for Referrer Policy
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/7B0ldtZR_68/GjLBu0n4DgAJ) Conversion Measurement API
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/OOZIrtSPLeM/QsTCnouFDgAJ) MathML Core
