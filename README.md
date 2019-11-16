@@ -12,8 +12,12 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 November 2019
 
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/SFyBx9MrGRo/ucdX5HGWBQAJ) Window Placement
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/CQVTVOYx1XI/zSEBfVhKBQAJ) CSS `intrinsic-size` property
+- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Mjm4FzfxekY/YR8d2FdfBwAJ) `spatialNavigationSearch` method (part of CSS Spatial Navigation)
+- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/F8fT0EhW9XA/v0ol03HPBgAJ) Contact Picker API (cont.)
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/wB7mDJqrUZ8/Ga2LMxdfBwAJ) `navigator.getInstalledRelatedApps` API
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/XKNtAVyO4AY/ujOrvaYsBwAJ) CSS `:focus-visible` pseudo-class
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/SFyBx9MrGRo/ucdX5HGWBQAJ) Window Placement
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/CQVTVOYx1XI/zSEBfVhKBQAJ) CSS `intrinsic-size` property
 
 October 2019
 
@@ -904,7 +908,7 @@ September 2015
 
 November 2019
 
-- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/Mezd5pLjnJU/jaqcJyngAgAJ) user interaction requirement for notification permission prompts
+- [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/Mezd5pLjnJU/jaqcJyngAgAJ) user interaction requirement for notification permission prompts
 
 October 2019
 
