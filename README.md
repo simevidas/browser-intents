@@ -12,10 +12,14 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 November 2019
 
-- :new: [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Mjm4FzfxekY/YR8d2FdfBwAJ) `spatialNavigationSearch` method (part of CSS Spatial Navigation)
-- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/F8fT0EhW9XA/v0ol03HPBgAJ) Contact Picker API (cont.)
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/wB7mDJqrUZ8/Ga2LMxdfBwAJ) `navigator.getInstalledRelatedApps` API
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/XKNtAVyO4AY/ujOrvaYsBwAJ) CSS `:focus-visible` pseudo-class
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/fgE0Ua9ZSU8/3XM9bU1LAgAJ) Media Playback Quality (`getVideoPlaybackQuality` method)
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/zv6k2X7Wr1M/AvQ76fYWAgAJ) CSS `ActiveText`, `Field`, and `FieldText` values (system color keywords)
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/jPgnRoivOis/AmQfHDtEBgAJ) CSS `image-orientation` property
+- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/AJpqos6iG5Y/7pGU2RRcBAAJ) Content Index API
+- [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Mjm4FzfxekY/YR8d2FdfBwAJ) `spatialNavigationSearch` method (part of CSS Spatial Navigation)
+- [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/F8fT0EhW9XA/v0ol03HPBgAJ) Contact Picker API (cont.)
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/wB7mDJqrUZ8/Ga2LMxdfBwAJ) `navigator.getInstalledRelatedApps` API
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/XKNtAVyO4AY/ujOrvaYsBwAJ) CSS `:focus-visible` pseudo-class
 - [Implement](https://groups.google.com/a/chromium.org/d/msg/blink-dev/SFyBx9MrGRo/ucdX5HGWBQAJ) Window Placement
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/CQVTVOYx1XI/zSEBfVhKBQAJ) CSS `intrinsic-size` property
 
@@ -908,6 +912,9 @@ September 2015
 
 November 2019
 
+- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/dWnXJtFKY0I/WiwbWH8MAAAJ) CSS Shadow Parts
+- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/4oyeCHOqt4I/ebrHWT8iBwAJ) CSS `translate`, `scale`, and `rotate` properties (individual transforms)
+- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/nOOIRsuxvuc/spfjWTwiBwAJ) Motion Paths
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/Mezd5pLjnJU/jaqcJyngAgAJ) user interaction requirement for notification permission prompts
 
 October 2019
