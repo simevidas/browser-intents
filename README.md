@@ -914,7 +914,7 @@ November 2019
 
 - :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/dWnXJtFKY0I/WiwbWH8MAAAJ) CSS Shadow Parts
 - :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/4oyeCHOqt4I/ebrHWT8iBwAJ) CSS `translate`, `scale`, and `rotate` properties (individual transforms)
-- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/nOOIRsuxvuc/spfjWTwiBwAJ) Motion Paths
+- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/nOOIRsuxvuc/spfjWTwiBwAJ) CSS Motion Paths
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/Mezd5pLjnJU/jaqcJyngAgAJ) user interaction requirement for notification permission prompts
 
 October 2019
