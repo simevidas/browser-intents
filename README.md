@@ -10,11 +10,18 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
+December 2019
+
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/KSJViFp3hMc/e-Yzd3_-AwAJ) Periodic Background Sync
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/cX5ahS7nCFw/WHmxn8-uAwAJ) `buffered` option for Performance Observer
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/AZO9T-eHy4E/nv4aQN9oAwAJ) `submitter` property for `submit` events
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/JmwpHPTu3XM/lel6vSEvBAAJ) Compression Streams
+
 November 2019
 
-- :new: [Prototype and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/_j6K_xSxWj0/fbn4kzx9AgAJ) Resize Observer `contentBoxSize`, `borderBoxSize`, and `devicePixelContentBoxSize` properties
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/gDLl4fKCr8Y/35aaeQ0fAgAJ) HTML `<a hreftranslate>` attribute
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/g_SYa13ZDPQ/gFZQVBTIAQAJ) HTTP `Sec-Fetch-Dest` request header
+- [Prototype and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/_j6K_xSxWj0/fbn4kzx9AgAJ) Resize Observer `contentBoxSize`, `borderBoxSize`, and `devicePixelContentBoxSize` properties
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/gDLl4fKCr8Y/35aaeQ0fAgAJ) HTML `<a hreftranslate>` attribute
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/g_SYa13ZDPQ/gFZQVBTIAQAJ) HTTP `Sec-Fetch-Dest` request header
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/fgE0Ua9ZSU8/3XM9bU1LAgAJ) Media Playback Quality (`getVideoPlaybackQuality` method)
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/zv6k2X7Wr1M/AvQ76fYWAgAJ) CSS `ActiveText`, `Field`, and `FieldText` values (system color keywords)
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/jPgnRoivOis/AmQfHDtEBgAJ) CSS `image-orientation` property
@@ -913,9 +920,15 @@ September 2015
 
 ### Firefox
 
+December 2019
+
+- :new: [Prototype](https://groups.google.com/d/msg/mozilla.dev.platform/zKsl5XCB8LM/y9KgzrOcBAAJ) CSS `text-underline-position` property
+- :new: [Prototype](https://groups.google.com/d/msg/mozilla.dev.platform/wZwIB-QFugs/mLPLKbfhBAAJ) Navigation Preload for Service Worker
+- :new: [Prototype](https://groups.google.com/d/msg/mozilla.dev.platform/d4jO-DUBTE8/JDxCM7nhBAAJ) Constructable Stylesheet Objects
+
 November 2019
 
-- :new: [Prototype](https://groups.google.com/d/msg/mozilla.dev.platform/BdFOMAuCGW8/-fqk-MWIAQAJ) delegated permissions for third-party iframes via the `allow` attribute
+- [Prototype](https://groups.google.com/d/msg/mozilla.dev.platform/BdFOMAuCGW8/-fqk-MWIAQAJ) delegated permissions for third-party iframes via the `allow` attribute
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/dWnXJtFKY0I/WiwbWH8MAAAJ) CSS Shadow Parts
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/4oyeCHOqt4I/ebrHWT8iBwAJ) CSS `translate`, `scale`, and `rotate` properties (individual transforms)
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/nOOIRsuxvuc/spfjWTwiBwAJ) CSS Motion Paths
