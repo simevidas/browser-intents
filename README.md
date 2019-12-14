@@ -12,10 +12,11 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 December 2019
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/KSJViFp3hMc/e-Yzd3_-AwAJ) Periodic Background Sync
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/cX5ahS7nCFw/WHmxn8-uAwAJ) `buffered` option for Performance Observer
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/AZO9T-eHy4E/nv4aQN9oAwAJ) `submitter` property for `submit` events
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/JmwpHPTu3XM/lel6vSEvBAAJ) Compression Streams
+- :new: [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/rSavaKsqd0o/mqos8JyEAwAJ) Service Worker Scope Pattern Matching
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/KSJViFp3hMc/e-Yzd3_-AwAJ) Periodic Background Sync
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/cX5ahS7nCFw/WHmxn8-uAwAJ) `buffered` option for Performance Observer
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/AZO9T-eHy4E/nv4aQN9oAwAJ) `submitter` property for `submit` events
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/JmwpHPTu3XM/lel6vSEvBAAJ) Compression Streams
 
 November 2019
 
@@ -922,9 +923,10 @@ September 2015
 
 December 2019
 
-- :new: [Prototype](https://groups.google.com/d/msg/mozilla.dev.platform/zKsl5XCB8LM/y9KgzrOcBAAJ) CSS `text-underline-position` property
-- :new: [Prototype](https://groups.google.com/d/msg/mozilla.dev.platform/wZwIB-QFugs/mLPLKbfhBAAJ) Navigation Preload for Service Worker
-- :new: [Prototype](https://groups.google.com/d/msg/mozilla.dev.platform/d4jO-DUBTE8/JDxCM7nhBAAJ) Constructable Stylesheet Objects
+- :new: [Prototype and ship](https://groups.google.com/d/msg/mozilla.dev.platform/FFUkDL33g0s/FO61jTnkBAAJ) `IDBTransaction` `commit` method
+- [Prototype](https://groups.google.com/d/msg/mozilla.dev.platform/zKsl5XCB8LM/y9KgzrOcBAAJ) CSS `text-underline-position` property
+- [Prototype](https://groups.google.com/d/msg/mozilla.dev.platform/wZwIB-QFugs/mLPLKbfhBAAJ) Navigation Preload for Service Worker
+- [Prototype](https://groups.google.com/d/msg/mozilla.dev.platform/d4jO-DUBTE8/JDxCM7nhBAAJ) Constructable Stylesheet Objects
 
 November 2019
 
