@@ -923,7 +923,7 @@ September 2015
 
 December 2019
 
-- :new: [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/Vd8kd41Zoew/bXgiKIViBwAJ) CSS `overscroll-behavior-inline` and `overscroll-behavior-block` properties
+- [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/Vd8kd41Zoew/bXgiKIViBwAJ) CSS `overscroll-behavior-inline` and `overscroll-behavior-block` properties
 - [Prototype and ship](https://groups.google.com/d/msg/mozilla.dev.platform/FFUkDL33g0s/FO61jTnkBAAJ) `IDBTransaction` `commit` method
 - [Prototype](https://groups.google.com/d/msg/mozilla.dev.platform/zKsl5XCB8LM/y9KgzrOcBAAJ) CSS `text-underline-position` property
 - [Prototype](https://groups.google.com/d/msg/mozilla.dev.platform/wZwIB-QFugs/mLPLKbfhBAAJ) Navigation Preload for Service Worker
