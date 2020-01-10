@@ -10,9 +10,14 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
+January 2020
+
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/fHc49JNFTAU/bJD25Yr7CAAJ) Badging API
+- :new: [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/4BUSE2aTQEc/bNQv4jyTCQAJ) `timezonechange` event
+- [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/7HasvKUZm5c/7k3QehJBCAAJ) Native File System API (cont.)
+
 December 2019
 
-- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/7HasvKUZm5c/7k3QehJBCAAJ) Native File System API (cont.)
 - [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/rSavaKsqd0o/mqos8JyEAwAJ) Service Worker Scope Pattern Matching
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/KSJViFp3hMc/e-Yzd3_-AwAJ) Periodic Background Sync
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/cX5ahS7nCFw/WHmxn8-uAwAJ) `buffered` option for Performance Observer
@@ -921,6 +926,11 @@ September 2015
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/iBX_2xfX6jc/Uc0D6jr3AgAJ) `stale-while-revalidate` Cache-control extension
 
 ### Firefox
+
+January 2020
+
+- :new: [Prototype](https://groups.google.com/d/msg/mozilla.dev.platform/qZ66aK0hZOY/ecdNMp5jDQAJ) `beforeinput` event
+- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/FgKLdwRhCyA/RTSY3a-QDAAJ) CSS `text-underline-position` property
 
 December 2019
 
