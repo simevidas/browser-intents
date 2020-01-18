@@ -12,8 +12,16 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 January 2020
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/fHc49JNFTAU/bJD25Yr7CAAJ) Badging API
-- :new: [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/4BUSE2aTQEc/bNQv4jyTCQAJ) `timezonechange` event
+- :new: [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/T6d2zqF_jpw/-ZmHBqlKDgAJ) mechanism for running PWAs on startup
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/BXxS2U5EaN0/cSVmzxSmDQAJ) WebXR Augmented Reality (AR) Module
+- :new: [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/0vuiPTvBGvQ/4faGCaqnDQAJ) Origin Isolation
+- :new: [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/phH1_G6qI0o/2O4YR8RkCgAJ) Origin Policy
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/-_0REgUR-yY/f2ezL1tSCgAJ) CSS `color-scheme` property and `"color-scheme"` `<meta>` value
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/A4wxFpvqUfA/g7iccl9ICgAJ) HTTP `Sec-CH-UA-*` headers (Client Hints)
+- :new: [Deprecate and freeze](https://groups.google.com/a/chromium.org/d/msg/blink-dev/-2JIRNMWJ7s/yHe4tQNLCgAJ) HTTP `User-Agent` header value
+- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/8bsAd-PsdbA/ZTcgiwf7CQAJ) Web NFC
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/fHc49JNFTAU/bJD25Yr7CAAJ) Badging API
+- [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/4BUSE2aTQEc/bNQv4jyTCQAJ) `timezonechange` event
 - [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/7HasvKUZm5c/7k3QehJBCAAJ) Native File System API (cont.)
 
 December 2019
@@ -929,8 +937,11 @@ September 2015
 
 January 2020
 
-- :new: [Prototype](https://groups.google.com/d/msg/mozilla.dev.platform/qZ66aK0hZOY/ecdNMp5jDQAJ) `beforeinput` event
-- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/FgKLdwRhCyA/RTSY3a-QDAAJ) CSS `text-underline-position` property
+- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/acQMQCHXKZY/kIWdZ4koCwAJ) CSS `outline-style: auto` value
+- :new: [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/bIM8ZaFS-d8/VwbG7okoCwAJ) AVIF image format (based on the AV1 video codec)
+- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/dy72fIaeTtM/E1W3lIsoCwAJ) HTTP `Cross-Origin-Resource-Policy` header
+- [Prototype](https://groups.google.com/d/msg/mozilla.dev.platform/qZ66aK0hZOY/ecdNMp5jDQAJ) `beforeinput` event
+- [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/FgKLdwRhCyA/RTSY3a-QDAAJ) CSS `text-underline-position` property
 
 December 2019
 
