@@ -10,11 +10,17 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
+February 2020
+
+- :new: [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/KsPRO3hkOGw/md4jgIAaAgAJ) CSS `spanning` media feature and `fold-top`/`fold-left`/`fold-width`/`fold-height` environment variables
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/QsgMjIyO8qA/RWWWukoaAgAJ) CSS `font-display: optional` without relayout
+- :new: [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/FMPV2LCc0Ho/X4minYyAAQAJ) `rawValue` property for `<input>` elements
+- [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/31qZ-bMToM8/bLhpSdXhEgAJ) `scheduler.postTask` method for main-thread scheduling
+
 January 2020
 
-- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/31qZ-bMToM8/bLhpSdXhEgAJ) `scheduler.postTask` method for main-thread scheduling
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/GTPDv_MQbR0/fMjKxd5iDgAJ) `<input type="time">` with a reversed range (`min` > `max`)
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/DcuNrnEQo4k/etmmN3pYDgAJ) `requestAnimationFrame` method for `<video>` elements
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/GTPDv_MQbR0/fMjKxd5iDgAJ) `<input type="time">` with a reversed range (`min` > `max`)
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/DcuNrnEQo4k/etmmN3pYDgAJ) `requestAnimationFrame` method for `<video>` elements
 - [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/VU1zkDOL3bc/AU9FjKl2DQAJ) CSS `row-gap` and `column-gap` properties
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/QyIz793UdGs/PgWUPO1PDQAJ) WebXR Hit Testing
 - [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/T6d2zqF_jpw/-ZmHBqlKDgAJ) mechanism for running PWAs on startup
@@ -942,7 +948,7 @@ September 2015
 
 January 2020
 
-- :new: [Prototype](https://groups.google.com/d/msg/mozilla.dev.platform/iBKhDXB89OA/3NZ_7UGjAAAJ) masonry layout in CSS Grid
+- [Prototype](https://groups.google.com/d/msg/mozilla.dev.platform/iBKhDXB89OA/3NZ_7UGjAAAJ) masonry layout in CSS Grid
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/acQMQCHXKZY/kIWdZ4koCwAJ) CSS `outline-style: auto` value
 - [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/bIM8ZaFS-d8/VwbG7okoCwAJ) AVIF image format (based on the AV1 video codec)
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/dy72fIaeTtM/E1W3lIsoCwAJ) HTTP `Cross-Origin-Resource-Policy` header
