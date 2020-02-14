@@ -12,9 +12,14 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 February 2020
 
-- :new: [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/KsPRO3hkOGw/md4jgIAaAgAJ) CSS `spanning` media feature and `fold-top`/`fold-left`/`fold-width`/`fold-height` environment variables
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/QsgMjIyO8qA/RWWWukoaAgAJ) CSS `font-display: optional` without relayout
-- :new: [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/FMPV2LCc0Ho/X4minYyAAQAJ) `rawValue` property for `<input>` elements
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/TzuPAx9ZOk0/HYOf3FFFBgAJ) `<iframe disallowdocumentaccess>` attribute
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/2uume_z0n8M/dUFRWmVNBgAJ) ARIA `suggestion`, `mark`, and `comment` roles and `aria-description` attribute
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Dbpth-n7LZo/vtyZAmMIBgAJ) CSS `contain-intrinsic-size` property
+- :new: [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/oNJTem41LBs/CA4Nx05aAwAJ) CSS `prefers-reduced-data` media feature
+- :new: [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/nJDc-1s3R9U/uCJKsEqpAwAJ) Declarative Shadow DOM
+- [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/KsPRO3hkOGw/md4jgIAaAgAJ) CSS `spanning` media feature and `fold-top`/`fold-left`/`fold-width`/`fold-height` environment variables
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/QsgMjIyO8qA/RWWWukoaAgAJ) CSS `font-display: optional` without relayout
+- [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/FMPV2LCc0Ho/X4minYyAAQAJ) `rawValue` property for `<input>` elements
 - [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/31qZ-bMToM8/bLhpSdXhEgAJ) `scheduler.postTask` method for main-thread scheduling
 
 January 2020
@@ -945,6 +950,12 @@ September 2015
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/iBX_2xfX6jc/Uc0D6jr3AgAJ) `stale-while-revalidate` Cache-control extension
 
 ### Firefox
+
+February 2020
+
+- :new: [Prototype and ship](https://groups.google.com/d/msg/mozilla.dev.platform/3CH2pXxTWl4/xXc4_7QJBQAJ) `<img loading>` attribute (for lazy-loading images)
+- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/ZyUPHkyLun8/XvYEqPncBgAJ) `submit` event (contains `submitter` property)
+- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/NB0Ht1UGoSw/KiPRi_ncBgAJ) `<form>` `requestSubmit` method
 
 January 2020
 
