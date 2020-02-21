@@ -956,7 +956,7 @@ September 2015
 
 February 2020
 
-- :new: [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/i6V9W5XJjpA/DoxHJkiqBwAJ) CSS `min()`, `max()`, and `clamp()` functions
+- :new: [Prototype and ship](https://groups.google.com/d/msg/mozilla.dev.platform/i6V9W5XJjpA/DoxHJkiqBwAJ) CSS `min()`, `max()`, and `clamp()` functions
 - :new: [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/CSbRi8-MrMM/wtFU1ZNcBwAJ) CSS `conic-gradient()` notation
 - [Prototype and ship](https://groups.google.com/d/msg/mozilla.dev.platform/3CH2pXxTWl4/xXc4_7QJBQAJ) `<img loading>` attribute (for lazy-loading images)
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/ZyUPHkyLun8/XvYEqPncBgAJ) `submit` event (contains `submitter` property)
