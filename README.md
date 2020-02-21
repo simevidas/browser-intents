@@ -12,11 +12,14 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 February 2020
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/TzuPAx9ZOk0/HYOf3FFFBgAJ) `<iframe disallowdocumentaccess>` attribute
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/2uume_z0n8M/dUFRWmVNBgAJ) ARIA `suggestion`, `mark`, and `comment` roles and `aria-description` attribute
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Dbpth-n7LZo/vtyZAmMIBgAJ) CSS `contain-intrinsic-size` property
-- :new: [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/oNJTem41LBs/CA4Nx05aAwAJ) CSS `prefers-reduced-data` media feature
-- :new: [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/nJDc-1s3R9U/uCJKsEqpAwAJ) Declarative Shadow DOM
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/dJibhmzE73o/jzB1zkJeCQAJ) CSS `:state()` pseudo-class
+- :new: [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/D1sGl6UkCzs/bSiEw3rlCAAJ) Media Feeds API
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/P7Jpm9JW6q8/bhl3sT5bBgAJ) `durability` property for IndexedDB transactions (durability hint)
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/TzuPAx9ZOk0/HYOf3FFFBgAJ) `<iframe disallowdocumentaccess>` attribute
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/2uume_z0n8M/dUFRWmVNBgAJ) ARIA `suggestion`, `mark`, and `comment` roles and `aria-description` attribute
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Dbpth-n7LZo/vtyZAmMIBgAJ) CSS `contain-intrinsic-size` property
+- [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/oNJTem41LBs/CA4Nx05aAwAJ) CSS `prefers-reduced-data` media feature
+- [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/nJDc-1s3R9U/uCJKsEqpAwAJ) Declarative Shadow DOM
 - [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/KsPRO3hkOGw/md4jgIAaAgAJ) CSS `spanning` media feature and `fold-top`/`fold-left`/`fold-width`/`fold-height` environment variables
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/QsgMjIyO8qA/RWWWukoaAgAJ) CSS `font-display: optional` without relayout
 - [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/FMPV2LCc0Ho/X4minYyAAQAJ) `rawValue` property for `<input>` elements
@@ -953,9 +956,11 @@ September 2015
 
 February 2020
 
-- :new: [Prototype and ship](https://groups.google.com/d/msg/mozilla.dev.platform/3CH2pXxTWl4/xXc4_7QJBQAJ) `<img loading>` attribute (for lazy-loading images)
-- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/ZyUPHkyLun8/XvYEqPncBgAJ) `submit` event (contains `submitter` property)
-- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/NB0Ht1UGoSw/KiPRi_ncBgAJ) `<form>` `requestSubmit` method
+- :new: [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/i6V9W5XJjpA/DoxHJkiqBwAJ) CSS `min()`, `max()`, and `clamp()` functions
+- :new: [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/CSbRi8-MrMM/wtFU1ZNcBwAJ) CSS `conic-gradient()` notation
+- [Prototype and ship](https://groups.google.com/d/msg/mozilla.dev.platform/3CH2pXxTWl4/xXc4_7QJBQAJ) `<img loading>` attribute (for lazy-loading images)
+- [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/ZyUPHkyLun8/XvYEqPncBgAJ) `submit` event (contains `submitter` property)
+- [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/NB0Ht1UGoSw/KiPRi_ncBgAJ) `<form>` `requestSubmit` method
 
 January 2020
 
