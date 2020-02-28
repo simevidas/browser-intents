@@ -12,11 +12,16 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 February 2020
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/dJibhmzE73o/jzB1zkJeCQAJ) CSS `:state()` pseudo-class
-- :new: [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/D1sGl6UkCzs/bSiEw3rlCAAJ) Media Feeds API
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/P7Jpm9JW6q8/bhl3sT5bBgAJ) `durability` property for IndexedDB transactions (durability hint)
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/cJ5dXIcQCsc/eGgi0gkcAAAJ) Cross-Origin Opener Policy (COOP)
+- :new: [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/TNYIAu5E_M4/1i7LME9WCwAJ) Imperative Shadow DOM Distribution API
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/XBKAGb2_7uA/TDg_AkQbAAAJ) Cross-Origin Embedder Policy (COEP)
+- :new: [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/x4Ev_l9Oj2U/6bGPs7MVCwAJ) URL Protocol Handler Registration for PWAs
+- :new: [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/UHRmDD20FWE/sCmwI9oxGgAJ) Web Bluetooth `getDevices` method
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/dJibhmzE73o/jzB1zkJeCQAJ) CSS `:state()` pseudo-class
+- [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/D1sGl6UkCzs/bSiEw3rlCAAJ) Media Feeds API
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/P7Jpm9JW6q8/bhl3sT5bBgAJ) `durability` property for IndexedDB transactions (durability hint)
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/TzuPAx9ZOk0/HYOf3FFFBgAJ) `<iframe disallowdocumentaccess>` attribute
-- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/2uume_z0n8M/dUFRWmVNBgAJ) ARIA `suggestion`, `mark`, and `comment` roles and `aria-description` attribute
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/2uume_z0n8M/dUFRWmVNBgAJ) ARIA `suggestion`, `mark`, and `comment` roles and `aria-description` attribute (ARIA annotations)
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Dbpth-n7LZo/vtyZAmMIBgAJ) CSS `contain-intrinsic-size` property
 - [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/oNJTem41LBs/CA4Nx05aAwAJ) CSS `prefers-reduced-data` media feature
 - [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/nJDc-1s3R9U/uCJKsEqpAwAJ) Declarative Shadow DOM
@@ -956,8 +961,10 @@ September 2015
 
 February 2020
 
-- :new: [Prototype and ship](https://groups.google.com/d/msg/mozilla.dev.platform/i6V9W5XJjpA/DoxHJkiqBwAJ) CSS `min()`, `max()`, and `clamp()` functions
-- :new: [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/CSbRi8-MrMM/wtFU1ZNcBwAJ) CSS `conic-gradient()` notation
+- :new: [Prototype and ship](https://groups.google.com/d/msg/mozilla.dev.platform/eh_O7G4H26Q/mFy5IambGQAJ) ARIA `suggestion`, `mark`, and `comment` roles and `aria-description` attribute (ARIA annotations)
+- :new: [Prototype](https://groups.google.com/d/msg/mozilla.dev.platform/QzmcYfffVQ4/gk8iCALCCAAJ) CSS `:focus-visible` pseudo-class
+- [Prototype and ship](https://groups.google.com/d/msg/mozilla.dev.platform/i6V9W5XJjpA/DoxHJkiqBwAJ) CSS `min()`, `max()`, and `clamp()` functions
+- [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/CSbRi8-MrMM/wtFU1ZNcBwAJ) CSS `conic-gradient()` notation
 - [Prototype and ship](https://groups.google.com/d/msg/mozilla.dev.platform/3CH2pXxTWl4/xXc4_7QJBQAJ) `<img loading>` attribute (for lazy-loading images)
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/ZyUPHkyLun8/XvYEqPncBgAJ) `submit` event (contains `submitter` property)
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/NB0Ht1UGoSw/KiPRi_ncBgAJ) `<form>` `requestSubmit` method
