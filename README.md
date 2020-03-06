@@ -21,11 +21,11 @@ March 2020
 
 February 2020
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/cJ5dXIcQCsc/eGgi0gkcAAAJ) Cross-Origin Opener Policy (COOP)
-- :new: [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/TNYIAu5E_M4/1i7LME9WCwAJ) Imperative Shadow DOM Distribution API
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/XBKAGb2_7uA/TDg_AkQbAAAJ) Cross-Origin Embedder Policy (COEP)
-- :new: [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/x4Ev_l9Oj2U/6bGPs7MVCwAJ) URL Protocol Handler Registration for PWAs
-- :new: [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/UHRmDD20FWE/sCmwI9oxGgAJ) Web Bluetooth `getDevices` method
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/cJ5dXIcQCsc/eGgi0gkcAAAJ) Cross-Origin Opener Policy (COOP)
+- [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/TNYIAu5E_M4/1i7LME9WCwAJ) Imperative Shadow DOM Distribution API
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/XBKAGb2_7uA/TDg_AkQbAAAJ) Cross-Origin Embedder Policy (COEP)
+- [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/x4Ev_l9Oj2U/6bGPs7MVCwAJ) URL Protocol Handler Registration for PWAs
+- [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/UHRmDD20FWE/sCmwI9oxGgAJ) Web Bluetooth `getDevices` method
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/dJibhmzE73o/jzB1zkJeCQAJ) CSS `:state()` pseudo-class
 - [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/D1sGl6UkCzs/bSiEw3rlCAAJ) Media Feeds API
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/P7Jpm9JW6q8/bhl3sT5bBgAJ) `durability` property for IndexedDB transactions (durability hint)
@@ -970,12 +970,12 @@ September 2015
 
 March 2020
 
-- :new: [ship](https://groups.google.com/d/msg/mozilla.dev.platform/gie9ExD2-mU/7aTCCslyAAAJ) `getAnimations` method for the _Element_ and _Document_ interfaces
+- [ship](https://groups.google.com/d/msg/mozilla.dev.platform/gie9ExD2-mU/7aTCCslyAAAJ) `getAnimations` method for the _Element_ and _Document_ interfaces
 
 February 2020
 
-- :new: [Prototype and ship](https://groups.google.com/d/msg/mozilla.dev.platform/eh_O7G4H26Q/mFy5IambGQAJ) ARIA `suggestion`, `mark`, and `comment` roles and `aria-description` attribute (ARIA annotations)
-- :new: [Prototype](https://groups.google.com/d/msg/mozilla.dev.platform/QzmcYfffVQ4/gk8iCALCCAAJ) CSS `:focus-visible` pseudo-class
+- [Prototype and ship](https://groups.google.com/d/msg/mozilla.dev.platform/eh_O7G4H26Q/mFy5IambGQAJ) ARIA `suggestion`, `mark`, and `comment` roles and `aria-description` attribute (ARIA annotations)
+- [Prototype](https://groups.google.com/d/msg/mozilla.dev.platform/QzmcYfffVQ4/gk8iCALCCAAJ) CSS `:focus-visible` pseudo-class
 - [Prototype and ship](https://groups.google.com/d/msg/mozilla.dev.platform/i6V9W5XJjpA/DoxHJkiqBwAJ) CSS `min()`, `max()`, and `clamp()` functions
 - [Implement](https://groups.google.com/d/msg/mozilla.dev.platform/CSbRi8-MrMM/wtFU1ZNcBwAJ) CSS `conic-gradient()` notation
 - [Prototype and ship](https://groups.google.com/d/msg/mozilla.dev.platform/3CH2pXxTWl4/xXc4_7QJBQAJ) `<img loading>` attribute (for lazy-loading images)
