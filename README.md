@@ -970,7 +970,7 @@ September 2015
 
 March 2020
 
-- [ship](https://groups.google.com/d/msg/mozilla.dev.platform/gie9ExD2-mU/7aTCCslyAAAJ) `getAnimations` method for the _Element_ and _Document_ interfaces
+- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/gie9ExD2-mU/7aTCCslyAAAJ) `getAnimations` method for the _Element_ and _Document_ interfaces
 
 February 2020
 
