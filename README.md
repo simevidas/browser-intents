@@ -12,12 +12,14 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 March 2020
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/uDn6a9fquCM/QmBxasoLAgAJ) Wake Lock API
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/C5afPWCPXp8/5-uxJaSBAQAJ) (unprefixed) CSS `appearance` property
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/2NKgeWa_kuQ/HACnp5OBAQAJ) CSS `-webkit-appearance: auto` value
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Q0D5Lz6HwMU/7vBD4fM5AAAJ) WebXR DOM Overlay
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/qBQCKhzbIRc/RsfZQmf3AQAJ) `off` and `noscroll` values for the `<iframe scrolling>` attribute
-- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/zxCKzulX424/Ac3zzMqqAQAJ) `performance.measureMemory` method
+- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/FvRHynL2uwE/_jbRY6xkAgAJ) Native File System API (cont.)
+- :new: [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/pb8sjXyFFg4/oH_XpCMxAQAJ) Font Access API (enumerate installed fonts and obtain table data)
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/uDn6a9fquCM/QmBxasoLAgAJ) Wake Lock API
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/C5afPWCPXp8/5-uxJaSBAQAJ) (unprefixed) CSS `appearance` property
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/2NKgeWa_kuQ/HACnp5OBAQAJ) CSS `-webkit-appearance: auto` value
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Q0D5Lz6HwMU/7vBD4fM5AAAJ) WebXR DOM Overlay
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/qBQCKhzbIRc/RsfZQmf3AQAJ) `off` and `noscroll` values for the `<iframe scrolling>` attribute
+- [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/zxCKzulX424/Ac3zzMqqAQAJ) `performance.measureMemory` method
 
 February 2020
 
@@ -970,7 +972,7 @@ September 2015
 
 March 2020
 
-- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/gie9ExD2-mU/7aTCCslyAAAJ) `getAnimations` method for the _Element_ and _Document_ interfaces
+- [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/gie9ExD2-mU/7aTCCslyAAAJ) `getAnimations` method for the _Element_ and _Document_ interfaces
 
 February 2020
 
