@@ -12,6 +12,11 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 March 2020
 
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/tOHolEkBeY8/jX0jvQqkBAAJ) CSS `revert` keyword
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/4QercWhVKP8/FnM5NkpnCgAJ) Web OTP API (requesting one-time-passwords)
+- :new: [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/iwsT-jkCQcI/Rpt_hBFUBQAJ) CSS `lch()` and `lab()` functions (CIE LAB color functions)
+- :new: [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/ByWuVBk1lFE/vAfiloyPBAAJ) CSS `page` property (named pages) and `page-orientation` descriptor
+- :new: [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/pD4UW52y8Uk/CPWozoVmBAAJ) CSS `aspect-ratio` property
 - [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/FvRHynL2uwE/_jbRY6xkAgAJ) Native File System API (cont.)
 - [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/pb8sjXyFFg4/oH_XpCMxAQAJ) Font Access API (enumerate installed fonts and obtain table data)
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/uDn6a9fquCM/QmBxasoLAgAJ) Wake Lock API
@@ -972,8 +977,8 @@ September 2015
 
 March 2020
 
-- :new: [Prototype and ship](https://groups.google.com/d/msg/mozilla.dev.platform/VXlDBa3SvWA/q7BZjj5iBAAJ) “Defer `<script defer>` execution until all script-blocking stylesheets are loaded”
-- :new: [Unship](https://groups.google.com/d/msg/mozilla.dev.platform/FqCZUT9ay_o/jt4DLRDjAwAJ) FTP protocol
+- [Prototype and ship](https://groups.google.com/d/msg/mozilla.dev.platform/VXlDBa3SvWA/q7BZjj5iBAAJ) “Defer `<script defer>` execution until all script-blocking stylesheets are loaded”
+- [Unship](https://groups.google.com/d/msg/mozilla.dev.platform/FqCZUT9ay_o/jt4DLRDjAwAJ) FTP protocol
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/gie9ExD2-mU/7aTCCslyAAAJ) `getAnimations` method for the _Element_ and _Document_ interfaces
 
 February 2020
