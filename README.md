@@ -10,9 +10,12 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
-March 2020
+April 2020
 
 - :new: [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/D6S8JRPYtDA/yZ7fYcQUBQAJ) CSS `text-decoration-thickness` and `text-underline-offset` properties, and `text-underline-position: from-font` value
+
+March 2020
+
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/tOHolEkBeY8/jX0jvQqkBAAJ) CSS `revert` keyword
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/4QercWhVKP8/FnM5NkpnCgAJ) Web OTP API (requesting one-time-passwords)
 - [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/iwsT-jkCQcI/Rpt_hBFUBQAJ) CSS `lch()` and `lab()` functions (CIE LAB color functions)
