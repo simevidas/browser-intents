@@ -12,7 +12,9 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 April 2020
 
-- :new: [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/D6S8JRPYtDA/yZ7fYcQUBQAJ) CSS `text-decoration-thickness` and `text-underline-offset` properties, and `text-underline-position: from-font` value
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/aq1Zxc8D_uI/R_uNpPCWBQAJ) `navigator.getInstalledRelatedApps` API on Windows
+- :new: [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/cper6nNLFRQ/hU91kfCWBQAJ) Window Controls Overlay for Installed Desktop Web Apps
+- [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/D6S8JRPYtDA/yZ7fYcQUBQAJ) CSS `text-decoration-thickness` and `text-underline-offset` properties, and `text-underline-position: from-font` value
 
 March 2020
 
