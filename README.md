@@ -12,8 +12,11 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 April 2020
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/aq1Zxc8D_uI/R_uNpPCWBQAJ) `navigator.getInstalledRelatedApps` API on Windows
-- :new: [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/cper6nNLFRQ/hU91kfCWBQAJ) Window Controls Overlay for Installed Desktop Web Apps
+- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/tFFemLT2xgQ/V35iIDJHAwAJ) Portals (same-origin, Android only)
+- :new: [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/_aMJlxE8Jrw/UgoQSGZZAwAJ) altitude and azimuth angles for Pointer Events
+- :new: [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/gK4XF2vbvf0/NeA28SQDBgAJ) App Icon Shortcuts Menu
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/aq1Zxc8D_uI/R_uNpPCWBQAJ) `navigator.getInstalledRelatedApps` API on Windows
+- [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/cper6nNLFRQ/hU91kfCWBQAJ) Window Controls Overlay for Installed Desktop Web Apps
 - [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/D6S8JRPYtDA/yZ7fYcQUBQAJ) CSS `text-decoration-thickness` and `text-underline-offset` properties, and `text-underline-position: from-font` value
 
 March 2020
@@ -980,6 +983,12 @@ September 2015
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/iBX_2xfX6jc/Uc0D6jr3AgAJ) `stale-while-revalidate` Cache-control extension
 
 ### Firefox
+
+April 2020
+
+- :new: [Prototype and ship](https://groups.google.com/d/msg/mozilla.dev.platform/_f8gYPevIQw/9X-A-2R5AQAJ) CSS `:is()` and `:where()` pseudo-classes
+- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/_i1mSzhaDkQ/HCQ8CZwsAQAJ) AudioWorklet
+- :new: [Prototype](https://groups.google.com/d/msg/mozilla.dev.platform/FWdTtWSFzE0/Rsoy0cVGAgAJ) ARIA reflection
 
 March 2020
 
