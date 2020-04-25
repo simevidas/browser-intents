@@ -12,9 +12,15 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 April 2020
 
-- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/tFFemLT2xgQ/V35iIDJHAwAJ) Portals (same-origin, Android only)
-- :new: [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/_aMJlxE8Jrw/UgoQSGZZAwAJ) altitude and azimuth angles for Pointer Events
-- :new: [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/gK4XF2vbvf0/NeA28SQDBgAJ) App Icon Shortcuts Menu
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Wu4yPMznUw0/-LrirfTJBAAJ) Web Animations API
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/3ygpsew53a0/T7acB6sRBQAJ) CSS `@property` at-rule
+- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/sBGPdqQRQfo/cam3wY2jAwAJ) HTML `rendersubtree` attribute (cont.)
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/cMlaiFqdkYQ/ANy6Ad2DAwAJ) Content Index API
+- :new: [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/q80uCrMgiTM/nF3mo-7zBAAJ) Virtual Keyboard API
+- :new: [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/_1_ljYsaqrU/qOoHJ7MhAgAJ) Window Segments Enumeration API
+- [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/tFFemLT2xgQ/V35iIDJHAwAJ) Portals (same-origin, Android only)
+- [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/_aMJlxE8Jrw/UgoQSGZZAwAJ) altitude and azimuth angles for Pointer Events
+- [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/gK4XF2vbvf0/NeA28SQDBgAJ) App Icon Shortcuts Menu
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/aq1Zxc8D_uI/R_uNpPCWBQAJ) `navigator.getInstalledRelatedApps` API on Windows
 - [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/cper6nNLFRQ/hU91kfCWBQAJ) Window Controls Overlay for Installed Desktop Web Apps
 - [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/D6S8JRPYtDA/yZ7fYcQUBQAJ) CSS `text-decoration-thickness` and `text-underline-offset` properties, and `text-underline-position: from-font` value
@@ -986,9 +992,10 @@ September 2015
 
 April 2020
 
-- :new: [Prototype and ship](https://groups.google.com/d/msg/mozilla.dev.platform/_f8gYPevIQw/9X-A-2R5AQAJ) CSS `:is()` and `:where()` pseudo-classes
-- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/_i1mSzhaDkQ/HCQ8CZwsAQAJ) AudioWorklet
-- :new: [Prototype](https://groups.google.com/d/msg/mozilla.dev.platform/FWdTtWSFzE0/Rsoy0cVGAgAJ) ARIA reflection
+- :new: [Prototype](https://groups.google.com/d/msg/mozilla.dev.platform/f2_hLdfsbq4/ZhuWE4ZAAgAJ) Dynamic First-Party Isolation
+- [Prototype and ship](https://groups.google.com/d/msg/mozilla.dev.platform/_f8gYPevIQw/9X-A-2R5AQAJ) CSS `:is()` and `:where()` pseudo-classes
+- [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/_i1mSzhaDkQ/HCQ8CZwsAQAJ) AudioWorklet
+- [Prototype](https://groups.google.com/d/msg/mozilla.dev.platform/FWdTtWSFzE0/Rsoy0cVGAgAJ) ARIA reflection
 
 March 2020
 
