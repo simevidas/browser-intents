@@ -12,12 +12,15 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 April 2020
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Wu4yPMznUw0/-LrirfTJBAAJ) Web Animations API
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/3ygpsew53a0/T7acB6sRBQAJ) CSS `@property` at-rule
-- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/sBGPdqQRQfo/cam3wY2jAwAJ) HTML `rendersubtree` attribute (cont.)
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/cMlaiFqdkYQ/ANy6Ad2DAwAJ) Content Index API
-- :new: [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/q80uCrMgiTM/nF3mo-7zBAAJ) Virtual Keyboard API
-- :new: [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/_1_ljYsaqrU/qOoHJ7MhAgAJ) Window Segments Enumeration API
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/hkjRPJ1-Ruk/AS6HBVfCAAAJ) Forced Colors Mode (CSS `forced-color-adjust` property)
+- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/9OwINXHzbUE/0EhqVz2CAAAJ) Idle Detection API
+- :new: [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Bkn7wCAsKbs/reJTn3uuBQAJ) Web Bluetooth `watchAdvertisements` method
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Wu4yPMznUw0/-LrirfTJBAAJ) Web Animations API
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/3ygpsew53a0/T7acB6sRBQAJ) CSS `@property` at-rule
+- [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/sBGPdqQRQfo/cam3wY2jAwAJ) HTML `rendersubtree` attribute (cont.)
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/cMlaiFqdkYQ/ANy6Ad2DAwAJ) Content Index API
+- [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/q80uCrMgiTM/nF3mo-7zBAAJ) Virtual Keyboard API
+- [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/_1_ljYsaqrU/qOoHJ7MhAgAJ) Window Segments Enumeration API
 - [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/tFFemLT2xgQ/V35iIDJHAwAJ) Portals (same-origin, Android only)
 - [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/_aMJlxE8Jrw/UgoQSGZZAwAJ) altitude and azimuth angles for Pointer Events
 - [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/gK4XF2vbvf0/NeA28SQDBgAJ) App Icon Shortcuts Menu
@@ -992,7 +995,7 @@ September 2015
 
 April 2020
 
-- :new: [Prototype](https://groups.google.com/d/msg/mozilla.dev.platform/f2_hLdfsbq4/ZhuWE4ZAAgAJ) Dynamic First-Party Isolation
+- [Prototype](https://groups.google.com/d/msg/mozilla.dev.platform/f2_hLdfsbq4/ZhuWE4ZAAgAJ) Dynamic First-Party Isolation
 - [Prototype and ship](https://groups.google.com/d/msg/mozilla.dev.platform/_f8gYPevIQw/9X-A-2R5AQAJ) CSS `:is()` and `:where()` pseudo-classes
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/_i1mSzhaDkQ/HCQ8CZwsAQAJ) AudioWorklet
 - [Prototype](https://groups.google.com/d/msg/mozilla.dev.platform/FWdTtWSFzE0/Rsoy0cVGAgAJ) ARIA reflection
