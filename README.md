@@ -10,11 +10,19 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
+May 2020
+
+- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/bBdx2xIB7OQ/k2fMXf-WAAAJ) Cookie Store API
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/HYDQLFPAHC0/BsF9T0wGAAAJ) CSS `row-gap` and `column-gap` properties in Flexbox Layout
+- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/G0h3PFPeclA/Lqt872UCAAAJ) Origin Isolation
+- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/UIvia1WwIhk/DuXLKdF7AgAJ) Trust Token API
+- :new: [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/QKUZ_ALJdM8/d0Qu1wJcAQAJ) `beforematch` event
+
 April 2020
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/hkjRPJ1-Ruk/AS6HBVfCAAAJ) Forced Colors Mode (CSS `forced-color-adjust` property)
-- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/9OwINXHzbUE/0EhqVz2CAAAJ) Idle Detection API
-- :new: [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Bkn7wCAsKbs/reJTn3uuBQAJ) Web Bluetooth `watchAdvertisements` method
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/hkjRPJ1-Ruk/AS6HBVfCAAAJ) Forced Colors Mode (CSS `forced-color-adjust` property)
+- [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/9OwINXHzbUE/0EhqVz2CAAAJ) Idle Detection API
+- [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Bkn7wCAsKbs/reJTn3uuBQAJ) Web Bluetooth `watchAdvertisements` method
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Wu4yPMznUw0/-LrirfTJBAAJ) Web Animations API
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/3ygpsew53a0/T7acB6sRBQAJ) CSS `@property` at-rule
 - [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/sBGPdqQRQfo/cam3wY2jAwAJ) HTML `rendersubtree` attribute (cont.)
@@ -68,7 +76,7 @@ January 2020
 
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/GTPDv_MQbR0/fMjKxd5iDgAJ) `<input type="time">` with a reversed range (`min` > `max`)
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/DcuNrnEQo4k/etmmN3pYDgAJ) `requestAnimationFrame` method for `<video>` elements
-- [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/VU1zkDOL3bc/AU9FjKl2DQAJ) CSS `row-gap` and `column-gap` properties
+- [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/VU1zkDOL3bc/AU9FjKl2DQAJ) CSS `row-gap` and `column-gap` properties in Flexbox Layout
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/QyIz793UdGs/PgWUPO1PDQAJ) WebXR Hit Testing
 - [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/T6d2zqF_jpw/-ZmHBqlKDgAJ) mechanism for running PWAs on startup
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/BXxS2U5EaN0/cSVmzxSmDQAJ) WebXR Augmented Reality (AR) Module
