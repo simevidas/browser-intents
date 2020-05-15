@@ -12,11 +12,15 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 May 2020
 
-- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/bBdx2xIB7OQ/k2fMXf-WAAAJ) Cookie Store API
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/HYDQLFPAHC0/BsF9T0wGAAAJ) CSS `row-gap` and `column-gap` properties in Flexbox Layout
-- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/G0h3PFPeclA/Lqt872UCAAAJ) Origin Isolation
-- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/UIvia1WwIhk/DuXLKdF7AgAJ) Trust Token API
-- :new: [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/QKUZ_ALJdM8/d0Qu1wJcAQAJ) `beforematch` event
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/1UQqjz1CR-k/Rdl-wVPkBwAJ) Event Timing
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/FGCgsKmylhw/BSUrk2roCQAJ) CSS `attr()` function Level 4 extension
+- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/mHV_ZALf07Q/d7J9W0a1CQAJ) QuicTransport
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/FgzYX7AFbUQ/f2i0-f-BAQAJ) App Icon Shortcuts Menu
+- [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/bBdx2xIB7OQ/k2fMXf-WAAAJ) Cookie Store API
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/HYDQLFPAHC0/BsF9T0wGAAAJ) CSS `row-gap` and `column-gap` properties in Flexbox Layout
+- [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/G0h3PFPeclA/Lqt872UCAAAJ) Origin Isolation
+- [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/UIvia1WwIhk/DuXLKdF7AgAJ) Trust Token API
+- [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/QKUZ_ALJdM8/d0Qu1wJcAQAJ) `beforematch` event
 
 April 2020
 
@@ -1000,6 +1004,10 @@ September 2015
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/iBX_2xfX6jc/Uc0D6jr3AgAJ) `stale-while-revalidate` Cache-control extension
 
 ### Firefox
+
+May 2020
+
+- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/3CguC7Mp3yQ/dQIFGug8AQAJ) CSS `:read-only` and `:read-write` pseudo-classes
 
 April 2020
 
