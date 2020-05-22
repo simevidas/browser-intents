@@ -12,10 +12,13 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 May 2020
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/1UQqjz1CR-k/Rdl-wVPkBwAJ) Event Timing
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/FGCgsKmylhw/BSUrk2roCQAJ) CSS `attr()` function Level 4 extension
-- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/mHV_ZALf07Q/d7J9W0a1CQAJ) QuicTransport
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/FgzYX7AFbUQ/f2i0-f-BAQAJ) App Icon Shortcuts Menu
+- :new: [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/wYn13HabRN0/L4y4iY1-AgAJ) subresource loading with Web Bundles
+- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/LuoryMqT7wQ/DEiG_IpAAgAJ) `performance.measureMemory` method (cont.)
+- :new: [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/JVKSTHFiDzo/XlduZcFWAgAJ) MulticastReceiver API
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/1UQqjz1CR-k/Rdl-wVPkBwAJ) Event Timing
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/FGCgsKmylhw/BSUrk2roCQAJ) CSS `attr()` function Level 4 extension
+- [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/mHV_ZALf07Q/d7J9W0a1CQAJ) QuicTransport
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/FgzYX7AFbUQ/f2i0-f-BAQAJ) App Icon Shortcuts Menu
 - [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/bBdx2xIB7OQ/k2fMXf-WAAAJ) Cookie Store API
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/HYDQLFPAHC0/BsF9T0wGAAAJ) CSS `row-gap` and `column-gap` properties in Flexbox Layout
 - [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/G0h3PFPeclA/Lqt872UCAAAJ) Origin Isolation
@@ -1007,7 +1010,10 @@ September 2015
 
 May 2020
 
-- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/3CguC7Mp3yQ/dQIFGug8AQAJ) CSS `:read-only` and `:read-write` pseudo-classes
+- :new: [Prototype](https://groups.google.com/d/msg/mozilla.dev.platform/mWViuwFw8b8/HVHJ8yAnAAAJ) CSS `aspect-ratio` property
+- :new: [Prototype](https://groups.google.com/d/msg/mozilla.dev.platform/70ODk1Gqrzs/CBLgePEkAAAJ) CSS `::file-chooser-button` pseudo-element
+- :new: [Prototype](https://groups.google.com/d/msg/mozilla.dev.platform/8EjoeN7NXrc/TlxdZcSpAgAJ) Schemeful Same-Site (http://example.com and https://example.com considered cross-site)
+- [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/3CguC7Mp3yQ/dQIFGug8AQAJ) CSS `:read-only` and `:read-write` pseudo-classes
 
 April 2020
 
