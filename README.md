@@ -1013,7 +1013,7 @@ September 2015
 
 May 2020
 
-- :new: [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/eZ-UZT6rT5g/Jt82qvL5AQAJ) DOM `replaceChildren` method
+- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/eZ-UZT6rT5g/Jt82qvL5AQAJ) DOM `replaceChildren` method
 - :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/MShUZ4VTa6s/E4XFYfL5AQAJ) `<link rel=preload>`
 - [Prototype](https://groups.google.com/d/msg/mozilla.dev.platform/mWViuwFw8b8/HVHJ8yAnAAAJ) CSS `aspect-ratio` property
 - :new: [Prototype](https://groups.google.com/d/msg/mozilla.dev.platform/70ODk1Gqrzs/CBLgePEkAAAJ) CSS `::file-chooser-button` pseudo-element
