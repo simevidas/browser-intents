@@ -12,9 +12,12 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 May 2020
 
-- :new: [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/wYn13HabRN0/L4y4iY1-AgAJ) subresource loading with Web Bundles
-- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/LuoryMqT7wQ/DEiG_IpAAgAJ) `performance.measureMemory` method (cont.)
-- :new: [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/JVKSTHFiDzo/XlduZcFWAgAJ) MulticastReceiver API
+- :new: [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/viBACPfSsEM/URCnDl81AAAJ) CSS `attr()` function Level 4 extension
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/3RhZFvZE1LM/2n93K-kPAwAJ) updated CSS `color-scheme` property
+- :new: [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/3eac-HVygFY/N_OXaOs7AAAJ) MediaBlob (improved client side video editing)
+- [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/wYn13HabRN0/L4y4iY1-AgAJ) subresource loading with Web Bundles
+- [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/LuoryMqT7wQ/DEiG_IpAAgAJ) `performance.measureMemory` method (cont.)
+- [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/JVKSTHFiDzo/XlduZcFWAgAJ) MulticastReceiver API
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/1UQqjz1CR-k/Rdl-wVPkBwAJ) Event Timing
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/FGCgsKmylhw/BSUrk2roCQAJ) CSS `attr()` function Level 4 extension
 - [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/mHV_ZALf07Q/d7J9W0a1CQAJ) QuicTransport
@@ -1010,7 +1013,9 @@ September 2015
 
 May 2020
 
-- :new: [Prototype](https://groups.google.com/d/msg/mozilla.dev.platform/mWViuwFw8b8/HVHJ8yAnAAAJ) CSS `aspect-ratio` property
+- :new: [Implement and ship](https://groups.google.com/d/msg/mozilla.dev.platform/eZ-UZT6rT5g/Jt82qvL5AQAJ) DOM `replaceChildren` method
+- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/MShUZ4VTa6s/E4XFYfL5AQAJ) `<link rel=preload>`
+- [Prototype](https://groups.google.com/d/msg/mozilla.dev.platform/mWViuwFw8b8/HVHJ8yAnAAAJ) CSS `aspect-ratio` property
 - :new: [Prototype](https://groups.google.com/d/msg/mozilla.dev.platform/70ODk1Gqrzs/CBLgePEkAAAJ) CSS `::file-chooser-button` pseudo-element
 - :new: [Prototype](https://groups.google.com/d/msg/mozilla.dev.platform/8EjoeN7NXrc/TlxdZcSpAgAJ) Schemeful Same-Site (http://example.com and https://example.com considered cross-site)
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/3CguC7Mp3yQ/dQIFGug8AQAJ) CSS `:read-only` and `:read-write` pseudo-classes
