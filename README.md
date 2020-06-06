@@ -10,11 +10,17 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
+June 2020
+
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/8En_5DqV_fU/fKD_sQRiAwAJ) Intensive JavaScript Timer Throttling
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/uElH0-Ys8Cs/bJXV-Ky5BAAJ) CSS `content-visibility` property
+- :new: [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/4kMGCyCUIao/5vjPk4tuAQAJ) WebXR Raw Camera Access
+
 May 2020
 
-- :new: [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/viBACPfSsEM/URCnDl81AAAJ) CSS `attr()` function Level 4 extension
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/3RhZFvZE1LM/2n93K-kPAwAJ) updated CSS `color-scheme` property
-- :new: [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/3eac-HVygFY/N_OXaOs7AAAJ) MediaBlob (improved client side video editing)
+- [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/viBACPfSsEM/URCnDl81AAAJ) CSS `attr()` function Level 4 extension
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/3RhZFvZE1LM/2n93K-kPAwAJ) updated CSS `color-scheme` property
+- [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/3eac-HVygFY/N_OXaOs7AAAJ) MediaBlob (improved client side video editing)
 - [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/wYn13HabRN0/L4y4iY1-AgAJ) subresource loading with Web Bundles
 - [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/LuoryMqT7wQ/DEiG_IpAAgAJ) `performance.measureMemory` method (cont.)
 - [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/JVKSTHFiDzo/XlduZcFWAgAJ) MulticastReceiver API
@@ -1013,11 +1019,11 @@ September 2015
 
 May 2020
 
-- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/eZ-UZT6rT5g/Jt82qvL5AQAJ) DOM `replaceChildren` method
-- :new: [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/MShUZ4VTa6s/E4XFYfL5AQAJ) `<link rel=preload>`
+- [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/eZ-UZT6rT5g/Jt82qvL5AQAJ) DOM `replaceChildren` method
+- [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/MShUZ4VTa6s/E4XFYfL5AQAJ) `<link rel=preload>`
 - [Prototype](https://groups.google.com/d/msg/mozilla.dev.platform/mWViuwFw8b8/HVHJ8yAnAAAJ) CSS `aspect-ratio` property
-- :new: [Prototype](https://groups.google.com/d/msg/mozilla.dev.platform/70ODk1Gqrzs/CBLgePEkAAAJ) CSS `::file-chooser-button` pseudo-element
-- :new: [Prototype](https://groups.google.com/d/msg/mozilla.dev.platform/8EjoeN7NXrc/TlxdZcSpAgAJ) Schemeful Same-Site (http://example.com and https://example.com considered cross-site)
+- [Prototype](https://groups.google.com/d/msg/mozilla.dev.platform/70ODk1Gqrzs/CBLgePEkAAAJ) CSS `::file-chooser-button` pseudo-element
+- [Prototype](https://groups.google.com/d/msg/mozilla.dev.platform/8EjoeN7NXrc/TlxdZcSpAgAJ) Schemeful Same-Site (http://example.com and https://example.com considered cross-site)
 - [Ship](https://groups.google.com/d/msg/mozilla.dev.platform/3CguC7Mp3yQ/dQIFGug8AQAJ) CSS `:read-only` and `:read-write` pseudo-classes
 
 April 2020
