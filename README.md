@@ -12,9 +12,15 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 June 2020
 
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/8En_5DqV_fU/fKD_sQRiAwAJ) Intensive JavaScript Timer Throttling
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/uElH0-Ys8Cs/bJXV-Ky5BAAJ) CSS `content-visibility` property
-- :new: [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/4kMGCyCUIao/5vjPk4tuAQAJ) WebXR Raw Camera Access
+- :new: [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/GErJ9WbxJrU/F8N2xl1kBgAJ) CSS `scrollbar-gutter` property
+- :new: [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/uASqamKZILY/DYm_UuokBQAJ) CSS `color-mix()` function
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/LpHjBZZSPB0/QpafCJheBQAJ) CSS `counter-set` property
+- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/LoyzK8xTRME/yLR-K-siBQAJ) WebHID (Human Interface Device)
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Ay1bG_e9m00/kpJVUINhBQAJ) WebXR Anchors
+- :new: [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/WvIeZT8uSzw/al7sVZjVBAAJ) Web Manifest `"display-override"` field
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/8En_5DqV_fU/fKD_sQRiAwAJ) Intensive JavaScript Timer Throttling
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/uElH0-Ys8Cs/bJXV-Ky5BAAJ) CSS `content-visibility` property
+- [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/4kMGCyCUIao/5vjPk4tuAQAJ) WebXR Raw Camera Access
 
 May 2020
 
