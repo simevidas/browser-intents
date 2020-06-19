@@ -12,12 +12,15 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 June 2020
 
-- :new: [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/GErJ9WbxJrU/F8N2xl1kBgAJ) CSS `scrollbar-gutter` property
-- :new: [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/uASqamKZILY/DYm_UuokBQAJ) CSS `color-mix()` function
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/LpHjBZZSPB0/QpafCJheBQAJ) CSS `counter-set` property
-- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/LoyzK8xTRME/yLR-K-siBQAJ) WebHID (Human Interface Device)
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Ay1bG_e9m00/kpJVUINhBQAJ) WebXR Anchors
-- :new: [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/WvIeZT8uSzw/al7sVZjVBAAJ) Web Manifest `"display-override"` field
+- :new: [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/bD4dZdquUZ8/cGYGla9UAgAJ) `HTMLMediaElement` `preservesPitch` property
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/gwaEnJjtfKw/rEf_uw92AgAJ) `PictureInPictureEvent` `pictureInPictureWindow` property
+- :new: [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/U51-KZ51vNY/gdA2ZYt6AQAJ) Cross-Origin Isolation
+- [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/GErJ9WbxJrU/F8N2xl1kBgAJ) CSS `scrollbar-gutter` property
+- [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/uASqamKZILY/DYm_UuokBQAJ) CSS `color-mix()` function
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/LpHjBZZSPB0/QpafCJheBQAJ) CSS `counter-set` property
+- [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/LoyzK8xTRME/yLR-K-siBQAJ) WebHID (Human Interface Device)
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/Ay1bG_e9m00/kpJVUINhBQAJ) WebXR Anchors
+- [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/WvIeZT8uSzw/al7sVZjVBAAJ) Web Manifest `"display-override"` field
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/8En_5DqV_fU/fKD_sQRiAwAJ) Intensive JavaScript Timer Throttling
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/uElH0-Ys8Cs/bJXV-Ky5BAAJ) CSS `content-visibility` property
 - [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/4kMGCyCUIao/5vjPk4tuAQAJ) WebXR Raw Camera Access
@@ -1022,6 +1025,10 @@ September 2015
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/iBX_2xfX6jc/Uc0D6jr3AgAJ) `stale-while-revalidate` Cache-control extension
 
 ### Firefox
+
+June 2020
+
+- :new: [Prototype](https://groups.google.com/d/msg/mozilla.dev.platform/T97NRJWS8Qs/YhTfpSS_AQAJ) `enterkeyhint` attribute
 
 May 2020
 
