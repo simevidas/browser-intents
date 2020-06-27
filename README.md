@@ -12,9 +12,13 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 June 2020
 
-- :new: [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/bD4dZdquUZ8/cGYGla9UAgAJ) `HTMLMediaElement` `preservesPitch` property
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/gwaEnJjtfKw/rEf_uw92AgAJ) `PictureInPictureEvent` `pictureInPictureWindow` property
-- :new: [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/U51-KZ51vNY/gdA2ZYt6AQAJ) Cross-Origin Isolation
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/lqCQ63CTKEQ/cYTNFETPAwAJ) Web Bluetooth `getDevices` and `watchAdvertisements` methods
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/MlTJyKGGtks/rTfshC2SBAAJ) AVIF (image format)
+- :new: [Prototype and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/IDAapW6w4to/iSH1MXRFCgAJ) Feature Policy `clipboard-read` and `clipboard-write` policies
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/OXZLwImwdbc/ai77f5puBAAJ) Media Feeds (`<link rel="media-feed">`)
+- [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/bD4dZdquUZ8/cGYGla9UAgAJ) `HTMLMediaElement` `preservesPitch` property
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/gwaEnJjtfKw/rEf_uw92AgAJ) `PictureInPictureEvent` `pictureInPictureWindow` property
+- [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/U51-KZ51vNY/gdA2ZYt6AQAJ) Cross-Origin Isolation
 - [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/GErJ9WbxJrU/F8N2xl1kBgAJ) CSS `scrollbar-gutter` property
 - [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/uASqamKZILY/DYm_UuokBQAJ) CSS `color-mix()` function
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/LpHjBZZSPB0/QpafCJheBQAJ) CSS `counter-set` property
@@ -1028,7 +1032,9 @@ September 2015
 
 June 2020
 
-- :new: [Prototype](https://groups.google.com/d/msg/mozilla.dev.platform/T97NRJWS8Qs/YhTfpSS_AQAJ) `enterkeyhint` attribute
+- :new: [Ship in Nightly](https://groups.google.com/d/msg/mozilla.dev.platform/gqi4MDQDwX8/eXCcIZNWAwAJ) HTML `<dialog>` element
+- :new: [Prototype](https://groups.google.com/d/msg/mozilla.dev.platform/DS9qGnqc_3Q/BbSSogcEAwAJ) HTML `inert` attribute
+- [Prototype](https://groups.google.com/d/msg/mozilla.dev.platform/T97NRJWS8Qs/YhTfpSS_AQAJ) `enterkeyhint` attribute
 
 May 2020
 
