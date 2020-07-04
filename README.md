@@ -10,12 +10,16 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
+July 2020
+
+- :new: [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/MJxVZs1H5SY/6q0QxEFtBAAJ) Sanitizer API
+
 June 2020
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/lqCQ63CTKEQ/cYTNFETPAwAJ) Web Bluetooth `getDevices` and `watchAdvertisements` methods
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/MlTJyKGGtks/rTfshC2SBAAJ) AVIF (image format)
-- :new: [Prototype and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/IDAapW6w4to/iSH1MXRFCgAJ) Feature Policy `clipboard-read` and `clipboard-write` policies
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/OXZLwImwdbc/ai77f5puBAAJ) Media Feeds (`<link rel="media-feed">`)
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/lqCQ63CTKEQ/cYTNFETPAwAJ) Web Bluetooth `getDevices` and `watchAdvertisements` methods
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/MlTJyKGGtks/rTfshC2SBAAJ) AVIF (image format)
+- [Prototype and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/IDAapW6w4to/iSH1MXRFCgAJ) Feature Policy `clipboard-read` and `clipboard-write` policies
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/OXZLwImwdbc/ai77f5puBAAJ) Media Feeds (`<link rel="media-feed">`)
 - [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/bD4dZdquUZ8/cGYGla9UAgAJ) `HTMLMediaElement` `preservesPitch` property
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/gwaEnJjtfKw/rEf_uw92AgAJ) `PictureInPictureEvent` `pictureInPictureWindow` property
 - [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/U51-KZ51vNY/gdA2ZYt6AQAJ) Cross-Origin Isolation
@@ -1030,10 +1034,14 @@ September 2015
 
 ### Firefox
 
+July 2020
+
+- :new: [Prototype](https://groups.google.com/d/msg/mozilla.dev.platform/nlun5QV63Bo/xUXCmySGAgAJ) unprefixed CSS `appearance` property
+
 June 2020
 
-- :new: [Ship in Nightly](https://groups.google.com/d/msg/mozilla.dev.platform/gqi4MDQDwX8/eXCcIZNWAwAJ) HTML `<dialog>` element
-- :new: [Prototype](https://groups.google.com/d/msg/mozilla.dev.platform/DS9qGnqc_3Q/BbSSogcEAwAJ) HTML `inert` attribute
+- [Ship in Nightly](https://groups.google.com/d/msg/mozilla.dev.platform/gqi4MDQDwX8/eXCcIZNWAwAJ) HTML `<dialog>` element
+- [Prototype](https://groups.google.com/d/msg/mozilla.dev.platform/DS9qGnqc_3Q/BbSSogcEAwAJ) HTML `inert` attribute
 - [Prototype](https://groups.google.com/d/msg/mozilla.dev.platform/T97NRJWS8Qs/YhTfpSS_AQAJ) `enterkeyhint` attribute
 
 May 2020
