@@ -12,7 +12,14 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 July 2020
 
-- :new: [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/MJxVZs1H5SY/6q0QxEFtBAAJ) Sanitizer API
+- :new: [Eperiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/DuvhXyYo7Pc/_zcDVQmCAAAJ) Declarative Shadow DOM
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/PwIp0J5FJBY/LvWWFrSFBQAJ) DOM `replaceChildren` method
+- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/80j6AEWI-_s/1hLY7RP5BQAJ) CSS `::marker` pseudo-element
+- :new: [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/0rW4Q_NtL20/h1C2C0rLAAAJ) `'visibility-state'` performance entries
+- :new: [Prototype and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/P0dGbK3ThT0/H84DQKPZBQAJ) `FetchEvent` `handled` property (promise)
+- :new: [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/t_9QdJ7hcls/CAAOGBIVBgAJ) WebAuthn Level 2 and CTAP2.1
+- :new: [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/MMba4E0bAeo/IwWQV1bIBQAJ) `quotachange` event (storage pressure)
+- [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/MJxVZs1H5SY/6q0QxEFtBAAJ) Sanitizer API
 
 June 2020
 
@@ -1036,7 +1043,7 @@ September 2015
 
 July 2020
 
-- :new: [Prototype](https://groups.google.com/d/msg/mozilla.dev.platform/nlun5QV63Bo/xUXCmySGAgAJ) unprefixed CSS `appearance` property
+- [Prototype](https://groups.google.com/d/msg/mozilla.dev.platform/nlun5QV63Bo/xUXCmySGAgAJ) unprefixed CSS `appearance` property
 
 June 2020
 
