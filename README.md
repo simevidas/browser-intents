@@ -12,7 +12,7 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 July 2020
 
-- :new: [Eperiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/DuvhXyYo7Pc/_zcDVQmCAAAJ) Declarative Shadow DOM
+- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/DuvhXyYo7Pc/_zcDVQmCAAAJ) Declarative Shadow DOM
 - :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/PwIp0J5FJBY/LvWWFrSFBQAJ) DOM `replaceChildren` method
 - :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/80j6AEWI-_s/1hLY7RP5BQAJ) CSS `::marker` pseudo-element
 - :new: [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/0rW4Q_NtL20/h1C2C0rLAAAJ) `'visibility-state'` performance entries
