@@ -12,13 +12,15 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 July 2020
 
-- :new: [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/DuvhXyYo7Pc/_zcDVQmCAAAJ) Declarative Shadow DOM
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/PwIp0J5FJBY/LvWWFrSFBQAJ) DOM `replaceChildren` method
-- :new: [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/80j6AEWI-_s/1hLY7RP5BQAJ) CSS `::marker` pseudo-element
-- :new: [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/0rW4Q_NtL20/h1C2C0rLAAAJ) `'visibility-state'` performance entries
-- :new: [Prototype and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/P0dGbK3ThT0/H84DQKPZBQAJ) `FetchEvent` `handled` property (promise)
-- :new: [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/t_9QdJ7hcls/CAAOGBIVBgAJ) WebAuthn Level 2 and CTAP2.1
-- :new: [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/MMba4E0bAeo/IwWQV1bIBQAJ) `quotachange` event (storage pressure)
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/BXxS2U5EaN0/m/cSVmzxSmDQAJ) WebXR AR Module
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/fgme9KOd8CU/m/TCYPKQAXAwAJ) Permission Policty `web-share` permission
+- [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/DuvhXyYo7Pc/_zcDVQmCAAAJ) Declarative Shadow DOM
+- [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/PwIp0J5FJBY/LvWWFrSFBQAJ) DOM `replaceChildren` method
+- [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/80j6AEWI-_s/1hLY7RP5BQAJ) CSS `::marker` pseudo-element
+- [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/0rW4Q_NtL20/h1C2C0rLAAAJ) `'visibility-state'` performance entries
+- [Prototype and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/P0dGbK3ThT0/H84DQKPZBQAJ) `FetchEvent` `handled` property (promise)
+- [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/t_9QdJ7hcls/CAAOGBIVBgAJ) WebAuthn Level 2 and CTAP2.1
+- [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/MMba4E0bAeo/IwWQV1bIBQAJ) `quotachange` event (storage pressure)
 - [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/MJxVZs1H5SY/6q0QxEFtBAAJ) Sanitizer API
 
 June 2020
@@ -1043,6 +1045,12 @@ September 2015
 
 July 2020
 
+- :new: [Ship](https://groups.google.com/g/mozilla.dev.platform/c/WilU9G_vzxA/m/qiFp-oP-BgAJ) composite modes for animations
+- :new: [Prototype](https://groups.google.com/g/mozilla.dev.platform/c/gBQp1URD1lE/m/Fswh-5-ZBgAJ) Payment Handler API
+- :new: [Prototype](https://groups.google.com/g/mozilla.dev.platform/c/C4EHeQlaMbU/m/C8hNg9ehBwAJ) Sanitizer API
+- :new: [Ship](https://groups.google.com/g/mozilla.dev.platform/c/x8njjxKySKY/m/rPsQNU45BwAJ) CSS `appearance` property (unprefixed)
+- :new: [Prototype](https://groups.google.com/g/mozilla.dev.platform/c/uJfdlv1qKtQ/m/2W7PwA8uBwAJ) CSS `cross-fade()` function
+- :new: [Prototype](https://groups.google.com/g/mozilla.dev.platform/c/bTEmQxffGvA/m/_foj0Q8uBwAJ) CSS `prefers-contrast` media feature
 - [Prototype](https://groups.google.com/d/msg/mozilla.dev.platform/nlun5QV63Bo/xUXCmySGAgAJ) unprefixed CSS `appearance` property
 
 June 2020
