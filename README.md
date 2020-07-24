@@ -12,8 +12,12 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 July 2020
 
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/BXxS2U5EaN0/m/cSVmzxSmDQAJ) WebXR AR Module
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/fgme9KOd8CU/m/TCYPKQAXAwAJ) Permission Policty `web-share` permission
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/Za159T1QOek/m/lewQUFlBCQAJ) HTTP `Document-Policy` header
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/ZRI-7X_4GwM/m/WOtmGnlACQAJ) altitude and azimuth angles for Pointer Events
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/h21QrfPrkl4/m/ff_dZxYcCQAJ) `@font-face` descriptors for overriding font metrics (e.g., `ascent-override`)
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/yG0JzbEUoX4/m/eFfQJwRzBAAJ) opt-out for Scroll To Text Fragment
+- [Implement and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/BXxS2U5EaN0/m/cSVmzxSmDQAJ) WebXR AR Module
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/fgme9KOd8CU/m/TCYPKQAXAwAJ) Permission Policty `web-share` permission
 - [Experiment](https://groups.google.com/a/chromium.org/d/msg/blink-dev/DuvhXyYo7Pc/_zcDVQmCAAAJ) Declarative Shadow DOM
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/PwIp0J5FJBY/LvWWFrSFBQAJ) DOM `replaceChildren` method
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/80j6AEWI-_s/1hLY7RP5BQAJ) CSS `::marker` pseudo-element
@@ -1045,12 +1049,12 @@ September 2015
 
 July 2020
 
-- :new: [Ship](https://groups.google.com/g/mozilla.dev.platform/c/WilU9G_vzxA/m/qiFp-oP-BgAJ) composite modes for animations
-- :new: [Prototype](https://groups.google.com/g/mozilla.dev.platform/c/gBQp1URD1lE/m/Fswh-5-ZBgAJ) Payment Handler API
-- :new: [Prototype](https://groups.google.com/g/mozilla.dev.platform/c/C4EHeQlaMbU/m/C8hNg9ehBwAJ) Sanitizer API
-- :new: [Ship](https://groups.google.com/g/mozilla.dev.platform/c/x8njjxKySKY/m/rPsQNU45BwAJ) CSS `appearance` property (unprefixed)
-- :new: [Prototype](https://groups.google.com/g/mozilla.dev.platform/c/uJfdlv1qKtQ/m/2W7PwA8uBwAJ) CSS `cross-fade()` function
-- :new: [Prototype](https://groups.google.com/g/mozilla.dev.platform/c/bTEmQxffGvA/m/_foj0Q8uBwAJ) CSS `prefers-contrast` media feature
+- [Ship](https://groups.google.com/g/mozilla.dev.platform/c/WilU9G_vzxA/m/qiFp-oP-BgAJ) composite modes for animations
+- [Prototype](https://groups.google.com/g/mozilla.dev.platform/c/gBQp1URD1lE/m/Fswh-5-ZBgAJ) Payment Handler API
+- [Prototype](https://groups.google.com/g/mozilla.dev.platform/c/C4EHeQlaMbU/m/C8hNg9ehBwAJ) Sanitizer API
+- [Ship](https://groups.google.com/g/mozilla.dev.platform/c/x8njjxKySKY/m/rPsQNU45BwAJ) CSS `appearance` property (unprefixed)
+- [Prototype](https://groups.google.com/g/mozilla.dev.platform/c/uJfdlv1qKtQ/m/2W7PwA8uBwAJ) CSS `cross-fade()` function
+- [Prototype](https://groups.google.com/g/mozilla.dev.platform/c/bTEmQxffGvA/m/_foj0Q8uBwAJ) CSS `prefers-contrast` media feature
 - [Prototype](https://groups.google.com/d/msg/mozilla.dev.platform/nlun5QV63Bo/xUXCmySGAgAJ) unprefixed CSS `appearance` property
 
 June 2020
