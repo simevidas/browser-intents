@@ -10,11 +10,16 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
+August 2020
+
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/PQ9aDeWGUE0/m/qf07C9FDAgAJ) HTML `<meta name="battery-savings">` tag
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/xtyi6D52DkM/m/xU7r3sPoAQAJ) re-enabled `SharedArrayBuffer` gated behind COOP/COEP (on Android)
+
 July 2020
 
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/4hFGYxBRIBU/m/dUgy9SUVAgAJ) HTTP `Content-Encoding: jxl` value (JPEG XL)
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/lqFuqwZDDR8/m/nKPRTc7DAQAJ) `strict-origin-when-cross-origin` as default referrer policy
-- :new: [Implement](https://groups.google.com/a/chromium.org/g/blink-dev/c/PZkIB8wBTwQ/m/qfX1At8UAgAJ) Web Share API on Windows and Chrome OS
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/4hFGYxBRIBU/m/dUgy9SUVAgAJ) HTTP `Content-Encoding: jxl` value (JPEG XL)
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/lqFuqwZDDR8/m/nKPRTc7DAQAJ) `strict-origin-when-cross-origin` as default referrer policy
+- [Implement](https://groups.google.com/a/chromium.org/g/blink-dev/c/PZkIB8wBTwQ/m/qfX1At8UAgAJ) Web Share API on Windows and Chrome OS
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/Za159T1QOek/m/lewQUFlBCQAJ) HTTP `Document-Policy` header
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/ZRI-7X_4GwM/m/WOtmGnlACQAJ) altitude and azimuth angles for Pointer Events
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/h21QrfPrkl4/m/ff_dZxYcCQAJ) `@font-face` descriptors for overriding font metrics (e.g., `ascent-override`)
@@ -1050,10 +1055,15 @@ September 2015
 
 ### Firefox
 
+August 2020
+
+- :new: [Prototype](https://groups.google.com/g/mozilla.dev.platform/c/O0CmHS8meNw/m/qH6cQF1uCwAJ) WebXR Layers
+- :new: [Ship](https://groups.google.com/g/mozilla.dev.platform/c/KUVVAroUv_Y/m/vKULscO_CQAJ) Redirect Tracking Protection
+
 July 2020
 
-- :new: [Ship](https://groups.google.com/g/mozilla.dev.platform/c/7oQm8PC0aU0/m/9tIt7ld9BwAJ) CSS `overflow: clip` value
-- :new: [Unship](https://groups.google.com/g/mozilla.dev.platform/c/Pyvav7xbw9Y/m/MB3DXCK2BgAJ) CSS `::-moz-focus-outer` pseudo-element
+- [Ship](https://groups.google.com/g/mozilla.dev.platform/c/7oQm8PC0aU0/m/9tIt7ld9BwAJ) CSS `overflow: clip` value
+- [Unship](https://groups.google.com/g/mozilla.dev.platform/c/Pyvav7xbw9Y/m/MB3DXCK2BgAJ) CSS `::-moz-focus-outer` pseudo-element
 - [Ship](https://groups.google.com/g/mozilla.dev.platform/c/WilU9G_vzxA/m/qiFp-oP-BgAJ) composite modes for animations
 - [Prototype](https://groups.google.com/g/mozilla.dev.platform/c/gBQp1URD1lE/m/Fswh-5-ZBgAJ) Payment Handler API
 - [Prototype](https://groups.google.com/g/mozilla.dev.platform/c/C4EHeQlaMbU/m/C8hNg9ehBwAJ) Sanitizer API
