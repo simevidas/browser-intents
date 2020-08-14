@@ -12,8 +12,14 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 August 2020
 
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/PQ9aDeWGUE0/m/qf07C9FDAgAJ) HTML `<meta name="battery-savings">` tag
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/xtyi6D52DkM/m/xU7r3sPoAQAJ) re-enabled `SharedArrayBuffer` gated behind COOP/COEP (on Android)
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/aTrk7__Eiq4/m/BOGSzGHeAwAJ) `beforematch` event and CSS `content-visibility: hidden-matchable` value
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/vVtAi2evarQ/m/VSFDPeCPAwAJ) HTML `<meta name="battery-savings">` tag
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/Jdw3VWbKvLY/m/qnoA5DlPAwAJ) Imperative Shadow DOM Distribution API
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/NGgprfPEbG0/m/nhNCiN0ZBgAJ) Serial API (cont.)
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/h6my3rcC628/m/RBGKm4aXAgAJ) opt-out for Scroll To Text Fragment (`force-load-at-top` document policy)
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/uZIHh4zMS94/m/pP__46dlAgAJ) SVG image support for the Async Clipboard API
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/PQ9aDeWGUE0/m/qf07C9FDAgAJ) HTML `<meta name="battery-savings">` tag
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/xtyi6D52DkM/m/xU7r3sPoAQAJ) re-enabled `SharedArrayBuffer` gated behind COOP/COEP (on Android)
 
 July 2020
 
@@ -1057,8 +1063,9 @@ September 2015
 
 August 2020
 
-- :new: [Prototype](https://groups.google.com/g/mozilla.dev.platform/c/O0CmHS8meNw/m/qH6cQF1uCwAJ) WebXR Layers
-- :new: [Ship](https://groups.google.com/g/mozilla.dev.platform/c/KUVVAroUv_Y/m/vKULscO_CQAJ) Redirect Tracking Protection
+- :new: [Ship](https://groups.google.com/g/mozilla.dev.platform/c/zS9vCw9GMsg/m/Zd3_STiTAgAJ) `selectionchange` event for `<input>` and `<textarea>` elements
+- [Prototype](https://groups.google.com/g/mozilla.dev.platform/c/O0CmHS8meNw/m/qH6cQF1uCwAJ) WebXR Layers
+- [Ship](https://groups.google.com/g/mozilla.dev.platform/c/KUVVAroUv_Y/m/vKULscO_CQAJ) Redirect Tracking Protection
 
 July 2020
 
