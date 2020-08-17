@@ -47,7 +47,7 @@ June 2020
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/MlTJyKGGtks/rTfshC2SBAAJ) AVIF (image format)
 - [Prototype and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/IDAapW6w4to/iSH1MXRFCgAJ) Feature Policy `clipboard-read` and `clipboard-write` policies
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/OXZLwImwdbc/ai77f5puBAAJ) Media Feeds (`<link rel="media-feed">`)
-- [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/bD4dZdquUZ8/cGYGla9UAgAJ) `HTMLMediaElement` `preservesPitch` property
+- [Implement and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/XVCt0EXVplQ/m/sDyHmylZAgAJ) `HTMLMediaElement` `preservesPitch` property
 - [Implement and ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/gwaEnJjtfKw/rEf_uw92AgAJ) `PictureInPictureEvent` `pictureInPictureWindow` property
 - [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/U51-KZ51vNY/gdA2ZYt6AQAJ) Cross-Origin Isolation
 - [Prototype](https://groups.google.com/a/chromium.org/d/msg/blink-dev/GErJ9WbxJrU/F8N2xl1kBgAJ) CSS `scrollbar-gutter` property
