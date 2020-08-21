@@ -12,12 +12,20 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 August 2020
 
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/aTrk7__Eiq4/m/BOGSzGHeAwAJ) `beforematch` event and CSS `content-visibility: hidden-matchable` value
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/vVtAi2evarQ/m/VSFDPeCPAwAJ) HTML `<meta name="battery-savings">` tag
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/Jdw3VWbKvLY/m/qnoA5DlPAwAJ) Imperative Shadow DOM Distribution API
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/NGgprfPEbG0/m/nhNCiN0ZBgAJ) Serial API (cont.)
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/h6my3rcC628/m/RBGKm4aXAgAJ) opt-out for Scroll To Text Fragment (`force-load-at-top` document policy)
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/uZIHh4zMS94/m/pP__46dlAgAJ) SVG image support for the Async Clipboard API
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/9Fcpl2KVfbk/m/d9VN0Fz8BwAJ) Native File System API
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/ARtkaw4e9T4/m/npjeMssPCAAJ) Raw Sockets API
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/As1ABvc2QdA/m/yZSpPXY4CAAJ) HTTP `Permissions-Policy` header
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/iqihcxi-CzY/m/U_0GkEoqCAAJ) CSS `quotes: auto` value
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/1LStSgBt6AM/m/sJaTciPKBwAJ) Transferable Streams
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/C6xw8i1ZIdE/m/TJsr0zXxBwAJ) Multi-Screen Window Placement
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/U5Iy4LrcwoI/m/dIlbC2OhAwAJ) WebXR Depth API
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/0EMGi-xbI-8/m/d_UxAJeiBwAJ) First-Party Sets
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/aTrk7__Eiq4/m/BOGSzGHeAwAJ) `beforematch` event and CSS `content-visibility: hidden-matchable` value
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/vVtAi2evarQ/m/VSFDPeCPAwAJ) HTML `<meta name="battery-savings">` tag
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/Jdw3VWbKvLY/m/qnoA5DlPAwAJ) Imperative Shadow DOM Distribution API
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/NGgprfPEbG0/m/nhNCiN0ZBgAJ) Serial API (cont.)
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/h6my3rcC628/m/RBGKm4aXAgAJ) opt-out for Scroll To Text Fragment (`force-load-at-top` document policy)
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/uZIHh4zMS94/m/pP__46dlAgAJ) SVG image support for the Async Clipboard API
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/PQ9aDeWGUE0/m/qf07C9FDAgAJ) HTML `<meta name="battery-savings">` tag
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/xtyi6D52DkM/m/xU7r3sPoAQAJ) re-enabled `SharedArrayBuffer` gated behind COOP/COEP (on Android)
 
@@ -1063,7 +1071,7 @@ September 2015
 
 August 2020
 
-- :new: [Ship](https://groups.google.com/g/mozilla.dev.platform/c/zS9vCw9GMsg/m/Zd3_STiTAgAJ) `selectionchange` event for `<input>` and `<textarea>` elements
+- [Ship](https://groups.google.com/g/mozilla.dev.platform/c/zS9vCw9GMsg/m/Zd3_STiTAgAJ) `selectionchange` event for `<input>` and `<textarea>` elements
 - [Prototype](https://groups.google.com/g/mozilla.dev.platform/c/O0CmHS8meNw/m/qH6cQF1uCwAJ) WebXR Layers
 - [Ship](https://groups.google.com/g/mozilla.dev.platform/c/KUVVAroUv_Y/m/vKULscO_CQAJ) Redirect Tracking Protection
 
