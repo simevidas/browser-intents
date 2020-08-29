@@ -12,14 +12,20 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 August 2020
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/9Fcpl2KVfbk/m/d9VN0Fz8BwAJ) Native File System API
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/ARtkaw4e9T4/m/npjeMssPCAAJ) Raw Sockets API
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/As1ABvc2QdA/m/yZSpPXY4CAAJ) HTTP `Permissions-Policy` header
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/iqihcxi-CzY/m/U_0GkEoqCAAJ) CSS `quotes: auto` value
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/1LStSgBt6AM/m/sJaTciPKBwAJ) Transferable Streams
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/C6xw8i1ZIdE/m/TJsr0zXxBwAJ) Multi-Screen Window Placement
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/U5Iy4LrcwoI/m/dIlbC2OhAwAJ) WebXR Depth API
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/0EMGi-xbI-8/m/d_UxAJeiBwAJ) First-Party Sets
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/syI9_M9dANY/m/3eMd0n15AAAJ) Digital Goods API
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/7OdxQf5HnlQ/m/oyb3oFVaAAAJ) WebCodecs
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/XcGGi4jAwfE/m/QSIQThtmAAAJ) CSS `overflow: clip` value and `overflow-clip-margin` property
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/E7f_WZOcTgQ/m/pbudXZNaAAAJ) CSS flow-relative box model properties
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/9TcfjaOs5zg/m/Tuk80aIeAAAJ) customizable `<select>` element
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/2Sv3fCWEi_Q/m/yrSoJP8mAAAJ) Progressive Web Apps as URL Handlers
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/9Fcpl2KVfbk/m/d9VN0Fz8BwAJ) Native File System API
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/ARtkaw4e9T4/m/npjeMssPCAAJ) Raw Sockets API
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/As1ABvc2QdA/m/yZSpPXY4CAAJ) HTTP `Permissions-Policy` header
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/iqihcxi-CzY/m/U_0GkEoqCAAJ) CSS `quotes: auto` value
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/1LStSgBt6AM/m/sJaTciPKBwAJ) Transferable Streams
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/C6xw8i1ZIdE/m/TJsr0zXxBwAJ) Multi-Screen Window Placement
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/U5Iy4LrcwoI/m/dIlbC2OhAwAJ) WebXR Depth API
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/0EMGi-xbI-8/m/d_UxAJeiBwAJ) First-Party Sets
 - [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/aTrk7__Eiq4/m/BOGSzGHeAwAJ) `beforematch` event and CSS `content-visibility: hidden-matchable` value
 - [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/vVtAi2evarQ/m/VSFDPeCPAwAJ) HTML `<meta name="battery-savings">` tag
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/Jdw3VWbKvLY/m/qnoA5DlPAwAJ) Imperative Shadow DOM Distribution API
