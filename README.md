@@ -10,14 +10,18 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
+September 2020
+
+- :new: [Prototype and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/1V6Ss1VABko/m/Y3Nl0vHIAQAJ) Screen Wake Lock `released` property
+
 August 2020
 
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/syI9_M9dANY/m/3eMd0n15AAAJ) Digital Goods API
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/7OdxQf5HnlQ/m/oyb3oFVaAAAJ) WebCodecs
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/XcGGi4jAwfE/m/QSIQThtmAAAJ) CSS `overflow: clip` value and `overflow-clip-margin` property
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/E7f_WZOcTgQ/m/pbudXZNaAAAJ) CSS flow-relative box model properties
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/9TcfjaOs5zg/m/Tuk80aIeAAAJ) customizable `<select>` element
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/2Sv3fCWEi_Q/m/yrSoJP8mAAAJ) Progressive Web Apps as URL Handlers
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/syI9_M9dANY/m/3eMd0n15AAAJ) Digital Goods API
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/7OdxQf5HnlQ/m/oyb3oFVaAAAJ) WebCodecs
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/XcGGi4jAwfE/m/QSIQThtmAAAJ) CSS `overflow: clip` value and `overflow-clip-margin` property
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/E7f_WZOcTgQ/m/pbudXZNaAAAJ) CSS flow-relative box model properties
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/9TcfjaOs5zg/m/Tuk80aIeAAAJ) customizable `<select>` element
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/2Sv3fCWEi_Q/m/yrSoJP8mAAAJ) Progressive Web Apps as URL Handlers
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/9Fcpl2KVfbk/m/d9VN0Fz8BwAJ) Native File System API
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/ARtkaw4e9T4/m/npjeMssPCAAJ) Raw Sockets API
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/As1ABvc2QdA/m/yZSpPXY4CAAJ) HTTP `Permissions-Policy` header
@@ -1074,6 +1078,11 @@ September 2015
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/iBX_2xfX6jc/Uc0D6jr3AgAJ) `stale-while-revalidate` Cache-control extension
 
 ### Firefox
+
+September 2020
+
+- :new: [Ship](https://groups.google.com/g/mozilla.dev.platform/c/gyrM1spEek8/m/Tp5rLtamCQAJ) `allow-downloads` keyword for the `<iframe sandbox>` attribute
+- :new: [Ship](https://groups.google.com/g/mozilla.dev.platform/c/RN-Hhmf_DyA/m/NMw4iLygAgAJ) CSS `::file-selector-button` pseudo-element
 
 August 2020
 
