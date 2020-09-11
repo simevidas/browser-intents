@@ -12,7 +12,9 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 September 2020
 
-- :new: [Prototype and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/1V6Ss1VABko/m/Y3Nl0vHIAQAJ) Screen Wake Lock `released` property
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/fJ8n9kTbna4/m/i8mMlc0jAgAJ) Web Share API on Windows and Chrome OS
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/zPYGbULXn7o/m/j92zXBvYAwAJ) HTTP `Critical-CH` response header
+- [Prototype and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/1V6Ss1VABko/m/Y3Nl0vHIAQAJ) Screen Wake Lock `released` property
 
 August 2020
 
@@ -1081,8 +1083,10 @@ September 2015
 
 September 2020
 
-- :new: [Ship](https://groups.google.com/g/mozilla.dev.platform/c/gyrM1spEek8/m/Tp5rLtamCQAJ) `allow-downloads` keyword for the `<iframe sandbox>` attribute
-- :new: [Ship](https://groups.google.com/g/mozilla.dev.platform/c/RN-Hhmf_DyA/m/NMw4iLygAgAJ) CSS `::file-selector-button` pseudo-element
+- :new: [Prototype](https://groups.google.com/g/mozilla.dev.platform/c/28UyT7aO2YU/m/nAQwIFkkBAAJ) TLS Encrypted Client Hello
+- :new: [Prototype](https://groups.google.com/g/mozilla.dev.platform/c/xDj-uQVVCxc/m/GLek4FiYAQAJ) HTML `autocapitalize` attribute
+- [Ship](https://groups.google.com/g/mozilla.dev.platform/c/gyrM1spEek8/m/Tp5rLtamCQAJ) `allow-downloads` keyword for the `<iframe sandbox>` attribute
+- [Ship](https://groups.google.com/g/mozilla.dev.platform/c/RN-Hhmf_DyA/m/NMw4iLygAgAJ) CSS `::file-selector-button` pseudo-element
 
 August 2020
 
