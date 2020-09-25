@@ -12,10 +12,17 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 September 2020
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/8Vt2atMrNNs/m/1DGx9DKsBwAJ) `navigator.scheduling.isInputPending` method
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/ApR03h3CGfo/m/K_Fw3bAPBwAJ) CSS `ascent-override`, `descent-override`, and `line-gap-override` font descriptors
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/zOsGZGMGiM4/m/zdJGMq5iBwAJ) Cookie Store API
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/Ib9-tDFitns/m/Sm9RXTNaBwAJ) Conversion Measurement API
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/SlLdc64lvpM/m/G_FqIcLWCAAJ) platform-issued trust tokens
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/W7GGHz9vecg/m/BwJuNhDBCAAJ) QuicTransport (cont.)
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/9OzS90KISXI/m/q5KYyyWBCAAJ) CSS `text-decoration-thickness` and `text-underline-offset` properties, and `text-underline-position: from-font` value
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/tkdwZYCI4EE/m/L6-Gw2-kCAAJ) Idle Detection API (cont.)
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/xOTmlUxPj7A/m/X7E-BmYwCQAJ) Notification Triggers (cont.)
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/uI3DP5v-s34/m/0us1sPDmCAAJ) Origin Isolation (cont.)
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/WPQCslQMRWY/m/8Wo4QtEZCQAJ) `performance.measureMemory` method (cont.)
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/8Vt2atMrNNs/m/1DGx9DKsBwAJ) `navigator.scheduling.isInputPending` method
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/ApR03h3CGfo/m/K_Fw3bAPBwAJ) CSS `ascent-override`, `descent-override`, and `line-gap-override` font descriptors
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/zOsGZGMGiM4/m/zdJGMq5iBwAJ) Cookie Store API
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/Ib9-tDFitns/m/Sm9RXTNaBwAJ) Conversion Measurement API
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/fJ8n9kTbna4/m/i8mMlc0jAgAJ) Web Share API on Windows and Chrome OS
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/zPYGbULXn7o/m/j92zXBvYAwAJ) HTTP `Critical-CH` response header
 - [Prototype and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/1V6Ss1VABko/m/Y3Nl0vHIAQAJ) Screen Wake Lock `released` property
@@ -1087,9 +1094,10 @@ September 2015
 
 September 2020
 
-- :new: [Prototype](https://groups.google.com/g/mozilla.dev.platform/c/1hQQ7ISudGo/m/_yLEckEeBQAJ) CSS `math-style` property
-- :new: [Ship](https://groups.google.com/g/mozilla.dev.platform/c/LCTfPNZMWKU/m/E5mr4TmnBAAJ) `beforeinput` event and its `getTargetRanges` method
-- :new: [Prototype](https://groups.google.com/g/mozilla.dev.platform/c/p7XvnLTPRps/m/bjs_KjvQBAAJ) better error recovery for CSS `:is()` and `:where()` pseudo-classes
+- :new: [Ship](https://groups.google.com/g/mozilla.dev.platform/c/CPjGRm78JLI/m/aQTd4ulWAAAJ) Media Session API
+- [Prototype](https://groups.google.com/g/mozilla.dev.platform/c/1hQQ7ISudGo/m/_yLEckEeBQAJ) CSS `math-style` property
+- [Ship](https://groups.google.com/g/mozilla.dev.platform/c/LCTfPNZMWKU/m/E5mr4TmnBAAJ) `beforeinput` event and its `getTargetRanges` method
+- [Prototype](https://groups.google.com/g/mozilla.dev.platform/c/p7XvnLTPRps/m/bjs_KjvQBAAJ) better error recovery for CSS `:is()` and `:where()` pseudo-classes
 - [Prototype](https://groups.google.com/g/mozilla.dev.platform/c/28UyT7aO2YU/m/nAQwIFkkBAAJ) TLS Encrypted Client Hello
 - [Prototype](https://groups.google.com/g/mozilla.dev.platform/c/xDj-uQVVCxc/m/GLek4FiYAQAJ) HTML `autocapitalize` attribute
 - [Ship](https://groups.google.com/g/mozilla.dev.platform/c/gyrM1spEek8/m/Tp5rLtamCQAJ) `allow-downloads` keyword for the `<iframe sandbox>` attribute
