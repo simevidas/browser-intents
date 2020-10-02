@@ -16,7 +16,7 @@ October 2020
 
 September 2020
 
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/gTPNGMPgDBk/m/kKXmazEXCgAJ) HTTP `Permissions-Policy` header
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/gTPNGMPgDBk/m/kKXmazEXCgAJ) HTTP `Permissions-Policy` header
 - :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/6KrwUguadyE/m/GK5C8KbWCQAJ) `scheduler.postTask` method for main-thread scheduling (cont.)
 - :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/ZzngHwf2qyQ/m/cp9jcX6_CQAJ) Cross-Origin Isolation
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/SlLdc64lvpM/m/G_FqIcLWCAAJ) platform-issued trust tokens
