@@ -10,15 +10,22 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
+October 2020
+
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/NUR-gpWxSZ4/m/zLYNL-hwAAAJ) “Partition the HTTP cache”
+
 September 2020
 
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/SlLdc64lvpM/m/G_FqIcLWCAAJ) platform-issued trust tokens
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/W7GGHz9vecg/m/BwJuNhDBCAAJ) QuicTransport (cont.)
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/9OzS90KISXI/m/q5KYyyWBCAAJ) CSS `text-decoration-thickness` and `text-underline-offset` properties, and `text-underline-position: from-font` value
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/tkdwZYCI4EE/m/L6-Gw2-kCAAJ) Idle Detection API (cont.)
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/xOTmlUxPj7A/m/X7E-BmYwCQAJ) Notification Triggers (cont.)
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/uI3DP5v-s34/m/0us1sPDmCAAJ) Origin Isolation (cont.)
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/WPQCslQMRWY/m/8Wo4QtEZCQAJ) `performance.measureMemory` method (cont.)
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/gTPNGMPgDBk/m/kKXmazEXCgAJ) HTTP `Permissions-Policy` header
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/6KrwUguadyE/m/GK5C8KbWCQAJ) `scheduler.postTask` method for main-thread scheduling (cont.)
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/ZzngHwf2qyQ/m/cp9jcX6_CQAJ) Cross-Origin Isolation
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/SlLdc64lvpM/m/G_FqIcLWCAAJ) platform-issued trust tokens
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/W7GGHz9vecg/m/BwJuNhDBCAAJ) QuicTransport (cont.)
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/9OzS90KISXI/m/q5KYyyWBCAAJ) CSS `text-decoration-thickness` and `text-underline-offset` properties, and `text-underline-position: from-font` value
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/tkdwZYCI4EE/m/L6-Gw2-kCAAJ) Idle Detection API (cont.)
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/xOTmlUxPj7A/m/X7E-BmYwCQAJ) Notification Triggers (cont.)
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/uI3DP5v-s34/m/0us1sPDmCAAJ) Origin Isolation (cont.)
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/WPQCslQMRWY/m/8Wo4QtEZCQAJ) `performance.measureMemory` method (cont.)
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/8Vt2atMrNNs/m/1DGx9DKsBwAJ) `navigator.scheduling.isInputPending` method
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/ApR03h3CGfo/m/K_Fw3bAPBwAJ) CSS `ascent-override`, `descent-override`, and `line-gap-override` font descriptors
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/zOsGZGMGiM4/m/zdJGMq5iBwAJ) Cookie Store API
@@ -1094,7 +1101,7 @@ September 2015
 
 September 2020
 
-- :new: [Ship](https://groups.google.com/g/mozilla.dev.platform/c/CPjGRm78JLI/m/aQTd4ulWAAAJ) Media Session API
+- [Ship](https://groups.google.com/g/mozilla.dev.platform/c/CPjGRm78JLI/m/aQTd4ulWAAAJ) Media Session API
 - [Prototype](https://groups.google.com/g/mozilla.dev.platform/c/1hQQ7ISudGo/m/_yLEckEeBQAJ) CSS `math-style` property
 - [Ship](https://groups.google.com/g/mozilla.dev.platform/c/LCTfPNZMWKU/m/E5mr4TmnBAAJ) `beforeinput` event and its `getTargetRanges` method
 - [Prototype](https://groups.google.com/g/mozilla.dev.platform/c/p7XvnLTPRps/m/bjs_KjvQBAAJ) better error recovery for CSS `:is()` and `:where()` pseudo-classes
