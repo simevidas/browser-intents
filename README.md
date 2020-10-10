@@ -12,13 +12,19 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 October 2020
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/NUR-gpWxSZ4/m/zLYNL-hwAAAJ) “Partition the HTTP cache”
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/NYVbRRBlABI/m/T5nWjE0rCAAJ) `getCurrentBrowsingContextMedia` method
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/2B4TJ7j2U4M/m/1X5T3OszCAAJ) WebID
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/TF41VMfLhMI/m/py4LZcfwAQAJ) CSS `aspect-ratio` property
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/LZsMi8heTu0/m/bh0my7vpBwAJ) Storage Buckets API
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/DjucMDeR-og/m/6yLpNN4wAAAJ) WebXR Depth API
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/_yZ54YV5Gis/m/0Dcw3Jt6AAAJ) Declarative Shadow DOM (cont.)
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/NUR-gpWxSZ4/m/zLYNL-hwAAAJ) “Partition the HTTP cache”
 
 September 2020
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/gTPNGMPgDBk/m/kKXmazEXCgAJ) HTTP `Permissions-Policy` header
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/6KrwUguadyE/m/GK5C8KbWCQAJ) `scheduler.postTask` method for main-thread scheduling (cont.)
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/ZzngHwf2qyQ/m/cp9jcX6_CQAJ) Cross-Origin Isolation
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/gTPNGMPgDBk/m/kKXmazEXCgAJ) HTTP `Permissions-Policy` header
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/6KrwUguadyE/m/GK5C8KbWCQAJ) `scheduler.postTask` method for main-thread scheduling (cont.)
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/ZzngHwf2qyQ/m/cp9jcX6_CQAJ) Cross-Origin Isolation
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/SlLdc64lvpM/m/G_FqIcLWCAAJ) platform-issued trust tokens
 - [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/W7GGHz9vecg/m/BwJuNhDBCAAJ) QuicTransport (cont.)
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/9OzS90KISXI/m/q5KYyyWBCAAJ) CSS `text-decoration-thickness` and `text-underline-offset` properties, and `text-underline-position: from-font` value
@@ -1098,6 +1104,10 @@ September 2015
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/iBX_2xfX6jc/Uc0D6jr3AgAJ) `stale-while-revalidate` Cache-control extension
 
 ### Firefox
+
+October 2020
+
+- :new: [Ship](https://groups.google.com/g/mozilla.dev.platform/c/B3fPnRFM_yY/m/kPsyVeWzBAAJ) CSS `conic-gradient()` notation
 
 September 2020
 
