@@ -12,15 +12,22 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 October 2020
 
-- :new: [Prototype and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/p0Wc66rbVOc/m/khHJ0dSsAwAJ) CSS `:dir()` pseudo-class
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/3MW3ngOsUOk/m/iE0Bvg-6AwAJ) Local Font Access
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/sIRXYKA4jGE/m/OfZMzveCAAAJ) CSS `hyphens: auto` value on Windows
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/Wodp9dSSdL8/m/OZo2vJqTAwAJ) CSS `:is()` and `:where()` pseudo-classes
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/zwG2m_KG0RY/m/8nEx9wCWAwAJ) CSS `scrollbar-color` and `scrollbar-width` properties
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/YEo4LqB7nWI/m/t1IkW35rAwAJ) TLS Encrypted Client Hello (ECH)
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/E0bpVCaWPEg/m/anYk3vFfAwAJ) CSS `clip-path: path()` values
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/I0e2_nAwW7E/m/Fpb7hrZdAwAJ) CSS `prefers-contrast` media feature
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/5zkY3e9cpoo/m/xWNtvgyFAAAJ) CSS `::target-text` pseudo-element
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/FFX6VkvladY/m/QgaWHK6ZBAAJ) implicit `rel="noopener"` for `<a target="_blank">` elements
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/9CeLYndESPE/m/AhEttheMBQAJ) Capability Delegation
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/Q8Qgu1ZdJ44/m/m36Nlar_BAAJ) byte streams for Streams API
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/0alTkXvDCL8/m/-ClOGvOJBAAJ) selector lists in CSS `:not()` pseudo-class
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/eXQq11lrAGU/m/gMObweAxBQAJ) Trust Token API (cont.)
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/jBMvUEkyBq8/m/IwYIZmhEBQAJ) URL pattern matching for service worker scope
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/nZVd7iiy3dc/m/udaY1Mo6BQAJ) HTTP `Supports-Loading-Mode` response header (prerendering opt-in)
+- [Prototype and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/p0Wc66rbVOc/m/khHJ0dSsAwAJ) CSS `:dir()` pseudo-class
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/3MW3ngOsUOk/m/iE0Bvg-6AwAJ) Local Font Access
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/sIRXYKA4jGE/m/OfZMzveCAAAJ) CSS `hyphens: auto` value on Windows
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/Wodp9dSSdL8/m/OZo2vJqTAwAJ) CSS `:is()` and `:where()` pseudo-classes
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/zwG2m_KG0RY/m/8nEx9wCWAwAJ) CSS `scrollbar-color` and `scrollbar-width` properties
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/YEo4LqB7nWI/m/t1IkW35rAwAJ) TLS Encrypted Client Hello (ECH)
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/E0bpVCaWPEg/m/anYk3vFfAwAJ) CSS `clip-path: path()` values
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/I0e2_nAwW7E/m/Fpb7hrZdAwAJ) CSS `prefers-contrast` media feature
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/5zkY3e9cpoo/m/xWNtvgyFAAAJ) CSS `::target-text` pseudo-element
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/NYVbRRBlABI/m/T5nWjE0rCAAJ) `getCurrentBrowsingContextMedia` method
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/2B4TJ7j2U4M/m/1X5T3OszCAAJ) WebID
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/TF41VMfLhMI/m/py4LZcfwAQAJ) CSS `aspect-ratio` property
@@ -1116,6 +1123,7 @@ September 2015
 
 October 2020
 
+- :new: [Prototype and ship](https://groups.google.com/g/mozilla.dev.platform/c/sZdEYTiEBdE/m/PbGpLjcqAQAJ) `localhost` addresses as secure contexts (“potentially trustworthy”)
 - [Ship](https://groups.google.com/g/mozilla.dev.platform/c/B3fPnRFM_yY/m/kPsyVeWzBAAJ) CSS `conic-gradient()` notation
 
 September 2020
