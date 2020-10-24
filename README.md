@@ -17,7 +17,7 @@ October 2020
 - :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/Q8Qgu1ZdJ44/m/m36Nlar_BAAJ) byte streams for Streams API
 - :new: [Implement and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/0alTkXvDCL8/m/-ClOGvOJBAAJ) selector lists in CSS `:not()` pseudo-class
 - :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/eXQq11lrAGU/m/gMObweAxBQAJ) Trust Token API (cont.)
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/jBMvUEkyBq8/m/IwYIZmhEBQAJ) URL pattern matching for service worker scope
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/jBMvUEkyBq8/m/IwYIZmhEBQAJ) URL pattern matching for service worker scope
 - :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/nZVd7iiy3dc/m/udaY1Mo6BQAJ) HTTP `Supports-Loading-Mode` response header (prerendering opt-in)
 - [Prototype and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/p0Wc66rbVOc/m/khHJ0dSsAwAJ) CSS `:dir()` pseudo-class
 - [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/3MW3ngOsUOk/m/iE0Bvg-6AwAJ) Local Font Access
