@@ -12,13 +12,15 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 October 2020
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/FFX6VkvladY/m/QgaWHK6ZBAAJ) implicit `rel="noopener"` for `<a target="_blank">` elements
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/9CeLYndESPE/m/AhEttheMBQAJ) Capability Delegation
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/Q8Qgu1ZdJ44/m/m36Nlar_BAAJ) byte streams for Streams API
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/0alTkXvDCL8/m/-ClOGvOJBAAJ) selector lists in CSS `:not()` pseudo-class
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/eXQq11lrAGU/m/gMObweAxBQAJ) Trust Token API (cont.)
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/jBMvUEkyBq8/m/IwYIZmhEBQAJ) URL pattern matching for service worker scope
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/nZVd7iiy3dc/m/udaY1Mo6BQAJ) HTTP `Supports-Loading-Mode` response header (prerendering opt-in)
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/gh0gTHO18YQ/m/6ZulUK96AAAJ) NativeIO storage API
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/-cdYnhNAtmo/m/U2_boIg9AAAJ) WebXR Hand Input module
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/FFX6VkvladY/m/QgaWHK6ZBAAJ) implicit `rel="noopener"` for `<a target="_blank">` elements
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/9CeLYndESPE/m/AhEttheMBQAJ) Capability Delegation
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/Q8Qgu1ZdJ44/m/m36Nlar_BAAJ) byte streams for Streams API
+- [Implement and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/0alTkXvDCL8/m/-ClOGvOJBAAJ) selector lists in CSS `:not()` pseudo-class
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/eXQq11lrAGU/m/gMObweAxBQAJ) Trust Token API (cont.)
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/jBMvUEkyBq8/m/IwYIZmhEBQAJ) URL pattern matching for service worker scope
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/nZVd7iiy3dc/m/udaY1Mo6BQAJ) HTTP `Supports-Loading-Mode` response header (prerendering opt-in)
 - [Prototype and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/p0Wc66rbVOc/m/khHJ0dSsAwAJ) CSS `:dir()` pseudo-class
 - [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/3MW3ngOsUOk/m/iE0Bvg-6AwAJ) Local Font Access
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/sIRXYKA4jGE/m/OfZMzveCAAAJ) CSS `hyphens: auto` value on Windows
@@ -1123,7 +1125,7 @@ September 2015
 
 October 2020
 
-- :new: [Prototype and ship](https://groups.google.com/g/mozilla.dev.platform/c/sZdEYTiEBdE/m/PbGpLjcqAQAJ) `localhost` addresses as secure contexts (“potentially trustworthy”)
+- [Prototype and ship](https://groups.google.com/g/mozilla.dev.platform/c/sZdEYTiEBdE/m/PbGpLjcqAQAJ) `localhost` addresses as secure contexts (“potentially trustworthy”)
 - [Ship](https://groups.google.com/g/mozilla.dev.platform/c/B3fPnRFM_yY/m/kPsyVeWzBAAJ) CSS `conic-gradient()` notation
 
 September 2020
