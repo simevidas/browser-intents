@@ -10,10 +10,17 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
+November 2020
+
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/vSPTU15iL9Y/m/jNYWijNmAgAJ) CSS `@counter-style` at-rule
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/TESchpNIjr4/m/rJq1GqEcCQAJ) HTML `<meta name="battery-savings">` tag (cont.)
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/u1AKdrXhPGI/m/wrJb-unhAgAJ) Container Queries
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/bta50W_Hg24/m/R6GE8BxHCQAJ) `click`, `contextmenu`, and `auxlick` as instances of `PointerEvent`
+
 October 2020
 
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/gh0gTHO18YQ/m/6ZulUK96AAAJ) NativeIO storage API
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/-cdYnhNAtmo/m/U2_boIg9AAAJ) WebXR Hand Input module
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/gh0gTHO18YQ/m/6ZulUK96AAAJ) NativeIO storage API
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/-cdYnhNAtmo/m/U2_boIg9AAAJ) WebXR Hand Input module
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/FFX6VkvladY/m/QgaWHK6ZBAAJ) implicit `rel="noopener"` for `<a target="_blank">` elements
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/9CeLYndESPE/m/AhEttheMBQAJ) Capability Delegation
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/Q8Qgu1ZdJ44/m/m36Nlar_BAAJ) byte streams for Streams API
