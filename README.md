@@ -12,10 +12,12 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 November 2020
 
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/vSPTU15iL9Y/m/jNYWijNmAgAJ) CSS `@counter-style` at-rule
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/TESchpNIjr4/m/rJq1GqEcCQAJ) HTML `<meta name="battery-savings">` tag (cont.)
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/u1AKdrXhPGI/m/wrJb-unhAgAJ) Container Queries
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/bta50W_Hg24/m/R6GE8BxHCQAJ) `click`, `contextmenu`, and `auxlick` as instances of `PointerEvent`
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/WW4fGjvroWI/m/H6edWbOgAQAJ) Origin Isolation
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/9396JedBBOM/m/OfeJ4z1OAQAJ) `signal` option for `addEventListener` method (AbortSignal)
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/vSPTU15iL9Y/m/jNYWijNmAgAJ) CSS `@counter-style` at-rule
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/TESchpNIjr4/m/rJq1GqEcCQAJ) HTML `<meta name="battery-savings">` tag (cont.)
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/u1AKdrXhPGI/m/wrJb-unhAgAJ) Container Queries
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/bta50W_Hg24/m/R6GE8BxHCQAJ) `click`, `contextmenu`, and `auxlick` as instances of `PointerEvent`
 
 October 2020
 
