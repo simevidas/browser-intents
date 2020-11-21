@@ -12,8 +12,14 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 November 2020
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/WW4fGjvroWI/m/H6edWbOgAQAJ) Origin Isolation
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/9396JedBBOM/m/OfeJ4z1OAQAJ) `signal` option for `addEventListener` method (AbortSignal)
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/VXUq1UY4m7Y/m/T2apH2ZeBQAJ) Handwriting Recognition API
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/gBpWuawy-Ms/m/a2qg7cFcBQAJ) `"display-capture"` permission
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/a76WF3Dfl3E/m/IwSS51VqBQAJ) `beforematch` event and CSS `content-visibility: hidden-matchable` value (cont.)
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/yN2lrq67a1c/m/_Giqh2g_AwAJ) CSS `::target-text` pseudo-element
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/3MNyU3OAacI/m/sj8IdIMRAwAJ) WebCodecs (cont.)
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/7SMI3IklO4g/m/JS-JojxNAwAJ) Shared Element Transitions
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/WW4fGjvroWI/m/H6edWbOgAQAJ) Origin Isolation
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/9396JedBBOM/m/OfeJ4z1OAQAJ) `signal` option for `addEventListener` method (AbortSignal)
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/vSPTU15iL9Y/m/jNYWijNmAgAJ) CSS `@counter-style` at-rule
 - [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/TESchpNIjr4/m/rJq1GqEcCQAJ) HTML `<meta name="battery-savings">` tag (cont.)
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/u1AKdrXhPGI/m/wrJb-unhAgAJ) Container Queries
@@ -1131,6 +1137,10 @@ September 2015
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/iBX_2xfX6jc/Uc0D6jr3AgAJ) `stale-while-revalidate` Cache-control extension
 
 ### Firefox
+
+November 2020
+
+- :new: [Ship](https://groups.google.com/g/mozilla.dev.platform/c/yA2rL_2keTE/m/V0ZRCykZAAAJ) CSS `:focus-visible` pseudo-class
 
 October 2020
 
