@@ -10,9 +10,18 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
+December 2020
+
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/Hb1-VLwq54Y/m/TYsK4EzlCAAJ) potentially trustworthy `data:` URLs
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/MZgYJgS4Lcs/m/NnUxG2_mAAAJ) Web App Manifest `"display_override"` field
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/xGofL-IMAb4/m/t03fbbg3CQAJ) CSS `overflow: clip` value and `overflow-clip-margin` property
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/rL1csFYD1Ms/m/3qgPuZACCQAJ) WebHID
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/Czc_36BS2dA/m/_yHDeFwQCQAJ) `disclosure-open` and `disclosure-closed` keywords for the CSS `list-style-type` property
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/ihZFdCHuiTA/m/e1SEN6IQCQAJ) CSS `list-style-type` and `::marker` support on `<summary>` element
+
 November 2020
 
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/prHGPxF62i4/m/SjBiLZ7ZBgAJ) Screen Fold API
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/prHGPxF62i4/m/SjBiLZ7ZBgAJ) Screen Fold API
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/VXUq1UY4m7Y/m/T2apH2ZeBQAJ) Handwriting Recognition API
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/gBpWuawy-Ms/m/a2qg7cFcBQAJ) `"display-capture"` permission
 - [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/a76WF3Dfl3E/m/IwSS51VqBQAJ) `beforematch` event and CSS `content-visibility: hidden-matchable` value (cont.)
@@ -1139,9 +1148,13 @@ September 2015
 
 ### Firefox
 
+December 2020
+
+- :new: [Prototype and ship](https://groups.google.com/g/mozilla.dev.platform/c/KdR8-eJplCs/m/a0pVUNiTBAAJ) `signal` option for `addEventListener` method (AbortSignal)
+
 November 2020
 
-- :new: [Implement and ship](https://groups.google.com/g/mozilla.dev.platform/c/DYc-4vO0D5Q/m/VJHGCUFhAQAJ) CSS `touch-action: pinch-zoom` value
+- [Implement and ship](https://groups.google.com/g/mozilla.dev.platform/c/DYc-4vO0D5Q/m/VJHGCUFhAQAJ) CSS `touch-action: pinch-zoom` value
 - [Ship](https://groups.google.com/g/mozilla.dev.platform/c/yA2rL_2keTE/m/V0ZRCykZAAAJ) CSS `:focus-visible` pseudo-class
 
 October 2020
