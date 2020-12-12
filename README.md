@@ -12,12 +12,17 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 December 2020
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/Hb1-VLwq54Y/m/TYsK4EzlCAAJ) potentially trustworthy `data:` URLs
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/MZgYJgS4Lcs/m/NnUxG2_mAAAJ) Web App Manifest `"display_override"` field
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/xGofL-IMAb4/m/t03fbbg3CQAJ) CSS `overflow: clip` value and `overflow-clip-margin` property
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/rL1csFYD1Ms/m/3qgPuZACCQAJ) WebHID
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/Czc_36BS2dA/m/_yHDeFwQCQAJ) `disclosure-open` and `disclosure-closed` keywords for the CSS `list-style-type` property
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/ihZFdCHuiTA/m/e1SEN6IQCQAJ) CSS `list-style-type` and `::marker` support on `<summary>` element
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/rVX_dJAJ-eI/m/17r-6-eiAgAJ) Import Maps
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/AQip4hjqt5U/m/OwPgs9NmAgAJ) Byte Streams (Streams API)
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/RCtZPCQLLOQ/m/pnMErtbFAAAJ) Web Serial API
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/CURnzae5yOE/m/yggKMxjGAAAJ) Canvas Formatted Text
+- :new: [prototype and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/YmWSODSTPS4/m/qx1uXvYxAgAJ) CSS `border-start-start-radius`, `border-start-end-radius`, `border-end-start-radius`, and `border-end-end-radius` properties
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/Hb1-VLwq54Y/m/TYsK4EzlCAAJ) potentially trustworthy `data:` URLs
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/MZgYJgS4Lcs/m/NnUxG2_mAAAJ) Web App Manifest `"display_override"` field
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/xGofL-IMAb4/m/t03fbbg3CQAJ) CSS `overflow: clip` value and `overflow-clip-margin` property
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/rL1csFYD1Ms/m/3qgPuZACCQAJ) WebHID
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/Czc_36BS2dA/m/_yHDeFwQCQAJ) `disclosure-open` and `disclosure-closed` keywords for the CSS `list-style-type` property
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/ihZFdCHuiTA/m/e1SEN6IQCQAJ) CSS `list-style-type` and `::marker` support on `<summary>` element
 
 November 2020
 
@@ -1150,7 +1155,9 @@ September 2015
 
 December 2020
 
-- :new: [Prototype and ship](https://groups.google.com/g/mozilla.dev.platform/c/KdR8-eJplCs/m/a0pVUNiTBAAJ) `signal` option for `addEventListener` method (AbortSignal)
+- :new: [Prototype](https://groups.google.com/g/mozilla.dev.platform/c/1BUXJV3iCTM/m/r8APBo_FAAAJ) CSS `:autofill pseudo-class` pseudo-class
+- :new: [Unship](https://groups.google.com/g/mozilla.dev.platform/c/tc11BCenm2c/m/I1BtyaNmAAAJ) `<menu type=context>`, `<menuitem>`, and `contextMenu` property (HTML context menus)
+- [Prototype and ship](https://groups.google.com/g/mozilla.dev.platform/c/KdR8-eJplCs/m/a0pVUNiTBAAJ) `signal` option for `addEventListener` method (AbortSignal)
 
 November 2020
 
