@@ -1155,7 +1155,7 @@ September 2015
 
 December 2020
 
-- :new: [Prototype](https://groups.google.com/g/mozilla.dev.platform/c/1BUXJV3iCTM/m/r8APBo_FAAAJ) CSS `:autofill pseudo-class` pseudo-class
+- :new: [Prototype](https://groups.google.com/g/mozilla.dev.platform/c/1BUXJV3iCTM/m/r8APBo_FAAAJ) CSS `:autofill` pseudo-class
 - :new: [Unship](https://groups.google.com/g/mozilla.dev.platform/c/tc11BCenm2c/m/I1BtyaNmAAAJ) `<menu type=context>`, `<menuitem>`, and `contextMenu` property (HTML context menus)
 - [Prototype and ship](https://groups.google.com/g/mozilla.dev.platform/c/KdR8-eJplCs/m/a0pVUNiTBAAJ) `signal` option for `addEventListener` method (AbortSignal)
 
