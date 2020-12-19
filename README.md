@@ -12,11 +12,19 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 December 2020
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/rVX_dJAJ-eI/m/17r-6-eiAgAJ) Import Maps
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/AQip4hjqt5U/m/OwPgs9NmAgAJ) Byte Streams (Streams API)
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/RCtZPCQLLOQ/m/pnMErtbFAAAJ) Web Serial API
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/CURnzae5yOE/m/yggKMxjGAAAJ) Canvas Formatted Text
-- :new: [prototype and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/YmWSODSTPS4/m/qx1uXvYxAgAJ) CSS `border-start-start-radius`, `border-start-end-radius`, `border-end-start-radius`, and `border-end-end-radius` properties
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/ZdJgwttxnQM/m/zA6ddWonAgAJ) CSS `filter` property for SVG elements (filter functions)
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/l3Qw9cWYPUA/m/Yl9siP_8AQAJ) CSS `:link`, `:visited`, and `:any-link` pseudo selectors for `<link>` elements
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/2ZnA1IrSpS8/m/7wx6dENTAwAJ) Declarative Link Capturing for PWAs (`"capture_links"` member for web app manifest)
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/cPTMI1i6d7I/m/28mjGLIjBAAJ) EyeDropper API
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/aoj06_plqPc/m/D-6ahhfuAwAJ) Web NFC
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/4oKgdB26p6g/m/4M2fIR_aAwAJ) well-specified prerendering
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/4cT9dMkzVXE/m/aCT8B6PDAwAJ) `infinity` and `NaN` values in CSS `calc()`
+- :new: [Prototype and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/d4UdwpPDXJM/m/J-o_C_kqAwAJ) CSS `::file-selector-button` pseudo-element
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/rVX_dJAJ-eI/m/17r-6-eiAgAJ) Import Maps
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/AQip4hjqt5U/m/OwPgs9NmAgAJ) Byte Streams (Streams API)
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/RCtZPCQLLOQ/m/pnMErtbFAAAJ) Web Serial API
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/CURnzae5yOE/m/yggKMxjGAAAJ) Canvas Formatted Text
+- [prototype and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/YmWSODSTPS4/m/qx1uXvYxAgAJ) CSS `border-start-start-radius`, `border-start-end-radius`, `border-end-start-radius`, and `border-end-end-radius` properties
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/Hb1-VLwq54Y/m/TYsK4EzlCAAJ) potentially trustworthy `data:` URLs
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/MZgYJgS4Lcs/m/NnUxG2_mAAAJ) Web App Manifest `"display_override"` field
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/xGofL-IMAb4/m/t03fbbg3CQAJ) CSS `overflow: clip` value and `overflow-clip-margin` property
@@ -1155,8 +1163,10 @@ September 2015
 
 December 2020
 
-- :new: [Prototype](https://groups.google.com/g/mozilla.dev.platform/c/1BUXJV3iCTM/m/r8APBo_FAAAJ) CSS `:autofill` pseudo-class
-- :new: [Unship](https://groups.google.com/g/mozilla.dev.platform/c/tc11BCenm2c/m/I1BtyaNmAAAJ) `<menu type=context>`, `<menuitem>`, and `contextMenu` property (HTML context menus)
+- :new: [Ship](https://groups.google.com/g/mozilla.dev.platform/c/uDYrtq1Ne3A/m/QCckV5y-AwAJ) Network Partitioning (incl. storage and HTTP cache partitioning)
+- :new: [Ship](https://groups.google.com/g/mozilla.dev.platform/c/K7Dq-0CyT_Q/m/l04RxJinAwAJ) `strict-origin-when-cross-origin` as default referrer policy
+- [Prototype](https://groups.google.com/g/mozilla.dev.platform/c/1BUXJV3iCTM/m/r8APBo_FAAAJ) CSS `:autofill` pseudo-class
+- [Unship](https://groups.google.com/g/mozilla.dev.platform/c/tc11BCenm2c/m/I1BtyaNmAAAJ) `<menu type=context>`, `<menuitem>`, and `contextMenu` property (HTML context menus)
 - [Prototype and ship](https://groups.google.com/g/mozilla.dev.platform/c/KdR8-eJplCs/m/a0pVUNiTBAAJ) `signal` option for `addEventListener` method (AbortSignal)
 
 November 2020
