@@ -10,6 +10,13 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
+January 2020
+
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/8UEcRJViPEU/m/YZml0HGxCQAJ) CSS `::spelling-error` and `::grammar-error` pseudo-elements, and `spelling-error` and `grammar-error` values for `text-decoration-line`
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/RExJ9a3SmQw/m/7mbQ4RELCgAJ) `performance.measureMemory` method
+- :new: [Spec, implement and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/0xrbzYe_vxU/m/52xVJHTICQAJ) persistent guaranteed-invalid CSS variables
+- :new: [Implement](https://groups.google.com/a/chromium.org/g/blink-dev/c/GfVrt1CwxK8/m/i9Rv8Jp5BwAJ) Web Share API on macOS
+
 December 2020
 
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/ZdJgwttxnQM/m/zA6ddWonAgAJ) CSS `filter` property for SVG elements (filter functions)
@@ -1160,6 +1167,10 @@ September 2015
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/iBX_2xfX6jc/Uc0D6jr3AgAJ) `stale-while-revalidate` Cache-control extension
 
 ### Firefox
+
+January 2020
+
+- :new: [Ship](https://groups.google.com/g/mozilla.dev.platform/c/ARLg8hqDj2k/m/6hOqQYVzBwAJ) CSS `:autofill` pseudo-class
 
 December 2020
 
