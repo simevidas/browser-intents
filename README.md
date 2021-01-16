@@ -12,10 +12,15 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 January 2020
 
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/8UEcRJViPEU/m/YZml0HGxCQAJ) CSS `::spelling-error` and `::grammar-error` pseudo-elements, and `spelling-error` and `grammar-error` values for `text-decoration-line`
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/RExJ9a3SmQw/m/7mbQ4RELCgAJ) `performance.measureMemory` method
-- :new: [Spec, implement and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/0xrbzYe_vxU/m/52xVJHTICQAJ) persistent guaranteed-invalid CSS variables
-- :new: [Implement](https://groups.google.com/a/chromium.org/g/blink-dev/c/GfVrt1CwxK8/m/i9Rv8Jp5BwAJ) Web Share API on macOS
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/QMQz7rWADO0/m/UYYZJMMOAQAJ) `scheduler.postTask` method for main-thread scheduling (cont.)
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/-unZxHbw8Pc/m/_23CsOkHAQAJ) `SameParty` cookie attribute
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/mNVaRrvBZG0/m/lOezCQV_CwAJ) `fetch()` upload streaming
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/A1kOJydFI3I/m/V88Gfe3MAAAJ) Declarative Shadow DOM (cont.)
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/C0P7ePjITJQ/m/ZYFmn30SDQAJ) Conversion Measurement API (cont.)
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/8UEcRJViPEU/m/YZml0HGxCQAJ) CSS `::spelling-error` and `::grammar-error` pseudo-elements, and `spelling-error` and `grammar-error` values for `text-decoration-line`
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/RExJ9a3SmQw/m/7mbQ4RELCgAJ) `performance.measureMemory` method
+- [Spec, implement and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/0xrbzYe_vxU/m/52xVJHTICQAJ) persistent guaranteed-invalid CSS variables
+- [Implement](https://groups.google.com/a/chromium.org/g/blink-dev/c/GfVrt1CwxK8/m/i9Rv8Jp5BwAJ) Web Share API on macOS
 
 December 2020
 
@@ -1170,7 +1175,7 @@ September 2015
 
 January 2020
 
-- :new: [Ship](https://groups.google.com/g/mozilla.dev.platform/c/ARLg8hqDj2k/m/6hOqQYVzBwAJ) CSS `:autofill` pseudo-class
+- [Ship](https://groups.google.com/g/mozilla.dev.platform/c/ARLg8hqDj2k/m/6hOqQYVzBwAJ) CSS `:autofill` pseudo-class
 
 December 2020
 
