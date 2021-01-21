@@ -10,7 +10,7 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
-January 2020
+January 2021
 
 - :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/QMQz7rWADO0/m/UYYZJMMOAQAJ) `scheduler.postTask` method for main-thread scheduling (cont.)
 - :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/-unZxHbw8Pc/m/_23CsOkHAQAJ) `SameParty` cookie attribute
@@ -1173,7 +1173,7 @@ September 2015
 
 ### Firefox
 
-January 2020
+January 2021
 
 - [Ship](https://groups.google.com/g/mozilla.dev.platform/c/ARLg8hqDj2k/m/6hOqQYVzBwAJ) CSS `:autofill` pseudo-class
 
