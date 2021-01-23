@@ -12,11 +12,13 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 January 2021
 
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/QMQz7rWADO0/m/UYYZJMMOAQAJ) `scheduler.postTask` method for main-thread scheduling (cont.)
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/-unZxHbw8Pc/m/_23CsOkHAQAJ) `SameParty` cookie attribute
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/mNVaRrvBZG0/m/lOezCQV_CwAJ) `fetch()` upload streaming
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/A1kOJydFI3I/m/V88Gfe3MAAAJ) Declarative Shadow DOM (cont.)
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/C0P7ePjITJQ/m/ZYFmn30SDQAJ) Conversion Measurement API (cont.)
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/9y-Thg9UCxY/m/_4gShWjQAAAJ) HTML `<popup>` element
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/NNm3FnMvyZc/m/9wtFLdrDAAAJ) smooth interpolation when animating the CSS `aspect-ratio` property
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/QMQz7rWADO0/m/UYYZJMMOAQAJ) `scheduler.postTask` method for main-thread scheduling (cont.)
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/-unZxHbw8Pc/m/_23CsOkHAQAJ) `SameParty` cookie attribute
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/mNVaRrvBZG0/m/lOezCQV_CwAJ) `fetch()` upload streaming
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/A1kOJydFI3I/m/V88Gfe3MAAAJ) Declarative Shadow DOM (cont.)
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/C0P7ePjITJQ/m/ZYFmn30SDQAJ) Conversion Measurement API (cont.)
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/8UEcRJViPEU/m/YZml0HGxCQAJ) CSS `::spelling-error` and `::grammar-error` pseudo-elements, and `spelling-error` and `grammar-error` values for `text-decoration-line`
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/RExJ9a3SmQw/m/7mbQ4RELCgAJ) `performance.measureMemory` method
 - [Spec, implement and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/0xrbzYe_vxU/m/52xVJHTICQAJ) persistent guaranteed-invalid CSS variables
