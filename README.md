@@ -10,17 +10,23 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
+February 2021
+
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/nrpl_ewkmaQ/m/aVI8C8NeAwAJ) stricter mixed content check for `blob:` and `filesystem:` URLs
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/8sNTXCoggcQ/m/sFr7FOteBAAJ) MulticastReceiver API
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/q6ivDcvAJwQ/m/UWFuY2E9BAAJ) Declarative Link Capturing for PWAs (`"capture_links"` member for web app manifest)
+
 January 2021
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/gv69rSngHDY/m/B_p8K21kAgAJ) CSS `:focus-visible` in the user-agent style sheet
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/8_86NDuVdRk/m/Q7KXPPJAAwAJ) `signal` option for `addEventListener` method (AbortSignal)
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/X6rEbWvU7cI/m/IJqgEI-HAwAJ) Multi-Screen Window Placement
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/XeELlWkuCgQ/m/jNKb15bEAwAJ) Multi Apps
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/etQ-LVhY6S4/m/JfKi-o6HAwAJ) ARIA Virtual Content
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/HVO2p0V5OW8/m/9lU8Ns1zAwAJ) `GravitySensor` API
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/XIXudwZdr44/m/emDJRTFoAwAJ) COLRv1 Color Gradient Vector Fonts
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/bqRpC58mtKE/m/rb36zgABAgAJ) `StaticRange` constructor
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/tkdwZYCI4EE/m/L6-Gw2-kCAAJ) Idle Detection API (cont.)
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/gv69rSngHDY/m/B_p8K21kAgAJ) CSS `:focus-visible` in the user-agent style sheet
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/8_86NDuVdRk/m/Q7KXPPJAAwAJ) `signal` option for `addEventListener` method (AbortSignal)
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/X6rEbWvU7cI/m/IJqgEI-HAwAJ) Multi-Screen Window Placement
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/XeELlWkuCgQ/m/jNKb15bEAwAJ) Multi Apps
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/etQ-LVhY6S4/m/JfKi-o6HAwAJ) ARIA Virtual Content
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/HVO2p0V5OW8/m/9lU8Ns1zAwAJ) `GravitySensor` API
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/XIXudwZdr44/m/emDJRTFoAwAJ) COLRv1 Color Gradient Vector Fonts
+- [Implement and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/bqRpC58mtKE/m/rb36zgABAgAJ) `StaticRange` constructor
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/tkdwZYCI4EE/m/L6-Gw2-kCAAJ) Idle Detection API (cont.)
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/9y-Thg9UCxY/m/_4gShWjQAAAJ) HTML `<popup>` element
 - [Implement and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/NNm3FnMvyZc/m/9wtFLdrDAAAJ) smooth interpolation when animating the CSS `aspect-ratio` property
 - [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/QMQz7rWADO0/m/UYYZJMMOAQAJ) `scheduler.postTask` method for main-thread scheduling (cont.)
@@ -1186,7 +1192,7 @@ September 2015
 
 January 2021
 
-- :new: [Ship](https://groups.google.com/g/mozilla.dev.platform/c/C_92-abaiuw/m/GzXYMPe7AgAJ) `beforeinput` event and its `getTargetRanges` method
+- [Ship](https://groups.google.com/g/mozilla.dev.platform/c/C_92-abaiuw/m/GzXYMPe7AgAJ) `beforeinput` event and its `getTargetRanges` method
 - [Ship](https://groups.google.com/g/mozilla.dev.platform/c/ARLg8hqDj2k/m/6hOqQYVzBwAJ) CSS `:autofill` pseudo-class
 
 December 2020
