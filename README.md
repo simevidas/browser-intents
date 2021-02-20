@@ -12,12 +12,16 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 February 2021
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/MRDuNaR4Zd0/m/n7J2g6qNAQAJ) files on the clipboard
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/Ix2u8NHG5Po/m/sNguLXOsAQAJ) Custom Highlight API
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/Jhirhnq3WbY/m/GnhrTQAnAQAJ) Storage Foundation API
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/XkWbQKrBzMg/m/dIQckPbZAAAJ) First-Party Sets and `SameParty` cookie attribute
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/q9zf-frdewo/m/zxw2HuzGAQAJ) CSS `accent-color` property
-- :new: [Experimenrt](https://groups.google.com/a/chromium.org/g/blink-dev/c/YD_fiUqNggo/m/LyyvJWTFAAAJ) QuicTransport (cont.)
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/kC8b-dZ8uBQ/m/Ngopo8S2AgAJ) CSS `@counter-style` at-rule
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/DAgWIczGtG0/m/gSXvjYn-AwAJ) HTTP status code `103 Early Hints` on navigation responses
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/7sZ52cP8HMg/m/ciep5kv-AwAJ) Declarative Shadow DOM
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/1q7Fp3zpjgQ/m/5jbNkmRfAwAJ) Speculation Rules
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/MRDuNaR4Zd0/m/n7J2g6qNAQAJ) files on the clipboard
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/Ix2u8NHG5Po/m/sNguLXOsAQAJ) Custom Highlight API
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/Jhirhnq3WbY/m/GnhrTQAnAQAJ) Storage Foundation API
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/XkWbQKrBzMg/m/dIQckPbZAAAJ) First-Party Sets and `SameParty` cookie attribute
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/q9zf-frdewo/m/zxw2HuzGAQAJ) CSS `accent-color` property
+- [Experimenrt](https://groups.google.com/a/chromium.org/g/blink-dev/c/YD_fiUqNggo/m/LyyvJWTFAAAJ) QuicTransport (cont.)
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/nrpl_ewkmaQ/m/aVI8C8NeAwAJ) stricter mixed content check for `blob:` and `filesystem:` URLs
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/8sNTXCoggcQ/m/sFr7FOteBAAJ) MulticastReceiver API
 - [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/q6ivDcvAJwQ/m/UWFuY2E9BAAJ) Declarative Link Capturing for PWAs (`"capture_links"` member for web app manifest)
@@ -1198,7 +1202,7 @@ September 2015
 
 February 2021
 
-- :new: [Prototype](https://groups.google.com/g/mozilla.dev.platform/c/4Tzs6hF4heA/m/3Bw57D9TAwAJ) outlines that follow `border-radius`
+- [Prototype](https://groups.google.com/g/mozilla.dev.platform/c/4Tzs6hF4heA/m/3Bw57D9TAwAJ) outlines that follow `border-radius`
 
 January 2021
 
