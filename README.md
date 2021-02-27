@@ -12,10 +12,11 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 February 2021
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/kC8b-dZ8uBQ/m/Ngopo8S2AgAJ) CSS `@counter-style` at-rule
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/DAgWIczGtG0/m/gSXvjYn-AwAJ) HTTP status code `103 Early Hints` on navigation responses
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/7sZ52cP8HMg/m/ciep5kv-AwAJ) Declarative Shadow DOM
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/1q7Fp3zpjgQ/m/5jbNkmRfAwAJ) Speculation Rules
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/_BO41rwrrtI/m/TjPsQnC2AwAJ) CSS `advance-override` descriptor
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/kC8b-dZ8uBQ/m/Ngopo8S2AgAJ) CSS `@counter-style` at-rule
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/DAgWIczGtG0/m/gSXvjYn-AwAJ) HTTP status code `103 Early Hints` on navigation responses
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/7sZ52cP8HMg/m/ciep5kv-AwAJ) Declarative Shadow DOM
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/1q7Fp3zpjgQ/m/5jbNkmRfAwAJ) Speculation Rules
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/MRDuNaR4Zd0/m/n7J2g6qNAQAJ) files on the clipboard
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/Ix2u8NHG5Po/m/sNguLXOsAQAJ) Custom Highlight API
 - [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/Jhirhnq3WbY/m/GnhrTQAnAQAJ) Storage Foundation API
@@ -1202,6 +1203,8 @@ September 2015
 
 February 2021
 
+- :new: [Prototype](https://groups.google.com/g/mozilla.dev.platform/c/1MdyhPwaInw/m/2Fi4vWGXAQAJ) CSS `color-mix()` function
+- :new: [Prototype and ship](https://groups.google.com/g/mozilla.dev.platform/c/rEYMl79krS8/m/UI_kwzatCAAJ) CSS `:user-valid` and `:user-invalid` pseudo-classes
 - [Prototype](https://groups.google.com/g/mozilla.dev.platform/c/4Tzs6hF4heA/m/3Bw57D9TAwAJ) outlines that follow `border-radius`
 
 January 2021
