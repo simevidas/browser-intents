@@ -10,9 +10,17 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
+March 2021
+
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/V3Yo20_ZZLc/m/rUT-qELKBwAJ) HTTP `Critical-CH` response header
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/OwUSsHWokpA/m/DyH99LahBwAJ) HTML `<link rel="icon" media>` attribute
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/MmijXrmwrJs/m/uDBQ5-tJAAAJ) Federated Learning of Cohorts (FLoC)
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/R1D5xYccqb0/m/8ukfzdVSAgAJ) App History API
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/8R6kvHjiqdw/m/9JwSNAP7AQAJ) `document.prerendering` property
+
 February 2021
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/_BO41rwrrtI/m/TjPsQnC2AwAJ) CSS `advance-override` descriptor
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/_BO41rwrrtI/m/TjPsQnC2AwAJ) CSS `advance-override` descriptor
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/kC8b-dZ8uBQ/m/Ngopo8S2AgAJ) CSS `@counter-style` at-rule
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/DAgWIczGtG0/m/gSXvjYn-AwAJ) HTTP status code `103 Early Hints` on navigation responses
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/7sZ52cP8HMg/m/ciep5kv-AwAJ) Declarative Shadow DOM
@@ -1203,8 +1211,8 @@ September 2015
 
 February 2021
 
-- :new: [Prototype](https://groups.google.com/g/mozilla.dev.platform/c/1MdyhPwaInw/m/2Fi4vWGXAQAJ) CSS `color-mix()` function
-- :new: [Prototype and ship](https://groups.google.com/g/mozilla.dev.platform/c/rEYMl79krS8/m/UI_kwzatCAAJ) CSS `:user-valid` and `:user-invalid` pseudo-classes
+- [Prototype](https://groups.google.com/g/mozilla.dev.platform/c/1MdyhPwaInw/m/2Fi4vWGXAQAJ) CSS `color-mix()` function
+- [Prototype and ship](https://groups.google.com/g/mozilla.dev.platform/c/rEYMl79krS8/m/UI_kwzatCAAJ) CSS `:user-valid` and `:user-invalid` pseudo-classes
 - [Prototype](https://groups.google.com/g/mozilla.dev.platform/c/4Tzs6hF4heA/m/3Bw57D9TAwAJ) outlines that follow `border-radius`
 
 January 2021
