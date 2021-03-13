@@ -12,11 +12,14 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 March 2021
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/V3Yo20_ZZLc/m/rUT-qELKBwAJ) HTTP `Critical-CH` response header
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/OwUSsHWokpA/m/DyH99LahBwAJ) HTML `<link rel="icon" media>` attribute
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/MmijXrmwrJs/m/uDBQ5-tJAAAJ) Federated Learning of Cohorts (FLoC)
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/R1D5xYccqb0/m/8ukfzdVSAgAJ) App History API
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/8R6kvHjiqdw/m/9JwSNAP7AQAJ) `document.prerendering` property
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/55QViQdz5Rc/m/UxytBsZ5AgAJ) WebCodecs (cont.)
+- :new: [Prototype and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/iJaPCv9HOrE/m/MRJDqCRvAgAJ) standard JavaScript modules in service workers
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/9CwkzaF_eQ4/m/kuR07FTTCAAJ) subresource loading with Web Bundles
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/V3Yo20_ZZLc/m/rUT-qELKBwAJ) HTTP `Critical-CH` response header
+- [Implement and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/OwUSsHWokpA/m/DyH99LahBwAJ) HTML `<link rel="icon" media>` attribute
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/MmijXrmwrJs/m/uDBQ5-tJAAAJ) Federated Learning of Cohorts (FLoC)
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/R1D5xYccqb0/m/8ukfzdVSAgAJ) App History API
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/8R6kvHjiqdw/m/9JwSNAP7AQAJ) `document.prerendering` property
 
 February 2021
 
@@ -1208,6 +1211,12 @@ September 2015
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/iBX_2xfX6jc/Uc0D6jr3AgAJ) `stale-while-revalidate` Cache-control extension
 
 ### Firefox
+
+March 2021
+
+- :new: [Ship](https://groups.google.com/g/mozilla.dev.platform/c/eWIa9XXxHsc/m/Wzs20e0kAAAJ) AV1 Image File Format (AVIF)
+- :new: [Ship](https://groups.google.com/g/mozilla.dev.platform/c/selXOOzcRkU/m/GKxYv-0kAAAJ) CSS `aspect-ratio` property
+- :new: [Prototype](https://groups.google.com/g/mozilla.dev.platform/c/K10xFE4xF58/m/sFhSXf2WAQAJ) CSS `fit-content()` function
 
 February 2021
 
