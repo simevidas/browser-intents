@@ -12,9 +12,11 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 March 2021
 
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/55QViQdz5Rc/m/UxytBsZ5AgAJ) WebCodecs (cont.)
-- :new: [Prototype and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/iJaPCv9HOrE/m/MRJDqCRvAgAJ) standard JavaScript modules in service workers
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/9CwkzaF_eQ4/m/kuR07FTTCAAJ) subresource loading with Web Bundles
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/uV1gwoX2fMY/m/vWrj0BA6AwAJ) `GravitySensor` API
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/o8RqlFwZItQ/m/zDlYHEhYBAAJ) Handwriting Recognition API
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/55QViQdz5Rc/m/UxytBsZ5AgAJ) WebCodecs (cont.)
+- [Prototype and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/iJaPCv9HOrE/m/MRJDqCRvAgAJ) standard JavaScript modules in service workers
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/9CwkzaF_eQ4/m/kuR07FTTCAAJ) subresource loading with Web Bundles
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/V3Yo20_ZZLc/m/rUT-qELKBwAJ) HTTP `Critical-CH` response header
 - [Implement and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/OwUSsHWokpA/m/DyH99LahBwAJ) HTML `<link rel="icon" media>` attribute
 - [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/MmijXrmwrJs/m/uDBQ5-tJAAAJ) Federated Learning of Cohorts (FLoC)
@@ -1214,9 +1216,11 @@ September 2015
 
 March 2021
 
-- :new: [Ship](https://groups.google.com/g/mozilla.dev.platform/c/eWIa9XXxHsc/m/Wzs20e0kAAAJ) AV1 Image File Format (AVIF)
-- :new: [Ship](https://groups.google.com/g/mozilla.dev.platform/c/selXOOzcRkU/m/GKxYv-0kAAAJ) CSS `aspect-ratio` property
-- :new: [Prototype](https://groups.google.com/g/mozilla.dev.platform/c/K10xFE4xF58/m/sFhSXf2WAQAJ) CSS `fit-content()` function
+- :new: [Prototype](https://groups.google.com/g/mozilla.dev.platform/c/joBc4SoTOPc/m/Mwjr06tcAgAJ) CSS `glyph-scale-factor`/`size-adjust` descriptor
+- :new: [Ship](https://groups.google.com/g/mozilla.dev.platform/c/23hnabutNlA/m/VV6OTp12AgAJ) `AbortSignal.abort()` for creating an aborted `AbortSignal`
+- [Ship](https://groups.google.com/g/mozilla.dev.platform/c/eWIa9XXxHsc/m/Wzs20e0kAAAJ) AV1 Image File Format (AVIF)
+- [Ship](https://groups.google.com/g/mozilla.dev.platform/c/selXOOzcRkU/m/GKxYv-0kAAAJ) CSS `aspect-ratio` property
+- [Prototype](https://groups.google.com/g/mozilla.dev.platform/c/K10xFE4xF58/m/sFhSXf2WAQAJ) CSS `fit-content()` function
 
 February 2021
 
