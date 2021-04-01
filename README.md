@@ -1231,6 +1231,7 @@ March 2021
 
 February 2021
 
+- [Ship](https://groups.google.com/g/mozilla.dev.platform/c/VJhM6SSQd-4/m/x3B45oatCAAJ) outlines that follow `border-radius`
 - [Prototype](https://groups.google.com/g/mozilla.dev.platform/c/1MdyhPwaInw/m/2Fi4vWGXAQAJ) CSS `color-mix()` function
 - [Prototype and ship](https://groups.google.com/g/mozilla.dev.platform/c/rEYMl79krS8/m/UI_kwzatCAAJ) CSS `:user-valid` and `:user-invalid` pseudo-classes
 - [Prototype](https://groups.google.com/g/mozilla.dev.platform/c/4Tzs6hF4heA/m/3Bw57D9TAwAJ) outlines that follow `border-radius`
