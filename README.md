@@ -12,11 +12,15 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 March 2021
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/clPEmywkX4w/m/LbIZZv-fBQAJ) cross-origin iframe support in Web OTP API
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/Fb-NdCvbgmU/m/68nHOaFPBQAJ) File Handling API
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/uJ1tuT7HTd8/m/gP8ixHXiBQAJ) Web App Manifest `"note_taking"` and `"new_note_url"` fields
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/006tkVwj1yw/m/7i4d1XXiBQAJ) Lock Screen API
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/OrWQnXVQJ0A/m/TbF-0Dw3BQAJ) Sanitizer API
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/xPQYlcf-N-0/m/se6xRssBCAAJ) Managed Configuration API
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/LTIRZ24C5Os/m/BPSeJ8y0BwAJ) Compute Pressure
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/WjCKcBw219k/m/BK9qXyz1BwAJ) JPEG XL image format
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/_P5bxPTo6XE/m/1tqu3dzCBwAJ) HTML `inert` attribute
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/clPEmywkX4w/m/LbIZZv-fBQAJ) cross-origin iframe support in Web OTP API
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/Fb-NdCvbgmU/m/68nHOaFPBQAJ) File Handling API
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/uJ1tuT7HTd8/m/gP8ixHXiBQAJ) Web App Manifest `"note_taking"` and `"new_note_url"` fields
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/006tkVwj1yw/m/7i4d1XXiBQAJ) Lock Screen API
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/OrWQnXVQJ0A/m/TbF-0Dw3BQAJ) Sanitizer API
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/uV1gwoX2fMY/m/vWrj0BA6AwAJ) `GravitySensor` API
 - [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/o8RqlFwZItQ/m/zDlYHEhYBAAJ) Handwriting Recognition API
 - [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/55QViQdz5Rc/m/UxytBsZ5AgAJ) WebCodecs (cont.)
@@ -1221,8 +1225,8 @@ September 2015
 
 March 2021
 
-- :new: [Prototype and ship](https://groups.google.com/g/mozilla.dev.platform/c/Y7aZiULRVjg/m/uiEbMj99BgAJ) inferred `aspect-ratio` from `width`/`height` attributes for `<video>`, `<canvas>` and `<input type=image>`
-- :new: [Prototype](https://groups.google.com/g/mozilla.dev.platform/c/zk_-KRtKJr0/m/KcAhTOqcAwAJ) CSS `ascent-override`, `descent-override`, and `line-gap-override` font descriptors
+- [Prototype and ship](https://groups.google.com/g/mozilla.dev.platform/c/Y7aZiULRVjg/m/uiEbMj99BgAJ) inferred `aspect-ratio` from `width`/`height` attributes for `<video>`, `<canvas>` and `<input type=image>`
+- [Prototype](https://groups.google.com/g/mozilla.dev.platform/c/zk_-KRtKJr0/m/KcAhTOqcAwAJ) CSS `ascent-override`, `descent-override`, and `line-gap-override` font descriptors
 - [Prototype](https://groups.google.com/g/mozilla.dev.platform/c/joBc4SoTOPc/m/Mwjr06tcAgAJ) CSS `glyph-scale-factor`/`size-adjust` descriptor
 - [Ship](https://groups.google.com/g/mozilla.dev.platform/c/23hnabutNlA/m/VV6OTp12AgAJ) `AbortSignal.abort()` for creating an aborted `AbortSignal`
 - [Ship](https://groups.google.com/g/mozilla.dev.platform/c/eWIa9XXxHsc/m/Wzs20e0kAAAJ) AV1 Image File Format (AVIF)
