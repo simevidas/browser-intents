@@ -12,10 +12,10 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 March 2021
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/xPQYlcf-N-0/m/se6xRssBCAAJ) Managed Configuration API
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/LTIRZ24C5Os/m/BPSeJ8y0BwAJ) Compute Pressure
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/WjCKcBw219k/m/BK9qXyz1BwAJ) JPEG XL image format
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/_P5bxPTo6XE/m/1tqu3dzCBwAJ) HTML `inert` attribute
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/xPQYlcf-N-0/m/se6xRssBCAAJ) Managed Configuration API
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/LTIRZ24C5Os/m/BPSeJ8y0BwAJ) Compute Pressure
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/WjCKcBw219k/m/BK9qXyz1BwAJ) JPEG XL image format
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/_P5bxPTo6XE/m/1tqu3dzCBwAJ) HTML `inert` attribute
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/clPEmywkX4w/m/LbIZZv-fBQAJ) cross-origin iframe support in Web OTP API
 - [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/Fb-NdCvbgmU/m/68nHOaFPBQAJ) File Handling API
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/uJ1tuT7HTd8/m/gP8ixHXiBQAJ) Web App Manifest `"note_taking"` and `"new_note_url"` fields
