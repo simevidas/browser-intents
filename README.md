@@ -10,6 +10,13 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
+April 2021
+
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/kz3w-yOMDks/m/Ue71o4xYAAAJ) CSS `:playing` and `:paused` pseudo-classes
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/aaLFxzw5zL4/m/H3V_l-qlAgAJ) WebTransport over HTTP/3
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/loqGn7N9hzU/m/mRDdLA_cAgAJ) CSS `contain-intrinsic-size: auto` value
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/6U78F3KWJ78/m/hcEoYVx8AgAJ) imperative slot distribution API (Shadow DOM)
+
 March 2021
 
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/xPQYlcf-N-0/m/se6xRssBCAAJ) Managed Configuration API
@@ -1222,6 +1229,10 @@ September 2015
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/iBX_2xfX6jc/Uc0D6jr3AgAJ) `stale-while-revalidate` Cache-control extension
 
 ### Firefox
+
+April 2021
+
+- :new: [Ship](https://groups.google.com/g/mozilla.dev.platform/c/zwDaj0JMYjs/m/roFqKU9HAQAJ) CSS `forced-colors` media feature (née `prefers-contrast`)
 
 March 2021
 
