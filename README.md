@@ -12,10 +12,15 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 April 2021
 
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/kz3w-yOMDks/m/Ue71o4xYAAAJ) CSS `:playing` and `:paused` pseudo-classes
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/aaLFxzw5zL4/m/H3V_l-qlAgAJ) WebTransport over HTTP/3
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/loqGn7N9hzU/m/mRDdLA_cAgAJ) CSS `contain-intrinsic-size: auto` value
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/6U78F3KWJ78/m/hcEoYVx8AgAJ) imperative slot distribution API (Shadow DOM)
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/-W90wVkS0Ks/m/HyICZtuuBAAJ) Trust Token API (cont.)
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/bEgFQrTsDso/m/9wD9tqxQBAAJ) updated Canvas 2D API
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/uEcgVgTJ5qA/m/bemJBwikBAAJ) HTTP `Service-Worker-Subresource-Filter` header
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/V5jFCsw8J2M/m/VBg0oh2_AwAJ) tainted origin flag for fetch requests
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/sLC_W6B8big/m/5sk787RQBAAJ) Network State Partitioning
+- [Implement and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/kz3w-yOMDks/m/Ue71o4xYAAAJ) CSS `:playing` and `:paused` pseudo-classes
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/aaLFxzw5zL4/m/H3V_l-qlAgAJ) WebTransport over HTTP/3
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/loqGn7N9hzU/m/mRDdLA_cAgAJ) CSS `contain-intrinsic-size: auto` value
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/6U78F3KWJ78/m/hcEoYVx8AgAJ) imperative slot distribution API (Shadow DOM)
 
 March 2021
 
@@ -1232,7 +1237,7 @@ September 2015
 
 April 2021
 
-- :new: [Ship](https://groups.google.com/g/mozilla.dev.platform/c/zwDaj0JMYjs/m/roFqKU9HAQAJ) CSS `forced-colors` media feature (née `prefers-contrast`)
+- [Ship](https://groups.google.com/g/mozilla.dev.platform/c/zwDaj0JMYjs/m/roFqKU9HAQAJ) CSS `forced-colors` media feature (née `prefers-contrast`)
 
 March 2021
 
