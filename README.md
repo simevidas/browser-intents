@@ -12,11 +12,14 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 April 2021
 
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/-W90wVkS0Ks/m/HyICZtuuBAAJ) Trust Token API (cont.)
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/bEgFQrTsDso/m/9wD9tqxQBAAJ) updated Canvas 2D API
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/uEcgVgTJ5qA/m/bemJBwikBAAJ) HTTP `Service-Worker-Subresource-Filter` header
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/V5jFCsw8J2M/m/VBg0oh2_AwAJ) tainted origin flag for fetch requests
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/sLC_W6B8big/m/5sk787RQBAAJ) Network State Partitioning
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/Ko9UXQYPgUE/m/URRsB-qvAAAJ) Fenced Frames (for ads)
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/nNdY-qOScBc/m/A5H3mcf5BQAJ) First-Party Sets and `SameParty` cookie attribute (cont.)
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/GJsdwulsGiI/m/7OauT6SjBQAJ) back-forward cache on desktop
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/-W90wVkS0Ks/m/HyICZtuuBAAJ) Trust Token API (cont.)
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/bEgFQrTsDso/m/9wD9tqxQBAAJ) updated Canvas 2D API
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/uEcgVgTJ5qA/m/bemJBwikBAAJ) HTTP `Service-Worker-Subresource-Filter` header
+- [Implement and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/V5jFCsw8J2M/m/VBg0oh2_AwAJ) tainted origin flag for fetch requests
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/sLC_W6B8big/m/5sk787RQBAAJ) Network State Partitioning
 - [Implement and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/kz3w-yOMDks/m/Ue71o4xYAAAJ) CSS `:playing` and `:paused` pseudo-classes
 - [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/aaLFxzw5zL4/m/H3V_l-qlAgAJ) WebTransport over HTTP/3
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/loqGn7N9hzU/m/mRDdLA_cAgAJ) CSS `contain-intrinsic-size: auto` value
