@@ -10,11 +10,22 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
+May 2021
+
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/UgZAAElUWzU/m/sBc82Fb2AgAJ) Shared Element Transitions
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/1PVr94hZHjU/m/J0xT8-rlAQAJ) CSS `size-adjust` descriptor
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/uoTx_cRuL5o/m/X3U0GpmRAgAJ) Digital Goods API (cont.)
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/RqDYSPYE4lI/m/sxXCWw5dAgAJ) EXIF-based intrinsic image sizing
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/zvFUdYCvZew/m/dzH8rJhVAgAJ) `crypto.randomUUID` method
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/oJE9_77rZZ4/m/5jLDB0PCAQAJ) Idle Detection API (cont.)
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/HzVV-sM97T0/m/yHcpZWRQAgAJ) Compute Pressure API
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/K4_egTNAvTs/m/ApS804L_AQAJ) WebGPU
+
 April 2021
 
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/Ko9UXQYPgUE/m/URRsB-qvAAAJ) Fenced Frames (for ads)
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/nNdY-qOScBc/m/A5H3mcf5BQAJ) First-Party Sets and `SameParty` cookie attribute (cont.)
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/GJsdwulsGiI/m/7OauT6SjBQAJ) back-forward cache on desktop
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/Ko9UXQYPgUE/m/URRsB-qvAAAJ) Fenced Frames (for ads)
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/nNdY-qOScBc/m/A5H3mcf5BQAJ) First-Party Sets and `SameParty` cookie attribute (cont.)
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/GJsdwulsGiI/m/7OauT6SjBQAJ) back-forward cache on desktop
 - [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/-W90wVkS0Ks/m/HyICZtuuBAAJ) Trust Token API (cont.)
 - [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/bEgFQrTsDso/m/9wD9tqxQBAAJ) updated Canvas 2D API
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/uEcgVgTJ5qA/m/bemJBwikBAAJ) HTTP `Service-Worker-Subresource-Filter` header
