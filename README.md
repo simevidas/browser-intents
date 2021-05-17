@@ -12,11 +12,6 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 May 2021
 
-- :new: [Implement and ship]()
-- :new: [Implement and ship]()
-- :new: [Implement and ship]()
-- :new: [Implement and ship]()
-- :new: [Implement and ship]()
 - :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/bw7Nh5bfsYE/m/ArLjJ1D7AwAJ) `fetch()` upload streaming (cont.)
 - :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/Lo7WBM_v_LY/m/LncCKkXeAwAJ) Pickling for Async Clipboard API
 - :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/hqkcKdDrhXE/m/qzEVzxbfAwAJ) CSS `:has()` pseudo-class
