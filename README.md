@@ -12,14 +12,25 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 May 2021
 
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/UgZAAElUWzU/m/sBc82Fb2AgAJ) Shared Element Transitions
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/1PVr94hZHjU/m/J0xT8-rlAQAJ) CSS `size-adjust` descriptor
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/uoTx_cRuL5o/m/X3U0GpmRAgAJ) Digital Goods API (cont.)
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/RqDYSPYE4lI/m/sxXCWw5dAgAJ) EXIF-based intrinsic image sizing
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/zvFUdYCvZew/m/dzH8rJhVAgAJ) `crypto.randomUUID` method
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/oJE9_77rZZ4/m/5jLDB0PCAQAJ) Idle Detection API (cont.)
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/HzVV-sM97T0/m/yHcpZWRQAgAJ) Compute Pressure API
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/K4_egTNAvTs/m/ApS804L_AQAJ) WebGPU
+- :new: [Implement and ship]()
+- :new: [Implement and ship]()
+- :new: [Implement and ship]()
+- :new: [Implement and ship]()
+- :new: [Implement and ship]()
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/bw7Nh5bfsYE/m/ArLjJ1D7AwAJ) `fetch()` upload streaming (cont.)
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/Lo7WBM_v_LY/m/LncCKkXeAwAJ) Pickling for Async Clipboard API
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/hqkcKdDrhXE/m/qzEVzxbfAwAJ) CSS `:has()` pseudo-class
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/POsYbrXbL6I/m/Yfk5la0fBAAJ) Storage Foundation API (cont.)
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/RKONugfoGwM/m/ZInY8UtXBAAJ) Capture Handle
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/yLTykllpNmI/m/bnzA4mASBAAJ) Capture Handle
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/UgZAAElUWzU/m/sBc82Fb2AgAJ) Shared Element Transitions
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/1PVr94hZHjU/m/J0xT8-rlAQAJ) CSS `size-adjust` descriptor
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/uoTx_cRuL5o/m/X3U0GpmRAgAJ) Digital Goods API (cont.)
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/RqDYSPYE4lI/m/sxXCWw5dAgAJ) EXIF-based intrinsic image sizing
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/zvFUdYCvZew/m/dzH8rJhVAgAJ) `crypto.randomUUID` method
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/oJE9_77rZZ4/m/5jLDB0PCAQAJ) Idle Detection API (cont.)
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/HzVV-sM97T0/m/yHcpZWRQAgAJ) Compute Pressure API
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/K4_egTNAvTs/m/ApS804L_AQAJ) WebGPU
 
 April 2021
 
