@@ -12,12 +12,16 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 May 2021
 
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/bw7Nh5bfsYE/m/ArLjJ1D7AwAJ) `fetch()` upload streaming (cont.)
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/Lo7WBM_v_LY/m/LncCKkXeAwAJ) Pickling for Async Clipboard API
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/hqkcKdDrhXE/m/qzEVzxbfAwAJ) CSS `:has()` pseudo-class
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/POsYbrXbL6I/m/Yfk5la0fBAAJ) Storage Foundation API (cont.)
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/RKONugfoGwM/m/ZInY8UtXBAAJ) Capture Handle
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/yLTykllpNmI/m/bnzA4mASBAAJ) Capture Handle
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/w6OKsf4e9-Y/m/OUhROQ9JAAAJ) HTML `aria-touchpassthrough` attribute
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/CjrLTguZuO4/m/kEO65RvCAAAJ) anonymous iframes
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/xb_NHDS3twY/m/Ha1c7Ly9AQAJ) HTTP status code `103 Early Hints` on navigation responses
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/ejTbFoJF3sQ/m/wRAxkc54AQAJ) HTTP `Sec-CH-Prefers-Color-Scheme` header (Client Hints)
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/bw7Nh5bfsYE/m/ArLjJ1D7AwAJ) `fetch()` upload streaming (cont.)
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/Lo7WBM_v_LY/m/LncCKkXeAwAJ) Pickling for Async Clipboard API
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/hqkcKdDrhXE/m/qzEVzxbfAwAJ) CSS `:has()` pseudo-class
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/POsYbrXbL6I/m/Yfk5la0fBAAJ) Storage Foundation API (cont.)
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/RKONugfoGwM/m/ZInY8UtXBAAJ) Capture Handle
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/yLTykllpNmI/m/bnzA4mASBAAJ) Capture Handle
 - [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/UgZAAElUWzU/m/sBc82Fb2AgAJ) Shared Element Transitions
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/1PVr94hZHjU/m/J0xT8-rlAQAJ) CSS `size-adjust` descriptor
 - [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/uoTx_cRuL5o/m/X3U0GpmRAgAJ) Digital Goods API (cont.)
