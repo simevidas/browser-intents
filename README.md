@@ -12,10 +12,12 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 May 2021
 
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/w6OKsf4e9-Y/m/OUhROQ9JAAAJ) HTML `aria-touchpassthrough` attribute
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/CjrLTguZuO4/m/kEO65RvCAAAJ) anonymous iframes
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/xb_NHDS3twY/m/Ha1c7Ly9AQAJ) HTTP status code `103 Early Hints` on navigation responses
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/ejTbFoJF3sQ/m/wRAxkc54AQAJ) HTTP `Sec-CH-Prefers-Color-Scheme` header (Client Hints)
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/Cw-hOjT47qI/m/EObn9-4MAgAJ) Speculation Rules (`<script type="speculationrules">`)
+- :new: [Prototype and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/u9jsiarDEOg/m/lpPUQH9VAgAJ) `noplaybackrate` token for the HTML media element `controlslist` attribute
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/w6OKsf4e9-Y/m/OUhROQ9JAAAJ) HTML `aria-touchpassthrough` attribute
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/CjrLTguZuO4/m/kEO65RvCAAAJ) anonymous iframes
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/xb_NHDS3twY/m/Ha1c7Ly9AQAJ) HTTP status code `103 Early Hints` on navigation responses
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/ejTbFoJF3sQ/m/wRAxkc54AQAJ) HTTP `Sec-CH-Prefers-Color-Scheme` header (Client Hints)
 - [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/bw7Nh5bfsYE/m/ArLjJ1D7AwAJ) `fetch()` upload streaming (cont.)
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/Lo7WBM_v_LY/m/LncCKkXeAwAJ) Pickling for Async Clipboard API
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/hqkcKdDrhXE/m/qzEVzxbfAwAJ) CSS `:has()` pseudo-class
@@ -1259,8 +1261,18 @@ September 2015
 
 ### Firefox
 
+May 2021
+
+- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/ThYEXTiQc9g/m/P_AhpZliBAAJ) Visual Viewport API on desktop platforms
+- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/5Ny2u1YmAfQ/m/xnbLSA8fBgAJ) HTTP `Ship Sec-Fetch-*` headers (Fetch Metadata Request Headers)
+- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/BTXw4pOfnR4/m/d6xtQXmsBQAJ) CSS `d` property on SVG `<path>` elements
+- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/wdB1v7sKcdo/m/eLXlFIVLCgAJ) JPEG XL image format (limited support)
+
 April 2021
 
+- :new: [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/IiuvO7eHBME/m/P0f9lDMiAwAJ) relaxed cache re-validation on soft reload
+- :new: [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/w-KLmQ2PQOM/m/YlGiJd5fAgAJ) EXIF image density correction
+- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/eeo02Z1x7NU/m/GK1L8WMIAAAJ) CSS `ascent-override`, `descent-override`, and `line-gap-override` font descriptors
 - [Ship](https://groups.google.com/g/mozilla.dev.platform/c/zwDaj0JMYjs/m/roFqKU9HAQAJ) CSS `forced-colors` media feature (née `prefers-contrast`)
 
 March 2021
