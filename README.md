@@ -10,10 +10,16 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
+June 2021
+
+- :new: [Prototype and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/OpiUjfRR4WQ/m/jKdB_mxpAQAJ) `AbortSignal` `abort` static method
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/oisKIPVdLQw/m/KAikvxDQAQAJ) WebCodecs (cont.)
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/saobtpGibyA/m/eDN52Gj9BQAJ) CSS `:autofill` pseudo-class
+
 May 2021
 
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/Cw-hOjT47qI/m/EObn9-4MAgAJ) Speculation Rules (`<script type="speculationrules">`)
-- :new: [Prototype and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/u9jsiarDEOg/m/lpPUQH9VAgAJ) `noplaybackrate` token for the HTML media element `controlslist` attribute
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/Cw-hOjT47qI/m/EObn9-4MAgAJ) Speculation Rules (`<script type="speculationrules">`)
+- [Prototype and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/u9jsiarDEOg/m/lpPUQH9VAgAJ) `noplaybackrate` token for the HTML media element `controlslist` attribute
 - [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/w6OKsf4e9-Y/m/OUhROQ9JAAAJ) HTML `aria-touchpassthrough` attribute
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/CjrLTguZuO4/m/kEO65RvCAAAJ) anonymous iframes
 - [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/xb_NHDS3twY/m/Ha1c7Ly9AQAJ) HTTP status code `103 Early Hints` on navigation responses
@@ -1261,18 +1267,22 @@ September 2015
 
 ### Firefox
 
+June 2021
+
+- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/9BVbcv_ddzA/m/JT5rewM3BgAJ) Implicit Pointer Capture
+
 May 2021
 
-- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/ThYEXTiQc9g/m/P_AhpZliBAAJ) Visual Viewport API on desktop platforms
-- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/5Ny2u1YmAfQ/m/xnbLSA8fBgAJ) HTTP `Ship Sec-Fetch-*` headers (Fetch Metadata Request Headers)
-- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/BTXw4pOfnR4/m/d6xtQXmsBQAJ) CSS `d` property on SVG `<path>` elements
-- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/wdB1v7sKcdo/m/eLXlFIVLCgAJ) JPEG XL image format (limited support)
+- [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/ThYEXTiQc9g/m/P_AhpZliBAAJ) Visual Viewport API on desktop platforms
+- [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/5Ny2u1YmAfQ/m/xnbLSA8fBgAJ) HTTP `Ship Sec-Fetch-*` headers (Fetch Metadata Request Headers)
+- [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/BTXw4pOfnR4/m/d6xtQXmsBQAJ) CSS `d` property on SVG `<path>` elements
+- [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/wdB1v7sKcdo/m/eLXlFIVLCgAJ) JPEG XL image format (limited support)
 
 April 2021
 
-- :new: [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/IiuvO7eHBME/m/P0f9lDMiAwAJ) relaxed cache re-validation on soft reload
-- :new: [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/w-KLmQ2PQOM/m/YlGiJd5fAgAJ) EXIF image density correction
-- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/eeo02Z1x7NU/m/GK1L8WMIAAAJ) CSS `ascent-override`, `descent-override`, and `line-gap-override` font descriptors
+- [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/IiuvO7eHBME/m/P0f9lDMiAwAJ) relaxed cache re-validation on soft reload
+- [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/w-KLmQ2PQOM/m/YlGiJd5fAgAJ) EXIF image density correction
+- [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/eeo02Z1x7NU/m/GK1L8WMIAAAJ) CSS `ascent-override`, `descent-override`, and `line-gap-override` font descriptors
 - [Ship](https://groups.google.com/g/mozilla.dev.platform/c/zwDaj0JMYjs/m/roFqKU9HAQAJ) CSS `forced-colors` media feature (née `prefers-contrast`)
 
 March 2021
