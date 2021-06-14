@@ -12,9 +12,14 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 June 2021
 
-- :new: [Prototype and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/OpiUjfRR4WQ/m/jKdB_mxpAQAJ) `AbortSignal` `abort` static method
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/oisKIPVdLQw/m/KAikvxDQAQAJ) WebCodecs (cont.)
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/saobtpGibyA/m/eDN52Gj9BQAJ) CSS `:autofill` pseudo-class
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/tEZ4RVsP1ms/m/9h-yQpmJAgAJ) HTTP `Sec-CH-Prefers-Color-Scheme` header (Client Hints)
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/epSTNPYkLIs/m/xamWYETxAgAJ) Canvas color management (`colorSpace` option for canvas context)
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/WwYkLjbGhoA/m/EUw_33z_AgAJ) CSS `accent-color` property
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/iT0bQjzD04k/m/VkHPoOFLBAAJ) CSS module scripts
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/AuKUdqTkUAs/m/qZ3V4_YEBAAJ) URL Protocol Handler Registration for PWAs
+- [Prototype and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/OpiUjfRR4WQ/m/jKdB_mxpAQAJ) `AbortSignal` `abort` static method
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/oisKIPVdLQw/m/KAikvxDQAQAJ) WebCodecs (cont.)
+- [Implement and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/saobtpGibyA/m/eDN52Gj9BQAJ) CSS `:autofill` pseudo-class
 
 May 2021
 
@@ -1269,7 +1274,8 @@ September 2015
 
 June 2021
 
-- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/9BVbcv_ddzA/m/JT5rewM3BgAJ) Implicit Pointer Capture
+- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/4gjD-sC_AcQ/m/C7cd3D0XCQAJ) CSS `tab-size` property
+- [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/9BVbcv_ddzA/m/JT5rewM3BgAJ) Implicit Pointer Capture
 
 May 2021
 
