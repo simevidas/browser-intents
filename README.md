@@ -12,12 +12,13 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 June 2021
 
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/NZLnzSY3wIQ/m/TbVKL-cyAAAJ) Virtual Keyboard API
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/Yy86jN-TjOE/m/tuZim9iCAAAJ) cross-device support for Web OTP API
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/bCA9H3eaO3s/m/gDrJ0Mx-AAAJ) `supports <font-technology>` for the CSS `src` descriptor
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/7UlTzFMbTFs/m/Rib4ca4-BQAJ) WebCodecs
-- :new: [Prototype nad ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/6I-I3lZWy5k/m/kjqDF1ARBQAJ) `<meta name="theme-color" media>` attribute
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/hlxPHfg9GRc/m/M1jbEffUBQAJ) Web App Manifest `"id"` field
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/jznxQK1U8ZQ/m/BsDTdhK4AgAJ) Multi-Screen Window Placement
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/NZLnzSY3wIQ/m/TbVKL-cyAAAJ) Virtual Keyboard API
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/Yy86jN-TjOE/m/tuZim9iCAAAJ) cross-device support for Web OTP API
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/bCA9H3eaO3s/m/gDrJ0Mx-AAAJ) `supports <font-technology>` for the CSS `src` descriptor
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/7UlTzFMbTFs/m/Rib4ca4-BQAJ) WebCodecs
+- [Prototype nad ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/6I-I3lZWy5k/m/kjqDF1ARBQAJ) `<meta name="theme-color" media>` attribute
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/hlxPHfg9GRc/m/M1jbEffUBQAJ) Web App Manifest `"id"` field
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/tEZ4RVsP1ms/m/9h-yQpmJAgAJ) HTTP `Sec-CH-Prefers-Color-Scheme` header (Client Hints)
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/epSTNPYkLIs/m/xamWYETxAgAJ) Canvas color management (`colorSpace` option for canvas context)
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/WwYkLjbGhoA/m/EUw_33z_AgAJ) CSS `accent-color` property
@@ -1280,9 +1281,9 @@ September 2015
 
 June 2021
 
-- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/qNG2YLxbmFs/m/C9izptohAQAJ) CSS `font-synthesis: small-caps` value
-- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/oWc1K4Uur2Y/m/WooPE24fAQAJ) CSS `content: none` on elements
-- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/CJ6ZRmOMkao/m/TN0u8WAfAQAJ) CSS `content: none` on `::marker` pseudo-elements
+- [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/qNG2YLxbmFs/m/C9izptohAQAJ) CSS `font-synthesis: small-caps` value
+- [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/oWc1K4Uur2Y/m/WooPE24fAQAJ) CSS `content: none` on elements
+- [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/CJ6ZRmOMkao/m/TN0u8WAfAQAJ) CSS `content: none` on `::marker` pseudo-elements
 - [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/4gjD-sC_AcQ/m/C7cd3D0XCQAJ) CSS `tab-size` property
 - [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/9BVbcv_ddzA/m/JT5rewM3BgAJ) Implicit Pointer Capture
 
