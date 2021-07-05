@@ -10,9 +10,15 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
+July 2021
+
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/snsxQeTSFHo) Prioritized Task Scheduling (`scheduler.postTask` method)
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/hvMJ33kqHRo) Cookies Having Independent Partitioned State (CHIPS)
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/_quChIvPzT8) Shared Storage API
+
 June 2021
 
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/jznxQK1U8ZQ/m/BsDTdhK4AgAJ) Multi-Screen Window Placement
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/jznxQK1U8ZQ/m/BsDTdhK4AgAJ) Multi-Screen Window Placement
 - [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/NZLnzSY3wIQ/m/TbVKL-cyAAAJ) Virtual Keyboard API
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/Yy86jN-TjOE/m/tuZim9iCAAAJ) cross-device support for Web OTP API
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/bCA9H3eaO3s/m/gDrJ0Mx-AAAJ) `supports <font-technology>` for the CSS `src` descriptor
