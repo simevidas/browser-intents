@@ -12,9 +12,11 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 July 2021
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/snsxQeTSFHo) Prioritized Task Scheduling (`scheduler.postTask` method)
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/hvMJ33kqHRo) Cookies Having Independent Partitioned State (CHIPS)
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/_quChIvPzT8) Shared Storage API
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/R0xKm1B7qoQ) reduced `User-Agent` string
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/RGlyGO-3Az8) Progressive Web Apps as URL Handlers
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/snsxQeTSFHo) Prioritized Task Scheduling (`scheduler.postTask` method)
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/hvMJ33kqHRo) Cookies Having Independent Partitioned State (CHIPS)
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/_quChIvPzT8) Shared Storage API
 
 June 2021
 
