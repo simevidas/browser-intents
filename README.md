@@ -12,8 +12,13 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 July 2021
 
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/R0xKm1B7qoQ) reduced `User-Agent` string
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/RGlyGO-3Az8) Progressive Web Apps as URL Handlers
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/HNHbpxvrECA) Window Controls Overlay for Installed Desktop Web Apps
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/dJQgwZ_1jk0) Device Attributes API
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/71vtc_Xv7jk) CSS `scrollbar-gutter` property
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/tZqSbhmxiGM) Web App Manifest `"note_taking"` field
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/xCWP1ltlAgw) Conversion Measurement API (cont.)
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/R0xKm1B7qoQ) reduced `User-Agent` string
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/RGlyGO-3Az8) Progressive Web Apps as URL Handlers
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/snsxQeTSFHo) Prioritized Task Scheduling (`scheduler.postTask` method)
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/hvMJ33kqHRo) Cookies Having Independent Partitioned State (CHIPS)
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/_quChIvPzT8) Shared Storage API
@@ -1286,6 +1291,11 @@ September 2015
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/iBX_2xfX6jc/Uc0D6jr3AgAJ) `stale-while-revalidate` Cache-control extension
 
 ### Firefox
+
+July 2021
+
+- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/RLqcyCotcdo) CSS `size-adjust` descriptor and
+  extended syntax of the `font-size-adjust` property
 
 June 2021
 
