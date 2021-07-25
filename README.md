@@ -12,11 +12,18 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 July 2021
 
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/HNHbpxvrECA) Window Controls Overlay for Installed Desktop Web Apps
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/dJQgwZ_1jk0) Device Attributes API
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/71vtc_Xv7jk) CSS `scrollbar-gutter` property
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/tZqSbhmxiGM) Web App Manifest `"note_taking"` field
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/xCWP1ltlAgw) Conversion Measurement API (cont.)
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/EF9fJTfqoGI/m/K2-QWCNxAgAJ) Virtual Keyboard API
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/GtR3POPyefM/m/gCfjcSNYAgAJ) HTTP `Service-Worker-Subresource-Filter` header
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/YoefXLTQsw0/m/NVoV6NcIAgAJ) `preferCurrentTab` option for the `getDisplayMedia` method (Screen Capture)
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/pNPotQY92UY/m/thZ3h-zQAQAJ) `display-capture` permission
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/WitVII_BzyU/m/mI8lZY4NAgAJ) `URLPattern` API
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/9e9q5WAepGk/m/uw_XP5zuFAAJ) `speak-as` descriptor for CSS `@counter-style` rule
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/ruFLLkjvzwg/m/9aGteUUlAgAJ) CSS `@counter-style` rules in shadow trees
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/HNHbpxvrECA) Window Controls Overlay for Installed Desktop Web Apps
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/dJQgwZ_1jk0) Device Attributes API
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/71vtc_Xv7jk) CSS `scrollbar-gutter` property
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/tZqSbhmxiGM) Web App Manifest `"note_taking"` field
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/xCWP1ltlAgw) Conversion Measurement API (cont.)
 - [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/R0xKm1B7qoQ) reduced `User-Agent` string
 - [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/RGlyGO-3Az8) Progressive Web Apps as URL Handlers
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/snsxQeTSFHo) Prioritized Task Scheduling (`scheduler.postTask` method)
@@ -1294,7 +1301,9 @@ September 2015
 
 July 2021
 
-- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/RLqcyCotcdo) CSS `size-adjust` descriptor and
+- :new: [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/wMKRWjyXGfU/m/biUon_ttAgAJ) CSS `accent-color` property
+- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/u1DpLJyYbSw/m/6WCkr0QAAgAJ) `assign` method for `<slot>` element
+- [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/RLqcyCotcdo) CSS `size-adjust` descriptor and
   extended syntax of the `font-size-adjust` property
 
 June 2021
