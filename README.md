@@ -10,10 +10,16 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
+August 2021
+
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/33T36N6VBKI/m/IizG29gFAwAJ) AccessHandle for File System Access API
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/Hy6ngo_cSgU/m/-8NjsCcqAwAJ) CSS `prefers-contrast` media feature
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/8tNe2jrJ78A/m/b43hy04IAwAJ) Web App Launch Handling (`"launch_handler"` member)
+
 July 2021
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/7K7Qt7aRJ8s/m/m0OtjLXoAwAJ) JS Self-Profiling API
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/ZmHHfrR_jak/m/s3m2FI5TAwAJ) Idle Detection API
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/7K7Qt7aRJ8s/m/m0OtjLXoAwAJ) JS Self-Profiling API
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/ZmHHfrR_jak/m/s3m2FI5TAwAJ) Idle Detection API
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/EF9fJTfqoGI/m/K2-QWCNxAgAJ) Virtual Keyboard API
 - [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/GtR3POPyefM/m/gCfjcSNYAgAJ) HTTP `Service-Worker-Subresource-Filter` header
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/YoefXLTQsw0/m/NVoV6NcIAgAJ) `preferCurrentTab` option for `getDisplayMedia` method (Screen Capture)
@@ -1300,6 +1306,12 @@ September 2015
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/iBX_2xfX6jc/Uc0D6jr3AgAJ) `stale-while-revalidate` Cache-control extension
 
 ### Firefox
+
+August 2021
+
+- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/Yfqi29gUX1U/m/w2Ccl7FhAAAJ) `avoid-page` and `avoid-column` values for CSS `break-inside` property
+- :new: [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/pQAJ1UZkKCc/m/fsoMFgRZAAAJ) CSS `system-ui` generic font family name
+- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/w-WMJNSffxQ/m/-2yQ7XLDBQAJ) `disabledFeatures` static method for custom element classes
 
 July 2021
 
