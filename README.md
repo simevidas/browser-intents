@@ -12,9 +12,14 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 August 2021
 
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/33T36N6VBKI/m/IizG29gFAwAJ) AccessHandle for File System Access API
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/Hy6ngo_cSgU/m/-8NjsCcqAwAJ) CSS `prefers-contrast` media feature
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/8tNe2jrJ78A/m/b43hy04IAwAJ) Web App Launch Handling (`"launch_handler"` member)
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/Q21BQb-zV0w/m/QwHWlA1yAAAJ) Custom Highlight API
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/rdniQ0D5UfY/m/Aywn9XyyAAAJ) EyeDropper API
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/CnQuMzqabqE/m/WlZfKOSpAAAJ) CSS `math` generic font family
+- :new: [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/_nB5VfgXW_I/m/h01T_vmeAAAJ) AccessHandle for File System Access API
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/chiJ2GIECPc/m/sIF9pfsdAAAJ) CSS Cascade Layers
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/33T36N6VBKI/m/IizG29gFAwAJ) AccessHandle for File System Access API
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/Hy6ngo_cSgU/m/-8NjsCcqAwAJ) CSS `prefers-contrast` media feature
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/8tNe2jrJ78A/m/b43hy04IAwAJ) Web App Launch Handling (`"launch_handler"` member)
 
 July 2021
 
@@ -1309,9 +1314,11 @@ September 2015
 
 August 2021
 
-- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/Yfqi29gUX1U/m/w2Ccl7FhAAAJ) `avoid-page` and `avoid-column` values for CSS `break-inside` property
-- :new: [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/pQAJ1UZkKCc/m/fsoMFgRZAAAJ) CSS `system-ui` generic font family name
-- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/w-WMJNSffxQ/m/-2yQ7XLDBQAJ) `disabledFeatures` static method for custom element classes
+- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/j7xbfJqVQDA/m/w3LYT85cAQAJ) AV1 Still Image File Format (AVIF)
+- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/Xh4g1UmOkmE/m/wSY82_n6AAAJ) `reportError` function
+- [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/Yfqi29gUX1U/m/w2Ccl7FhAAAJ) `avoid-page` and `avoid-column` values for CSS `break-inside` property
+- [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/pQAJ1UZkKCc/m/fsoMFgRZAAAJ) CSS `system-ui` generic font family name
+- [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/w-WMJNSffxQ/m/-2yQ7XLDBQAJ) `disabledFeatures` static method for custom element classes
 
 July 2021
 
