@@ -12,11 +12,15 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 August 2021
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/Q21BQb-zV0w/m/QwHWlA1yAAAJ) Custom Highlight API
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/rdniQ0D5UfY/m/Aywn9XyyAAAJ) EyeDropper API
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/CnQuMzqabqE/m/WlZfKOSpAAAJ) CSS `math` generic font family
-- :new: [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/_nB5VfgXW_I/m/h01T_vmeAAAJ) AccessHandle for File System Access API
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/chiJ2GIECPc/m/sIF9pfsdAAAJ) CSS Cascade Layers
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/eJPOkBGriZc/m/j3-xFHGtAQAJ) Capture Handle (cont.)
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/RwWG-z4i_PU/m/SVaCCeIuAgAJ) back-forward cache (BFCache) on desktop
+- :new: [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/BoHqrhb3Ba0/m/DW4UblibAQAJ) subresource loading with Web Bundles (cont.)
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/3JwGNnqH3QI/m/Ey103Q-yAQAJ) same-origin prerendering triggered by the Speculation Rules API
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/Q21BQb-zV0w/m/QwHWlA1yAAAJ) Custom Highlight API
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/rdniQ0D5UfY/m/Aywn9XyyAAAJ) EyeDropper API
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/CnQuMzqabqE/m/WlZfKOSpAAAJ) CSS `math` generic font family
+- [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/_nB5VfgXW_I/m/h01T_vmeAAAJ) AccessHandle for File System Access API
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/chiJ2GIECPc/m/sIF9pfsdAAAJ) CSS Cascade Layers
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/33T36N6VBKI/m/IizG29gFAwAJ) AccessHandle for File System Access API
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/Hy6ngo_cSgU/m/-8NjsCcqAwAJ) CSS `prefers-contrast` media feature
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/8tNe2jrJ78A/m/b43hy04IAwAJ) Web App Launch Handling (`"launch_handler"` member)
@@ -1314,7 +1318,9 @@ September 2015
 
 August 2021
 
-- :new: [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/Xh4g1UmOkmE/m/wSY82_n6AAAJ) `reportError` function
+- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/W350PdqF_J4/m/2hKo8plTAQAJ) `"HTTPS"` DNS resource record (HTTPS RR)
+- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/qprlUIF0H48/m/zN-ZCh4sAQAJ) Web Locks API
+- [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/Xh4g1UmOkmE/m/wSY82_n6AAAJ) `reportError` function
 - [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/Yfqi29gUX1U/m/w2Ccl7FhAAAJ) `avoid-page` and `avoid-column` values for CSS `break-inside` property
 - [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/pQAJ1UZkKCc/m/fsoMFgRZAAAJ) CSS `system-ui` generic font family name
 - [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/w-WMJNSffxQ/m/-2yQ7XLDBQAJ) `disabledFeatures` static method for custom element classes
