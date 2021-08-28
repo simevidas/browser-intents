@@ -12,10 +12,13 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 August 2021
 
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/eJPOkBGriZc/m/j3-xFHGtAQAJ) Capture Handle (cont.)
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/RwWG-z4i_PU/m/SVaCCeIuAgAJ) back-forward cache (BFCache) on desktop
-- :new: [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/BoHqrhb3Ba0/m/DW4UblibAQAJ) subresource loading with Web Bundles (cont.)
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/3JwGNnqH3QI/m/Ey103Q-yAQAJ) same-origin prerendering triggered by the Speculation Rules API
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/QzoPDXSwq4s/m/vRn0XCFKAgAJ) `reportError` function
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/2c4bul4V3GQ/m/2h_2pAKXAQAJ) Declarative Link Capturing for PWAs (cont.)
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/NALmrt8Qmgg/m/W4V3Ed_mAAAJ) Handwriting Recognition API (cont.)
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/eJPOkBGriZc/m/j3-xFHGtAQAJ) Capture Handle (cont.)
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/RwWG-z4i_PU/m/SVaCCeIuAgAJ) back-forward cache (BFCache) on desktop
+- [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/BoHqrhb3Ba0/m/DW4UblibAQAJ) subresource loading with Web Bundles (cont.)
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/3JwGNnqH3QI/m/Ey103Q-yAQAJ) same-origin prerendering triggered by the Speculation Rules API
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/Q21BQb-zV0w/m/QwHWlA1yAAAJ) Custom Highlight API
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/rdniQ0D5UfY/m/Aywn9XyyAAAJ) EyeDropper API
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/CnQuMzqabqE/m/WlZfKOSpAAAJ) CSS `math` generic font family
@@ -1318,8 +1321,8 @@ September 2015
 
 August 2021
 
-- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/W350PdqF_J4/m/2hKo8plTAQAJ) `"HTTPS"` DNS resource record (HTTPS RR)
-- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/qprlUIF0H48/m/zN-ZCh4sAQAJ) Web Locks API
+- [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/W350PdqF_J4/m/2hKo8plTAQAJ) `"HTTPS"` DNS resource record (HTTPS RR)
+- [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/qprlUIF0H48/m/zN-ZCh4sAQAJ) Web Locks API
 - [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/Xh4g1UmOkmE/m/wSY82_n6AAAJ) `reportError` function
 - [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/Yfqi29gUX1U/m/w2Ccl7FhAAAJ) `avoid-page` and `avoid-column` values for CSS `break-inside` property
 - [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/pQAJ1UZkKCc/m/fsoMFgRZAAAJ) CSS `system-ui` generic font family name
