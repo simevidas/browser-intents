@@ -12,9 +12,11 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 August 2021
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/QzoPDXSwq4s/m/vRn0XCFKAgAJ) `reportError` function
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/2c4bul4V3GQ/m/2h_2pAKXAQAJ) Declarative Link Capturing for PWAs (cont.)
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/NALmrt8Qmgg/m/W4V3Ed_mAAAJ) Handwriting Recognition API (cont.)
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/-T5pJtBO8h4/m/cAkpQec1AwAJ) `URLPattern` API
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/4rhdWDEl58Q/m/UIjoMuEoAwAJ) Shared Element Transitions (cont.)
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/QzoPDXSwq4s/m/vRn0XCFKAgAJ) `reportError` function
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/2c4bul4V3GQ/m/2h_2pAKXAQAJ) Declarative Link Capturing for PWAs (cont.)
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/NALmrt8Qmgg/m/W4V3Ed_mAAAJ) Handwriting Recognition API (cont.)
 - [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/eJPOkBGriZc/m/j3-xFHGtAQAJ) Capture Handle (cont.)
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/RwWG-z4i_PU/m/SVaCCeIuAgAJ) back-forward cache (BFCache) on desktop
 - [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/BoHqrhb3Ba0/m/DW4UblibAQAJ) subresource loading with Web Bundles (cont.)
@@ -1318,6 +1320,11 @@ September 2015
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/iBX_2xfX6jc/Uc0D6jr3AgAJ) `stale-while-revalidate` Cache-control extension
 
 ### Firefox
+
+September 2021
+
+- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/vZb1WYlEz_I/m/HfCvzGCcBgAJ) `ShadowRoot` `delegatesFocus` property
+- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/n4NQ959ngYw/m/1m62FWcMBQAJ) CSS `@layer` at-rule
 
 August 2021
 
