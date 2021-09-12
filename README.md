@@ -10,10 +10,18 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
+September 2021
+
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/T3nKEipKv-4/m/rKJ0uFR3BAAJ) Speculation Rules (`<script type="speculationrules">`) (cont.)
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/NJ0voF-ow1Y/m/Is6i3NJuBAAJ) HTML `importance` attribute (Priority Hints) (cont.)
+- :new: [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/t3FiydJPFY4/m/m4naI84xBAAJ) web app manifest `"id"` field
+- :new: [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/-sE2GpCrG6Y/m/UsHXyVW-CAAJ) `HTMLScriptElement` `supports` method
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/evk2qgsekYk/m/WtdE_XplBQAJ) `HTMLScriptElement` `supports` method
+
 August 2021
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/-T5pJtBO8h4/m/cAkpQec1AwAJ) `URLPattern` API
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/4rhdWDEl58Q/m/UIjoMuEoAwAJ) Shared Element Transitions (cont.)
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/-T5pJtBO8h4/m/cAkpQec1AwAJ) `URLPattern` API
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/4rhdWDEl58Q/m/UIjoMuEoAwAJ) Shared Element Transitions (cont.)
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/QzoPDXSwq4s/m/vRn0XCFKAgAJ) `reportError` function
 - [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/2c4bul4V3GQ/m/2h_2pAKXAQAJ) Declarative Link Capturing for PWAs (cont.)
 - [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/NALmrt8Qmgg/m/W4V3Ed_mAAAJ) Handwriting Recognition API (cont.)
@@ -1323,8 +1331,8 @@ September 2015
 
 September 2021
 
-- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/vZb1WYlEz_I/m/HfCvzGCcBgAJ) `ShadowRoot` `delegatesFocus` property
-- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/n4NQ959ngYw/m/1m62FWcMBQAJ) CSS `@layer` at-rule
+- [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/vZb1WYlEz_I/m/HfCvzGCcBgAJ) `ShadowRoot` `delegatesFocus` property
+- [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/n4NQ959ngYw/m/1m62FWcMBQAJ) CSS `@layer` at-rule
 
 August 2021
 
