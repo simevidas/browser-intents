@@ -12,11 +12,15 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 September 2021
 
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/T3nKEipKv-4/m/rKJ0uFR3BAAJ) Speculation Rules (`<script type="speculationrules">`) (cont.)
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/NJ0voF-ow1Y/m/Is6i3NJuBAAJ) HTML `importance` attribute (Priority Hints) (cont.)
-- :new: [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/t3FiydJPFY4/m/m4naI84xBAAJ) web app manifest `"id"` field
-- :new: [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/-sE2GpCrG6Y/m/UsHXyVW-CAAJ) `HTMLScriptElement` `supports` method
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/evk2qgsekYk/m/WtdE_XplBQAJ) `HTMLScriptElement` `supports` method
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/a6iO__pqI_E/m/Asj1sUABBAAJ) auto-expanding `<details>` elements
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/62WEv0FO7yA/m/PgTWUgCRBgAJ) `speak-as` descriptor for CSS `@counter-style` rule
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/CkRq2zY-t6c/m/sN6_MpnpAAAJ) Priority Hints
+- :new: [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/eP7wCoMlLCc/m/xoC9RehNBQAJ) updated Canvas 2D API (cont.)
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/T3nKEipKv-4/m/rKJ0uFR3BAAJ) Speculation Rules (`<script type="speculationrules">`) (cont.)
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/NJ0voF-ow1Y/m/Is6i3NJuBAAJ) HTML `importance` attribute (Priority Hints) (cont.)
+- [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/t3FiydJPFY4/m/m4naI84xBAAJ) web app manifest `"id"` field
+- [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/-sE2GpCrG6Y/m/UsHXyVW-CAAJ) `HTMLScriptElement` `supports` method
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/evk2qgsekYk/m/WtdE_XplBQAJ) `HTMLScriptElement` `supports` method
 
 August 2021
 
@@ -1331,6 +1335,10 @@ September 2015
 
 September 2021
 
+- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/d8k74ywuFNQ/m/GhdIaDDbCQAJ) Scroll-linked Animations
+- :new: [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/YcXpHAJrj_I/m/uzcS_2LHCQAJ) `<input type=datetime-local>` on desktop
+- :new: [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/G4W8X9ZHR3A/m/DE3C7t7HCQAJbv) CSS `SelectedItem` and `SelectedItemText` system colors
+- :new: [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/9lZnL3f6wGs/m/5Kbi75_HCQAJ) `smooth` and `pixelated` values for the CSS `image-rendering` property
 - [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/vZb1WYlEz_I/m/HfCvzGCcBgAJ) `ShadowRoot` `delegatesFocus` property
 - [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/n4NQ959ngYw/m/1m62FWcMBQAJ) CSS `@layer` at-rule
 
