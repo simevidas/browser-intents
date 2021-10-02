@@ -12,9 +12,9 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 September 2021
 
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/fXASFrrFnps/m/leDjqvcXAQAJ) web app manifest `"handle_links"` member
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/fXASFrrFnps/m/leDjqvcXAQAJ) web app manifest `"handle_links"` field
 - :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/kwC5wES3I4c/m/2WxYhllhAAAJ) WebTransport over HTTP/3
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/-iySPmw8o34/m/oLgrCUQXAQAJ) web app manifest `"scope_extensions"` member
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/-iySPmw8o34/m/oLgrCUQXAQAJ) web app manifest `"scope_extensions"` field
 - :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/qKj5nz1OGKE/m/73plsCUkAQAJ) URL Protocol Handler Registration for PWAs
 - :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/enA3o1UvzcE/m/qsaC_2whAQAJ) Storage Foundation API (cont.)
 - :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/oDs8gWeuRiw/m/b4llFa6ZAAAJ) web app manifest `"id"` field
