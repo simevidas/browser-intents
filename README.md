@@ -12,13 +12,19 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 September 2021
 
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/ki__L-IiR0Q/m/-r4g-ngHBQAJ) App History API
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/kMoS8_2ND1g/m/hg0LrM4uAQAJ) `HTMLScriptElement` `supports` method
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/fpfbKgJF8Vc/m/lHcBFfxkBAAJ) Trust Token API (cont.)
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/I4RE2pbocTg/m/8Jp9xAVMAQAJ) `FocusableMediaStreamTrack` subclass (Conditional Focus)
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/lbuqOGx07xY/m/kumHViBKAQAJ) `FocusableMediaStreamTrack` subclass (Conditional Focus)
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/_GBtwrWbgaQ/m/Kv43zSUXAQAJ) HTML `renderpriority` attribute
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/T8Qogsm3sV8/m/nPVNf3wHAQAJ) CSS `font-synthesis` property
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/fXASFrrFnps/m/leDjqvcXAQAJ) web app manifest `"handle_links"` member
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/kwC5wES3I4c/m/2WxYhllhAAAJ) WebTransport over HTTP/3
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/-iySPmw8o34/m/oLgrCUQXAQAJ) web app manifest `"scope_extensions"` member
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/qKj5nz1OGKE/m/73plsCUkAQAJ) URL Protocol Handler Registration for PWAs
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/enA3o1UvzcE/m/qsaC_2whAQAJ) Storage Foundation API (cont.)
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/oDs8gWeuRiw/m/b4llFa6ZAAAJ) web app manifest `"id"` field
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/ki__L-IiR0Q/m/-r4g-ngHBQAJ) App History API
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/kMoS8_2ND1g/m/hg0LrM4uAQAJ) `HTMLScriptElement` `supports` method
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/fpfbKgJF8Vc/m/lHcBFfxkBAAJ) Trust Token API (cont.)
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/I4RE2pbocTg/m/8Jp9xAVMAQAJ) `FocusableMediaStreamTrack` subclass (Conditional Focus)
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/lbuqOGx07xY/m/kumHViBKAQAJ) `FocusableMediaStreamTrack` subclass (Conditional Focus)
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/_GBtwrWbgaQ/m/Kv43zSUXAQAJ) HTML `renderpriority` attribute
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/T8Qogsm3sV8/m/nPVNf3wHAQAJ) CSS `font-synthesis` property
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/a6iO__pqI_E/m/Asj1sUABBAAJ) auto-expanding `<details>` elements
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/62WEv0FO7yA/m/PgTWUgCRBgAJ) `speak-as` descriptor for CSS `@counter-style` rule
 - [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/CkRq2zY-t6c/m/sN6_MpnpAAAJ) Priority Hints
@@ -1342,8 +1348,9 @@ September 2015
 
 September 2021
 
-- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/dZSP-vTbbuM/m/SWdk_G1kAgAJ) HTML `enterkeyhint` attribute
-- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/5tBS9nOC4Kk/m/YTKZfBEqAQAJ) CSS `size` property for `@page`
+- :new: [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/VLCUezPWGS4/m/BLTwcIAEBAAJ) `structuredClone` function
+- [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/dZSP-vTbbuM/m/SWdk_G1kAgAJ) HTML `enterkeyhint` attribute
+- [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/5tBS9nOC4Kk/m/YTKZfBEqAQAJ) CSS `size` property for `@page`
 - [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/d8k74ywuFNQ/m/GhdIaDDbCQAJ) Scroll-linked Animations
 - [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/YcXpHAJrj_I/m/uzcS_2LHCQAJ) `<input type=datetime-local>` on desktop
 - [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/G4W8X9ZHR3A/m/DE3C7t7HCQAJbv) CSS `SelectedItem` and `SelectedItemText` system colors
