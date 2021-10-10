@@ -10,14 +10,22 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
+October 2021
+
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/nTgQWwKT1Ss/m/GLTAOfWLBgAJ) App Icon Shortcuts Menu on Mac and Linux
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/E29o9uJ8VRs/m/oKi03ed_BAAJ) `only` keyword for CSS `color-scheme` property
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/nHoJYuUf9W8/m/Lrrsb3xqBgAJ) HTTP status code `103 Early Hints` on navigation responses (cont.)
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/vnWtdEDa61k/m/6ktVbul0BAAJ) CSS `font-synthesis` property
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/0f1zQ4hjoyQ/m/h9-l9u5gBAAJ) no preflight for requests with simple `Range` header values
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/-iySPmw8o34/m/oLgrCUQXAQAJ) web app manifest `"scope_extensions"` field
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/fXASFrrFnps/m/leDjqvcXAQAJ) web app manifest `"handle_links"` field
+
 September 2021
 
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/fXASFrrFnps/m/leDjqvcXAQAJ) web app manifest `"handle_links"` field
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/kwC5wES3I4c/m/2WxYhllhAAAJ) WebTransport over HTTP/3
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/-iySPmw8o34/m/oLgrCUQXAQAJ) web app manifest `"scope_extensions"` field
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/qKj5nz1OGKE/m/73plsCUkAQAJ) URL Protocol Handler Registration for PWAs
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/enA3o1UvzcE/m/qsaC_2whAQAJ) Storage Foundation API (cont.)
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/oDs8gWeuRiw/m/b4llFa6ZAAAJ) web app manifest `"id"` field
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/kwC5wES3I4c/m/2WxYhllhAAAJ) WebTransport over HTTP/3
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/qKj5nz1OGKE/m/73plsCUkAQAJ) URL Protocol Handler Registration for PWAs
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/enA3o1UvzcE/m/qsaC_2whAQAJ) Storage Foundation API (cont.)
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/oDs8gWeuRiw/m/b4llFa6ZAAAJ) web app manifest `"id"` field
 - [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/ki__L-IiR0Q/m/-r4g-ngHBQAJ) App History API
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/kMoS8_2ND1g/m/hg0LrM4uAQAJ) `HTMLScriptElement` `supports` method
 - [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/fpfbKgJF8Vc/m/lHcBFfxkBAAJ) Trust Token API (cont.)
@@ -1346,9 +1354,12 @@ September 2015
 
 ### Firefox
 
+October 2021
+
+- [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/VLCUezPWGS4/m/BLTwcIAEBAAJ) `structuredClone` function
+
 September 2021
 
-- :new: [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/VLCUezPWGS4/m/BLTwcIAEBAAJ) `structuredClone` function
 - [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/dZSP-vTbbuM/m/SWdk_G1kAgAJ) HTML `enterkeyhint` attribute
 - [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/5tBS9nOC4Kk/m/YTKZfBEqAQAJ) CSS `size` property for `@page`
 - [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/d8k74ywuFNQ/m/GhdIaDDbCQAJ) Scroll-linked Animations
