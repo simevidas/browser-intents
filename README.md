@@ -12,11 +12,14 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 October 2021
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/nTgQWwKT1Ss/m/GLTAOfWLBgAJ) App Icon Shortcuts Menu on Mac and Linux
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/E29o9uJ8VRs/m/oKi03ed_BAAJ) `only` keyword for CSS `color-scheme` property
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/nHoJYuUf9W8/m/Lrrsb3xqBgAJ) HTTP status code `103 Early Hints` on navigation responses (cont.)
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/vnWtdEDa61k/m/6ktVbul0BAAJ) CSS `font-synthesis` property
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/0f1zQ4hjoyQ/m/h9-l9u5gBAAJ) no preflight for requests with simple `Range` header values
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/SJD5Z4_E5TQ/m/B-f1WtnYBwAJ) `keyboard-map` feature policy
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/ZpDFeQeLTrg/m/iEN2_yotBgAJ) updated Canvas 2D API
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/Y42bZ66L6Zo/m/mVJsGnfKBwAJ) `sec-ch-` on all Client Hints
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/nTgQWwKT1Ss/m/GLTAOfWLBgAJ) App Icon Shortcuts Menu on Mac and Linux
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/E29o9uJ8VRs/m/oKi03ed_BAAJ) `only` keyword for CSS `color-scheme` property
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/nHoJYuUf9W8/m/Lrrsb3xqBgAJ) HTTP status code `103 Early Hints` on navigation responses (cont.)
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/vnWtdEDa61k/m/6ktVbul0BAAJ) CSS `font-synthesis` property
+- [Implement and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/0f1zQ4hjoyQ/m/h9-l9u5gBAAJ) no preflight for requests with simple `Range` header values
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/-iySPmw8o34/m/oLgrCUQXAQAJ) web app manifest `"scope_extensions"` field
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/fXASFrrFnps/m/leDjqvcXAQAJ) web app manifest `"handle_links"` field
 
@@ -1356,6 +1359,8 @@ September 2015
 
 October 2021
 
+- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/1vOSas0ptVQ/m/qpWv0SNDAAAJ) URL Query String Stripping
+- :new: [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/vikcWAyyAnc/m/lf_cLz2_AAAJ) CSS `input-security` property
 - [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/VLCUezPWGS4/m/BLTwcIAEBAAJ) `structuredClone` function
 
 September 2021
