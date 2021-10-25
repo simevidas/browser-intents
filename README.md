@@ -12,9 +12,14 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 October 2021
 
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/SJD5Z4_E5TQ/m/B-f1WtnYBwAJ) `keyboard-map` feature policy
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/ZpDFeQeLTrg/m/iEN2_yotBgAJ) updated Canvas 2D API
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/Y42bZ66L6Zo/m/mVJsGnfKBwAJ) `sec-ch-` on all Client Hints
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/OpUsOWnnN6c/m/ttMgqOjyBwAJ) CSS `dynamic-range` and `video-dynamic-range` media features (HDR)
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/guI1QCPJTAA/m/Lly_wIYpBQAJ) Window Controls Overlay for Installed Desktop Web Apps
+- :new: [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/JHZLOnRkRhk/m/Eh5tHLg-BwAJ) WebTransport over HTTP/3 (cont.)
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/kDfj3rcA6sc/m/77Ary8NVBwAJ) COLRv1 Color Gradient Vector Fonts
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/hu8e23c7tzg/m/2NsUPHNnBwAJ) CSS `translate`, `scale`, and `rotate` properties (individual transforms)
+- [Implement and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/SJD5Z4_E5TQ/m/B-f1WtnYBwAJ) `keyboard-map` feature policy
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/ZpDFeQeLTrg/m/iEN2_yotBgAJ) updated Canvas 2D API
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/Y42bZ66L6Zo/m/mVJsGnfKBwAJ) `sec-ch-` on all Client Hints
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/nTgQWwKT1Ss/m/GLTAOfWLBgAJ) App Icon Shortcuts Menu on Mac and Linux
 - [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/E29o9uJ8VRs/m/oKi03ed_BAAJ) `only` keyword for CSS `color-scheme` property
 - [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/nHoJYuUf9W8/m/Lrrsb3xqBgAJ) HTTP status code `103 Early Hints` on navigation responses (cont.)
@@ -1359,8 +1364,9 @@ September 2015
 
 October 2021
 
-- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/1vOSas0ptVQ/m/qpWv0SNDAAAJ) URL Query String Stripping
-- :new: [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/vikcWAyyAnc/m/lf_cLz2_AAAJ) CSS `input-security` property
+- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/QlRjFA6XiZY/m/fqdEgn8vBAAJ) Prioritized Task Scheduling
+- [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/1vOSas0ptVQ/m/qpWv0SNDAAAJ) URL Query String Stripping
+- [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/vikcWAyyAnc/m/lf_cLz2_AAAJ) CSS `input-security` property
 - [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/VLCUezPWGS4/m/BLTwcIAEBAAJ) `structuredClone` function
 
 September 2021
