@@ -10,15 +10,21 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
+November 2021
+
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/e8FB60Gf9iM/m/PbTgNUbcAAAJ) Fragment Directive API (for scroll-to-text)
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/fEebe5uXQ1I/m/ox6SBEQ5AAAJ) `HTMLInputElement` `showPicker` method
+- :new: [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/l-QcZ7qOcUQ/m/QIQ9YdU-DwAJ) WebGPU (cont.)
+
 October 2021
 
-- :new: [Prototype and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/qerisCd3Qmo/m/DvR9eddIBwAJ) `structuredClone` function
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/zEDgmKsyjTY/m/o_wxpIHRDQAJ) CSS `forced-color-adjust: preserve-parent-color` value
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/TNggXYeJEQs/m/qEvVNSsYDgAJ) `auto` keyword for CSS `contain-intrinsic-size` property
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/Et7c6cWND3Q/m/0raWstI5BwAJ) `only` keyword for CSS `color-scheme` property
-- :new: [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/lv2JQjDdyhM/m/PfmxFBmaDQAJ) subresource loading with Web Bundles (cont.)
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/wNOClobsLrs/m/zo9KjKsoBwAJ) web app manifest `"launch_handler"` member
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/RweGN8hSvUg/m/iQKAa0Z_BgAJ) web app manifest `"translations"` member
+- [Prototype and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/qerisCd3Qmo/m/DvR9eddIBwAJ) `structuredClone` function
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/zEDgmKsyjTY/m/o_wxpIHRDQAJ) CSS `forced-color-adjust: preserve-parent-color` value
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/TNggXYeJEQs/m/qEvVNSsYDgAJ) `auto` keyword for CSS `contain-intrinsic-size` property
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/Et7c6cWND3Q/m/0raWstI5BwAJ) `only` keyword for CSS `color-scheme` property
+- [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/lv2JQjDdyhM/m/PfmxFBmaDQAJ) subresource loading with Web Bundles (cont.)
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/wNOClobsLrs/m/zo9KjKsoBwAJ) web app manifest `"launch_handler"` member
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/RweGN8hSvUg/m/iQKAa0Z_BgAJ) web app manifest `"translations"` member
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/OpUsOWnnN6c/m/ttMgqOjyBwAJ) CSS `dynamic-range` and `video-dynamic-range` media features (HDR)
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/guI1QCPJTAA/m/Lly_wIYpBQAJ) Window Controls Overlay for Installed Desktop Web Apps
 - [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/JHZLOnRkRhk/m/Eh5tHLg-BwAJ) WebTransport over HTTP/3 (cont.)
@@ -1371,9 +1377,9 @@ September 2015
 
 October 2021
 
-- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/fk6UBxxgnII/m/LV65Yy2PAAAJ) CSS `size` property in `@page` rules
-- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/-ReVw4IGhaw/m/lepBQP2mBQAJ) partitioned third-party service workers
-- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/tlnhpsvhp64/m/dhlkvsFtBQAJ) HTML `inputmode` attribute on desktop
+- [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/fk6UBxxgnII/m/LV65Yy2PAAAJ) CSS `size` property in `@page` rules
+- [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/-ReVw4IGhaw/m/lepBQP2mBQAJ) partitioned third-party service workers
+- [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/tlnhpsvhp64/m/dhlkvsFtBQAJ) HTML `inputmode` attribute on desktop
 - [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/QlRjFA6XiZY/m/fqdEgn8vBAAJ) Prioritized Task Scheduling
 - [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/1vOSas0ptVQ/m/qpWv0SNDAAAJ) URL Query String Stripping
 - [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/vikcWAyyAnc/m/lf_cLz2_AAAJ) CSS `input-security` property
