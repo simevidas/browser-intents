@@ -12,9 +12,11 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 November 2021
 
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/e8FB60Gf9iM/m/PbTgNUbcAAAJ) Fragment Directive API (for scroll-to-text)
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/fEebe5uXQ1I/m/ox6SBEQ5AAAJ) `HTMLInputElement` `showPicker` method
-- :new: [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/l-QcZ7qOcUQ/m/QIQ9YdU-DwAJ) WebGPU (cont.)
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/q6ybnmxxvpE/m/2snoh6wkAgAJ) `'popup'` option (window feature) for `window.open()`
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/dTQniJNVVMY/m/hPFwY1fbBQAJ) `AudioContext` `outputLatency` property
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/e8FB60Gf9iM/m/PbTgNUbcAAAJ) Fragment Directive API (for scroll-to-text)
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/fEebe5uXQ1I/m/ox6SBEQ5AAAJ) `HTMLInputElement` `showPicker` method
+- [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/l-QcZ7qOcUQ/m/QIQ9YdU-DwAJ) WebGPU (cont.)
 
 October 2021
 
