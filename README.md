@@ -12,8 +12,11 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 November 2021
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/q6ybnmxxvpE/m/2snoh6wkAgAJ) `'popup'` option (window feature) for `window.open()`
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/dTQniJNVVMY/m/hPFwY1fbBQAJ) `AudioContext` `outputLatency` property
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/Y6zNtG0f-6A/m/cOhkfVGSBAAJ) dark mode colors in web app manifest
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/k2rgX-4Cigc/m/P0RijrpzBAAJ) pickling for Async Clipboard API
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/ujX8Vbr_VFE/m/Z61eyTcoBAAJ) HTML `blocking=render` attribute for `<link>` and `<script>` elements
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/q6ybnmxxvpE/m/2snoh6wkAgAJ) `'popup'` option (window feature) for `window.open()`
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/dTQniJNVVMY/m/hPFwY1fbBQAJ) `AudioContext` `outputLatency` property
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/e8FB60Gf9iM/m/PbTgNUbcAAAJ) Fragment Directive API (for scroll-to-text)
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/fEebe5uXQ1I/m/ox6SBEQ5AAAJ) `HTMLInputElement` `showPicker` method
 - [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/l-QcZ7qOcUQ/m/QIQ9YdU-DwAJ) WebGPU (cont.)
@@ -1376,6 +1379,10 @@ September 2015
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/iBX_2xfX6jc/Uc0D6jr3AgAJ) `stale-while-revalidate` Cache-control extension
 
 ### Firefox
+
+November 2021
+
+- :new: [Intent to ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/Holnk7wDCOk/m/0s9f7A9PAQAJ) `reversed()` functional notation for the CSS `counter-reset` property
 
 October 2021
 
