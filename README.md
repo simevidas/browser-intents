@@ -1382,7 +1382,7 @@ September 2015
 
 November 2021
 
-- :new: [Intent to ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/Holnk7wDCOk/m/0s9f7A9PAQAJ) `reversed()` functional notation for the CSS `counter-reset` property
+- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/Holnk7wDCOk/m/0s9f7A9PAQAJ) `reversed()` functional notation for the CSS `counter-reset` property
 
 October 2021
 
