@@ -10,9 +10,15 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
+December 2021
+
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/w7Oq2_x2D8U/m/8BhYLGCIBwAJ) Machine Learning Model Loader API
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/PD6TDMDS9mg/m/N3MrigMyCAAJ) Web Neural Network API
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/IYgoj9avvK0/m/foeALDnMBwAJ) mirroring the web page on a secondary display via the Presentation API 
+
 November 2021
 
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/S609KGTkSSk/m/1EW4CWn3BgAJ) High Dynamic Range (HDR) content in `<canvas>`
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/S609KGTkSSk/m/1EW4CWn3BgAJ) High Dynamic Range (HDR) content in `<canvas>`
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/Y6zNtG0f-6A/m/cOhkfVGSBAAJ) dark mode colors in web app manifest
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/k2rgX-4Cigc/m/P0RijrpzBAAJ) pickling for Async Clipboard API
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/ujX8Vbr_VFE/m/Z61eyTcoBAAJ) HTML `blocking=render` attribute for `<link>` and `<script>` elements
@@ -1381,10 +1387,14 @@ September 2015
 
 ### Firefox
 
+December 2021
+
+- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/6PZtLH7c6JQ/m/IJ5WakvqBQAJ) `SameSite=Lax` cookie attribute by default
+
 November 2021
 
-- :new: [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/929YVWNQsY0/m/OyLVX5OvBAAJ) CSS `hwb()` function (HWB Colors)
-- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/Vfe_V9_KvNg/m/YV2uBVswBAAJ) Web Locks API
+- [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/929YVWNQsY0/m/OyLVX5OvBAAJ) CSS `hwb()` function (HWB Colors)
+- [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/Vfe_V9_KvNg/m/YV2uBVswBAAJ) Web Locks API
 - [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/Holnk7wDCOk/m/0s9f7A9PAQAJ) `reversed()` functional notation for the CSS `counter-reset` property
 
 October 2021
