@@ -12,9 +12,12 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 December 2021
 
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/w7Oq2_x2D8U/m/8BhYLGCIBwAJ) Machine Learning Model Loader API
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/PD6TDMDS9mg/m/N3MrigMyCAAJ) Web Neural Network API
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/IYgoj9avvK0/m/foeALDnMBwAJ) mirroring the web page on a secondary display via the Presentation API 
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/ZCN2tBZ2cUY/m/BQAcIIjFCAAJ) CSS `@layer` rule (Cascade Layers)
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/s3n3bGl6i1M/m/-WWoNcZTDAAJ) Handwriting Recognition API
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/ftoKq32Baz4/m/MWjC841eDAAJ) web app manifest `"user_preferences"` field (allows specifying dark mode colors)
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/w7Oq2_x2D8U/m/8BhYLGCIBwAJ) Machine Learning Model Loader API
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/PD6TDMDS9mg/m/N3MrigMyCAAJ) Web Neural Network API
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/IYgoj9avvK0/m/foeALDnMBwAJ) mirroring the web page on a secondary display via the Presentation API 
 
 November 2021
 
@@ -1389,7 +1392,9 @@ September 2015
 
 December 2021
 
-- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/6PZtLH7c6JQ/m/IJ5WakvqBQAJ) `SameSite=Lax` cookie attribute by default
+- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/0hj7fhc2ZGc/m/c3oKiaQ3CwAJ) CSS `d` property
+- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/4Fh79qw7mV0/m/KZHhvHCkCgAJ) `OffscreenCanvas` interface
+- [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/6PZtLH7c6JQ/m/IJ5WakvqBQAJ) `SameSite=Lax` cookie attribute by default
 
 November 2021
 
