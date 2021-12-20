@@ -12,9 +12,12 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 December 2021
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/ZCN2tBZ2cUY/m/BQAcIIjFCAAJ) CSS `@layer` rule (Cascade Layers)
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/s3n3bGl6i1M/m/-WWoNcZTDAAJ) Handwriting Recognition API
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/ftoKq32Baz4/m/MWjC841eDAAJ) web app manifest `"user_preferences"` field (allows specifying dark mode colors)
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/0ngoiUCAdE8/m/OjYQRp1yCgAJ) CSS `mix-blend-mode: plus-lighter` value 
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/tcbtZoQIlvI/m/K26gVfbUAQAJ) same-origin prerendering triggered by the speculation rules API (cont.)
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/YfnM0ubs53k/m/LLhpJMihDQAJ) `HTMLInputElement` `showPicker` method
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/ZCN2tBZ2cUY/m/BQAcIIjFCAAJ) CSS `@layer` rule (Cascade Layers)
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/s3n3bGl6i1M/m/-WWoNcZTDAAJ) Handwriting Recognition API
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/ftoKq32Baz4/m/MWjC841eDAAJ) web app manifest `"user_preferences"` field (allows specifying dark mode colors)
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/w7Oq2_x2D8U/m/8BhYLGCIBwAJ) Machine Learning Model Loader API
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/PD6TDMDS9mg/m/N3MrigMyCAAJ) Web Neural Network API
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/IYgoj9avvK0/m/foeALDnMBwAJ) mirroring the web page on a secondary display via the Presentation API 
@@ -1392,8 +1395,10 @@ September 2015
 
 December 2021
 
-- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/0hj7fhc2ZGc/m/c3oKiaQ3CwAJ) CSS `d` property
-- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/4Fh79qw7mV0/m/KZHhvHCkCgAJ) `OffscreenCanvas` interface
+- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/pAh2tDhBFOU/m/wQBctGKCCwAJ) CSS `scrollbar-gutter` property
+- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/KR8_G8uYzVw/m/bzfdt_CzCwAJ) CSS `hyphenate-character` property
+- [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/0hj7fhc2ZGc/m/c3oKiaQ3CwAJ) CSS `d` property
+- [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/4Fh79qw7mV0/m/KZHhvHCkCgAJ) `OffscreenCanvas` interface
 - [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/6PZtLH7c6JQ/m/IJ5WakvqBQAJ) `SameSite=Lax` cookie attribute by default
 
 November 2021
