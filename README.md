@@ -12,7 +12,7 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 December 2021
 
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/-cHgV0Efl9E/m/8Lu-_s8RDAAJ) Handwriting Recognition API (cont.)
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/-cHgV0Efl9E/m/8Lu-_s8RDAAJ) Handwriting Recognition API (cont.)
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/0ngoiUCAdE8/m/OjYQRp1yCgAJ) CSS `mix-blend-mode: plus-lighter` value 
 - [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/tcbtZoQIlvI/m/K26gVfbUAQAJ) same-origin prerendering triggered by the speculation rules API (cont.)
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/YfnM0ubs53k/m/LLhpJMihDQAJ) `HTMLInputElement` `showPicker` method
