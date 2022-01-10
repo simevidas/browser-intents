@@ -10,6 +10,10 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
+January 2022
+
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/glIwF6hYtMI/m/p2MXhpGKEAAJ) Handwriting Recognition API
+
 December 2021
 
 - [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/-cHgV0Efl9E/m/8Lu-_s8RDAAJ) Handwriting Recognition API (cont.)
@@ -1393,7 +1397,7 @@ September 2015
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/iBX_2xfX6jc/Uc0D6jr3AgAJ) `stale-while-revalidate` Cache-control extension
 
 ### Firefox
-
+ 
 December 2021
 
 - [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/pAh2tDhBFOU/m/wQBctGKCCwAJ) CSS `scrollbar-gutter` property
