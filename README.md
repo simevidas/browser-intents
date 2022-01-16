@@ -12,7 +12,9 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 January 2022
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/glIwF6hYtMI/m/p2MXhpGKEAAJ) Handwriting Recognition API
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/DGFYzid2Qw8/m/3HcmUpghAgAJ) HTML `focusgroup` attribute
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/tA-OzYygv6s/m/achunwbaAQAJ) service worker registration `id` property
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/glIwF6hYtMI/m/p2MXhpGKEAAJ) Handwriting Recognition API
 
 December 2021
 
@@ -1397,7 +1399,12 @@ September 2015
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/iBX_2xfX6jc/Uc0D6jr3AgAJ) `stale-while-revalidate` Cache-control extension
 
 ### Firefox
- 
+
+January 2022
+
+- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/39THaAm_RHM/m/1K2wJsmBAAAJ) form-associated custom elements
+- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/swi3i7Pvs40/m/p5naTEJMAAAJ) HTML `<dialog>` element
+
 December 2021
 
 - [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/pAh2tDhBFOU/m/wQBctGKCCwAJ) CSS `scrollbar-gutter` property
