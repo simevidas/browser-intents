@@ -12,8 +12,12 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 January 2022
 
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/DGFYzid2Qw8/m/3HcmUpghAgAJ) HTML `focusgroup` attribute
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/tA-OzYygv6s/m/achunwbaAQAJ) service worker registration `id` property
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/GcoJNrGwWAc/m/hbEsge9qAAAJ) CSS subgrid layout
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/wDiMaUps4lg/m/kEdkcVz_AAAJ) Storage Foundation API (cont.)
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/yNslidDtNho/m/IEPD25X_AAAJ) ccessHandle for File System Access API (cont.)
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/KXAJlJsbBak/m/JisA_CS2AAAJ) CSS `mix-blend-mode: plus-lighter` value
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/DGFYzid2Qw8/m/3HcmUpghAgAJ) HTML `focusgroup` attribute
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/tA-OzYygv6s/m/achunwbaAQAJ) service worker registration `id` property
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/glIwF6hYtMI/m/p2MXhpGKEAAJ) Handwriting Recognition API
 
 December 2021
@@ -1402,8 +1406,9 @@ September 2015
 
 January 2022
 
-- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/39THaAm_RHM/m/1K2wJsmBAAAJ) form-associated custom elements
-- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/swi3i7Pvs40/m/p5naTEJMAAAJ) HTML `<dialog>` element
+- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/jFUODfQPhTw/m/b-ZsfhlZAwAJ) CSS `hyphenate-character` property
+- [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/39THaAm_RHM/m/1K2wJsmBAAAJ) form-associated custom elements
+- [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/swi3i7Pvs40/m/p5naTEJMAAAJ) HTML `<dialog>` element
 
 December 2021
 
