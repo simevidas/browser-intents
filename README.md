@@ -14,7 +14,7 @@ January 2022
 
 - :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/GcoJNrGwWAc/m/hbEsge9qAAAJ) CSS subgrid layout
 - :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/wDiMaUps4lg/m/kEdkcVz_AAAJ) Storage Foundation API (cont.)
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/yNslidDtNho/m/IEPD25X_AAAJ) ccessHandle for File System Access API (cont.)
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/yNslidDtNho/m/IEPD25X_AAAJ) AccessHandle for File System Access API (cont.)
 - :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/KXAJlJsbBak/m/JisA_CS2AAAJ) CSS `mix-blend-mode: plus-lighter` value
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/DGFYzid2Qw8/m/3HcmUpghAgAJ) HTML `focusgroup` attribute
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/tA-OzYygv6s/m/achunwbaAQAJ) service worker registration `id` property
