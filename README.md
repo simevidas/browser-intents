@@ -12,10 +12,16 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 January 2022
 
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/GcoJNrGwWAc/m/hbEsge9qAAAJ) CSS subgrid layout
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/wDiMaUps4lg/m/kEdkcVz_AAAJ) Storage Foundation API (cont.)
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/yNslidDtNho/m/IEPD25X_AAAJ) AccessHandle for File System Access API (cont.)
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/KXAJlJsbBak/m/JisA_CS2AAAJ) CSS `mix-blend-mode: plus-lighter` value
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/JBpUXKsJ5qg/m/MRK2dbSHAgAJ) Notification API for Confirmation of Action
+- :new: [Implement](https://groups.google.com/a/chromium.org/g/blink-dev/c/SomQdLx6aEk/m/uwK_pqZ4AgAJ) overlay scrollbars on Windows (Microsoft Fluent Design System)
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/9Y290P1WimY/m/bru989iAAgAJ) `AbortSignal.timeout` static method
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/XlAW8MDdHbg/m/XBIJYgvgAAAJ) Speculation Rules (cont.)
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/DXGl7Z-i96I/m/GYG9l87IAAAJ) Web NFC `makeReadOnly` method (for locking NFC tags)
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/jr2fQUh6xEI/m/Oqge6pPtAAAJ) Document Picture-in-Picture
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/GcoJNrGwWAc/m/hbEsge9qAAAJ) CSS subgrid layout
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/wDiMaUps4lg/m/kEdkcVz_AAAJ) Storage Foundation API (cont.)
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/yNslidDtNho/m/IEPD25X_AAAJ) AccessHandle for File System Access API (cont.)
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/KXAJlJsbBak/m/JisA_CS2AAAJ) CSS `mix-blend-mode: plus-lighter` value
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/DGFYzid2Qw8/m/3HcmUpghAgAJ) HTML `focusgroup` attribute
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/tA-OzYygv6s/m/achunwbaAQAJ) service worker registration `id` property
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/glIwF6hYtMI/m/p2MXhpGKEAAJ) Handwriting Recognition API
@@ -1406,7 +1412,9 @@ September 2015
 
 January 2022
 
-- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/jFUODfQPhTw/m/b-ZsfhlZAwAJ) CSS `hyphenate-character` property
+- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/5JS0Kbs41-Q/m/MrehflAaAQAJ) Readable Streams (new implementation)
+- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/PMla_a7HYKY/m/7fWiZw40AAAJ) relaxed cache re-validation on a soft reload (don’t re-validate subresources)
+- [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/jFUODfQPhTw/m/b-ZsfhlZAwAJ) CSS `hyphenate-character` property
 - [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/39THaAm_RHM/m/1K2wJsmBAAAJ) form-associated custom elements
 - [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/swi3i7Pvs40/m/p5naTEJMAAAJ) HTML `<dialog>` element
 
