@@ -12,8 +12,12 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 February 2022
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/tJa6uzXu_IA/m/IN6UhwKtAwAJ) Network State Partitioning
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/_dJFNJpf91U/m/OXzFi_6wAwAJ) Cookies Having Independent Partitioned State (CHIPS)
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/ogegRwcRlcs/m/abCQpUFpAQAJ) omnibox prerendering
+- :new: [Deprecate and remove](https://groups.google.com/a/chromium.org/g/blink-dev/c/UYY2TRSL8_k/m/rbgamivQBgAJ) `Event` `path` method
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/Fk-IJF63UWc/m/4yuIF66cBgAJ) `HIDDevice` `forget` method 
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/7SKzObJ9IBI/m/ytS_fS6jBgAJ) CSS `hwb()` color function
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/tJa6uzXu_IA/m/IN6UhwKtAwAJ) Network State Partitioning
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/_dJFNJpf91U/m/OXzFi_6wAwAJ) Cookies Having Independent Partitioned State (CHIPS)
 
 January 2022
 
