@@ -12,8 +12,9 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 February 2022
 
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/59uTw_dxM3M/m/vF9lF9BVAgAJ) Topics API
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/pSM2W0TtKEI/m/LDcq9NhuAgAJ) `USBDevice` `forget` method
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/WS_ZBvTyvM4/m/xi-Xl4u9DAAJ) Priority Hints (HTML `fetchpriority` attribute, and `priority` option for `fetch`)
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/59uTw_dxM3M/m/vF9lF9BVAgAJ) Topics API
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/pSM2W0TtKEI/m/LDcq9NhuAgAJ) `USBDevice` `forget` method
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/i6Zoc7jU0dM/m/W5g_ze2WAgAJ) Multi-Screen Window Placement
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/RY9leYMu5hI/m/hXkUj8J6AgAJ) autofill in shadow DOM
 - [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/jlV_1m7uUAg/m/fPC4mLjJAgAJ) Federated Credential Management API (was WebID)
