@@ -10,9 +10,16 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
+March 2022
+
+- :new: [Prototype and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/clspafOtM4Y/m/owKyROGEAAAJ) CSS `font-palette` property and `@font-palette-values` at-rule
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/TAsiU_Da-9g/m/umjW1gDMAAAJ) Capture Handle
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/HR7tWmewbSA/m/9UrOsc9AAAAJ) `Sec-CH-Save-Data` client hint
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/0ynSPqb-k04/m/CEoVHLREAAAJ) CSS `object-view-box` and `object-overflow` properties
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/WS_ZBvTyvM4/m/xi-Xl4u9DAAJ) Priority Hints (HTML `fetchpriority` attribute, and `priority` option for `fetch`)
+
 February 2022
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/WS_ZBvTyvM4/m/xi-Xl4u9DAAJ) Priority Hints (HTML `fetchpriority` attribute, and `priority` option for `fetch`)
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/59uTw_dxM3M/m/vF9lF9BVAgAJ) Topics API
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/pSM2W0TtKEI/m/LDcq9NhuAgAJ) `USBDevice` `forget` method
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/i6Zoc7jU0dM/m/W5g_ze2WAgAJ) Multi-Screen Window Placement
@@ -1424,6 +1431,10 @@ September 2015
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/iBX_2xfX6jc/Uc0D6jr3AgAJ) `stale-while-revalidate` Cache-control extension
 
 ### Firefox
+
+March 2022
+
+- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/kVs-TVhreWQ/m/RJ713dS8BQAJ) CSS `content-visibility: hidden` value
 
 January 2022
 
