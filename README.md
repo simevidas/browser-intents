@@ -12,10 +12,11 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 March 2022
 
-- :new: [Prototype and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/clspafOtM4Y/m/owKyROGEAAAJ) CSS `font-palette` property and `@font-palette-values` at-rule
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/TAsiU_Da-9g/m/umjW1gDMAAAJ) Capture Handle
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/HR7tWmewbSA/m/9UrOsc9AAAAJ) `Sec-CH-Save-Data` client hint
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/0ynSPqb-k04/m/CEoVHLREAAAJ) CSS `object-view-box` and `object-overflow` properties
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/e8n8Z5dzMs0/m/SWTK7yL1AAAJ) HTML `hidden=until-found` attribute and `beforematch` event
+- [Prototype and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/clspafOtM4Y/m/owKyROGEAAAJ) CSS `font-palette` property and `@font-palette-values` at-rule
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/TAsiU_Da-9g/m/umjW1gDMAAAJ) Capture Handle
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/HR7tWmewbSA/m/9UrOsc9AAAAJ) `Sec-CH-Save-Data` client hint
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/0ynSPqb-k04/m/CEoVHLREAAAJ) CSS `object-view-box` and `object-overflow` properties
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/WS_ZBvTyvM4/m/xi-Xl4u9DAAJ) Priority Hints (HTML `fetchpriority` attribute, and `priority` option for `fetch`)
 
 February 2022
@@ -1434,7 +1435,7 @@ September 2015
 
 March 2022
 
-- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/kVs-TVhreWQ/m/RJ713dS8BQAJ) CSS `content-visibility: hidden` value
+- [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/kVs-TVhreWQ/m/RJ713dS8BQAJ) CSS `content-visibility: hidden` value
 
 January 2022
 
