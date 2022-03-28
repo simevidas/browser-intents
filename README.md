@@ -12,7 +12,14 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 March 2022
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/e8n8Z5dzMs0/m/SWTK7yL1AAAJ) HTML `hidden=until-found` attribute and `beforematch` event
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/jEnNpideO1Y/m/nlEDdjmnCgAJ) Attribution Reporting
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/O2xZZT_xCZM/m/1dPDpV-MCgAJ) CSS `@scope` at-rule
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/leFmfcpSOGM/m/HVg31A1tCgAJ) NotRestoredReason API (related to back/forward cache)
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/3yKF8pW6r_k/m/3dqJKI3dAgAJ) Range API `innerText` property and `adjust` method
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/OR0poFdzEpo/m/UHoGwvF0AgAJ) sync Access Handles for Origin Private File System
+- :new: [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/GD0shbDnFuM/m/TF1kxp4dAgAJ) WebGPU (cont.)
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/kws-gltC5us/m/qsjxnWMlAgAJ) Federated Credentials Management (cont.)
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/e8n8Z5dzMs0/m/SWTK7yL1AAAJ) HTML `hidden=until-found` attribute and `beforematch` event
 - [Prototype and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/clspafOtM4Y/m/owKyROGEAAAJ) CSS `font-palette` property and `@font-palette-values` at-rule
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/TAsiU_Da-9g/m/umjW1gDMAAAJ) Capture Handle
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/HR7tWmewbSA/m/9UrOsc9AAAAJ) `Sec-CH-Save-Data` client hint
