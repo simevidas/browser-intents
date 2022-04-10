@@ -10,6 +10,13 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
+April 2022
+
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/xTUSN930_gM/m/ED3pHltrEgAJ) Local Font Access API
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/kftmeKVDjE8/m/GlaCr5PYEQAJ) HTTP `Sec-CH-Viewport-Height` header (viewport height client hint)
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/WQtp7Ixd1RU/m/kpwD3E00EQAJ) Network State Partitioning (cont.)
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/Kpp6uJJRrqI/m/GTo_aF0qEQAJ) same-origin prerendering triggered by the speculation rules API (cont.)
+
 March 2022
 
 - [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/jEnNpideO1Y/m/nlEDdjmnCgAJ) Attribution Reporting
@@ -1439,6 +1446,11 @@ September 2015
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/iBX_2xfX6jc/Uc0D6jr3AgAJ) `stale-while-revalidate` Cache-control extension
 
 ### Firefox
+
+April 2022
+
+- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/aL0gvvDxhwI/m/eS5Qe7TpBAAJ) Largest Contentful Paint
+- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/tiReRwpIT30/m/yrKfGBjFCAAJ) Import Maps
 
 March 2022
 
