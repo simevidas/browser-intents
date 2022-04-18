@@ -12,10 +12,17 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 April 2022
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/xTUSN930_gM/m/ED3pHltrEgAJ) Local Font Access API
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/kftmeKVDjE8/m/GlaCr5PYEQAJ) HTTP `Sec-CH-Viewport-Height` header (viewport height client hint)
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/WQtp7Ixd1RU/m/kpwD3E00EQAJ) Network State Partitioning (cont.)
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/Kpp6uJJRrqI/m/GTo_aF0qEQAJ) same-origin prerendering triggered by the speculation rules API (cont.)
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/aBSGxh0LJVA/m/_pOq-q04EwAJ) `SerialPort` `forget` method
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/5iuGWgO8aMo/m/A9vvTY61AQAJ) Navigation API
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/VS9UgOC7Wqc/m/P0vG6qfEEwAJ) subresource loading with Web Bundles
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/E4Vd7w70OsU/m/Q43yNphBEwAJ) Media Queries Level 4 syntax and evaluation (incl. range context)
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/3Ga0Y2BEz7E/m/3U5zwXjWGwAJ) Speculation Rules
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/06dTetmFjEU/m/NdkJtoVYHAAJ) CSS Toggles
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/Wxuo4lZi4vM/m/k09URrJtHAAJ) File Handling (web app manifest `"file_handlers"` field
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/xTUSN930_gM/m/ED3pHltrEgAJ) Local Font Access API
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/kftmeKVDjE8/m/GlaCr5PYEQAJ) HTTP `Sec-CH-Viewport-Height` header (viewport height client hint)
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/WQtp7Ixd1RU/m/kpwD3E00EQAJ) Network State Partitioning (cont.)
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/Kpp6uJJRrqI/m/GTo_aF0qEQAJ) same-origin prerendering triggered by the speculation rules API (cont.)
 
 March 2022
 
@@ -1449,8 +1456,11 @@ September 2015
 
 April 2022
 
-- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/aL0gvvDxhwI/m/eS5Qe7TpBAAJ) Largest Contentful Paint
-- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/tiReRwpIT30/m/yrKfGBjFCAAJ) Import Maps
+- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/dtdrmhIjjfM/m/v9ppSM6EAQAJ) CSS `prefers-contrast` media feature
+- :new: [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/bqYnYxOQhww/m/Smd4txcwBgAJ) `HTMLInputElement` `showPicker` method
+- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/fXJYs75ijoQ/m/g2-KY-kCBQAJ) `TransformStream` and `ReadableStream` `pipeThrough` method
+- [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/aL0gvvDxhwI/m/eS5Qe7TpBAAJ) Largest Contentful Paint
+- [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/tiReRwpIT30/m/yrKfGBjFCAAJ) Import Maps
 
 March 2022
 
