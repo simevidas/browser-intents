@@ -12,13 +12,17 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 April 2022
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/pfiJqsImPtQ/m/fcwxNPb3BAAJ) `AbortSignal.timeout static` method
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/B1QUuICApvc/m/RRxZLqG4HQAJ) Permissions Policy `"gamepad"` token
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/EdW7O8yG7Jc/m/nexqmFjmBAAJ) same-origin prerendering triggered by the speculation rules API
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/7YkubntWi3Y/m/gwK7fMiEAwAJ) Fullscreen Capability Delegation
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/8iIvkmZNUhU/m/sTL81ZNaAwAJ) HTTP status code `103 Early Hints` on navigation responses
-- :new: [Prototype and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/5GnbyWBm04c/m/d_xlOBdJHQAJ) Permissions Policy `"bluetooth"` token
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/9r7YaFuASec/m/X1koyMVcHQAJ) Isolated Web Apps
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/y6G3cvKXjlg/m/DSNrBtxyAgAJ) Fenced Frames
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/pKl0eEeN5U4/m/DSw1RlbyBQAJ) Web App Launch Handling (incl. `web app manifest "launch_handler"` member) (cont.)
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/IH33LShRgt0/m/9KIBgIHxAgAJ) `Element` `isVisible` method
+- :new: [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/ssexbn7P0lU/m/HzfeSt-VAgAJ) HTML `focusgroup` attribute
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/pfiJqsImPtQ/m/fcwxNPb3BAAJ) `AbortSignal.timeout static` method
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/B1QUuICApvc/m/RRxZLqG4HQAJ) Permissions Policy `"gamepad"` token
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/EdW7O8yG7Jc/m/nexqmFjmBAAJ) same-origin prerendering triggered by the speculation rules API
+- [Implement and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/7YkubntWi3Y/m/gwK7fMiEAwAJ) Fullscreen Capability Delegation
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/8iIvkmZNUhU/m/sTL81ZNaAwAJ) HTTP status code `103 Early Hints` on navigation responses
+- [Prototype and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/5GnbyWBm04c/m/d_xlOBdJHQAJ) Permissions Policy `"bluetooth"` token
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/9r7YaFuASec/m/X1koyMVcHQAJ) Isolated Web Apps
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/aBSGxh0LJVA/m/_pOq-q04EwAJ) `SerialPort` `forget` method
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/5iuGWgO8aMo/m/A9vvTY61AQAJ) Navigation API
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/VS9UgOC7Wqc/m/P0vG6qfEEwAJ) subresource loading with Web Bundles
@@ -1463,7 +1467,7 @@ September 2015
 
 April 2022
 
-- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/dBTGmEfg8_8/m/bMI-nUcoAwAJ) CSS small (`sv*`), large (`lv*`), dynamic (`dv*)`, and logical (`vi`, `vb`) viewport units
+- [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/dBTGmEfg8_8/m/bMI-nUcoAwAJ) CSS small (`sv*`), large (`lv*`), dynamic (`dv*)`, and logical (`vi`, `vb`) viewport units
 - [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/dtdrmhIjjfM/m/v9ppSM6EAQAJ) CSS `prefers-contrast` media feature
 - [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/bqYnYxOQhww/m/Smd4txcwBgAJ) `HTMLInputElement` `showPicker` method
 - [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/fXJYs75ijoQ/m/g2-KY-kCBQAJ) `TransformStream` and `ReadableStream` `pipeThrough` method
