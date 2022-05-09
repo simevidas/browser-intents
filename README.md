@@ -10,12 +10,20 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
+May 2022
+
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/zO5QgG1wOZE/m/iMM3Gh5wAwAJ) Private Aggregation API 
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/fvpRgcE8_Yg/m/ZTUjtUCUAgAJ) `Element` `isVisible` method
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/Ram6i7ffgkM/m/KD7BPQycAwAJ) HTML `<form rel>` attribute
+- :new: [Prototype and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/znbNAoUFoR8/m/CfDpkHpcAwAJ) CSS `overflow-clip-margin: <visual-box>` values
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/ZaSMZ1yU1l0/m/3T-c8J4lAwAJ) web app manifest `"user_preferences"` field (cont.)
+
 April 2022
 
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/y6G3cvKXjlg/m/DSNrBtxyAgAJ) Fenced Frames
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/pKl0eEeN5U4/m/DSw1RlbyBQAJ) Web App Launch Handling (incl. `web app manifest "launch_handler"` member) (cont.)
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/IH33LShRgt0/m/9KIBgIHxAgAJ) `Element` `isVisible` method
-- :new: [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/ssexbn7P0lU/m/HzfeSt-VAgAJ) HTML `focusgroup` attribute
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/y6G3cvKXjlg/m/DSNrBtxyAgAJ) Fenced Frames
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/pKl0eEeN5U4/m/DSw1RlbyBQAJ) Web App Launch Handling (incl. `web app manifest "launch_handler"` member) (cont.)
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/IH33LShRgt0/m/9KIBgIHxAgAJ) `Element` `isVisible` method
+- [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/ssexbn7P0lU/m/HzfeSt-VAgAJ) HTML `focusgroup` attribute
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/pfiJqsImPtQ/m/fcwxNPb3BAAJ) `AbortSignal.timeout static` method
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/B1QUuICApvc/m/RRxZLqG4HQAJ) Permissions Policy `"gamepad"` token
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/EdW7O8yG7Jc/m/nexqmFjmBAAJ) same-origin prerendering triggered by the speculation rules API
