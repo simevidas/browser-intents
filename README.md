@@ -12,11 +12,16 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 May 2022
 
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/zO5QgG1wOZE/m/iMM3Gh5wAwAJ) Private Aggregation API 
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/fvpRgcE8_Yg/m/ZTUjtUCUAgAJ) `Element` `isVisible` method
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/Ram6i7ffgkM/m/KD7BPQycAwAJ) HTML `<form rel>` attribute
-- :new: [Prototype and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/znbNAoUFoR8/m/CfDpkHpcAwAJ) CSS `overflow-clip-margin: <visual-box>` values
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/ZaSMZ1yU1l0/m/3T-c8J4lAwAJ) web app manifest `"user_preferences"` field (cont.)
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/vsPddM3fGj0/m/5s87Yx95BAAJ) CSS Anchor Positioning
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/ryjRQsxyo2Y/m/xOPh6glQBAAJ) Permission Policy `unload` feature
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/gwzxnTJDLJ8/m/iRNWbO2YBAAJ) CSS Container Queries
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/os3qUVtqyWo/m/4cs6GCN5BAAJ) NotRestoredReason API (back/forward cache)
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/tPTRZkSmlbg/m/6oYq7FtHBAAJ) `PendingBeacon` API
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/zO5QgG1wOZE/m/iMM3Gh5wAwAJ) Private Aggregation API 
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/fvpRgcE8_Yg/m/ZTUjtUCUAgAJ) `Element` `isVisible` method
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/Ram6i7ffgkM/m/KD7BPQycAwAJ) HTML `<form rel>` attribute
+- [Prototype and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/znbNAoUFoR8/m/CfDpkHpcAwAJ) CSS `overflow-clip-margin: <visual-box>` values
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/ZaSMZ1yU1l0/m/3T-c8J4lAwAJ) web app manifest `"user_preferences"` field (cont.)
 
 April 2022
 
