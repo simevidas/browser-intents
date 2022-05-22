@@ -12,11 +12,14 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 May 2022
 
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/vsPddM3fGj0/m/5s87Yx95BAAJ) CSS Anchor Positioning
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/ryjRQsxyo2Y/m/xOPh6glQBAAJ) Permission Policy `unload` feature
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/gwzxnTJDLJ8/m/iRNWbO2YBAAJ) CSS Container Queries
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/os3qUVtqyWo/m/4cs6GCN5BAAJ) NotRestoredReason API (back/forward cache)
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/tPTRZkSmlbg/m/6oYq7FtHBAAJ) `PendingBeacon` API
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/-s-nu3A-qAo/m/YYlxSLKkAgAJ) CSS `object-view-box` property
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/bRsbl3wLuyk/m/mt3iSKNHBQAJ) CSS `:has()` pseudo-class
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/4vVuaMwMCTQ/m/LKb_BbdmBQAJ) HTML `focusgroup` attribute
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/vsPddM3fGj0/m/5s87Yx95BAAJ) CSS Anchor Positioning
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/ryjRQsxyo2Y/m/xOPh6glQBAAJ) Permission Policy `unload` feature
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/gwzxnTJDLJ8/m/iRNWbO2YBAAJ) CSS Container Queries
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/os3qUVtqyWo/m/4cs6GCN5BAAJ) NotRestoredReason API (back/forward cache)
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/tPTRZkSmlbg/m/6oYq7FtHBAAJ) `PendingBeacon` API
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/zO5QgG1wOZE/m/iMM3Gh5wAwAJ) Private Aggregation API 
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/fvpRgcE8_Yg/m/ZTUjtUCUAgAJ) `Element` `isVisible` method
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/Ram6i7ffgkM/m/KD7BPQycAwAJ) HTML `<form rel>` attribute
@@ -1477,6 +1480,11 @@ September 2015
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/iBX_2xfX6jc/Uc0D6jr3AgAJ) `stale-while-revalidate` Cache-control extension
 
 ### Firefox
+
+May 2022
+
+- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/ACDDMOE-PPM/m/k6nJksSVBAAJ) Transferable Streams
+- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/v-3ABR6oAnY/m/zbXCm05nBAAJ) `TransformStream` and `ReadableStream` `pipeThrough` method
 
 April 2022
 
