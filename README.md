@@ -12,9 +12,15 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 May 2022
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/-s-nu3A-qAo/m/YYlxSLKkAgAJ) CSS `object-view-box` property
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/bRsbl3wLuyk/m/mt3iSKNHBQAJ) CSS `:has()` pseudo-class
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/4vVuaMwMCTQ/m/LKb_BbdmBQAJ) HTML `focusgroup` attribute
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/IvfIkjvQYuY/m/cixwOyEeAAAJ) tabbed web apps (`tabbed` display mode)
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/xKTem_X2LU8/m/WXLC2yomFAAJ) Origin-Bound Cookies
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/kGHVBtVS1X8/m/Y1vWdUuVAQAJ) CSS `:modal` pseudo-class
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/kZRtetS8jsY/m/qHJnhCzrEwAJ) Cookies Having Independent Partitioned State (CHIPS) (cont.)
+- :new: [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/RdcbaO16G6Q/m/CwZ3WcOrEwAJ) subresource loading with Web Bundles (cont.)
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/Ydpc6Lfx_7k/m/ReQGtiVWAQAJ) HTML `blocking=render` attribute for `<link>` and `<script>` elements
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/-s-nu3A-qAo/m/YYlxSLKkAgAJ) CSS `object-view-box` property
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/bRsbl3wLuyk/m/mt3iSKNHBQAJ) CSS `:has()` pseudo-class
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/4vVuaMwMCTQ/m/LKb_BbdmBQAJ) HTML `focusgroup` attribute
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/vsPddM3fGj0/m/5s87Yx95BAAJ) CSS Anchor Positioning
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/ryjRQsxyo2Y/m/xOPh6glQBAAJ) Permission Policy `unload` feature
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/gwzxnTJDLJ8/m/iRNWbO2YBAAJ) CSS Container Queries
@@ -1483,8 +1489,9 @@ September 2015
 
 May 2022
 
-- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/ACDDMOE-PPM/m/k6nJksSVBAAJ) Transferable Streams
-- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/v-3ABR6oAnY/m/zbXCm05nBAAJ) `TransformStream` and `ReadableStream` `pipeThrough` method
+- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/nGCnIvYEUd0/m/LQ2rV24oAAAJ) CSS constructable stylesheets
+- [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/ACDDMOE-PPM/m/k6nJksSVBAAJ) Transferable Streams
+- [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/v-3ABR6oAnY/m/zbXCm05nBAAJ) `TransformStream` and `ReadableStream` `pipeThrough` method
 
 April 2022
 
