@@ -12,7 +12,13 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 June 2022
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/KOpwkS-bgl0/m/hmJ6gfU7AQAJ) Sanitizer API (initial impl.)
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/jDx8z5a6ovk/m/8CQXQL_LAwAJ) Shared Storage API
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/BzwopwOFzFw/m/OnfDrTzYAgAJ) Web App Launch Handling (`"launch_handler"` member) (cont.)
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/ircRbiGEkEE/m/Jtu1YPqzAgAJ) Shared Element Transitions
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/pxgVrAzMfyk/m/rO9asyKvAgAJ) Custom Highlight API
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/EPvTLPs2yws/m/WFNq9w6oAgAJ) CSS `:lang()` pseudo-class level 4 extension (argument lists and language range matching)
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/tr4efbeV4PM/m/2fbY7m7TAgAJ) wide-gamut colors in CSS
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/KOpwkS-bgl0/m/hmJ6gfU7AQAJ) Sanitizer API (initial impl.)
 
 May 2022
 
@@ -1490,6 +1496,11 @@ September 2015
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/iBX_2xfX6jc/Uc0D6jr3AgAJ) `stale-while-revalidate` Cache-control extension
 
 ### Firefox
+
+June 2022
+
+- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/Ot7a8Xgtxrg/m/neRUfo8VAAAJ) CSS `scroll-snap-stop` property
+- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/vaniCZs9oBo/m/ApQvjrX5AAAJ) CSS `linear()` easing function
 
 May 2022
 
