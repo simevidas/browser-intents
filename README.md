@@ -12,12 +12,14 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 June 2022
 
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/jDx8z5a6ovk/m/8CQXQL_LAwAJ) Shared Storage API
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/BzwopwOFzFw/m/OnfDrTzYAgAJ) Web App Launch Handling (`"launch_handler"` member) (cont.)
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/ircRbiGEkEE/m/Jtu1YPqzAgAJ) Shared Element Transitions
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/pxgVrAzMfyk/m/rO9asyKvAgAJ) Custom Highlight API
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/EPvTLPs2yws/m/WFNq9w6oAgAJ) CSS `:lang()` pseudo-class level 4 extension (argument lists and language range matching)
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/tr4efbeV4PM/m/2fbY7m7TAgAJ) wide-gamut colors in CSS
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/jXkQiIVpxr8/m/6WfaDQL2BAAJ) Picture-in-Picture on Android
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/Vd6RTIfxkiY/m/HECcgiDOAAAJ) Declarative Beacon API (`PendingBeacon`)
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/jDx8z5a6ovk/m/8CQXQL_LAwAJ) Shared Storage API
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/BzwopwOFzFw/m/OnfDrTzYAgAJ) Web App Launch Handling (`"launch_handler"` member) (cont.)
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/ircRbiGEkEE/m/Jtu1YPqzAgAJ) Shared Element Transitions
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/pxgVrAzMfyk/m/rO9asyKvAgAJ) Custom Highlight API
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/EPvTLPs2yws/m/WFNq9w6oAgAJ) CSS `:lang()` pseudo-class level 4 extension (argument lists and language range matching)
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/tr4efbeV4PM/m/2fbY7m7TAgAJ) wide-gamut colors in CSS
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/KOpwkS-bgl0/m/hmJ6gfU7AQAJ) Sanitizer API (initial impl.)
 
 May 2022
@@ -1499,8 +1501,9 @@ September 2015
 
 June 2022
 
-- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/Ot7a8Xgtxrg/m/neRUfo8VAAAJ) CSS `scroll-snap-stop` property
-- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/vaniCZs9oBo/m/ApQvjrX5AAAJ) CSS `linear()` easing function
+- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/a18PTC0vumI/m/e7IcXR81AgAJ) Transferable Streams
+- [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/Ot7a8Xgtxrg/m/neRUfo8VAAAJ) CSS `scroll-snap-stop` property
+- [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/vaniCZs9oBo/m/ApQvjrX5AAAJ) CSS `linear()` easing function
 
 May 2022
 
