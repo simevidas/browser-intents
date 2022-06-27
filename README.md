@@ -12,8 +12,13 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 June 2022
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/jXkQiIVpxr8/m/6WfaDQL2BAAJ) Picture-in-Picture on Android
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/Vd6RTIfxkiY/m/HECcgiDOAAAJ) Declarative Beacon API (`PendingBeacon`)
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/n4zf_3FWmAA/m/oait3tsMAQAJ) MathML
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/iCbr1QLRLPw/m/c0zX-GCVAgAJ) CSS `overflow` property for replaced elements
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/j7sGtCBGaxA/m/0T4j8HOtAQAJ) `requestPermission` function for `DeviceOrientationEvent` and `DeviceMotionEvent`
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/PhLkO3KITyw/m/22dMHnRqAgAJ) LazyEmbeds
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/-c9p-Sq_gWg/m/C9eOR3oGAgAJ) CSS trigonometric functions (`sin()`, `cos()`, `tan()`, `asin()`, `acos()`, `atan()`, `atan2()`)
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/jXkQiIVpxr8/m/6WfaDQL2BAAJ) Picture-in-Picture on Android
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/Vd6RTIfxkiY/m/HECcgiDOAAAJ) Declarative Beacon API (`PendingBeacon`)
 - [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/jDx8z5a6ovk/m/8CQXQL_LAwAJ) Shared Storage API
 - [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/BzwopwOFzFw/m/OnfDrTzYAgAJ) Web App Launch Handling (`"launch_handler"` member) (cont.)
 - [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/ircRbiGEkEE/m/Jtu1YPqzAgAJ) Shared Element Transitions
@@ -1501,7 +1506,7 @@ September 2015
 
 June 2022
 
-- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/a18PTC0vumI/m/e7IcXR81AgAJ) Transferable Streams
+- [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/a18PTC0vumI/m/e7IcXR81AgAJ) Transferable Streams
 - [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/Ot7a8Xgtxrg/m/neRUfo8VAAAJ) CSS `scroll-snap-stop` property
 - [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/vaniCZs9oBo/m/ApQvjrX5AAAJ) CSS `linear()` easing function
 
