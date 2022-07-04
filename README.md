@@ -12,11 +12,14 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 June 2022
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/n4zf_3FWmAA/m/oait3tsMAQAJ) MathML
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/iCbr1QLRLPw/m/c0zX-GCVAgAJ) CSS `overflow` property for replaced elements
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/j7sGtCBGaxA/m/0T4j8HOtAQAJ) `requestPermission` function for `DeviceOrientationEvent` and `DeviceMotionEvent`
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/PhLkO3KITyw/m/22dMHnRqAgAJ) LazyEmbeds
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/-c9p-Sq_gWg/m/C9eOR3oGAgAJ) CSS trigonometric functions (`sin()`, `cos()`, `tan()`, `asin()`, `acos()`, `atan()`, `atan2()`)
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/17Z300KxrQM/m/6GyJmHV_AwAJ) Viewport Height Client Hint (`Sec-CH-Viewport-Height`)
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/ZVODFsnIf74/m/Y25GJD6bBAAJ) `import.meta.resolve` function
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/KD_Z1mObs_8/m/gYnIAhMLBAAJ) `renderBlockingStatus` property for performance resource entries
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/n4zf_3FWmAA/m/oait3tsMAQAJ) MathML
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/iCbr1QLRLPw/m/c0zX-GCVAgAJ) CSS `overflow` property for replaced elements
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/j7sGtCBGaxA/m/0T4j8HOtAQAJ) `requestPermission` function for `DeviceOrientationEvent` and `DeviceMotionEvent`
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/PhLkO3KITyw/m/22dMHnRqAgAJ) LazyEmbeds
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/-c9p-Sq_gWg/m/C9eOR3oGAgAJ) CSS trigonometric functions (`sin()`, `cos()`, `tan()`, `asin()`, `acos()`, `atan()`, `atan2()`)
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/jXkQiIVpxr8/m/6WfaDQL2BAAJ) Picture-in-Picture on Android
 - [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/Vd6RTIfxkiY/m/HECcgiDOAAAJ) Declarative Beacon API (`PendingBeacon`)
 - [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/jDx8z5a6ovk/m/8CQXQL_LAwAJ) Shared Storage API
