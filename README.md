@@ -10,11 +10,15 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
+July 2022
+
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/MuTeW_AFgxA/m/boPlODonAwAJ) CSS `overflow` property for replaced elements
+
 June 2022
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/17Z300KxrQM/m/6GyJmHV_AwAJ) Viewport Height Client Hint (`Sec-CH-Viewport-Height`)
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/ZVODFsnIf74/m/Y25GJD6bBAAJ) `import.meta.resolve` function
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/KD_Z1mObs_8/m/gYnIAhMLBAAJ) `renderBlockingStatus` property for performance resource entries
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/17Z300KxrQM/m/6GyJmHV_AwAJ) Viewport Height Client Hint (`Sec-CH-Viewport-Height`)
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/ZVODFsnIf74/m/Y25GJD6bBAAJ) `import.meta.resolve` function
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/KD_Z1mObs_8/m/gYnIAhMLBAAJ) `renderBlockingStatus` property for performance resource entries
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/n4zf_3FWmAA/m/oait3tsMAQAJ) MathML
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/iCbr1QLRLPw/m/c0zX-GCVAgAJ) CSS `overflow` property for replaced elements
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/j7sGtCBGaxA/m/0T4j8HOtAQAJ) `requestPermission` function for `DeviceOrientationEvent` and `DeviceMotionEvent`
@@ -1506,6 +1510,10 @@ September 2015
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/iBX_2xfX6jc/Uc0D6jr3AgAJ) `stale-while-revalidate` Cache-control extension
 
 ### Firefox
+
+July 2022
+
+- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/s0_mISL9ac8/m/T30J9lfOAgAJ) CSS `animation-composition` property
 
 June 2022
 
