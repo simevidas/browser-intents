@@ -12,7 +12,10 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 July 2022
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/MuTeW_AFgxA/m/boPlODonAwAJ) CSS `overflow` property for replaced elements
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/_jX8ZP35OAg/m/jj2Kjow-BAAJ) Custom Highlight API pointer events
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/zwKGB0_ksQU/m/mtVsZDH1AwAJ) `fetch()` upload streaming
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/MtgwTiMvXGc/m/1t4_G4cTBAAJ) `contentvisibilityautostatechanged` event
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/MuTeW_AFgxA/m/boPlODonAwAJ) CSS `overflow` property for replaced elements
 
 June 2022
 
@@ -1513,7 +1516,9 @@ September 2015
 
 July 2022
 
-- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/s0_mISL9ac8/m/T30J9lfOAgAJ) CSS `animation-composition` property
+- :new: [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/LlxUr3vIBWc/m/KWWGA2qmAAAJ) CSP `script-src-elem` and `script-src-attr` directives
+- :new: [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/HBgxBzZAL20/m/wg6A-om-AAAJ) Canvas 2D context `fontKerning` property
+- [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/s0_mISL9ac8/m/T30J9lfOAgAJ) CSS `animation-composition` property
 
 June 2022
 
