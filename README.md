@@ -12,10 +12,13 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 July 2022
 
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/0WFHeazngK8/m/iovBizDWAAAJ) `borderless` display mode for installed web apps on desktop
-- :new: [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/gBMsYQ1Aurw/m/xl1znc7fAAAJ) WebGPU (cont.)
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/DKeklNbLG5s/m/k8uR4eb9AAAJ) `NavigateEvent` `scroll` method
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/2c8msRrrcF0/m/GXELz84RAAAJ) web app manifest `"user_preferences"` field (allows specifying dark mode colors) (cont.)
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/hNUoDg94-_8/m/-Cnv2qyMAAAJ) `URLPattern` `ignoreCase` option
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/JrMX5H2PX_o/m/JipeWijACAAJ) Cross-Origin-Opener-Policy `restrict-properties` value
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/-7H19EHTenU/m/oWfFm21eAAAJ) anonymous iframes
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/0WFHeazngK8/m/iovBizDWAAAJ) `borderless` display mode for installed web apps on desktop
+- [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/gBMsYQ1Aurw/m/xl1znc7fAAAJ) WebGPU (cont.)
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/DKeklNbLG5s/m/k8uR4eb9AAAJ) `NavigateEvent` `scroll` method
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/2c8msRrrcF0/m/GXELz84RAAAJ) web app manifest `"user_preferences"` field (allows specifying dark mode colors) (cont.)
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/_jX8ZP35OAg/m/jj2Kjow-BAAJ) Custom Highlight API pointer events
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/zwKGB0_ksQU/m/mtVsZDH1AwAJ) `fetch()` upload streaming
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/MtgwTiMvXGc/m/1t4_G4cTBAAJ) `contentvisibilityautostatechanged` event
@@ -1520,7 +1523,8 @@ September 2015
 
 July 2022
 
-- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/V0nhaTr86LA/m/aH-jZUqzAAAJ) HTML `width` and `height` attributes on `<source>` elements
+- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/isRigZXSPZM/m/vMXV23kqBwAJ) OffscreenCanvas
+- [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/V0nhaTr86LA/m/aH-jZUqzAAAJ) HTML `width` and `height` attributes on `<source>` elements
 - [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/LlxUr3vIBWc/m/KWWGA2qmAAAJ) CSP `script-src-elem` and `script-src-attr` directives
 - [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/HBgxBzZAL20/m/wg6A-om-AAAJ) Canvas 2D context `fontKerning` property
 - [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/s0_mISL9ac8/m/T30J9lfOAgAJ) CSS `animation-composition` property
