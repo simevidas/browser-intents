@@ -10,11 +10,19 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
+August 2022
+
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/Pw4cLvAUGco/m/P3uToo73BgAJ) CSS `ic` unit
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/Sp5UI7RaaGg/m/RDb06E6_DQAJ) Pop-Up API (HTML `popup` attribute)
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/3jO8Ij2UZoI/m/Zi0F-_icDQAJ) Web App Launch Handling (cont.)
+- :new: [Prototype and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/N_Y40YIHMtI/m/BEefQcPADQAJ) Client Hints in Android WebView
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/DjYa9xaoHhs/m/nHfuhCKgAgAJ) LazyEmbeds (cont.)
+
 July 2022
 
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/hNUoDg94-_8/m/-Cnv2qyMAAAJ) `URLPattern` `ignoreCase` option
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/JrMX5H2PX_o/m/JipeWijACAAJ) Cross-Origin-Opener-Policy `restrict-properties` value
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/-7H19EHTenU/m/oWfFm21eAAAJ) anonymous iframes
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/hNUoDg94-_8/m/-Cnv2qyMAAAJ) `URLPattern` `ignoreCase` option
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/JrMX5H2PX_o/m/JipeWijACAAJ) Cross-Origin-Opener-Policy `restrict-properties` value
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/-7H19EHTenU/m/oWfFm21eAAAJ) anonymous iframes
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/0WFHeazngK8/m/iovBizDWAAAJ) `borderless` display mode for installed web apps on desktop
 - [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/gBMsYQ1Aurw/m/xl1znc7fAAAJ) WebGPU (cont.)
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/DKeklNbLG5s/m/k8uR4eb9AAAJ) `NavigateEvent` `scroll` method
@@ -1523,7 +1531,7 @@ September 2015
 
 July 2022
 
-- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/isRigZXSPZM/m/vMXV23kqBwAJ) OffscreenCanvas
+- [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/isRigZXSPZM/m/vMXV23kqBwAJ) OffscreenCanvas
 - [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/V0nhaTr86LA/m/aH-jZUqzAAAJ) HTML `width` and `height` attributes on `<source>` elements
 - [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/LlxUr3vIBWc/m/KWWGA2qmAAAJ) CSP `script-src-elem` and `script-src-attr` directives
 - [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/HBgxBzZAL20/m/wg6A-om-AAAJ) Canvas 2D context `fontKerning` property
