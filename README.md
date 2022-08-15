@@ -12,11 +12,15 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 August 2022
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/Pw4cLvAUGco/m/P3uToo73BgAJ) CSS `ic` unit
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/Sp5UI7RaaGg/m/RDb06E6_DQAJ) Pop-Up API (HTML `popup` attribute)
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/3jO8Ij2UZoI/m/Zi0F-_icDQAJ) Web App Launch Handling (cont.)
-- :new: [Prototype and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/N_Y40YIHMtI/m/BEefQcPADQAJ) Client Hints in Android WebView
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/DjYa9xaoHhs/m/nHfuhCKgAgAJ) LazyEmbeds (cont.)
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/KrPqrd-pO2M/m/wqVwcQ6tBgAJ) TLS Encrypted Client Hello (ECH)
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/E3RJj4nmWrM/m/VnZDXYMwCAAJ) `contentvisibilityautostatechanged` event
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/MKQODOL0Fso/m/S3ss7A8jCAAJ) Cookies Having Independent Partitioned State (CHIPS) (cont.)
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/Gwb_aTskA88/m/ipq_9YkGBgAJ) `requestStorageAccessForSite` API
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/Pw4cLvAUGco/m/P3uToo73BgAJ) CSS `ic` unit
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/Sp5UI7RaaGg/m/RDb06E6_DQAJ) Pop-Up API (HTML `popup` attribute)
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/3jO8Ij2UZoI/m/Zi0F-_icDQAJ) Web App Launch Handling (cont.)
+- [Prototype and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/N_Y40YIHMtI/m/BEefQcPADQAJ) Client Hints in Android WebView
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/DjYa9xaoHhs/m/nHfuhCKgAgAJ) LazyEmbeds (cont.)
 
 July 2022
 
