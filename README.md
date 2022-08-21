@@ -12,10 +12,12 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 August 2022
 
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/KrPqrd-pO2M/m/wqVwcQ6tBgAJ) TLS Encrypted Client Hello (ECH)
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/E3RJj4nmWrM/m/VnZDXYMwCAAJ) `contentvisibilityautostatechanged` event
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/MKQODOL0Fso/m/S3ss7A8jCAAJ) Cookies Having Independent Partitioned State (CHIPS) (cont.)
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/Gwb_aTskA88/m/ipq_9YkGBgAJ) `requestStorageAccessForSite` API
+- :new [Implement and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/HWXv_04ORyU/m/8BJDOhGcAQAJ) rich PWA installation dialogs (description and screenshots) on desktop
+- :new [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/cY68NkAqREg/m/tCgJaCKbAwAJ) same-origin prerendering triggered by the speculation rules API on desktop
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/KrPqrd-pO2M/m/wqVwcQ6tBgAJ) TLS Encrypted Client Hello (ECH)
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/E3RJj4nmWrM/m/VnZDXYMwCAAJ) `contentvisibilityautostatechanged` event
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/MKQODOL0Fso/m/S3ss7A8jCAAJ) Cookies Having Independent Partitioned State (CHIPS) (cont.)
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/Gwb_aTskA88/m/ipq_9YkGBgAJ) `requestStorageAccessForSite` API
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/Pw4cLvAUGco/m/P3uToo73BgAJ) CSS `ic` unit
 - [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/Sp5UI7RaaGg/m/RDb06E6_DQAJ) Pop-Up API (HTML `popup` attribute)
 - [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/3jO8Ij2UZoI/m/Zi0F-_icDQAJ) Web App Launch Handling (cont.)
@@ -1532,6 +1534,11 @@ September 2015
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/iBX_2xfX6jc/Uc0D6jr3AgAJ) `stale-while-revalidate` Cache-control extension
 
 ### Firefox
+
+August 2022
+
+- :new [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/gc4BxcgkN7E/m/urRtwCHDAgAJ) Origin Private File System
+- :new [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/u7gjLLRkfy0/m/mvwWUiOcAgAJ) COLRv1 fonts
 
 July 2022
 
