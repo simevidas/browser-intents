@@ -12,8 +12,9 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 August 2022
 
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/HWXv_04ORyU/m/8BJDOhGcAQAJ) rich PWA installation dialogs (description and screenshots) on desktop
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/cY68NkAqREg/m/tCgJaCKbAwAJ) same-origin prerendering triggered by the speculation rules API on desktop
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/um-9YjJWyEQ/m/MhKN0L7FAgAJ) Scoped Custom Element Registries
+- [Implement and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/HWXv_04ORyU/m/8BJDOhGcAQAJ) rich PWA installation dialogs (description and screenshots) on desktop
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/cY68NkAqREg/m/tCgJaCKbAwAJ) same-origin prerendering triggered by the speculation rules API on desktop
 - [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/KrPqrd-pO2M/m/wqVwcQ6tBgAJ) TLS Encrypted Client Hello (ECH)
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/E3RJj4nmWrM/m/VnZDXYMwCAAJ) `contentvisibilityautostatechanged` event
 - [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/MKQODOL0Fso/m/S3ss7A8jCAAJ) Cookies Having Independent Partitioned State (CHIPS) (cont.)
@@ -1537,8 +1538,8 @@ September 2015
 
 August 2022
 
-- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/gc4BxcgkN7E/m/urRtwCHDAgAJ) Origin Private File System
-- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/u7gjLLRkfy0/m/mvwWUiOcAgAJ) COLRv1 fonts
+- [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/gc4BxcgkN7E/m/urRtwCHDAgAJ) Origin Private File System
+- [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/u7gjLLRkfy0/m/mvwWUiOcAgAJ) COLRv1 fonts
 
 July 2022
 
