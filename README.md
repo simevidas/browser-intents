@@ -10,9 +10,12 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
-August 2022
+September 2022
 
 - :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/a8CoYPI97Z8/m/aD_30gAlBwAJ) HTML `aria-brailleroledescription` and `aria-braillelabel` attributes
+
+August 2022
+
 - :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/_9k-Ne8FRu4/m/Y5t_T50pAgAJ) `tech()` function for CSS `@font-face` `src` descriptor
 - :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/mdOF67Z-hXc/m/WdWKWviEAgAJ) `AudioContext` `setSinkId` method
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/um-9YjJWyEQ/m/MhKN0L7FAgAJ) Scoped Custom Element Registries
