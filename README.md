@@ -12,11 +12,17 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 September 2022
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/a8CoYPI97Z8/m/aD_30gAlBwAJ) HTML `aria-brailleroledescription` and `aria-braillelabel` attributes
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/_m5xConFTfY/m/yEkZzO8yCAAJ) HTTP `Sec-CH-Prefers-Reduced-Motion` header (client hint)
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/oMcbPblmD-k/m/eC-GipLdBwAJ) variations in COLRv1
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/KPCRWkJ9n1k/m/NAbzZ0_BCAAJ) CSS `lh` unit
+- :new: [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/38Dpu-uhwFc/m/cFmPpi61CAAJ) Permission Policty `unload` permission
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/vwQ2x1lByqc/m/re5WEH84CAAJ) Bounce Tracking Mitigations 
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/4E_UNp8mV_Y/m/eu_LAK4DCAAJ) same-site (cross-origin) prerendering triggered by the speculation rules API
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/a8CoYPI97Z8/m/aD_30gAlBwAJ) HTML `aria-brailleroledescription` and `aria-braillelabel` attributes
 
 August 2022
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/_9k-Ne8FRu4/m/Y5t_T50pAgAJ) `tech()` function for CSS `@font-face` `src` descriptor
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/_9k-Ne8FRu4/m/Y5t_T50pAgAJ) `tech()` function for CSS `@font-face` `src` descriptor
 - :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/mdOF67Z-hXc/m/WdWKWviEAgAJ) `AudioContext` `setSinkId` method
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/um-9YjJWyEQ/m/MhKN0L7FAgAJ) Scoped Custom Element Registries
 - [Implement and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/HWXv_04ORyU/m/8BJDOhGcAQAJ) rich PWA installation dialogs (description and screenshots) on desktop
