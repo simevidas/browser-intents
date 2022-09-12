@@ -23,7 +23,7 @@ September 2022
 August 2022
 
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/_9k-Ne8FRu4/m/Y5t_T50pAgAJ) `tech()` function for CSS `@font-face` `src` descriptor
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/mdOF67Z-hXc/m/WdWKWviEAgAJ) `AudioContext` `setSinkId` method
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/mdOF67Z-hXc/m/WdWKWviEAgAJ) `AudioContext` `setSinkId` method
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/um-9YjJWyEQ/m/MhKN0L7FAgAJ) Scoped Custom Element Registries
 - [Implement and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/HWXv_04ORyU/m/8BJDOhGcAQAJ) rich PWA installation dialogs (description and screenshots) on desktop
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/cY68NkAqREg/m/tCgJaCKbAwAJ) same-origin prerendering triggered by the speculation rules API on desktop
