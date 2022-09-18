@@ -12,12 +12,14 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 September 2022
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/_m5xConFTfY/m/yEkZzO8yCAAJ) HTTP `Sec-CH-Prefers-Reduced-Motion` header (client hint)
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/oMcbPblmD-k/m/eC-GipLdBwAJ) variations in COLRv1
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/KPCRWkJ9n1k/m/NAbzZ0_BCAAJ) CSS `lh` unit
-- :new: [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/38Dpu-uhwFc/m/cFmPpi61CAAJ) Permission Policty `unload` permission
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/vwQ2x1lByqc/m/re5WEH84CAAJ) Bounce Tracking Mitigations 
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/4E_UNp8mV_Y/m/eu_LAK4DCAAJ) same-site (cross-origin) prerendering triggered by the speculation rules API
+- :new: [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/laxVRNSzMVo/m/-JWrM-SoAQAJ) WebAuthn Conditional UI
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/PnQdSBOxDUc/m/yoZDSXhPCQAJ) `last baseline` alignment for flex/grid items
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/_m5xConFTfY/m/yEkZzO8yCAAJ) HTTP `Sec-CH-Prefers-Reduced-Motion` header (client hint)
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/oMcbPblmD-k/m/eC-GipLdBwAJ) variations in COLRv1
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/KPCRWkJ9n1k/m/NAbzZ0_BCAAJ) CSS `lh` unit
+- [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/38Dpu-uhwFc/m/cFmPpi61CAAJ) Permission Policty `unload` permission
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/vwQ2x1lByqc/m/re5WEH84CAAJ) Bounce Tracking Mitigations 
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/4E_UNp8mV_Y/m/eu_LAK4DCAAJ) same-site (cross-origin) prerendering triggered by the speculation rules API
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/a8CoYPI97Z8/m/aD_30gAlBwAJ) HTML `aria-brailleroledescription` and `aria-braillelabel` attributes
 
 August 2022
