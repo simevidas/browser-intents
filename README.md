@@ -15,7 +15,7 @@ September 2022
 - :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/GyxqF8ZDK5Q/m/TVwcJkSSCAAJ) Origin Private File System on Android
 - :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/BmmWnreaEII/m/S10HTJqECAAJ) Web Smart Card API
 - :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/AzUM6sVsjBc/m/UOGWgw2eAgAJ) CSS `@supports font-tech()` and `@supports font-format()` rules
-- :new: [Ex[eriment](https://groups.google.com/a/chromium.org/g/blink-dev/c/RhzscAx3qc8/m/qgBkBFmzAgAJ) Permission Policy `unload` permission
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/RhzscAx3qc8/m/qgBkBFmzAgAJ) Permission Policy `unload` permission
 - :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/gB4yAmF4msE/m/fw4OC1eWAgAJ) WebAuthn Conditional UI
 - :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/R90_BzkM_jY/m/SAxM8T1tCAAJ) Conditional Focus (cont.)
 - [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/laxVRNSzMVo/m/-JWrM-SoAQAJ) WebAuthn Conditional UI
