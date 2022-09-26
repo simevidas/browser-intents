@@ -12,12 +12,18 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 September 2022
 
-- :new: [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/laxVRNSzMVo/m/-JWrM-SoAQAJ) WebAuthn Conditional UI
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/PnQdSBOxDUc/m/yoZDSXhPCQAJ) `last baseline` alignment for flex/grid items
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/GyxqF8ZDK5Q/m/TVwcJkSSCAAJ) Origin Private File System on Android
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/BmmWnreaEII/m/S10HTJqECAAJ) Web Smart Card API
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/AzUM6sVsjBc/m/UOGWgw2eAgAJ) CSS `@supports font-tech()` and `@supports font-format()` rules
+- :new: [Ex[eriment](https://groups.google.com/a/chromium.org/g/blink-dev/c/RhzscAx3qc8/m/qgBkBFmzAgAJ) Permission Policy `unload` permission
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/gB4yAmF4msE/m/fw4OC1eWAgAJ) WebAuthn Conditional UI
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/R90_BzkM_jY/m/SAxM8T1tCAAJ) Conditional Focus (cont.)
+- [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/laxVRNSzMVo/m/-JWrM-SoAQAJ) WebAuthn Conditional UI
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/PnQdSBOxDUc/m/yoZDSXhPCQAJ) `last baseline` alignment for flex/grid items
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/_m5xConFTfY/m/yEkZzO8yCAAJ) HTTP `Sec-CH-Prefers-Reduced-Motion` header (client hint)
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/oMcbPblmD-k/m/eC-GipLdBwAJ) variations in COLRv1
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/KPCRWkJ9n1k/m/NAbzZ0_BCAAJ) CSS `lh` unit
-- [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/38Dpu-uhwFc/m/cFmPpi61CAAJ) Permission Policty `unload` permission
+- [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/38Dpu-uhwFc/m/cFmPpi61CAAJ) Permission Policy `unload` permission
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/vwQ2x1lByqc/m/re5WEH84CAAJ) Bounce Tracking Mitigations 
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/4E_UNp8mV_Y/m/eu_LAK4DCAAJ) same-site (cross-origin) prerendering triggered by the speculation rules API
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/a8CoYPI97Z8/m/aD_30gAlBwAJ) HTML `aria-brailleroledescription` and `aria-braillelabel` attributes
@@ -1549,6 +1555,11 @@ September 2015
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/iBX_2xfX6jc/Uc0D6jr3AgAJ) `stale-while-revalidate` Cache-control extension
 
 ### Firefox
+
+September 2022
+
+- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/wB3YLDD0Xuk/m/qr3_ZMb4BAAJ) default accessibility semantics for custom elements via the `ElementInternals` object
+- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/Xs0_dixyT9Q/m/BtScHqT1BAAJ) COLRv1 fonts
 
 August 2022
 
