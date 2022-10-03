@@ -12,12 +12,15 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 September 2022
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/GyxqF8ZDK5Q/m/TVwcJkSSCAAJ) Origin Private File System on Android
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/BmmWnreaEII/m/S10HTJqECAAJ) Web Smart Card API
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/AzUM6sVsjBc/m/UOGWgw2eAgAJ) CSS `@supports font-tech()` and `@supports font-format()` rules
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/RhzscAx3qc8/m/qgBkBFmzAgAJ) Permission Policy `unload` permission
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/gB4yAmF4msE/m/fw4OC1eWAgAJ) WebAuthn Conditional UI
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/R90_BzkM_jY/m/SAxM8T1tCAAJ) Conditional Focus (cont.)
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/_ulTuSJrk7U/m/DV8xIgHaAwAJ) `TrustedHTML` `fromLiteral` method
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/KgAdo3kB1wc/m/UN70zkeNAwAJ) `URLPattern` `ignoreCase` option
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/Qw2XTr0et_U/m/6eucoI_AAQAJ) CSS small, large, dynamic, and logical viewport units
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/GyxqF8ZDK5Q/m/TVwcJkSSCAAJ) Origin Private File System on Android
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/BmmWnreaEII/m/S10HTJqECAAJ) Web Smart Card API
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/AzUM6sVsjBc/m/UOGWgw2eAgAJ) CSS `@supports font-tech()` and `@supports font-format()` rules
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/RhzscAx3qc8/m/qgBkBFmzAgAJ) Permission Policy `unload` permission
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/gB4yAmF4msE/m/fw4OC1eWAgAJ) WebAuthn Conditional UI
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/R90_BzkM_jY/m/SAxM8T1tCAAJ) Conditional Focus (cont.)
 - [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/laxVRNSzMVo/m/-JWrM-SoAQAJ) WebAuthn Conditional UI
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/PnQdSBOxDUc/m/yoZDSXhPCQAJ) `last baseline` alignment for flex/grid items
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/_m5xConFTfY/m/yEkZzO8yCAAJ) HTTP `Sec-CH-Prefers-Reduced-Motion` header (client hint)
@@ -1558,8 +1561,9 @@ September 2015
 
 September 2022
 
-- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/wB3YLDD0Xuk/m/qr3_ZMb4BAAJ) default accessibility semantics for custom elements via the `ElementInternals` object
-- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/Xs0_dixyT9Q/m/BtScHqT1BAAJ) COLRv1 fonts
+- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/QtMpDO5ZHk8/m/xl62jnlTFQAJ) CSS `contain-intrinsic-size` property and its longhands
+- [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/wB3YLDD0Xuk/m/qr3_ZMb4BAAJ) default accessibility semantics for custom elements via the `ElementInternals` object
+- [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/Xs0_dixyT9Q/m/BtScHqT1BAAJ) COLRv1 fonts
 
 August 2022
 
