@@ -10,11 +10,20 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
+October 2022
+
+- :new: [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/2U4l5NHRTqY/m/N0CBxHFUBQAJ) partitioning Storage, Service Workers, and Communication APIs
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/Y5TN57Sc-lA/m/AXUkdlC0BQAJ) `last baseline` alignment for flex/grid items
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/URpYPPH-YQ4/m/E9pgS7GEBAAJ) Federated Credential Management API (was WebID)
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/576sXtXNeCA/m/mGBpw14WBQAJ) Private Aggregation API
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/-5lo8I9QT0c/m/L-9XRrLSBAAJ) Network State Partitioning 
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/-GxQ0MIcons/m/dTi5stNrBAAJ) CSS Nesting 
+
 September 2022
 
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/_ulTuSJrk7U/m/DV8xIgHaAwAJ) `TrustedHTML` `fromLiteral` method
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/KgAdo3kB1wc/m/UN70zkeNAwAJ) `URLPattern` `ignoreCase` option
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/Qw2XTr0et_U/m/6eucoI_AAQAJ) CSS small, large, dynamic, and logical viewport units
+- [Implement and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/_ulTuSJrk7U/m/DV8xIgHaAwAJ) `TrustedHTML` `fromLiteral` method
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/KgAdo3kB1wc/m/UN70zkeNAwAJ) `URLPattern` `ignoreCase` option
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/Qw2XTr0et_U/m/6eucoI_AAQAJ) CSS small, large, dynamic, and logical viewport units
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/GyxqF8ZDK5Q/m/TVwcJkSSCAAJ) Origin Private File System on Android
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/BmmWnreaEII/m/S10HTJqECAAJ) Web Smart Card API
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/AzUM6sVsjBc/m/UOGWgw2eAgAJ) CSS `@supports font-tech()` and `@supports font-format()` rules
@@ -1559,9 +1568,13 @@ September 2015
 
 ### Firefox
 
+October 2022
+
+- :new: [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/2btl0_eIZUE/m/BYQOuh6nFwAJ) CSS `font-palette` property and `@font-palette-values` at-rule
+
 September 2022
 
-- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/QtMpDO5ZHk8/m/xl62jnlTFQAJ) CSS `contain-intrinsic-size` property and its longhands
+- [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/QtMpDO5ZHk8/m/xl62jnlTFQAJ) CSS `contain-intrinsic-size` property and its longhands
 - [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/wB3YLDD0Xuk/m/qr3_ZMb4BAAJ) default accessibility semantics for custom elements via the `ElementInternals` object
 - [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/Xs0_dixyT9Q/m/BtScHqT1BAAJ) COLRv1 fonts
 
