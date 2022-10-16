@@ -12,12 +12,18 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 October 2022
 
-- :new: [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/2U4l5NHRTqY/m/N0CBxHFUBQAJ) partitioning Storage, Service Workers, and Communication APIs
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/Y5TN57Sc-lA/m/AXUkdlC0BQAJ) `last baseline` alignment for flex/grid items
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/URpYPPH-YQ4/m/E9pgS7GEBAAJ) Federated Credential Management API (was WebID)
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/576sXtXNeCA/m/mGBpw14WBQAJ) Private Aggregation API
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/-5lo8I9QT0c/m/L-9XRrLSBAAJ) Network State Partitioning 
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/-GxQ0MIcons/m/dTi5stNrBAAJ) CSS Nesting 
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/CwUy1UoqyVQ/m/BDKjmMjOAQAJ) CSS `hyphenate-limit-chars` property
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/OhYqSeOprBo/m/TRHxFjFLAQAJ) CSS `initial-letter` property
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/E3Q7qOCk7A4/m/kMtu9VlqAQAJ) CSS `lh` unit
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/egYFQm_FsUY/m/b7c4yraPAQAJ) same-site (cross-origin) prerendering triggered by the speculation rules API
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/kU5QFsVesyM/m/CLugArV-AQAJ) Conditional Focus
+- :new: [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/CE3ngAKFil4/m/P_uD3G1GAQAJ) Page Unload Beacon API (`PendingBeacon`)
+- [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/2U4l5NHRTqY/m/N0CBxHFUBQAJ) partitioning Storage, Service Workers, and Communication APIs
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/Y5TN57Sc-lA/m/AXUkdlC0BQAJ) `last baseline` alignment for flex/grid items
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/URpYPPH-YQ4/m/E9pgS7GEBAAJ) Federated Credential Management API (was WebID)
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/576sXtXNeCA/m/mGBpw14WBQAJ) Private Aggregation API
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/-5lo8I9QT0c/m/L-9XRrLSBAAJ) Network State Partitioning 
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/-GxQ0MIcons/m/dTi5stNrBAAJ) CSS Nesting 
 
 September 2022
 
@@ -1570,7 +1576,8 @@ September 2015
 
 October 2022
 
-- :new: [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/2btl0_eIZUE/m/BYQOuh6nFwAJ) CSS `font-palette` property and `@font-palette-values` at-rule
+- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/dUvw_czB8Uk/m/qDnrYsKVBAAJ) Audio Output Devices API
+- [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/2btl0_eIZUE/m/BYQOuh6nFwAJ) CSS `font-palette` property and `@font-palette-values` at-rule
 
 September 2022
 
