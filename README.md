@@ -12,12 +12,18 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 October 2022
 
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/CwUy1UoqyVQ/m/BDKjmMjOAQAJ) CSS `hyphenate-limit-chars` property
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/OhYqSeOprBo/m/TRHxFjFLAQAJ) CSS `initial-letter` property
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/E3Q7qOCk7A4/m/kMtu9VlqAQAJ) CSS `lh` unit
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/egYFQm_FsUY/m/b7c4yraPAQAJ) same-site (cross-origin) prerendering triggered by the speculation rules API
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/kU5QFsVesyM/m/CLugArV-AQAJ) Conditional Focus
-- :new: [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/CE3ngAKFil4/m/P_uD3G1GAQAJ) Page Unload Beacon API (`PendingBeacon`)
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/TjuGJ-8TeXk/m/X8gUvSejAwAJ) CSS `hyphenate-limit-chars` property
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/ce4hr99dUDc/m/C4wYpnKiAwAJ) Back/forward cache NotRestoredReason API
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/hzR6LNu4JFk/m/IYdj3MnaAgAJ) Web App Launch Handling (`"launch_handler"`)
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/JNOQvsTxecI/m/SOKMCKt_AwAJ) Cookies Having Independent Partitioned State (CHIPS)
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/QrPrveVyFnA/m/PkaPKfJ4AwAJ) `URLPatternList`
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/r0QATT8-kOw/m/7WdN2Y_sAwAJ) CSS `color()` and `color-mix()` functions, and other Color Level 4 additions
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/CwUy1UoqyVQ/m/BDKjmMjOAQAJ) CSS `hyphenate-limit-chars` property
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/OhYqSeOprBo/m/TRHxFjFLAQAJ) CSS `initial-letter` property
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/E3Q7qOCk7A4/m/kMtu9VlqAQAJ) CSS `lh` unit
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/egYFQm_FsUY/m/b7c4yraPAQAJ) same-site (cross-origin) prerendering triggered by the speculation rules API
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/kU5QFsVesyM/m/CLugArV-AQAJ) Conditional Focus
+- [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/CE3ngAKFil4/m/P_uD3G1GAQAJ) Page Unload Beacon API (`PendingBeacon`)
 - [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/2U4l5NHRTqY/m/N0CBxHFUBQAJ) partitioning Storage, Service Workers, and Communication APIs
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/Y5TN57Sc-lA/m/AXUkdlC0BQAJ) `last baseline` alignment for flex/grid items
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/URpYPPH-YQ4/m/E9pgS7GEBAAJ) Federated Credential Management API (was WebID)
@@ -1576,7 +1582,11 @@ September 2015
 
 October 2022
 
-- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/dUvw_czB8Uk/m/qDnrYsKVBAAJ) Audio Output Devices API
+- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/x--KRgIqRvA/m/68RHKqA4BgAJ) `width` and `height` attributes for HTML `<source>` elements
+- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/zwY8e68pGmo/m/93_Ty-CLDQAJ) CSP `script-src-elem`, `script-src-attr`, `style-src-elem`, `style-src-attr` directives
+- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/F9nrJbPX60A/m/Z8UYIO_ZBQAJ) CSS `font-variant-emoji` property
+- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/V2M5lYy28wU/m/3BDOuiPMBQAJ) Import Maps
+- [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/dUvw_czB8Uk/m/qDnrYsKVBAAJ) Audio Output Devices API
 - [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/2btl0_eIZUE/m/BYQOuh6nFwAJ) CSS `font-palette` property and `@font-palette-values` at-rule
 
 September 2022
