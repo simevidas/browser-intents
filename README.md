@@ -12,12 +12,16 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 October 2022
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/TjuGJ-8TeXk/m/X8gUvSejAwAJ) CSS `hyphenate-limit-chars` property
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/ce4hr99dUDc/m/C4wYpnKiAwAJ) Back/forward cache NotRestoredReason API
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/hzR6LNu4JFk/m/IYdj3MnaAgAJ) Web App Launch Handling (`"launch_handler"`)
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/JNOQvsTxecI/m/SOKMCKt_AwAJ) Cookies Having Independent Partitioned State (CHIPS)
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/QrPrveVyFnA/m/PkaPKfJ4AwAJ) `URLPatternList`
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/r0QATT8-kOw/m/7WdN2Y_sAwAJ) CSS `color()` and `color-mix()` functions, and other Color Level 4 additions
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/HLGgOhq_yJw/m/bTHea3fzAwAJ) `scheduler.yield` method
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/twjmdCcfHYM/m/JXwfSC_uAwAJ) anonymous iframes
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/C3bHhfzf7bY/m/fThW8NnoAwAJ) HTTP `Speculation-Rules` header
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/yAOfFp7elrw/m/7WtYP8iXAwAJ) reduced information in HTTP `Accept-Language` header and `navigator.languages` property
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/TjuGJ-8TeXk/m/X8gUvSejAwAJ) CSS `hyphenate-limit-chars` property
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/ce4hr99dUDc/m/C4wYpnKiAwAJ) Back/forward cache NotRestoredReason API
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/hzR6LNu4JFk/m/IYdj3MnaAgAJ) Web App Launch Handling (`"launch_handler"`)
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/JNOQvsTxecI/m/SOKMCKt_AwAJ) Cookies Having Independent Partitioned State (CHIPS)
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/QrPrveVyFnA/m/PkaPKfJ4AwAJ) `URLPatternList`
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/r0QATT8-kOw/m/7WdN2Y_sAwAJ) CSS `color()` and `color-mix()` functions, and other Color Level 4 additions
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/CwUy1UoqyVQ/m/BDKjmMjOAQAJ) CSS `hyphenate-limit-chars` property
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/OhYqSeOprBo/m/TRHxFjFLAQAJ) CSS `initial-letter` property
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/E3Q7qOCk7A4/m/kMtu9VlqAQAJ) CSS `lh` unit
@@ -1582,10 +1586,11 @@ September 2015
 
 October 2022
 
-- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/x--KRgIqRvA/m/68RHKqA4BgAJ) `width` and `height` attributes for HTML `<source>` elements
-- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/zwY8e68pGmo/m/93_Ty-CLDQAJ) CSP `script-src-elem`, `script-src-attr`, `style-src-elem`, `style-src-attr` directives
-- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/F9nrJbPX60A/m/Z8UYIO_ZBQAJ) CSS `font-variant-emoji` property
-- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/V2M5lYy28wU/m/3BDOuiPMBQAJ) Import Maps
+- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/-SFV2z-W4Gk/m/d4rTOp2QAgAJ) CSS trigonometric functions and constants
+- [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/x--KRgIqRvA/m/68RHKqA4BgAJ) `width` and `height` attributes for HTML `<source>` elements
+- [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/zwY8e68pGmo/m/93_Ty-CLDQAJ) CSP `script-src-elem`, `script-src-attr`, `style-src-elem`, `style-src-attr` directives
+- [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/F9nrJbPX60A/m/Z8UYIO_ZBQAJ) CSS `font-variant-emoji` property
+- [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/V2M5lYy28wU/m/3BDOuiPMBQAJ) Import Maps
 - [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/dUvw_czB8Uk/m/qDnrYsKVBAAJ) Audio Output Devices API
 - [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/2btl0_eIZUE/m/BYQOuh6nFwAJ) CSS `font-palette` property and `@font-palette-values` at-rule
 
