@@ -10,12 +10,23 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
+November 2022
+
+- :new: [Implement and ship]()
+- :new: [Implement and ship]()
+- :new: [Implement and ship]()
+- :new: [Implement and ship]()
+- :new: [Implement and ship]()
+- :new: [Implement and ship]()
+- :new: [Implement and ship]()
+- :new: [Implement and ship]()
+
 October 2022
 
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/HLGgOhq_yJw/m/bTHea3fzAwAJ) `scheduler.yield` method
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/twjmdCcfHYM/m/JXwfSC_uAwAJ) anonymous iframes
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/C3bHhfzf7bY/m/fThW8NnoAwAJ) HTTP `Speculation-Rules` header
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/yAOfFp7elrw/m/7WtYP8iXAwAJ) reduced information in HTTP `Accept-Language` header and `navigator.languages` property
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/HLGgOhq_yJw/m/bTHea3fzAwAJ) `scheduler.yield` method
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/twjmdCcfHYM/m/JXwfSC_uAwAJ) anonymous iframes
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/C3bHhfzf7bY/m/fThW8NnoAwAJ) HTTP `Speculation-Rules` header
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/yAOfFp7elrw/m/7WtYP8iXAwAJ) reduced information in HTTP `Accept-Language` header and `navigator.languages` property
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/TjuGJ-8TeXk/m/X8gUvSejAwAJ) CSS `hyphenate-limit-chars` property
 - [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/ce4hr99dUDc/m/C4wYpnKiAwAJ) Back/forward cache NotRestoredReason API
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/hzR6LNu4JFk/m/IYdj3MnaAgAJ) Web App Launch Handling (`"launch_handler"`)
@@ -1584,9 +1595,14 @@ September 2015
 
 ### Firefox
 
+
+November 2022
+
+- :new: [Experiment]([https://groups.google.com/a/chromium.org/g/blink-dev/c/WqIBRabU3C0/m/5lL4sf0KAQAJ](https://groups.google.com/a/chromium.org/g/blink-dev/c/1uKxZUFUQsU/m/ScNiR9qyAQAJ)) web app manifest `"user_preferences"` field (allows specifying dark mode colors) (updated)
+
 October 2022
 
-- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/-SFV2z-W4Gk/m/d4rTOp2QAgAJ) CSS trigonometric functions and constants
+- [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/-SFV2z-W4Gk/m/d4rTOp2QAgAJ) CSS trigonometric functions and constants
 - [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/x--KRgIqRvA/m/68RHKqA4BgAJ) `width` and `height` attributes for HTML `<source>` elements
 - [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/zwY8e68pGmo/m/93_Ty-CLDQAJ) CSP `script-src-elem`, `script-src-attr`, `style-src-elem`, `style-src-attr` directives
 - [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/F9nrJbPX60A/m/Z8UYIO_ZBQAJ) CSS `font-variant-emoji` property
