@@ -11,7 +11,7 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 November 2022
 
-- :new: [Experiment]([https://groups.google.com/a/chromium.org/g/blink-dev/c/WqIBRabU3C0/m/5lL4sf0KAQAJ](https://groups.google.com/a/chromium.org/g/blink-dev/c/1uKxZUFUQsU/m/ScNiR9qyAQAJ)) web app manifest `"user_preferences"` field (allows specifying dark mode colors) (updated)
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/1uKxZUFUQsU/m/ScNiR9qyAQAJ) web app manifest `"user_preferences"` field (allows specifying dark mode colors) (updated)
 
 October 2022
 
