@@ -3,7 +3,6 @@ This is my selection of relevant Chromium and Firefox intents (from [blink-dev](
 [Atom feed](https://github.com/simevidas/browser-intents/commits/master.atom).
 
 ---
-
 Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ---
@@ -12,14 +11,7 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 November 2022
 
-- :new: [Implement and ship]()
-- :new: [Implement and ship]()
-- :new: [Implement and ship]()
-- :new: [Implement and ship]()
-- :new: [Implement and ship]()
-- :new: [Implement and ship]()
-- :new: [Implement and ship]()
-- :new: [Implement and ship]()
+- :new: [Experiment]([https://groups.google.com/a/chromium.org/g/blink-dev/c/WqIBRabU3C0/m/5lL4sf0KAQAJ](https://groups.google.com/a/chromium.org/g/blink-dev/c/1uKxZUFUQsU/m/ScNiR9qyAQAJ)) web app manifest `"user_preferences"` field (allows specifying dark mode colors) (updated)
 
 October 2022
 
@@ -1594,11 +1586,6 @@ September 2015
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/iBX_2xfX6jc/Uc0D6jr3AgAJ) `stale-while-revalidate` Cache-control extension
 
 ### Firefox
-
-
-November 2022
-
-- :new: [Experiment]([https://groups.google.com/a/chromium.org/g/blink-dev/c/WqIBRabU3C0/m/5lL4sf0KAQAJ](https://groups.google.com/a/chromium.org/g/blink-dev/c/1uKxZUFUQsU/m/ScNiR9qyAQAJ)) web app manifest `"user_preferences"` field (allows specifying dark mode colors) (updated)
 
 October 2022
 
