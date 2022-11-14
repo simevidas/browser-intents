@@ -1590,7 +1590,7 @@ September 2015
 
 November 2022
 
-- [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/dsRxP4liTek/m/NQMH_XbRBgAJ) Origin Private File System API
+- :new: [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/dsRxP4liTek/m/NQMH_XbRBgAJ) Origin Private File System API
 
 October 2022
 
