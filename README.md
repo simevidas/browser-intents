@@ -11,7 +11,8 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 November 2022
 
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/1uKxZUFUQsU/m/ScNiR9qyAQAJ) web app manifest `"user_preferences"` field (allows specifying dark mode colors) (updated)
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/eTnrzZ4UxLE/m/bL0aXf4KAgAJ) View Transitions for single-page apps
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/1uKxZUFUQsU/m/ScNiR9qyAQAJ) web app manifest `"user_preferences"` field (allows specifying dark mode colors) (updated)
 
 October 2022
 
@@ -1586,6 +1587,10 @@ September 2015
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/iBX_2xfX6jc/Uc0D6jr3AgAJ) `stale-while-revalidate` Cache-control extension
 
 ### Firefox
+
+November 2022
+
+- [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/dsRxP4liTek/m/NQMH_XbRBgAJ) Origin Private File System API
 
 October 2022
 
