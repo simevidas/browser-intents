@@ -11,7 +11,11 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 November 2022
 
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/eTnrzZ4UxLE/m/bL0aXf4KAgAJ) View Transitions for single-page apps
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/s22QQi9Fa0E/m/2lGqbj2IBAAJ) Permission Policty `web-share` permission
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/qap6ReP3lDw/m/XGBeH_GrBAAJ) inactive document invalidation API (for invalidating documents from BFCache or prerendering)
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/PtHemJah2Qc/m/EkXmztgzCgAJ) Incoming Call Notifications
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/KOupRe29WhY/m/o9hqhUz9BgAJ) WebSockets over HTTP/3
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/eTnrzZ4UxLE/m/bL0aXf4KAgAJ) View Transitions for single-page apps
 - [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/1uKxZUFUQsU/m/ScNiR9qyAQAJ) web app manifest `"user_preferences"` field (allows specifying dark mode colors) (updated)
 
 October 2022
@@ -1590,7 +1594,7 @@ September 2015
 
 November 2022
 
-- :new: [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/dsRxP4liTek/m/NQMH_XbRBgAJ) Origin Private File System API
+- [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/dsRxP4liTek/m/NQMH_XbRBgAJ) Origin Private File System API
 
 October 2022
 
