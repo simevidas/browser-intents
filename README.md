@@ -11,10 +11,12 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 November 2022
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/s22QQi9Fa0E/m/2lGqbj2IBAAJ) Permission Policty `web-share` permission
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/qap6ReP3lDw/m/XGBeH_GrBAAJ) inactive document invalidation API (for invalidating documents from BFCache or prerendering)
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/PtHemJah2Qc/m/EkXmztgzCgAJ) Incoming Call Notifications
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/KOupRe29WhY/m/o9hqhUz9BgAJ) WebSockets over HTTP/3
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/1chZ62qRzIY/m/KIWHYZ_kBQAJ) CSS `initial-letter` property
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/zV9K3hdBwDM/m/KE4lfjSTBQAJ) CSS `initial-letter` property
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/s22QQi9Fa0E/m/2lGqbj2IBAAJ) Permission Policty `web-share` permission
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/qap6ReP3lDw/m/XGBeH_GrBAAJ) inactive document invalidation API (for invalidating documents from BFCache or prerendering)
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/PtHemJah2Qc/m/EkXmztgzCgAJ) Incoming Call Notifications
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/KOupRe29WhY/m/o9hqhUz9BgAJ) WebSockets over HTTP/3
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/eTnrzZ4UxLE/m/bL0aXf4KAgAJ) View Transitions for single-page apps
 - [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/1uKxZUFUQsU/m/ScNiR9qyAQAJ) web app manifest `"user_preferences"` field (allows specifying dark mode colors) (updated)
 
@@ -1594,6 +1596,7 @@ September 2015
 
 November 2022
 
+- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/15O04X2jE28/m/deXYDi85CQAJ) WebMIDI (via site permission add-ons)
 - [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/dsRxP4liTek/m/NQMH_XbRBgAJ) Origin Private File System API
 
 October 2022
