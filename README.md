@@ -9,10 +9,18 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
+December 2022
+
+- :new: [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/-_kPNC3tF2s/m/Jf_K2XdkBQAJ) First-Party Sets
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/uz9ySl61bBE/m/SZgxQpk2CAAJ) CSS `display` and `content-visibility` in animations
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/Oj9cS6p40Ws/m/x1Wjh_L2BwAJ) Network State Partitioning
+- :new: [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/b-XAY59jj0c/m/6fEheOlVBAAJ) Pending Beacon API (cont.)
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/8pxRArGQlS4/m/IeJOTvCIBAAJ) IDNA 2008 in Non-Transitional Mode for URL processing
+
 November 2022
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/1chZ62qRzIY/m/KIWHYZ_kBQAJ) CSS `initial-letter` property
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/zV9K3hdBwDM/m/KE4lfjSTBQAJ) CSS `initial-letter` property
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/1chZ62qRzIY/m/KIWHYZ_kBQAJ) CSS `initial-letter` property
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/zV9K3hdBwDM/m/KE4lfjSTBQAJ) CSS `initial-letter` property
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/s22QQi9Fa0E/m/2lGqbj2IBAAJ) Permission Policty `web-share` permission
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/qap6ReP3lDw/m/XGBeH_GrBAAJ) inactive document invalidation API (for invalidating documents from BFCache or prerendering)
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/PtHemJah2Qc/m/EkXmztgzCgAJ) Incoming Call Notifications
@@ -1594,9 +1602,13 @@ September 2015
 
 ### Firefox
 
+December 2022
+
+- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/MtRimnadWME/m/QSfdgomtCwAJ) `scrollend` event
+
 November 2022
 
-- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/15O04X2jE28/m/deXYDi85CQAJ) WebMIDI (via site permission add-ons)
+- [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/15O04X2jE28/m/deXYDi85CQAJ) WebMIDI (via site permission add-ons)
 - [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/dsRxP4liTek/m/NQMH_XbRBgAJ) Origin Private File System API
 
 October 2022
