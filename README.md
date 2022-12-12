@@ -11,11 +11,20 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 December 2022
 
-- :new: [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/-_kPNC3tF2s/m/Jf_K2XdkBQAJ) First-Party Sets
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/uz9ySl61bBE/m/SZgxQpk2CAAJ) CSS `display` and `content-visibility` in animations
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/Oj9cS6p40Ws/m/x1Wjh_L2BwAJ) Network State Partitioning
-- :new: [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/b-XAY59jj0c/m/6fEheOlVBAAJ) Pending Beacon API (cont.)
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/8pxRArGQlS4/m/IeJOTvCIBAAJ) IDNA 2008 in Non-Transitional Mode for URL processing
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/UiUVU722BbU/m/EhoQxbtICQAJ) CSS trigonometric functions (`sin()`, `cos()`, `tan()`, `asin()`, `acos()`, `atan()`, `atan2()`)
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/IKVUwMNmDgM/m/xJhRkU-tCwAJ) CSS `baseline-source` property
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/Ovz-6Dte-qA/m/ABaUFnt3CQAJ) streaming declarative shadow DOM
+- :new: [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/kZXexHhH7EA/m/k4p4KRRxCwAJ) Popover API (cont.)
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/CIrhWeBc-y0/m/EVsrznVqCwAJ) CSS Transitions on specified discrete properties
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/_s7rj-CuMF8/m/W9czG_8nCQAJ) `PointerEvent` `deviceId` property for mult-pen inking
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/mgJqym5-Xek/m/0EAN6v7CCQAJ) HTTPS Upgrade
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/IDXErld2g04/m/tJRD0Wu7CQAJ) CSS `font-variant-alternates` property and `@font-feature-values` rule
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/oCxWg8q_OQY/m/LUTw0T5cCQAJ) Additional Windowing Controls
+- [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/-_kPNC3tF2s/m/Jf_K2XdkBQAJ) First-Party Sets
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/uz9ySl61bBE/m/SZgxQpk2CAAJ) CSS `display` and `content-visibility` in animations
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/Oj9cS6p40Ws/m/x1Wjh_L2BwAJ) Network State Partitioning
+- [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/b-XAY59jj0c/m/6fEheOlVBAAJ) Pending Beacon API (cont.)
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/8pxRArGQlS4/m/IeJOTvCIBAAJ) IDNA 2008 in Non-Transitional Mode for URL processing
 
 November 2022
 
@@ -1604,7 +1613,7 @@ September 2015
 
 December 2022
 
-- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/MtRimnadWME/m/QSfdgomtCwAJ) `scrollend` event
+- [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/MtRimnadWME/m/QSfdgomtCwAJ) `scrollend` event
 
 November 2022
 
