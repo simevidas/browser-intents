@@ -11,15 +11,17 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 December 2022
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/UiUVU722BbU/m/EhoQxbtICQAJ) CSS trigonometric functions (`sin()`, `cos()`, `tan()`, `asin()`, `acos()`, `atan()`, `atan2()`)
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/IKVUwMNmDgM/m/xJhRkU-tCwAJ) CSS `baseline-source` property
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/Ovz-6Dte-qA/m/ABaUFnt3CQAJ) streaming declarative shadow DOM
-- :new: [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/kZXexHhH7EA/m/k4p4KRRxCwAJ) Popover API (cont.)
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/CIrhWeBc-y0/m/EVsrznVqCwAJ) CSS Transitions on specified discrete properties
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/_s7rj-CuMF8/m/W9czG_8nCQAJ) `PointerEvent` `deviceId` property for mult-pen inking
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/mgJqym5-Xek/m/0EAN6v7CCQAJ) HTTPS Upgrade
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/IDXErld2g04/m/tJRD0Wu7CQAJ) CSS `font-variant-alternates` property and `@font-feature-values` rule
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/oCxWg8q_OQY/m/LUTw0T5cCQAJ) Additional Windowing Controls
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/VomzPhvJCxI/m/SUhU9Z0vAgAJ) WebGPU 
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/ACL23q_nbK0/m/PaNJ81_qDAAJ) CSS container style queries for custom properties
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/UiUVU722BbU/m/EhoQxbtICQAJ) CSS trigonometric functions (`sin()`, `cos()`, `tan()`, `asin()`, `acos()`, `atan()`, `atan2()`)
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/IKVUwMNmDgM/m/xJhRkU-tCwAJ) CSS `baseline-source` property
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/Ovz-6Dte-qA/m/ABaUFnt3CQAJ) streaming declarative shadow DOM
+- [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/kZXexHhH7EA/m/k4p4KRRxCwAJ) Popover API (cont.)
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/CIrhWeBc-y0/m/EVsrznVqCwAJ) CSS Transitions on specified discrete properties
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/_s7rj-CuMF8/m/W9czG_8nCQAJ) `PointerEvent` `deviceId` property for mult-pen inking
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/mgJqym5-Xek/m/0EAN6v7CCQAJ) HTTPS Upgrade
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/IDXErld2g04/m/tJRD0Wu7CQAJ) CSS `font-variant-alternates` property and `@font-feature-values` rule
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/oCxWg8q_OQY/m/LUTw0T5cCQAJ) Additional Windowing Controls
 - [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/-_kPNC3tF2s/m/Jf_K2XdkBQAJ) First-Party Sets
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/uz9ySl61bBE/m/SZgxQpk2CAAJ) CSS `display` and `content-visibility` in animations
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/Oj9cS6p40Ws/m/x1Wjh_L2BwAJ) Network State Partitioning
@@ -1613,6 +1615,8 @@ September 2015
 
 December 2022
 
+- :new: [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/iFVK_N86tIs/m/PzVsSPYlBgAJ) CSP `'unsafe-hashes'` source expression
+- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/w-ddRvzGiTI/m/aoNSGNxDBQAJ) CSS `page` property (named pages)
 - [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/MtRimnadWME/m/QSfdgomtCwAJ) `scrollend` event
 
 November 2022
