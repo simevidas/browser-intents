@@ -11,8 +11,11 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 December 2022
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/VomzPhvJCxI/m/SUhU9Z0vAgAJ) WebGPU 
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/ACL23q_nbK0/m/PaNJ81_qDAAJ) CSS container style queries for custom properties
+- :new: [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/-1ciwdn23J4/m/djE2htFzDgAJ) Compute Pressure
+- :new: [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/46el9iRONFk/m/hIpDJq03DgAJ) WebGPU (cont.)
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/4q_k23rPMos/m/weWZkRXxDQAJ) Gamepad multitouch extension
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/VomzPhvJCxI/m/SUhU9Z0vAgAJ) WebGPU 
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/ACL23q_nbK0/m/PaNJ81_qDAAJ) CSS container style queries for custom properties
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/UiUVU722BbU/m/EhoQxbtICQAJ) CSS trigonometric functions (`sin()`, `cos()`, `tan()`, `asin()`, `acos()`, `atan()`, `atan2()`)
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/IKVUwMNmDgM/m/xJhRkU-tCwAJ) CSS `baseline-source` property
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/Ovz-6Dte-qA/m/ABaUFnt3CQAJ) streaming declarative shadow DOM
@@ -1615,8 +1618,8 @@ September 2015
 
 December 2022
 
-- :new: [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/iFVK_N86tIs/m/PzVsSPYlBgAJ) CSP `'unsafe-hashes'` source expression
-- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/w-ddRvzGiTI/m/aoNSGNxDBQAJ) CSS `page` property (named pages)
+- [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/iFVK_N86tIs/m/PzVsSPYlBgAJ) CSP `'unsafe-hashes'` source expression
+- [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/w-ddRvzGiTI/m/aoNSGNxDBQAJ) CSS `page` property (named pages)
 - [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/MtRimnadWME/m/QSfdgomtCwAJ) `scrollend` event
 
 November 2022
