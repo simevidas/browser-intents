@@ -11,9 +11,9 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 December 2022
 
-- :new: [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/-1ciwdn23J4/m/djE2htFzDgAJ) Compute Pressure
-- :new: [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/46el9iRONFk/m/hIpDJq03DgAJ) WebGPU (cont.)
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/4q_k23rPMos/m/weWZkRXxDQAJ) Gamepad multitouch extension
+- [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/-1ciwdn23J4/m/djE2htFzDgAJ) Compute Pressure
+- [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/46el9iRONFk/m/hIpDJq03DgAJ) WebGPU (cont.)
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/4q_k23rPMos/m/weWZkRXxDQAJ) Gamepad multitouch extension
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/VomzPhvJCxI/m/SUhU9Z0vAgAJ) WebGPU 
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/ACL23q_nbK0/m/PaNJ81_qDAAJ) CSS container style queries for custom properties
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/UiUVU722BbU/m/EhoQxbtICQAJ) CSS trigonometric functions (`sin()`, `cos()`, `tan()`, `asin()`, `acos()`, `atan()`, `atan2()`)
