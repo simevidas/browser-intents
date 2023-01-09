@@ -9,6 +9,12 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
+January 2022
+
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/uTbFlDLATho/m/40ffuELSBQAJ) CSS `rex`, `rch`, `ric`, and `rlh` units
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/eEeDzwtw5v0/m/wYqhn46XBQAJ) HTTP `Priority` request header
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/t8lL5RvfLJY/m/G8kqXibSAwAJ) fullscreen popup windows (for Multi-Screen Window Placement)
+
 December 2022
 
 - [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/-1ciwdn23J4/m/djE2htFzDgAJ) Compute Pressure
@@ -1615,6 +1621,10 @@ September 2015
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/iBX_2xfX6jc/Uc0D6jr3AgAJ) `stale-while-revalidate` Cache-control extension
 
 ### Firefox
+
+January 2022
+
+- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/eKyeqjCa_co/m/eq8B81jiAwAJ) WebGPU
 
 December 2022
 
