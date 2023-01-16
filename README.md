@@ -11,9 +11,14 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 January 2022
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/uTbFlDLATho/m/40ffuELSBQAJ) CSS `rex`, `rch`, `ric`, and `rlh` units
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/eEeDzwtw5v0/m/wYqhn46XBQAJ) HTTP `Priority` request header
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/t8lL5RvfLJY/m/G8kqXibSAwAJ) fullscreen popup windows (for Multi-Screen Window Placement)
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/okJfodMmuQY/m/KSH_tTDGAAAJ) CSS `abs()` and `sign()` functions
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/6zLouMDG4Eg/m/m_NrxjadAAAJ) selector argument in CSS `:nth-child()` and `:nth-last-child()` pseudo-classes (`An+B of S`)
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/gLNyu0lTRS0/m/yHcJhlDMBgAJ) CSS `baseline-source` property
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/Lq0tn6WAGsQ/m/uUrzIBVmAAAJ) WebXR Front-facing Camera API
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/Tz1gUh92dXs/m/kbP9ABXPBgAJ) Document Picture-in-Picture
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/uTbFlDLATho/m/40ffuELSBQAJ) CSS `rex`, `rch`, `ric`, and `rlh` units
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/eEeDzwtw5v0/m/wYqhn46XBQAJ) HTTP `Priority` request header
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/t8lL5RvfLJY/m/G8kqXibSAwAJ) fullscreen popup windows (for Multi-Screen Window Placement)
 
 December 2022
 
@@ -1624,7 +1629,12 @@ September 2015
 
 January 2022
 
-- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/eKyeqjCa_co/m/eq8B81jiAwAJ) WebGPU
+- :new: [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/L3SjAs3xV6c/m/LUs2TNBrAAAJ) CSS size container queries
+- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/o69QCIYoxpU/m/DvDYZOlRBwAJ) focus fixup rule
+- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/qXbgQc7WoxM/m/wQ5MrQ5ABwAJ) permanently partitioned third-party storage
+- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/4s_5fRGO38k/m/gsnMNyEZBwAJ) HTML `autocapitalize` attribute
+- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/bazhFYQH6C8/m/cGi6AvR4AAAJ) CSS `page` property (named pages)
+- [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/eKyeqjCa_co/m/eq8B81jiAwAJ) WebGPU
 
 December 2022
 
