@@ -1630,7 +1630,7 @@ September 2015
 January 2022
 
 - :new: [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/L3SjAs3xV6c/m/LUs2TNBrAAAJ) CSS size container queries
-- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/o69QCIYoxpU/m/DvDYZOlRBwAJ) focus fixup rule
+- :new: [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/o69QCIYoxpU/m/DvDYZOlRBwAJ) focus fixup rule
 - :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/qXbgQc7WoxM/m/wQ5MrQ5ABwAJ) permanently partitioned third-party storage
 - :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/4s_5fRGO38k/m/gsnMNyEZBwAJ) HTML `autocapitalize` attribute
 - :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/bazhFYQH6C8/m/cGi6AvR4AAAJ) CSS `page` property (named pages)
