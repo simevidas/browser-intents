@@ -11,11 +11,19 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 January 2022
 
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/okJfodMmuQY/m/KSH_tTDGAAAJ) CSS `abs()` and `sign()` functions
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/6zLouMDG4Eg/m/m_NrxjadAAAJ) selector argument in CSS `:nth-child()` and `:nth-last-child()` pseudo-classes (`An+B of S`)
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/gLNyu0lTRS0/m/yHcJhlDMBgAJ) CSS `baseline-source` property
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/Lq0tn6WAGsQ/m/uUrzIBVmAAAJ) WebXR Front-facing Camera API
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/Tz1gUh92dXs/m/kbP9ABXPBgAJ) Document Picture-in-Picture
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/yBoEl6_5rqE/m/grsT0BUUAQAJ) CSS `user-select: contain` keyword
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/SFWYCfjJNhs/m/wiUkJcZlAQAJ) Permission Policy `unload` permission (cont.)
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/22MU6QJK7l0/m/Ezu0RZMYAQAJ) expanded CSS `font` shorthand
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/CEL3wWHrTAQ/m/Ihf0EoPiAQAJ) updated `<dialog>` initial focus algorithm
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/AJJiH6Pjr50/m/6z9YEe4nAgAJ) View Transitions for single-page apps
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/xzT-vN-bx0s/m/qWrGNWwQAAAJ) streaming declarative shadow DOM
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/eFCrkiLynfU/m/JLsh3zQuAAAJ) CSS Nesting
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/98zjr6wY2cw/m/3lQytA4iAAAJ) Back/forward cache NotRestoredReason API (cont.)
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/okJfodMmuQY/m/KSH_tTDGAAAJ) CSS `abs()` and `sign()` functions
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/6zLouMDG4Eg/m/m_NrxjadAAAJ) selector argument in CSS `:nth-child()` and `:nth-last-child()` pseudo-classes (`An+B of S`)
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/gLNyu0lTRS0/m/yHcJhlDMBgAJ) CSS `baseline-source` property
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/Lq0tn6WAGsQ/m/uUrzIBVmAAAJ) WebXR Front-facing Camera API
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/Tz1gUh92dXs/m/kbP9ABXPBgAJ) Document Picture-in-Picture
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/uTbFlDLATho/m/40ffuELSBQAJ) CSS `rex`, `rch`, `ric`, and `rlh` units
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/eEeDzwtw5v0/m/wYqhn46XBQAJ) HTTP `Priority` request header
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/t8lL5RvfLJY/m/G8kqXibSAwAJ) fullscreen popup windows (for Multi-Screen Window Placement)
@@ -1629,11 +1637,11 @@ September 2015
 
 January 2022
 
-- :new: [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/L3SjAs3xV6c/m/LUs2TNBrAAAJ) CSS size container queries
-- :new: [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/o69QCIYoxpU/m/DvDYZOlRBwAJ) focus fixup rule
-- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/qXbgQc7WoxM/m/wQ5MrQ5ABwAJ) permanently partitioned third-party storage
-- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/4s_5fRGO38k/m/gsnMNyEZBwAJ) HTML `autocapitalize` attribute
-- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/bazhFYQH6C8/m/cGi6AvR4AAAJ) CSS `page` property (named pages)
+- [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/L3SjAs3xV6c/m/LUs2TNBrAAAJ) CSS size container queries
+- [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/o69QCIYoxpU/m/DvDYZOlRBwAJ) focus fixup rule
+- [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/qXbgQc7WoxM/m/wQ5MrQ5ABwAJ) permanently partitioned third-party storage
+- [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/4s_5fRGO38k/m/gsnMNyEZBwAJ) HTML `autocapitalize` attribute
+- [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/bazhFYQH6C8/m/cGi6AvR4AAAJ) CSS `page` property (named pages)
 - [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/eKyeqjCa_co/m/eq8B81jiAwAJ) WebGPU
 
 December 2022
