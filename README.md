@@ -11,14 +11,15 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 January 2022
 
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/yBoEl6_5rqE/m/grsT0BUUAQAJ) CSS `user-select: contain` keyword
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/SFWYCfjJNhs/m/wiUkJcZlAQAJ) Permission Policy `unload` permission (cont.)
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/22MU6QJK7l0/m/Ezu0RZMYAQAJ) expanded CSS `font` shorthand
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/CEL3wWHrTAQ/m/Ihf0EoPiAQAJ) updated `<dialog>` initial focus algorithm
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/AJJiH6Pjr50/m/6z9YEe4nAgAJ) View Transitions for single-page apps
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/xzT-vN-bx0s/m/qWrGNWwQAAAJ) streaming declarative shadow DOM
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/eFCrkiLynfU/m/JLsh3zQuAAAJ) CSS Nesting
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/98zjr6wY2cw/m/3lQytA4iAAAJ) Back/forward cache NotRestoredReason API (cont.)
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/5Lg0kHOUZ8Y/m/pEdKZsCrAgAJ) CSS `animation-composition` property
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/yBoEl6_5rqE/m/grsT0BUUAQAJ) CSS `user-select: contain` keyword
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/SFWYCfjJNhs/m/wiUkJcZlAQAJ) Permission Policy `unload` permission (cont.)
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/22MU6QJK7l0/m/Ezu0RZMYAQAJ) expanded CSS `font` shorthand
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/CEL3wWHrTAQ/m/Ihf0EoPiAQAJ) updated `<dialog>` initial focus algorithm
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/AJJiH6Pjr50/m/6z9YEe4nAgAJ) View Transitions for single-page apps
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/xzT-vN-bx0s/m/qWrGNWwQAAAJ) streaming declarative shadow DOM
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/eFCrkiLynfU/m/JLsh3zQuAAAJ) CSS Nesting
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/98zjr6wY2cw/m/3lQytA4iAAAJ) Back/forward cache NotRestoredReason API (cont.)
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/okJfodMmuQY/m/KSH_tTDGAAAJ) CSS `abs()` and `sign()` functions
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/6zLouMDG4Eg/m/m_NrxjadAAAJ) selector argument in CSS `:nth-child()` and `:nth-last-child()` pseudo-classes (`An+B of S`)
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/gLNyu0lTRS0/m/yHcJhlDMBgAJ) CSS `baseline-source` property
