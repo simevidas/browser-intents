@@ -9,9 +9,16 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
-January 2022
+February 2023
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/5Lg0kHOUZ8Y/m/pEdKZsCrAgAJ) CSS `animation-composition` property
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/nx2P-B8Rhx4/m/QbE3n68fAgAJ) CSS `top-layer` property
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/s3dqBLX6gVo/m/6fkVvpUhAgAJ) CSS `:initial` pseudo class
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/JkYewB8Tv0U/m/XCiLhF02AQAJ) Permissions Policy `"battery"` token
+
+January 2023
+
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/ap0OlhbDeMg/m/hDGYpIygDAAJ) Controlled Frame API for Isolated Web Apps
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/5Lg0kHOUZ8Y/m/pEdKZsCrAgAJ) CSS `animation-composition` property
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/yBoEl6_5rqE/m/grsT0BUUAQAJ) CSS `user-select: contain` keyword
 - [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/SFWYCfjJNhs/m/wiUkJcZlAQAJ) Permission Policy `unload` permission (cont.)
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/22MU6QJK7l0/m/Ezu0RZMYAQAJ) expanded CSS `font` shorthand
@@ -1636,7 +1643,11 @@ September 2015
 
 ### Firefox
 
-January 2022
+February 2023
+
+- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/9FkNumU5X44/m/KfId_s9AAQAJ) Screen Orientation `lock` method on Android and Windows tablet
+
+January 2023
 
 - [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/L3SjAs3xV6c/m/LUs2TNBrAAAJ) CSS size container queries
 - [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/o69QCIYoxpU/m/DvDYZOlRBwAJ) focus fixup rule
