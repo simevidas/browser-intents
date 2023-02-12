@@ -11,13 +11,16 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 February 2023
 
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/nx2P-B8Rhx4/m/QbE3n68fAgAJ) CSS `top-layer` property
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/s3dqBLX6gVo/m/6fkVvpUhAgAJ) CSS `:initial` pseudo class
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/JkYewB8Tv0U/m/XCiLhF02AQAJ) Permissions Policy `"battery"` token
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/xAL5UoXD19E/m/U9ACH92EAgAJ) service worker fetch fast-path for main resources
+- :new: [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/r3IwTXB8MG8/m/x7zSK1UtAwAJ) Popover API (cont.)
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/yEwHDXaRIF8/m/3n8ENrVlAwAJ) CSS `text-wrap: balance` keyword
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/nx2P-B8Rhx4/m/QbE3n68fAgAJ) CSS `top-layer` property
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/s3dqBLX6gVo/m/6fkVvpUhAgAJ) CSS `:initial` pseudo class
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/JkYewB8Tv0U/m/XCiLhF02AQAJ) Permissions Policy `"battery"` token
 
 January 2023
 
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/ap0OlhbDeMg/m/hDGYpIygDAAJ) Controlled Frame API for Isolated Web Apps
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/ap0OlhbDeMg/m/hDGYpIygDAAJ) Controlled Frame API for Isolated Web Apps
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/5Lg0kHOUZ8Y/m/pEdKZsCrAgAJ) CSS `animation-composition` property
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/yBoEl6_5rqE/m/grsT0BUUAQAJ) CSS `user-select: contain` keyword
 - [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/SFWYCfjJNhs/m/wiUkJcZlAQAJ) Permission Policy `unload` permission (cont.)
@@ -1645,7 +1648,7 @@ September 2015
 
 February 2023
 
-- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/9FkNumU5X44/m/KfId_s9AAQAJ) Screen Orientation `lock` method on Android and Windows tablet
+- [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/9FkNumU5X44/m/KfId_s9AAQAJ) Screen Orientation `lock` method on Android and Windows tablet
 
 January 2023
 
