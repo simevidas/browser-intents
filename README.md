@@ -11,9 +11,11 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 February 2023
 
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/xAL5UoXD19E/m/U9ACH92EAgAJ) service worker fetch fast-path for main resources
-- :new: [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/r3IwTXB8MG8/m/x7zSK1UtAwAJ) Popover API (cont.)
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/yEwHDXaRIF8/m/3n8ENrVlAwAJ) CSS `text-wrap: balance` keyword
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/wQ_8T-AXLFA/m/IbL4wlAMBAAJ) CSS `font-variant-position` property
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/eEb9q68xysU/m/asQClYSPBQAJ) CSS `linear()` easing function
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/xAL5UoXD19E/m/U9ACH92EAgAJ) service worker fetch fast-path for main resources
+- [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/r3IwTXB8MG8/m/x7zSK1UtAwAJ) Popover API (cont.)
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/yEwHDXaRIF8/m/3n8ENrVlAwAJ) CSS `text-wrap: balance` keyword
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/nx2P-B8Rhx4/m/QbE3n68fAgAJ) CSS `top-layer` property
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/s3dqBLX6gVo/m/6fkVvpUhAgAJ) CSS `:initial` pseudo class
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/JkYewB8Tv0U/m/XCiLhF02AQAJ) Permissions Policy `"battery"` token
