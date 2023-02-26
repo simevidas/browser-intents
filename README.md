@@ -11,8 +11,8 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 February 2023
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/wQ_8T-AXLFA/m/IbL4wlAMBAAJ) CSS `font-variant-position` property
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/eEb9q68xysU/m/asQClYSPBQAJ) CSS `linear()` easing function
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/wQ_8T-AXLFA/m/IbL4wlAMBAAJ) CSS `font-variant-position` property
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/eEb9q68xysU/m/asQClYSPBQAJ) CSS `linear()` easing function
 - [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/xAL5UoXD19E/m/U9ACH92EAgAJ) service worker fetch fast-path for main resources
 - [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/r3IwTXB8MG8/m/x7zSK1UtAwAJ) Popover API (cont.)
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/yEwHDXaRIF8/m/3n8ENrVlAwAJ) CSS `text-wrap: balance` keyword
