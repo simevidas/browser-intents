@@ -11,6 +11,10 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 February 2023
 
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/f5eLz6PIXaI/m/R__N3BdjAAAJ) CSS `text-wrap` property
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/RbaW9X_hML4/m/rjffwMRgAAAJ) CSS `overflow-inline` and `overflow-block` media features
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/Q7fjvM9Mn0c/m/Mz14zzFhAAAJ) CSS `linear()` easing function
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/HxqAcgnTs8o/m/GnyzeChXAAAJ) CSS `update` media feature
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/wQ_8T-AXLFA/m/IbL4wlAMBAAJ) CSS `font-variant-position` property
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/eEb9q68xysU/m/asQClYSPBQAJ) CSS `linear()` easing function
 - [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/xAL5UoXD19E/m/U9ACH92EAgAJ) service worker fetch fast-path for main resources
@@ -1647,6 +1651,11 @@ September 2015
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/iBX_2xfX6jc/Uc0D6jr3AgAJ) `stale-while-revalidate` Cache-control extension
 
 ### Firefox
+
+March 2023
+
+- :new: [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/HCTHp4XMCKk/m/SN5Iboy_AQAJ) CSS `forced-color-adjust` property
+- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/BxEIDf22HmM/m/dlUckNABBgAJ) CSS `linear()` easing function
 
 February 2023
 
