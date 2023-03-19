@@ -11,7 +11,7 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 March 2023
 
-- :new: [Ship]() CSS `:lang` pseudo-class
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/tO598HXuS94/m/x8rIA38aBgAJ) CSS `:lang` pseudo-class
 - :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/UK6TtET2gOI/m/mtms_sjtBQAJ) CSS transitions of discrete properties
 - :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/UV9POKsNZA8/m/BrPcZSnuBQAJ) CSS `display` and `content-visibility` in animations
 - :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/uB_jxbRmjAM/m/Ona8hJ1BAQAJ) Popover API
