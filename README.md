@@ -11,8 +11,13 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 March 2023
 
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/tYeALJeWwDc/m/MD4WuN0wBAAJ) CSS `text-box-trim` property
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/DYb5fXICJvo/m/MlEp_PPeBAAJ) Screen-Capture Mouse Events
+- :new: [Ship]() CSS `:lang` pseudo-class
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/UK6TtET2gOI/m/mtms_sjtBQAJ) CSS transitions of discrete properties
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/UV9POKsNZA8/m/BrPcZSnuBQAJ) CSS `display` and `content-visibility` in animations
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/uB_jxbRmjAM/m/Ona8hJ1BAQAJ) Popover API
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/n_FPQNFt_9k/m/7C3pplhIAQAJ) Popover API `popover=hint` attribute value
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/tYeALJeWwDc/m/MD4WuN0wBAAJ) CSS `text-box-trim` property
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/DYb5fXICJvo/m/MlEp_PPeBAAJ) Screen-Capture Mouse Events
 
 February 2023
 
@@ -1659,8 +1664,12 @@ September 2015
 
 March 2023
 
-- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/doxNXSEFtEE/m/CGsR1fLlAgAJ) Async Clipboard API `read` and `readText` with user confirmation
-- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/05UFVR_nj3I/m/GIVT4VwHAwAJ) HTML `inert` attribute
+- :new: [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/eQeeFKYJ038/m/EfFYIA87AAAJ) selector argument in CSS `:nth-child()` and `:nth-last-child()` pseudo-classes
+- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/fE37aJ_YdA8/m/Sfv0ggpLBQAJ) CSS Custom Highlight API
+- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/l410J8odZjA/m/5Bdnh9sKBQAJ) CSS `prefers-reduced-transparency` media feature
+- :new: [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/eTJLWJEuLv0/m/5VvC6Iz4BAAJ) CSS Color 4 functions (`lab()`, `lch()`, `oklab()`, `oklch()`, `color()`)
+- [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/doxNXSEFtEE/m/CGsR1fLlAgAJ) Async Clipboard API `read` and `readText` with user confirmation
+- [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/05UFVR_nj3I/m/GIVT4VwHAwAJ) HTML `inert` attribute
 - [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/HCTHp4XMCKk/m/SN5Iboy_AQAJ) CSS `forced-color-adjust` property
 - [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/BxEIDf22HmM/m/dlUckNABBgAJ) CSS `linear()` easing function
 
