@@ -11,10 +11,14 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 March 2023
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/zCW6oEALAl4/m/srX-GMQaAgAJ) `requestStorageAccessFor` method for First-Party Sets
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/V9PzoCvIIIs/m/CZ4JT7YaAgAJ) Storage Access API within First-Party Sets
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/7_6JDIfE1as/m/wModmpcaAgAJ) First-Party Sets
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/oHg2u4ijXUU/m/ORzeRnTxAQAJ) animation behavior for the CSS `font-palette` property
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/gIyvMw0n2qw/m/-WZC9C4VCQAJ) RegExp `v` flag for HTML `pattern` attribute
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/RQA5rYmXiH8/m/yGcs8eohCQAJ) `scrollend` event type
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/YbQQdVB19ws/m/NoA-TC9XCAAJ) Document Subtitle (`<meta name="subtitle">` and `document.subtitle`)
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/2FufB-ckycw/m/mj1I3iUECAAJ) CSS `font-size-adjust` property (new syntax)
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/zCW6oEALAl4/m/srX-GMQaAgAJ) `requestStorageAccessFor` method for First-Party Sets
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/V9PzoCvIIIs/m/CZ4JT7YaAgAJ) Storage Access API within First-Party Sets
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/7_6JDIfE1as/m/wModmpcaAgAJ) First-Party Sets
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/oHg2u4ijXUU/m/ORzeRnTxAQAJ) animation behavior for the CSS `font-palette` property
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/tO598HXuS94/m/x8rIA38aBgAJ) CSS `:lang` pseudo-class
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/UK6TtET2gOI/m/mtms_sjtBQAJ) CSS transitions of discrete properties
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/UV9POKsNZA8/m/BrPcZSnuBQAJ) CSS `display` and `content-visibility` in animations
@@ -1668,6 +1672,10 @@ September 2015
 
 March 2023
 
+- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/edh4kzqMyKw/m/K2J2Q53MAgAJ) CSS `color-mix()` function
+- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/U4nufgUTdAk/m/EhRkBZkZAgAJ) SVG `<discard>` element
+- :new: [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/BU3zzial8lE/m/NzJhLV0MAgAJ) CSS `scripting` media feature
+- :new: [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/8ZwB7g9wwic/m/YKpmKC3HAQAJ) Compression Streams
 - [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/eQeeFKYJ038/m/EfFYIA87AAAJ) selector argument in CSS `:nth-child()` and `:nth-last-child()` pseudo-classes
 - [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/fE37aJ_YdA8/m/Sfv0ggpLBQAJ) CSS Custom Highlight API
 - [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/l410J8odZjA/m/5Bdnh9sKBQAJ) CSS `prefers-reduced-transparency` media feature
