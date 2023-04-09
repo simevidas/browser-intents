@@ -9,12 +9,20 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
+April 2023
+
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/GYdHdU6MoaU/m/dTYXlP4vMAAJ) CSS `display` property (new two-value syntax)
+- :new: [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/EnDQsWx8cGQ/m/_eZkw9RLMAAJ) fullscreen popup windows
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/24hK6DKJnqY/m/ChL2WWx5CgAJ) partitioned storage, service workers, and communication APIs in third-party contexts
+- :new: [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/3_H90tUG09w/m/UIr83JQOMAAJ) `scheduler.yield` method
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/hMfzJiqb6d0/m/dnw7hPvxLwAJ) Local Network Access
+
 March 2023
 
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/gIyvMw0n2qw/m/-WZC9C4VCQAJ) RegExp `v` flag for HTML `pattern` attribute
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/RQA5rYmXiH8/m/yGcs8eohCQAJ) `scrollend` event type
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/YbQQdVB19ws/m/NoA-TC9XCAAJ) Document Subtitle (`<meta name="subtitle">` and `document.subtitle`)
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/2FufB-ckycw/m/mj1I3iUECAAJ) CSS `font-size-adjust` property (new syntax)
+- [Implement and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/gIyvMw0n2qw/m/-WZC9C4VCQAJ) RegExp `v` flag for HTML `pattern` attribute
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/RQA5rYmXiH8/m/yGcs8eohCQAJ) `scrollend` event type
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/YbQQdVB19ws/m/NoA-TC9XCAAJ) Document Subtitle (`<meta name="subtitle">` and `document.subtitle`)
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/2FufB-ckycw/m/mj1I3iUECAAJ) CSS `font-size-adjust` property (new syntax)
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/zCW6oEALAl4/m/srX-GMQaAgAJ) `requestStorageAccessFor` method for First-Party Sets
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/V9PzoCvIIIs/m/CZ4JT7YaAgAJ) Storage Access API within First-Party Sets
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/7_6JDIfE1as/m/wModmpcaAgAJ) First-Party Sets
@@ -1670,12 +1678,16 @@ September 2015
 
 ### Firefox
 
+April 2023
+
+- :new: [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/ynb0ZQFk0l4/m/g11EDxsYBgAJ) expanded CSS `:lang()` selector (incl. wildcard matching)
+
 March 2023
 
-- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/edh4kzqMyKw/m/K2J2Q53MAgAJ) CSS `color-mix()` function
-- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/U4nufgUTdAk/m/EhRkBZkZAgAJ) SVG `<discard>` element
-- :new: [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/BU3zzial8lE/m/NzJhLV0MAgAJ) CSS `scripting` media feature
-- :new: [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/8ZwB7g9wwic/m/YKpmKC3HAQAJ) Compression Streams
+- [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/edh4kzqMyKw/m/K2J2Q53MAgAJ) CSS `color-mix()` function
+- [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/U4nufgUTdAk/m/EhRkBZkZAgAJ) SVG `<discard>` element
+- [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/BU3zzial8lE/m/NzJhLV0MAgAJ) CSS `scripting` media feature
+- [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/8ZwB7g9wwic/m/YKpmKC3HAQAJ) Compression Streams
 - [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/eQeeFKYJ038/m/EfFYIA87AAAJ) selector argument in CSS `:nth-child()` and `:nth-last-child()` pseudo-classes
 - [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/fE37aJ_YdA8/m/Sfv0ggpLBQAJ) CSS Custom Highlight API
 - [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/l410J8odZjA/m/5Bdnh9sKBQAJ) CSS `prefers-reduced-transparency` media feature
