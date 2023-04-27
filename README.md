@@ -11,7 +11,7 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 April 2023
 
-- :new: [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/y7BHD8SL4YA/m/VJ3ikbiUAQAJ) Controlled Frame API for Isolated Web Apps
+- [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/y7BHD8SL4YA/m/VJ3ikbiUAQAJ) Controlled Frame API for Isolated Web Apps
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/GYdHdU6MoaU/m/dTYXlP4vMAAJ) CSS `display` property (new two-value syntax)
 - [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/EnDQsWx8cGQ/m/_eZkw9RLMAAJ) fullscreen popup windows
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/24hK6DKJnqY/m/ChL2WWx5CgAJ) partitioned storage, service workers, and communication APIs in third-party contexts
@@ -1681,8 +1681,9 @@ September 2015
 
 April 2023
 
-- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/sWJkRYO58dc/m/VurzqlGWBwAJ) conditional `@import` rules in CSS
-- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/knC9tMRu_cw/m/lTUKB69TBwAJ) CSS `inverted-colors` media feature
+- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/jVSRE6JommI/m/uZwDb79wAAAJ) CSS transitions of discrete properties
+- [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/sWJkRYO58dc/m/VurzqlGWBwAJ) conditional `@import` rules in CSS
+- [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/knC9tMRu_cw/m/lTUKB69TBwAJ) CSS `inverted-colors` media feature
 - [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/ynb0ZQFk0l4/m/g11EDxsYBgAJ) expanded CSS `:lang()` selector (incl. wildcard matching)
 
 March 2023
