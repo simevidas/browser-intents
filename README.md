@@ -10,10 +10,12 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 ### Chromium
 
 April 2023
-
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/QfJ4pngu3gc/m/oLL5nhBeAgAJ) Compute Pressure
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/YIgIas5_Q8s/m/okhgfSdlCgAJ) CSS `overlay` property
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/4FpvFisJS5Y/m/Yqw9vhgDAgAJ) multi-keyword values for the CSS `display` property
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/RDKAi9JPHwY/m/5MWvzGPjAgAJ) scroll-driven animations
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/LGfcc48qBHY/m/2emVcM3dAgAJ) Storage Buckets API
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/jzMA5vUqNDs/m/SH66Mc-dAgAJ) keyboard-focusable scroll containers
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/QfJ4pngu3gc/m/oLL5nhBeAgAJ) Compute Pressure
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/YIgIas5_Q8s/m/okhgfSdlCgAJ) CSS `overlay` property
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/4FpvFisJS5Y/m/Yqw9vhgDAgAJ) multi-keyword values for the CSS `display` property
 - [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/y7BHD8SL4YA/m/VJ3ikbiUAQAJ) Controlled Frame API for Isolated Web Apps
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/GYdHdU6MoaU/m/dTYXlP4vMAAJ) CSS `display` property (new two-value syntax)
 - [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/EnDQsWx8cGQ/m/_eZkw9RLMAAJ) fullscreen popup windows
@@ -1684,7 +1686,7 @@ September 2015
 
 April 2023
 
-- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/jVSRE6JommI/m/uZwDb79wAAAJ) CSS transitions of discrete properties
+- [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/jVSRE6JommI/m/uZwDb79wAAAJ) CSS transitions of discrete properties
 - [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/sWJkRYO58dc/m/VurzqlGWBwAJ) conditional `@import` rules in CSS
 - [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/knC9tMRu_cw/m/lTUKB69TBwAJ) CSS `inverted-colors` media feature
 - [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/ynb0ZQFk0l4/m/g11EDxsYBgAJ) expanded CSS `:lang()` selector (incl. wildcard matching)
