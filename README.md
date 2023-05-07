@@ -9,10 +9,16 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
+May 2023
+
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/Q1OX6ZA_aaE/m/ALwkAOfHAwAJ) Exclusive Accordion using `<details>` elements
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/O4TGz-41xsQ/m/rOK_TZtSBAAJ) boolean context style container queries
+
 April 2023
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/RDKAi9JPHwY/m/5MWvzGPjAgAJ) scroll-driven animations
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/LGfcc48qBHY/m/2emVcM3dAgAJ) Storage Buckets API
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/jzMA5vUqNDs/m/SH66Mc-dAgAJ) keyboard-focusable scroll containers
+
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/RDKAi9JPHwY/m/5MWvzGPjAgAJ) scroll-driven animations
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/LGfcc48qBHY/m/2emVcM3dAgAJ) Storage Buckets API
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/jzMA5vUqNDs/m/SH66Mc-dAgAJ) keyboard-focusable scroll containers
 - [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/QfJ4pngu3gc/m/oLL5nhBeAgAJ) Compute Pressure
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/YIgIas5_Q8s/m/okhgfSdlCgAJ) CSS `overlay` property
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/4FpvFisJS5Y/m/Yqw9vhgDAgAJ) multi-keyword values for the CSS `display` property
@@ -1683,6 +1689,14 @@ September 2015
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/iBX_2xfX6jc/Uc0D6jr3AgAJ) `stale-while-revalidate` Cache-control extension
 
 ### Firefox
+
+May 2023
+
+- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/0AyoUeje7Zo/m/Kcg4Sb75AgAJ) `modulepreload` link relation
+- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/J5zqdaNSpAM/m/97UWUaV5AwAJ) Module Workers
+- :new: [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/F6T4y2kQbvk/m/W7yttKhyAwAJ) HTML `dirname` attribute (submitting element directionality)
+- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/ee9M0DJrNDQ/m/dDc6mE9RAwAJ) conditional `@import supports()` rules
+- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/bQZYfe67KDk/m/20kKsMtMAwAJ) CSS `NaN`/`infinity` in `calc()`
 
 April 2023
 
