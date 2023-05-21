@@ -11,10 +11,12 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 May 2023
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/BemiGubA8AM/m/ENBOzVZUAgAJ) CSS Motion Path
-- :new: [Deprecate](https://groups.google.com/a/chromium.org/g/blink-dev/c/dvusqw9-IhI/m/SBkm_u1RAQAJ) `unload` event
-- :new: [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/ZCVcUEYzVHs/m/UJz1s6ChAQAJ) Pending Beacon API (cont.)
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/3zNf7e_yG9g/m/osdjIP1_AQAJ) CSS `scroll-start` property
+- :new: [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/OBZBZwS6qr0/m/VRySwd40AQAJ) web app manifest `"scope_extensions"` member
+- :new: [Deprecate](https://groups.google.com/a/chromium.org/g/blink-dev/c/qDsKRU-cQ_4/m/isA1mZ_aAAAJ) Mutation Events
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/BemiGubA8AM/m/ENBOzVZUAgAJ) CSS Motion Path
+- [Deprecate](https://groups.google.com/a/chromium.org/g/blink-dev/c/dvusqw9-IhI/m/SBkm_u1RAQAJ) `unload` event
+- [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/ZCVcUEYzVHs/m/UJz1s6ChAQAJ) Pending Beacon API (cont.)
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/3zNf7e_yG9g/m/osdjIP1_AQAJ) CSS `scroll-start` property
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/Q1OX6ZA_aaE/m/ALwkAOfHAwAJ) Exclusive Accordion using `<details>` elements
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/O4TGz-41xsQ/m/rOK_TZtSBAAJ) boolean context style container queries
 
@@ -1696,6 +1698,7 @@ September 2015
 
 May 2023
 
+- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/yy7uUP47KGQ/m/OxoUI2GHAgAJ) IndexedDB API in Private Browsing Mode
 - [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/0AyoUeje7Zo/m/Kcg4Sb75AgAJ) `modulepreload` link relation
 - [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/J5zqdaNSpAM/m/97UWUaV5AwAJ) Module Workers
 - [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/F6T4y2kQbvk/m/W7yttKhyAwAJ) HTML `dirname` attribute (submitting element directionality)
