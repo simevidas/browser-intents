@@ -11,8 +11,9 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 May 2023
 
-- :new: [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/OBZBZwS6qr0/m/VRySwd40AQAJ) web app manifest `"scope_extensions"` member
-- :new: [Deprecate](https://groups.google.com/a/chromium.org/g/blink-dev/c/qDsKRU-cQ_4/m/isA1mZ_aAAAJ) Mutation Events
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/UQ2kWVIV4rA/m/rqQpWkGiAgAJ) `'long-animation-frame'` performance entry type
+- [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/OBZBZwS6qr0/m/VRySwd40AQAJ) web app manifest `"scope_extensions"` member
+- [Deprecate](https://groups.google.com/a/chromium.org/g/blink-dev/c/qDsKRU-cQ_4/m/isA1mZ_aAAAJ) Mutation Events
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/BemiGubA8AM/m/ENBOzVZUAgAJ) CSS Motion Path
 - [Deprecate](https://groups.google.com/a/chromium.org/g/blink-dev/c/dvusqw9-IhI/m/SBkm_u1RAQAJ) `unload` event
 - [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/ZCVcUEYzVHs/m/UJz1s6ChAQAJ) Pending Beacon API (cont.)
@@ -1698,7 +1699,8 @@ September 2015
 
 May 2023
 
-- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/yy7uUP47KGQ/m/OxoUI2GHAgAJ) IndexedDB API in Private Browsing Mode
+- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/3gWCLxUccHQ/m/A673S09jAAAJ) CSS `animation-composition` property
+- [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/yy7uUP47KGQ/m/OxoUI2GHAgAJ) IndexedDB API in Private Browsing Mode
 - [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/0AyoUeje7Zo/m/Kcg4Sb75AgAJ) `modulepreload` link relation
 - [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/J5zqdaNSpAM/m/97UWUaV5AwAJ) Module Workers
 - [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/F6T4y2kQbvk/m/W7yttKhyAwAJ) HTML `dirname` attribute (submitting element directionality)
