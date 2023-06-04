@@ -11,8 +11,8 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 May 2023
 
-- :new : [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/AYoqvNluyeA/m/s1ozhwCRAAAJ) auto sizes for lazy-loaded images
-- :new : [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/OEfGbd74QnQ/m/KaX-2hhRAAAJ) CSS `@scope` rule
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/AYoqvNluyeA/m/s1ozhwCRAAAJ) auto sizes for lazy-loaded images
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/OEfGbd74QnQ/m/KaX-2hhRAAAJ) CSS `@scope` rule
 - [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/UQ2kWVIV4rA/m/rqQpWkGiAgAJ) `'long-animation-frame'` performance entry type
 - [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/OBZBZwS6qr0/m/VRySwd40AQAJ) web app manifest `"scope_extensions"` member
 - [Deprecate](https://groups.google.com/a/chromium.org/g/blink-dev/c/qDsKRU-cQ_4/m/isA1mZ_aAAAJ) Mutation Events
@@ -1701,7 +1701,7 @@ September 2015
 
 June 2023
 
-- :new : [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/BWLpi4dqZOE/m/v8-T7FYlAwAJ) `URL.canParse` function
+- :new: [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/BWLpi4dqZOE/m/v8-T7FYlAwAJ) `URL.canParse` function
 
 May 2023
 
