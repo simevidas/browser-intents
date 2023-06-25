@@ -11,12 +11,19 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 June 2023
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/qvfOyAVePfs/m/S04XMmTlCwAJ) CSS subgrid layout
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/QZQrESwcK3o/m/bppYLNy6AAAJ) EditContext API
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/vOadD_Up5B0/m/3Ezs2SxRDAAJ) `customElements.getName` method
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/EVt2oqzxWH0/m/u0GuItUYDAAJ) `customElements.getName` method
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/gN2zLde-2jI/m/2et_Mfv3AAAJ) `scheduler.yield` method
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/JTPl7fM64Lc/m/t-qwrAKmAAAJ) Document Picture-in-Picture
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/P77D6ohrwwg/m/yrYl7AjPAgAJ) `FileSystemObserver` API
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/rwBWqqOB_ag/m/ea9dZXvaDQAJ) CSS `text-wrap: pretty` keyword
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/dZ0NRwh7cvs/m/Gid2WD6WDQAJ) Shared Storage API
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/nHEvqrT5wvM/m/fCp-Kid8AgAJ) CSS `@starting-style` rule
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/GDsI0Hw-jYk/m/AsQS-km-DQAJ) `Content-Encoding: zstd` (Zstandard data compression mechanism)
+- :new: [Prototype and ship]() Zstandard, or "zstd" (pronounced "zee standard"), is a lossless data compression mechanism
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/tpw8wW0VenQ/m/GBdnH-qCDQAJ) Fenced Frames
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/qvfOyAVePfs/m/S04XMmTlCwAJ) CSS subgrid layout
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/QZQrESwcK3o/m/bppYLNy6AAAJ) EditContext API
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/vOadD_Up5B0/m/3Ezs2SxRDAAJ) `customElements.getName` method
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/EVt2oqzxWH0/m/u0GuItUYDAAJ) `customElements.getName` method
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/gN2zLde-2jI/m/2et_Mfv3AAAJ) `scheduler.yield` method
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/JTPl7fM64Lc/m/t-qwrAKmAAAJ) Document Picture-in-Picture
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/wIADRnljZDA/m/Ghfv2jyRAgAJ) DOM Parts
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/fyvsde2ay2A/m/RH9E8hB0AgAJ) ServiceWorker Static Routing API
 
@@ -1712,8 +1719,10 @@ September 2015
 
 June 2023
 
-- :new: [Implement](https://groups.google.com/a/mozilla.org/g/dev-platform/c/3g0fnn6682A/m/Nb1qVaA4AAAJ) WebCodecs
-- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/ysU5Q-uVhlk/m/lhp3EtcoAAAJ) pasting files using ClipboardEvent
+- :new: [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/2oBSRgIRf80/m/ikcoQ_1aAAAJ) CSS Nesting
+- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/ncmUwK1uO98/m/COhPA4ZrAAAJ) Federated Credential Management (FedCM)
+- [Implement](https://groups.google.com/a/mozilla.org/g/dev-platform/c/3g0fnn6682A/m/Nb1qVaA4AAAJ) WebCodecs
+- [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/ysU5Q-uVhlk/m/lhp3EtcoAAAJ) pasting files using ClipboardEvent
 - [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/hiYxsfzFuXs/m/agbbfuWFAwAJ) external hashes (SRI) in Content Security Policy
 - [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/BWLpi4dqZOE/m/v8-T7FYlAwAJ) `URL.canParse` function
 
