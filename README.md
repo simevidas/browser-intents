@@ -16,7 +16,6 @@ June 2023
 - :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/dZ0NRwh7cvs/m/Gid2WD6WDQAJ) Shared Storage API
 - :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/nHEvqrT5wvM/m/fCp-Kid8AgAJ) CSS `@starting-style` rule
 - :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/GDsI0Hw-jYk/m/AsQS-km-DQAJ) `Content-Encoding: zstd` (Zstandard data compression mechanism)
-- :new: [Prototype and ship]() Zstandard, or "zstd" (pronounced "zee standard"), is a lossless data compression mechanism
 - :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/tpw8wW0VenQ/m/GBdnH-qCDQAJ) Fenced Frames
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/qvfOyAVePfs/m/S04XMmTlCwAJ) CSS subgrid layout
 - [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/QZQrESwcK3o/m/bppYLNy6AAAJ) EditContext API
