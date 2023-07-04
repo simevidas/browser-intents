@@ -11,12 +11,15 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 June 2023
 
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/P77D6ohrwwg/m/yrYl7AjPAgAJ) `FileSystemObserver` API
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/rwBWqqOB_ag/m/ea9dZXvaDQAJ) CSS `text-wrap: pretty` keyword
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/dZ0NRwh7cvs/m/Gid2WD6WDQAJ) Shared Storage API
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/nHEvqrT5wvM/m/fCp-Kid8AgAJ) CSS `@starting-style` rule
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/GDsI0Hw-jYk/m/AsQS-km-DQAJ) `Content-Encoding: zstd` (Zstandard data compression mechanism)
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/tpw8wW0VenQ/m/GBdnH-qCDQAJ) Fenced Frames
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/4y0mb_hbGk8/m/10iNNKfKBAAJ) Permissions Policy `"unload"` feature
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/h7Ahp3QzHIE/m/31YAWnsKBAAJ) partitioning `:visited` links history
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/zt-nqGpURNY/m/FF6ciM6qAwAJ) Storage Access API with prompts
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/P77D6ohrwwg/m/yrYl7AjPAgAJ) `FileSystemObserver` API
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/rwBWqqOB_ag/m/ea9dZXvaDQAJ) CSS `text-wrap: pretty` keyword
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/dZ0NRwh7cvs/m/Gid2WD6WDQAJ) Shared Storage API
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/nHEvqrT5wvM/m/fCp-Kid8AgAJ) CSS `@starting-style` rule
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/GDsI0Hw-jYk/m/AsQS-km-DQAJ) `Content-Encoding: zstd` (Zstandard data compression mechanism)
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/tpw8wW0VenQ/m/GBdnH-qCDQAJ) Fenced Frames
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/qvfOyAVePfs/m/S04XMmTlCwAJ) CSS subgrid layout
 - [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/QZQrESwcK3o/m/bppYLNy6AAAJ) EditContext API
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/vOadD_Up5B0/m/3Ezs2SxRDAAJ) `customElements.getName` method
@@ -1718,8 +1721,10 @@ September 2015
 
 June 2023
 
-- :new: [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/2oBSRgIRf80/m/ikcoQ_1aAAAJ) CSS Nesting
-- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/ncmUwK1uO98/m/COhPA4ZrAAAJ) Federated Credential Management (FedCM)
+- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/deAFkKdg9rU/m/j1Aw_PzTBQAJ) CSS Properties and Values API
+- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/fL7NCda69-A/m/JiJzG8MQAQAJ) Audio Output Devices API
+- [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/2oBSRgIRf80/m/ikcoQ_1aAAAJ) CSS Nesting
+- [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/ncmUwK1uO98/m/COhPA4ZrAAAJ) Federated Credential Management (FedCM)
 - [Implement](https://groups.google.com/a/mozilla.org/g/dev-platform/c/3g0fnn6682A/m/Nb1qVaA4AAAJ) WebCodecs
 - [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/ysU5Q-uVhlk/m/lhp3EtcoAAAJ) pasting files using ClipboardEvent
 - [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/hiYxsfzFuXs/m/agbbfuWFAwAJ) external hashes (SRI) in Content Security Policy
