@@ -1728,7 +1728,7 @@ September 2015
 
 July 2023
 
-- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/fE37aJ_YdA8/m/EsWjAGIxAQAJ) CSS Custom Highlight API
+- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/fE37aJ_YdA8/m/Sfv0ggpLBQAJ) CSS Custom Highlight API
 
 June 2023
 
