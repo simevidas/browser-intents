@@ -9,11 +9,18 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
+July 2023
+
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/MaXgbE4vTbk/m/Q3QbI37IBQAJ) CSS `font-variant-emoji` property
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/FEOVeDh4QXM/m/GAwsJXXNBQAJ) `stroke-box`, `content-box`, and `border-box` values for CSS `transform-box` property
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/YK51qPdjM4A/m/GeGpCzWxBQAJ) CSS `word-break: auto` value (more natural line breaking for Japanese)
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/G5tPtziBkEA/m/HlAHT4u5BQAJ) NotRestoredReasons API (back/forward cache)
+
 June 2023
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/4y0mb_hbGk8/m/10iNNKfKBAAJ) Permissions Policy `"unload"` feature
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/h7Ahp3QzHIE/m/31YAWnsKBAAJ) partitioning `:visited` links history
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/zt-nqGpURNY/m/FF6ciM6qAwAJ) Storage Access API with prompts
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/4y0mb_hbGk8/m/10iNNKfKBAAJ) Permissions Policy `"unload"` feature
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/h7Ahp3QzHIE/m/31YAWnsKBAAJ) partitioning `:visited` links history
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/zt-nqGpURNY/m/FF6ciM6qAwAJ) Storage Access API with prompts
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/P77D6ohrwwg/m/yrYl7AjPAgAJ) `FileSystemObserver` API
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/rwBWqqOB_ag/m/ea9dZXvaDQAJ) CSS `text-wrap: pretty` keyword
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/dZ0NRwh7cvs/m/Gid2WD6WDQAJ) Shared Storage API
@@ -1719,10 +1726,14 @@ September 2015
 
 ### Firefox
 
+July 2023
+
+- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/fE37aJ_YdA8/m/EsWjAGIxAQAJ) CSS Custom Highlight API
+
 June 2023
 
-- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/deAFkKdg9rU/m/j1Aw_PzTBQAJ) CSS Properties and Values API
-- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/fL7NCda69-A/m/JiJzG8MQAQAJ) Audio Output Devices API
+- [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/deAFkKdg9rU/m/j1Aw_PzTBQAJ) CSS Properties and Values API
+- [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/fL7NCda69-A/m/JiJzG8MQAQAJ) Audio Output Devices API
 - [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/2oBSRgIRf80/m/ikcoQ_1aAAAJ) CSS Nesting
 - [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/ncmUwK1uO98/m/COhPA4ZrAAAJ) Federated Credential Management (FedCM)
 - [Implement](https://groups.google.com/a/mozilla.org/g/dev-platform/c/3g0fnn6682A/m/Nb1qVaA4AAAJ) WebCodecs
