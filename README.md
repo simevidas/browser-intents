@@ -11,10 +11,14 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 July 2023
 
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/MaXgbE4vTbk/m/Q3QbI37IBQAJ) CSS `font-variant-emoji` property
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/FEOVeDh4QXM/m/GAwsJXXNBQAJ) `stroke-box`, `content-box`, and `border-box` values for CSS `transform-box` property
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/YK51qPdjM4A/m/GeGpCzWxBQAJ) CSS `word-break: auto` value (more natural line breaking for Japanese)
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/G5tPtziBkEA/m/HlAHT4u5BQAJ) NotRestoredReasons API (back/forward cache)
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/I6IWfl95gRU/m/TvSSAvDECQAJ) `Content-Encoding: zstd` (Zstandard data compression mechanism)
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/my9MyWxa2ns/m/XNBscGRiAQAJ) CSS `text-autospace` property
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/GuRqI7zXWMY/m/us6Rzd-xBgAJ) back/forward cache (BFCache) for pages with HTTP `Cache-control: no-store` header
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/pWonDP0g9Q4/m/iSVel0aBBgAJ) CSS `prefers-reduced-transparency` media feature
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/MaXgbE4vTbk/m/Q3QbI37IBQAJ) CSS `font-variant-emoji` property
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/FEOVeDh4QXM/m/GAwsJXXNBQAJ) `stroke-box`, `content-box`, and `border-box` values for CSS `transform-box` property
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/YK51qPdjM4A/m/GeGpCzWxBQAJ) CSS `word-break: auto` value (more natural line breaking for Japanese)
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/G5tPtziBkEA/m/HlAHT4u5BQAJ) NotRestoredReasons API (back/forward cache)
 
 June 2023
 
@@ -1728,7 +1732,7 @@ September 2015
 
 July 2023
 
-- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/fE37aJ_YdA8/m/Sfv0ggpLBQAJ) CSS Custom Highlight API
+- [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/fE37aJ_YdA8/m/Sfv0ggpLBQAJ) CSS Custom Highlight API
 
 June 2023
 
