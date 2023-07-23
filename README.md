@@ -11,10 +11,16 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 July 2023
 
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/I6IWfl95gRU/m/TvSSAvDECQAJ) `Content-Encoding: zstd` (Zstandard data compression mechanism)
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/my9MyWxa2ns/m/XNBscGRiAQAJ) CSS `text-autospace` property
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/GuRqI7zXWMY/m/us6Rzd-xBgAJ) back/forward cache (BFCache) for pages with HTTP `Cache-control: no-store` header
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/pWonDP0g9Q4/m/iSVel0aBBgAJ) CSS `prefers-reduced-transparency` media feature
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/KXnqpUpVwPQ/m/q5rTebrpCgAJ) `fetchLater` method
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/EiZ2vlPy9xs/m/jcQD0iJ1CwAJ) CSS `prefers-reduced-transparency` media feature
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/GFHrc2-lOo8/m/92K-HwAJCwAJ) HTTP `Sec-CH-Prefers-Reduced-Transparency` header
+- :new: [Prototype and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/gAH_zIeU-wE/m/798gBkC5CgAJ) HTTP `Clear-Site-Data: "*"` header (clear all storage targets)
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/m16m2TEq-NM/m/0Bc10numCgAJ) web app manifest `"tab_strip"` member and `"display_override": ["tabbed"]` (tabbed web apps)
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/EbLKSf3_FHI/m/UsFgYX2HCgAJ) Element Capture
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/I6IWfl95gRU/m/TvSSAvDECQAJ) `Content-Encoding: zstd` (Zstandard data compression mechanism)
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/my9MyWxa2ns/m/XNBscGRiAQAJ) CSS `text-autospace` property
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/GuRqI7zXWMY/m/us6Rzd-xBgAJ) back/forward cache (BFCache) for pages with HTTP `Cache-control: no-store` header
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/pWonDP0g9Q4/m/iSVel0aBBgAJ) CSS `prefers-reduced-transparency` media feature
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/MaXgbE4vTbk/m/Q3QbI37IBQAJ) CSS `font-variant-emoji` property
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/FEOVeDh4QXM/m/GAwsJXXNBQAJ) `stroke-box`, `content-box`, and `border-box` values for CSS `transform-box` property
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/YK51qPdjM4A/m/GeGpCzWxBQAJ) CSS `word-break: auto` value (more natural line breaking for Japanese)
