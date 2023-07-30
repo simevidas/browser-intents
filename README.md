@@ -11,12 +11,14 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 July 2023
 
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/KXnqpUpVwPQ/m/q5rTebrpCgAJ) `fetchLater` method
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/EiZ2vlPy9xs/m/jcQD0iJ1CwAJ) CSS `prefers-reduced-transparency` media feature
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/GFHrc2-lOo8/m/92K-HwAJCwAJ) HTTP `Sec-CH-Prefers-Reduced-Transparency` header
-- :new: [Prototype and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/gAH_zIeU-wE/m/798gBkC5CgAJ) HTTP `Clear-Site-Data: "*"` header (clear all storage targets)
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/m16m2TEq-NM/m/0Bc10numCgAJ) web app manifest `"tab_strip"` member and `"display_override": ["tabbed"]` (tabbed web apps)
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/EbLKSf3_FHI/m/UsFgYX2HCgAJ) Element Capture
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/_H8rqHW9ERQ/m/KLnRZaz3AAAJ) ServiceWorker Static Routing API
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/0ugmlt_SLIw/m/aCm6qYPbAAAJ) CSS `inverted-colors` media feature
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/KXnqpUpVwPQ/m/q5rTebrpCgAJ) `fetchLater` method
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/EiZ2vlPy9xs/m/jcQD0iJ1CwAJ) CSS `prefers-reduced-transparency` media feature
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/GFHrc2-lOo8/m/92K-HwAJCwAJ) HTTP `Sec-CH-Prefers-Reduced-Transparency` header
+- [Prototype and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/gAH_zIeU-wE/m/798gBkC5CgAJ) HTTP `Clear-Site-Data: "*"` header (clear all storage targets)
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/m16m2TEq-NM/m/0Bc10numCgAJ) web app manifest `"tab_strip"` member and `"display_override": ["tabbed"]` (tabbed web apps)
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/EbLKSf3_FHI/m/UsFgYX2HCgAJ) Element Capture
 - [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/I6IWfl95gRU/m/TvSSAvDECQAJ) `Content-Encoding: zstd` (Zstandard data compression mechanism)
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/my9MyWxa2ns/m/XNBscGRiAQAJ) CSS `text-autospace` property
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/GuRqI7zXWMY/m/us6Rzd-xBgAJ) back/forward cache (BFCache) for pages with HTTP `Cache-control: no-store` header
@@ -1738,6 +1740,8 @@ September 2015
 
 July 2023
 
+- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/XRQCUSXg6q8/m/BGgx13eOCAAJ) CSS `text-transform: math-auto` keyword
+- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/Uk39hvO910w/m/rBwWIfmLCAAJ) CSS `math-style` and `math-depth` properties, and `font-size: math` keyword
 - [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/fE37aJ_YdA8/m/Sfv0ggpLBQAJ) CSS Custom Highlight API
 
 June 2023
