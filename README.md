@@ -9,10 +9,18 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
+August 2023
+
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/-QOUpwElepo/m/e1Jj_rHpAQAJ) wertical writing modes (`vertical-rl`, `vertical-lr`) for form control elements
+- :new: [Prototype and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/aJ9wzaX-E2g/m/Xk1RDqrfAQAJ) `<geometry-box>` in CSS `clip-path` property value
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/jiuxWVJEmqs/m/u0dMUmA4AwAJ) CSS `cap` and `rcap` units
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/JHf7CWXDZUc/m/Dy2EElgvAgAJ) Storage Access API with prompts
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/bQrq8sgEjFA/m/FMqBx6EsAgAJ) CSS logical values for `float`, `clear`, and `resize` properties
+
 July 2023
 
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/_H8rqHW9ERQ/m/KLnRZaz3AAAJ) ServiceWorker Static Routing API
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/0ugmlt_SLIw/m/aCm6qYPbAAAJ) CSS `inverted-colors` media feature
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/_H8rqHW9ERQ/m/KLnRZaz3AAAJ) ServiceWorker Static Routing API
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/0ugmlt_SLIw/m/aCm6qYPbAAAJ) CSS `inverted-colors` media feature
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/KXnqpUpVwPQ/m/q5rTebrpCgAJ) `fetchLater` method
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/EiZ2vlPy9xs/m/jcQD0iJ1CwAJ) CSS `prefers-reduced-transparency` media feature
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/GFHrc2-lOo8/m/92K-HwAJCwAJ) HTTP `Sec-CH-Prefers-Reduced-Transparency` header
@@ -1738,10 +1746,14 @@ September 2015
 
 ### Firefox
 
+August 2023
+
+- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/NIPFVkhGR6I/m/kvgNZFZyAAAJ) CSS `round()`, `mod()`, `rem()`, `pow()`, `sqrt()`, `hypot()`, `log()`, `exp()`, `abs()`, and `sign()` functions
+
 July 2023
 
-- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/XRQCUSXg6q8/m/BGgx13eOCAAJ) CSS `text-transform: math-auto` keyword
-- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/Uk39hvO910w/m/rBwWIfmLCAAJ) CSS `math-style` and `math-depth` properties, and `font-size: math` keyword
+- [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/XRQCUSXg6q8/m/BGgx13eOCAAJ) CSS `text-transform: math-auto` keyword
+- [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/Uk39hvO910w/m/rBwWIfmLCAAJ) CSS `math-style` and `math-depth` properties, and `font-size: math` keyword
 - [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/fE37aJ_YdA8/m/Sfv0ggpLBQAJ) CSS Custom Highlight API
 
 June 2023
