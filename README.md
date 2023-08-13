@@ -11,11 +11,13 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 August 2023
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/-QOUpwElepo/m/e1Jj_rHpAQAJ) wertical writing modes (`vertical-rl`, `vertical-lr`) for form control elements
-- :new: [Prototype and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/aJ9wzaX-E2g/m/Xk1RDqrfAQAJ) `<geometry-box>` in CSS `clip-path` property value
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/jiuxWVJEmqs/m/u0dMUmA4AwAJ) CSS `cap` and `rcap` units
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/JHf7CWXDZUc/m/Dy2EElgvAgAJ) Storage Access API with prompts
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/bQrq8sgEjFA/m/FMqBx6EsAgAJ) CSS logical values for `float`, `clear`, and `resize` properties
+- :new: [Deprecate](https://groups.google.com/a/chromium.org/g/blink-dev/c/PNTt4oFXt8c/m/Fo3yGJctBAAJ) Sanitizer API (initial impl.)
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/YG70jRdekNs/m/uUhqShFzBAAJ) HTML `blocking="render"` attribute
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/-QOUpwElepo/m/e1Jj_rHpAQAJ) wertical writing modes (`vertical-rl`, `vertical-lr`) for form control elements
+- [Prototype and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/aJ9wzaX-E2g/m/Xk1RDqrfAQAJ) `<geometry-box>` in CSS `clip-path` property value
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/jiuxWVJEmqs/m/u0dMUmA4AwAJ) CSS `cap` and `rcap` units
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/JHf7CWXDZUc/m/Dy2EElgvAgAJ) Storage Access API with prompts
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/bQrq8sgEjFA/m/FMqBx6EsAgAJ) CSS logical values for `float`, `clear`, and `resize` properties
 
 July 2023
 
@@ -1748,7 +1750,9 @@ September 2015
 
 August 2023
 
-- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/NIPFVkhGR6I/m/kvgNZFZyAAAJ) CSS `round()`, `mod()`, `rem()`, `pow()`, `sqrt()`, `hypot()`, `log()`, `exp()`, `abs()`, and `sign()` functions
+- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/cU6CraMlGsA/m/cHI9GWhqAwAJ) CSS `:has` selector
+- :new: [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/1Eoh9zcTt08/m/xdir_heoAQAJ) HTML `<search>` element
+- [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/NIPFVkhGR6I/m/kvgNZFZyAAAJ) CSS `round()`, `mod()`, `rem()`, `pow()`, `sqrt()`, `hypot()`, `log()`, `exp()`, `abs()`, and `sign()` functions
 
 July 2023
 
