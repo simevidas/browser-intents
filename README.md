@@ -11,8 +11,13 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 August 2023
 
-- :new: [Deprecate](https://groups.google.com/a/chromium.org/g/blink-dev/c/PNTt4oFXt8c/m/Fo3yGJctBAAJ) Sanitizer API (initial impl.)
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/YG70jRdekNs/m/uUhqShFzBAAJ) HTML `blocking="render"` attribute
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/nf3I6lAuHqo/m/rkwJBgPoAQAJ) CSS `scripting` media feature
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/IjZW1CQNNxM/m/st31PsqzAQAJ) `crossorigin` attribute for SVG `<image>` and `<feImage>` elements
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/OTGqhEZ7aug/m/S0mgoyBgAQAJ) `hasUAVisualTransition` property for `popstate` and `navigate` events
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/AGsZy1WSIS0/m/iZwFmo9PAQAJ) `snapchanged` event
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/5CHw-SXYKGc/m/IPYMJeMTAQAJ) HTML `<search>` element
+- [Deprecate](https://groups.google.com/a/chromium.org/g/blink-dev/c/PNTt4oFXt8c/m/Fo3yGJctBAAJ) Sanitizer API (initial impl.)
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/YG70jRdekNs/m/uUhqShFzBAAJ) HTML `blocking="render"` attribute
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/-QOUpwElepo/m/e1Jj_rHpAQAJ) wertical writing modes (`vertical-rl`, `vertical-lr`) for form control elements
 - [Prototype and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/aJ9wzaX-E2g/m/Xk1RDqrfAQAJ) `<geometry-box>` in CSS `clip-path` property value
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/jiuxWVJEmqs/m/u0dMUmA4AwAJ) CSS `cap` and `rcap` units
@@ -1750,8 +1755,10 @@ September 2015
 
 August 2023
 
-- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/cU6CraMlGsA/m/cHI9GWhqAwAJ) CSS `:has` selector
-- :new: [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/1Eoh9zcTt08/m/xdir_heoAQAJ) HTML `<search>` element
+- :new: [Implement and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/BBGoz5L8054/m/1tX2QsNEAwAJ) CSS `font-synthesis-position` property
+- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/oLcaavM2834/m/O0SRTFn5AgAJ) Global Privacy Control (HTTP `Sec-GPC` header)
+- [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/cU6CraMlGsA/m/cHI9GWhqAwAJ) CSS `:has` selector
+- [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/1Eoh9zcTt08/m/xdir_heoAQAJ) HTML `<search>` element
 - [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/NIPFVkhGR6I/m/kvgNZFZyAAAJ) CSS `round()`, `mod()`, `rem()`, `pow()`, `sqrt()`, `hypot()`, `log()`, `exp()`, `abs()`, and `sign()` functions
 
 July 2023
