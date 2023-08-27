@@ -11,11 +11,16 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 August 2023
 
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/nf3I6lAuHqo/m/rkwJBgPoAQAJ) CSS `scripting` media feature
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/IjZW1CQNNxM/m/st31PsqzAQAJ) `crossorigin` attribute for SVG `<image>` and `<feImage>` elements
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/OTGqhEZ7aug/m/S0mgoyBgAQAJ) `hasUAVisualTransition` property for `popstate` and `navigate` events
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/AGsZy1WSIS0/m/iZwFmo9PAQAJ) `snapchanged` event
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/5CHw-SXYKGc/m/IPYMJeMTAQAJ) HTML `<search>` element
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/TGsrhP4ref0/m/bHFj3id9AgAJ) HTML `<permission>` element (Page-Embedded Permission Control)
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/UpB_u-wvNeA/m/D0kHcDr_AQAJ) CSS `:user-valid` and `:user-invalid` pseudo-classes
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/jiCB_twBqnk/m/GHfFdXkYAgAJ) CSS `scripting` media feature
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/NCUfiS4K32E/m/PAaBIXpMAQAJ) CSS `text-spacing-trim` property
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/C1D321h3OnA/m/JTkqUj8RAQAJ) CSS Sticky State Container Queries (`stuck`)
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/nf3I6lAuHqo/m/rkwJBgPoAQAJ) CSS `scripting` media feature
+- [Implement and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/IjZW1CQNNxM/m/st31PsqzAQAJ) `crossorigin` attribute for SVG `<image>` and `<feImage>` elements
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/OTGqhEZ7aug/m/S0mgoyBgAQAJ) `hasUAVisualTransition` property for `popstate` and `navigate` events
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/AGsZy1WSIS0/m/iZwFmo9PAQAJ) `snapchanged` event
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/5CHw-SXYKGc/m/IPYMJeMTAQAJ) HTML `<search>` element
 - [Deprecate](https://groups.google.com/a/chromium.org/g/blink-dev/c/PNTt4oFXt8c/m/Fo3yGJctBAAJ) Sanitizer API (initial impl.)
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/YG70jRdekNs/m/uUhqShFzBAAJ) HTML `blocking="render"` attribute
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/-QOUpwElepo/m/e1Jj_rHpAQAJ) wertical writing modes (`vertical-rl`, `vertical-lr`) for form control elements
@@ -1755,8 +1760,10 @@ September 2015
 
 August 2023
 
-- :new: [Implement and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/BBGoz5L8054/m/1tX2QsNEAwAJ) CSS `font-synthesis-position` property
-- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/oLcaavM2834/m/O0SRTFn5AgAJ) Global Privacy Control (HTTP `Sec-GPC` header)
+- :new: [Experiment and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/uv7PNrHUagA/m/BNA4G8fOAAAJ) TLS Encrypted Client Hello (ECH)
+- :new: [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/gvPfed-oJ6E/m/JR8O0LKQAAAJ) CSS `:first` pseudo-class
+- [Implement and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/BBGoz5L8054/m/1tX2QsNEAwAJ) CSS `font-synthesis-position` property
+- [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/oLcaavM2834/m/O0SRTFn5AgAJ) Global Privacy Control (HTTP `Sec-GPC` header)
 - [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/cU6CraMlGsA/m/cHI9GWhqAwAJ) CSS `:has` selector
 - [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/1Eoh9zcTt08/m/xdir_heoAQAJ) HTML `<search>` element
 - [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/NIPFVkhGR6I/m/kvgNZFZyAAAJ) CSS `round()`, `mod()`, `rem()`, `pow()`, `sqrt()`, `hypot()`, `log()`, `exp()`, `abs()`, and `sign()` functions
