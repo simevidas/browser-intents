@@ -11,11 +11,15 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 August 2023
 
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/TGsrhP4ref0/m/bHFj3id9AgAJ) HTML `<permission>` element (Page-Embedded Permission Control)
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/UpB_u-wvNeA/m/D0kHcDr_AQAJ) CSS `:user-valid` and `:user-invalid` pseudo-classes
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/jiCB_twBqnk/m/GHfFdXkYAgAJ) CSS `scripting` media feature
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/NCUfiS4K32E/m/PAaBIXpMAQAJ) CSS `text-spacing-trim` property
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/C1D321h3OnA/m/JTkqUj8RAQAJ) CSS Sticky State Container Queries (`stuck`)
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/KeKBTjKEdaU/m/NCHAo8n-AgAJ) CSS Relative Color Syntax (`from` keyword)
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/cA-cmgrA_QE/m/6uF_LYq4AAAJ) CSS `form-sizing` property
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/KgSc7mn6pws/m/1tBDZxpjAwAJ) HTTP `Sec-CH-Prefers-Reduced-Transparency` header (client hint)
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/96q7WtXtWXc/m/-RFlE1DJAAAJ) CSS `word-break: auto-phrase` value (more natural line breaking for Japanese)
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/TGsrhP4ref0/m/bHFj3id9AgAJ) HTML `<permission>` element (Page-Embedded Permission Control)
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/UpB_u-wvNeA/m/D0kHcDr_AQAJ) CSS `:user-valid` and `:user-invalid` pseudo-classes
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/jiCB_twBqnk/m/GHfFdXkYAgAJ) CSS `scripting` media feature
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/NCUfiS4K32E/m/PAaBIXpMAQAJ) CSS `text-spacing-trim` property
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/C1D321h3OnA/m/JTkqUj8RAQAJ) CSS Sticky State Container Queries (`stuck`)
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/nf3I6lAuHqo/m/rkwJBgPoAQAJ) CSS `scripting` media feature
 - [Implement and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/IjZW1CQNNxM/m/st31PsqzAQAJ) `crossorigin` attribute for SVG `<image>` and `<feImage>` elements
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/OTGqhEZ7aug/m/S0mgoyBgAQAJ) `hasUAVisualTransition` property for `popstate` and `navigate` events
@@ -1760,8 +1764,8 @@ September 2015
 
 August 2023
 
-- :new: [Experiment and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/uv7PNrHUagA/m/BNA4G8fOAAAJ) TLS Encrypted Client Hello (ECH)
-- :new: [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/gvPfed-oJ6E/m/JR8O0LKQAAAJ) CSS `:first` pseudo-class
+- [Experiment and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/uv7PNrHUagA/m/BNA4G8fOAAAJ) TLS Encrypted Client Hello (ECH)
+- [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/gvPfed-oJ6E/m/JR8O0LKQAAAJ) CSS `:first` pseudo-class
 - [Implement and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/BBGoz5L8054/m/1tX2QsNEAwAJ) CSS `font-synthesis-position` property
 - [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/oLcaavM2834/m/O0SRTFn5AgAJ) Global Privacy Control (HTTP `Sec-GPC` header)
 - [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/cU6CraMlGsA/m/cHI9GWhqAwAJ) CSS `:has` selector
