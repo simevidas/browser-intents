@@ -9,12 +9,17 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
+September 2023
+
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/RL7nmVio2PM/m/VWuUMod9AgAJ) HTTP `Sec-CH-UA-Form-Factor` Header (client hint)
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/UNfjkjHAPOM/m/pVAlW_43AgAJ) Web Preferences API
+
 August 2023
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/KeKBTjKEdaU/m/NCHAo8n-AgAJ) CSS Relative Color Syntax (`from` keyword)
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/cA-cmgrA_QE/m/6uF_LYq4AAAJ) CSS `form-sizing` property
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/KgSc7mn6pws/m/1tBDZxpjAwAJ) HTTP `Sec-CH-Prefers-Reduced-Transparency` header (client hint)
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/96q7WtXtWXc/m/-RFlE1DJAAAJ) CSS `word-break: auto-phrase` value (more natural line breaking for Japanese)
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/KeKBTjKEdaU/m/NCHAo8n-AgAJ) CSS Relative Color Syntax (`from` keyword)
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/cA-cmgrA_QE/m/6uF_LYq4AAAJ) CSS `form-sizing` property
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/KgSc7mn6pws/m/1tBDZxpjAwAJ) HTTP `Sec-CH-Prefers-Reduced-Transparency` header (client hint)
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/96q7WtXtWXc/m/-RFlE1DJAAAJ) CSS `word-break: auto-phrase` value (more natural line breaking for Japanese)
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/TGsrhP4ref0/m/bHFj3id9AgAJ) HTML `<permission>` element (Page-Embedded Permission Control)
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/UpB_u-wvNeA/m/D0kHcDr_AQAJ) CSS `:user-valid` and `:user-invalid` pseudo-classes
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/jiCB_twBqnk/m/GHfFdXkYAgAJ) CSS `scripting` media feature
@@ -1761,6 +1766,12 @@ September 2015
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/iBX_2xfX6jc/Uc0D6jr3AgAJ) `stale-while-revalidate` Cache-control extension
 
 ### Firefox
+
+September 2023
+
+- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/1F1vsI0Q1dI/m/dLuXl7W3BAAJ) Scroll To Text Fragment
+- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/O0U9UuhK90o/m/aedpU2Y7BAAJ) CSS `text-wrap: balance` keyword
+- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/1IvZq_uK9Ho/m/wcuqnqYCBAAJ) ARIA reflection (non-IDREF) and default accessibility semantics for Custom Elements
 
 August 2023
 
