@@ -1,4 +1,4 @@
-This is my selection of relevant Chromium and Firefox intents (from [blink-dev](https://groups.google.com/a/chromium.org/forum/#!forum/blink-dev) and [dev-platform@mozilla.org](https://groups.google.com/a/mozilla.org/g/dev-platform), respectively); updated weekly (:new: marks latest additions).
+This is my selection of relevant Chromium and Firefox intents (from [blink-dev](https://groups.google.com/a/chromium.org/forum/#!forum/blink-dev) and [dev-platform@mozilla.org](https://groups.google.com/a/mozilla.org/g/dev-platform), respectively); updated weekly (marks latest additions).
 
 [Atom feed](https://github.com/simevidas/browser-intents/commits/master.atom).
 
@@ -11,8 +11,14 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 September 2023
 
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/RL7nmVio2PM/m/VWuUMod9AgAJ) HTTP `Sec-CH-UA-Form-Factor` Header (client hint)
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/UNfjkjHAPOM/m/pVAlW_43AgAJ) Web Preferences API
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/CmlXjQeNWDI/m/hx-_4lNBAQAJ) TLS Encrypted Client Hello (ECH)
+- :new: [Prototype and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/_ur5SByM_rg/m/U7wwardDAQAJ) `xywh()` and `rect()` for CSS `clip-path` property
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/jzSeH70To2s/m/l5sn_epzAAAJ) CSS `dynamic-range-limit` property
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/oyarD9dGSUk/m/uKZ7uohfAAAJ) Intersection Observer `scrollMargin` property
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/U5AX0OXaxM8/m/bPMyMNlCBgAJ) partitioning `:visited` links history
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/7nE9rGwpXGc/m/DU9YskcuAQAJ) HTTP `Speculation-Rules` header (cont.)
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/RL7nmVio2PM/m/VWuUMod9AgAJ) HTTP `Sec-CH-UA-Form-Factor` Header (client hint)
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/UNfjkjHAPOM/m/pVAlW_43AgAJ) Web Preferences API
 
 August 2023
 
@@ -1769,9 +1775,10 @@ September 2015
 
 September 2023
 
-- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/1F1vsI0Q1dI/m/dLuXl7W3BAAJ) Scroll To Text Fragment
-- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/O0U9UuhK90o/m/aedpU2Y7BAAJ) CSS `text-wrap: balance` keyword
-- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/1IvZq_uK9Ho/m/wcuqnqYCBAAJ) ARIA reflection (non-IDREF) and default accessibility semantics for Custom Elements
+- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/UmfbTsiFl_g/m/jMHZxMusAQAJ) HTTP `Origin-Agent-Cluster` header
+- [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/1F1vsI0Q1dI/m/dLuXl7W3BAAJ) Scroll To Text Fragment
+- [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/O0U9UuhK90o/m/aedpU2Y7BAAJ) CSS `text-wrap: balance` keyword
+- [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/1IvZq_uK9Ho/m/wcuqnqYCBAAJ) ARIA reflection (non-IDREF) and default accessibility semantics for Custom Elements
 
 August 2023
 
