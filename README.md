@@ -11,12 +11,16 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 September 2023
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/CmlXjQeNWDI/m/hx-_4lNBAQAJ) TLS Encrypted Client Hello (ECH)
-- :new: [Prototype and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/_ur5SByM_rg/m/U7wwardDAQAJ) `xywh()` and `rect()` for CSS `clip-path` property
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/jzSeH70To2s/m/l5sn_epzAAAJ) CSS `dynamic-range-limit` property
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/oyarD9dGSUk/m/uKZ7uohfAAAJ) Intersection Observer `scrollMargin` property
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/U5AX0OXaxM8/m/bPMyMNlCBgAJ) partitioning `:visited` links history
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/7nE9rGwpXGc/m/DU9YskcuAQAJ) HTTP `Speculation-Rules` header (cont.)
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/CEdbbQXPIRk/m/U43spqbKAgAJ) HTML `exportid` attribute (exporting IDs from shadow roots for cross-root ARIA)
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/fklS2qR8Wm4/m/JTyxmsDnAQAJ) `<hr>` elements inside `<select>` elements
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/pjpN9Lwv5Tk/m/KrAZRbdwAQAJ) feature detection for supported clipboard formats
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/6MUAqY2r3Hg/m/jNxwg1J2AAAJ) `showPicker` method for HTML `<select>` elements
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/CmlXjQeNWDI/m/hx-_4lNBAQAJ) TLS Encrypted Client Hello (ECH)
+- [Prototype and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/_ur5SByM_rg/m/U7wwardDAQAJ) `xywh()` and `rect()` for CSS `clip-path` property
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/jzSeH70To2s/m/l5sn_epzAAAJ) CSS `dynamic-range-limit` property
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/oyarD9dGSUk/m/uKZ7uohfAAAJ) Intersection Observer `scrollMargin` property
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/U5AX0OXaxM8/m/bPMyMNlCBgAJ) partitioning `:visited` links history
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/7nE9rGwpXGc/m/DU9YskcuAQAJ) HTTP `Speculation-Rules` header (cont.)
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/RL7nmVio2PM/m/VWuUMod9AgAJ) HTTP `Sec-CH-UA-Form-Factor` Header (client hint)
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/UNfjkjHAPOM/m/pVAlW_43AgAJ) Web Preferences API
 
@@ -1775,7 +1779,9 @@ September 2015
 
 September 2023
 
-- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/UmfbTsiFl_g/m/jMHZxMusAQAJ) HTTP `Origin-Agent-Cluster` header
+- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/GNp44ffmGGs/m/Pty0FJNrCAAJ) Early Hints
+- :new: [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/SsXXqvp8O3s/m/epsq8vlaCAAJ) CSS `attr()` fallback
+- [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/UmfbTsiFl_g/m/jMHZxMusAQAJ) HTTP `Origin-Agent-Cluster` header
 - [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/1F1vsI0Q1dI/m/dLuXl7W3BAAJ) Scroll To Text Fragment
 - [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/O0U9UuhK90o/m/aedpU2Y7BAAJ) CSS `text-wrap: balance` keyword
 - [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/1IvZq_uK9Ho/m/wcuqnqYCBAAJ) ARIA reflection (non-IDREF) and default accessibility semantics for Custom Elements
