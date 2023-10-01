@@ -11,10 +11,18 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 September 2023
 
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/CEdbbQXPIRk/m/U43spqbKAgAJ) HTML `exportid` attribute (exporting IDs from shadow roots for cross-root ARIA)
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/fklS2qR8Wm4/m/JTyxmsDnAQAJ) `<hr>` elements inside `<select>` elements
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/pjpN9Lwv5Tk/m/KrAZRbdwAQAJ) feature detection for supported clipboard formats
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/6MUAqY2r3Hg/m/jNxwg1J2AAAJ) `showPicker` method for HTML `<select>` elements
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/LyQu9L_Iv58/m/o0Vbn1IrAAAJ) Face Framing API
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/kPoFF2SREq8/m/4tgCK9VkAwAJ) Observable API
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/Ujfh4GwHn4E/m/vNk-7DiRAAAJ) `firstrender` event
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/xvZJPpXNS8Y/m/Z1gU6U-UAAAJ) Device Bound Session Credentials (DBSC)
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/Ax8rTBusZ4s/m/-yeyQlErAAAJ) Intersection Observer `scrollMargin` property
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/Bk6xulOmBn8/m/P39eHu8-AQAJ) accordion pattern using `name` attribute on `<details>` elements
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/jM5au7yYzHM/m/L8r7x5CmAAAJ) Close Watchers
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/nYd8lBVannY/m/XV3ywtJCAAAJ) `fullscreen` option for `window.open` method
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/CEdbbQXPIRk/m/U43spqbKAgAJ) HTML `exportid` attribute (exporting IDs from shadow roots for cross-root ARIA)
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/fklS2qR8Wm4/m/JTyxmsDnAQAJ) `<hr>` elements inside `<select>` elements
+- [Implement and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/pjpN9Lwv5Tk/m/KrAZRbdwAQAJ) feature detection for supported clipboard formats
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/6MUAqY2r3Hg/m/jNxwg1J2AAAJ) `showPicker` method for HTML `<select>` elements
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/CmlXjQeNWDI/m/hx-_4lNBAQAJ) TLS Encrypted Client Hello (ECH)
 - [Prototype and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/_ur5SByM_rg/m/U7wwardDAQAJ) `xywh()` and `rect()` for CSS `clip-path` property
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/jzSeH70To2s/m/l5sn_epzAAAJ) CSS `dynamic-range-limit` property
@@ -1779,8 +1787,11 @@ September 2015
 
 September 2023
 
-- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/GNp44ffmGGs/m/Pty0FJNrCAAJ) Early Hints
-- :new: [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/SsXXqvp8O3s/m/epsq8vlaCAAJ) CSS `attr()` fallback
+- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/n2qHmrAdta4/m/TySv-9DDAAAJ) CSS `zoom` property
+- :new: [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/_MTabf8-omg/m/T7qgC2BxAAAJ) CSS inheritance to `::backdrop` from its originating elemeng (e.g., `<dialog>`)
+- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/tWuBjgtfItA/m/OGXdy8N9AQAJ) Screen Wake Lock API
+- [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/GNp44ffmGGs/m/Pty0FJNrCAAJ) Early Hints
+- [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/SsXXqvp8O3s/m/epsq8vlaCAAJ) CSS `attr()` fallback
 - [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/UmfbTsiFl_g/m/jMHZxMusAQAJ) HTTP `Origin-Agent-Cluster` header
 - [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/1F1vsI0Q1dI/m/dLuXl7W3BAAJ) Scroll To Text Fragment
 - [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/O0U9UuhK90o/m/aedpU2Y7BAAJ) CSS `text-wrap: balance` keyword
