@@ -9,16 +9,26 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
+October 2023
+
+- :new: [Ship]() CSS `:dir(https://groups.google.com/a/chromium.org/g/blink-dev/c/kLRBZY8Qdd0/m/YPwBDDpxAgAJ)` pseudo-class
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/Ods7RbPlCjI/m/0ymlzFoLAgAJ) relaxed CSS Nesting
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/QxNXdcTG0dI/m/JcDt7UEQAwAJ) video `<source media>` attribute
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/qew_ILTXWSY/m/AxHrcWzuAQAJ) `HTMLSelectElement` `showPicker` method
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/TaYAeTPkA08/m/c7ZBns2gAgAJ) CSS `<image>` xyntax for registered custom properties
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/C6hENTlF0NM/m/1deXZ3QyAgAJ) CSS Masking
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/inRN8tI49O0/m/SJNXk6ISAgAJ) extending Storage Access API to non-cookie storage
+
 September 2023
 
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/LyQu9L_Iv58/m/o0Vbn1IrAAAJ) Face Framing API
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/kPoFF2SREq8/m/4tgCK9VkAwAJ) Observable API
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/Ujfh4GwHn4E/m/vNk-7DiRAAAJ) `firstrender` event
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/xvZJPpXNS8Y/m/Z1gU6U-UAAAJ) Device Bound Session Credentials (DBSC)
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/Ax8rTBusZ4s/m/-yeyQlErAAAJ) Intersection Observer `scrollMargin` property
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/Bk6xulOmBn8/m/P39eHu8-AQAJ) accordion pattern using `name` attribute on `<details>` elements
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/jM5au7yYzHM/m/L8r7x5CmAAAJ) Close Watchers
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/nYd8lBVannY/m/XV3ywtJCAAAJ) `fullscreen` option for `window.open` method
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/LyQu9L_Iv58/m/o0Vbn1IrAAAJ) Face Framing API
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/kPoFF2SREq8/m/4tgCK9VkAwAJ) Observable API
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/Ujfh4GwHn4E/m/vNk-7DiRAAAJ) `firstrender` event
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/xvZJPpXNS8Y/m/Z1gU6U-UAAAJ) Device Bound Session Credentials (DBSC)
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/Ax8rTBusZ4s/m/-yeyQlErAAAJ) Intersection Observer `scrollMargin` property
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/Bk6xulOmBn8/m/P39eHu8-AQAJ) accordion pattern using `name` attribute on `<details>` elements
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/jM5au7yYzHM/m/L8r7x5CmAAAJ) Close Watchers
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/nYd8lBVannY/m/XV3ywtJCAAAJ) `fullscreen` option for `window.open` method
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/CEdbbQXPIRk/m/U43spqbKAgAJ) HTML `exportid` attribute (exporting IDs from shadow roots for cross-root ARIA)
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/fklS2qR8Wm4/m/JTyxmsDnAQAJ) `<hr>` elements inside `<select>` elements
 - [Implement and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/pjpN9Lwv5Tk/m/KrAZRbdwAQAJ) feature detection for supported clipboard formats
@@ -1785,11 +1795,17 @@ September 2015
 
 ### Firefox
 
+October 2023
+
+- :new: [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/YpjKfr4MQIE/m/jAAp63vlAgAJ) User Activation API
+- :new: [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/o0PtsvQMgVI/m/okD31qCfAgAJ) CSS `lh` and `rlh` units
+- :new: [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/18t2jK1FtJA/m/zPcaFAtbAgAJ) CSS `light-dark()` color function
+
 September 2023
 
-- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/n2qHmrAdta4/m/TySv-9DDAAAJ) CSS `zoom` property
-- :new: [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/_MTabf8-omg/m/T7qgC2BxAAAJ) CSS inheritance to `::backdrop` from its originating elemeng (e.g., `<dialog>`)
-- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/tWuBjgtfItA/m/OGXdy8N9AQAJ) Screen Wake Lock API
+- [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/n2qHmrAdta4/m/TySv-9DDAAAJ) CSS `zoom` property
+- [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/_MTabf8-omg/m/T7qgC2BxAAAJ) CSS inheritance to `::backdrop` from its originating elemeng (e.g., `<dialog>`)
+- [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/tWuBjgtfItA/m/OGXdy8N9AQAJ) Screen Wake Lock API
 - [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/GNp44ffmGGs/m/Pty0FJNrCAAJ) Early Hints
 - [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/SsXXqvp8O3s/m/epsq8vlaCAAJ) CSS `attr()` fallback
 - [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/UmfbTsiFl_g/m/jMHZxMusAQAJ) HTTP `Origin-Agent-Cluster` header
