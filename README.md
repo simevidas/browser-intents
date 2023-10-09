@@ -11,7 +11,7 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 October 2023
 
-- :new: [Ship]() CSS `:dir(https://groups.google.com/a/chromium.org/g/blink-dev/c/kLRBZY8Qdd0/m/YPwBDDpxAgAJ)` pseudo-class
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/kLRBZY8Qdd0/m/YPwBDDpxAgAJ) CSS `:dir()` pseudo-class
 - :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/Ods7RbPlCjI/m/0ymlzFoLAgAJ) relaxed CSS Nesting
 - :new: [Implement and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/QxNXdcTG0dI/m/JcDt7UEQAwAJ) video `<source media>` attribute
 - :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/qew_ILTXWSY/m/AxHrcWzuAQAJ) `HTMLSelectElement` `showPicker` method
