@@ -15,7 +15,7 @@ October 2023
 - :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/Ods7RbPlCjI/m/0ymlzFoLAgAJ) relaxed CSS Nesting
 - :new: [Implement and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/QxNXdcTG0dI/m/JcDt7UEQAwAJ) video `<source media>` attribute
 - :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/qew_ILTXWSY/m/AxHrcWzuAQAJ) `HTMLSelectElement` `showPicker` method
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/TaYAeTPkA08/m/c7ZBns2gAgAJ) CSS `<image>` xyntax for registered custom properties
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/TaYAeTPkA08/m/c7ZBns2gAgAJ) CSS `<image>` syntax for registered custom properties
 - :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/C6hENTlF0NM/m/1deXZ3QyAgAJ) CSS Masking
 - :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/inRN8tI49O0/m/SJNXk6ISAgAJ) extending Storage Access API to non-cookie storage
 
