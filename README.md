@@ -11,13 +11,18 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 October 2023
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/kLRBZY8Qdd0/m/YPwBDDpxAgAJ) CSS `:dir()` pseudo-class
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/Ods7RbPlCjI/m/0ymlzFoLAgAJ) relaxed CSS Nesting
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/QxNXdcTG0dI/m/JcDt7UEQAwAJ) video `<source media>` attribute
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/qew_ILTXWSY/m/AxHrcWzuAQAJ) `HTMLSelectElement` `showPicker` method
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/TaYAeTPkA08/m/c7ZBns2gAgAJ) CSS `<image>` syntax for registered custom properties
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/C6hENTlF0NM/m/1deXZ3QyAgAJ) CSS Masking
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/inRN8tI49O0/m/SJNXk6ISAgAJ) extending Storage Access API to non-cookie storage
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/tDanwUCp2cg/m/IPc9hvHcFAAJ) Invokers
+- :new: [Prototype and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/xYRE__nss_0/m/8NT704obBAAJ) `URL.canParse` method
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/fnQ727eQm9Y/m/B2ysRNEbGgAJ) `peformance.measureUserAgentSpecificMemory` method
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/rGcbrUBB-5E/m/USDt4CmDGQAJ) web app manifest `"scope_extensions"` member
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/Do3kwLuf02c/m/_9LfpaSZFAAJ) HTTP `Priority` request header
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/kLRBZY8Qdd0/m/YPwBDDpxAgAJ) CSS `:dir()` pseudo-class
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/Ods7RbPlCjI/m/0ymlzFoLAgAJ) relaxed CSS Nesting
+- [Implement and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/QxNXdcTG0dI/m/JcDt7UEQAwAJ) video `<source media>` attribute
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/qew_ILTXWSY/m/AxHrcWzuAQAJ) `HTMLSelectElement` `showPicker` method
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/TaYAeTPkA08/m/c7ZBns2gAgAJ) CSS `<image>` syntax for registered custom properties
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/C6hENTlF0NM/m/1deXZ3QyAgAJ) CSS Masking
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/inRN8tI49O0/m/SJNXk6ISAgAJ) extending Storage Access API to non-cookie storage
 
 September 2023
 
@@ -1797,9 +1802,9 @@ September 2015
 
 October 2023
 
-- :new: [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/YpjKfr4MQIE/m/jAAp63vlAgAJ) User Activation API
-- :new: [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/o0PtsvQMgVI/m/okD31qCfAgAJ) CSS `lh` and `rlh` units
-- :new: [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/18t2jK1FtJA/m/zPcaFAtbAgAJ) CSS `light-dark()` color function
+- [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/YpjKfr4MQIE/m/jAAp63vlAgAJ) User Activation API
+- [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/o0PtsvQMgVI/m/okD31qCfAgAJ) CSS `lh` and `rlh` units
+- [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/18t2jK1FtJA/m/zPcaFAtbAgAJ) CSS `light-dark()` color function
 
 September 2023
 
