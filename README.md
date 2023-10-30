@@ -11,11 +11,15 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 October 2023
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/UpHRuge9SfQ/m/fIdPHjXfAgAJ) `ruby`, `ruby-base`, and `ruby-text` values for CSS `display` property
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/PkEsMirl2zE/m/ArphSa39AAAJ) CSS `scrollbar-color` and `scrollbar-width` properties
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/sPL08jmYD7s/m/rswTGLoPBwAJ) CSS `<transform-function>` and `<transform-list>` syntax for registered custom properties
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/eqKoitTdHeQ/m/3IkFXkDXBgAJ) Web Printing API
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/oAu01pBscs8/m/JUaPY3KwAQAJ) CSS `pow()`, `sqrt()`, `hypot()`, `log()`, and `exp()` functions
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/ihw9gYY2ko0/m/O9oEFsCiBgAJ) CSS `mask-*` properties 
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/ohGv2foP1SY/m/cN11eDJ6EAAJ) Permissions policy violation reports
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/YFWuDlCKTP4/m/V8gQmGWTBQAJ) WebGPU on Android
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/SEL7N-xIE5s/m/8puhB8T1BgAJ) extending Storage Access API to non-cookie storage
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/UpHRuge9SfQ/m/fIdPHjXfAgAJ) `ruby`, `ruby-base`, and `ruby-text` values for CSS `display` property
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/PkEsMirl2zE/m/ArphSa39AAAJ) CSS `scrollbar-color` and `scrollbar-width` properties
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/sPL08jmYD7s/m/rswTGLoPBwAJ) CSS `<transform-function>` and `<transform-list>` syntax for registered custom properties
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/eqKoitTdHeQ/m/3IkFXkDXBgAJ) Web Printing API
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/oAu01pBscs8/m/JUaPY3KwAQAJ) CSS `pow()`, `sqrt()`, `hypot()`, `log()`, and `exp()` functions
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/tDanwUCp2cg/m/IPc9hvHcFAAJ) Invokers
 - [Prototype and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/xYRE__nss_0/m/8NT704obBAAJ) `URL.canParse` method
 - [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/fnQ727eQm9Y/m/B2ysRNEbGgAJ) `peformance.measureUserAgentSpecificMemory` method
@@ -1807,10 +1811,11 @@ September 2015
 
 October 2023
 
-- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/uAscf5sfEdc/m/0EQcFYqxAAAJ) CSS `text-wrap: balance` value
-- :new: [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/z6PaiICBCRg/m/w171E3_DAAAJ) `hanging` and `each-line`keywords for the `text-indent` CSS property
-- :new: [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/s-Ssm1n14TU/m/TSRvErZEAAAJ) HTML `loading=lazy` attribute on `<iframe>` elements
-- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/RBv4SMie9gA/m/pRokpmIwAAAJ) Early Hints
+- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/373F82Jzcjs/m/ImZKgRNIAQAJ) Global Privacy Control
+- [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/uAscf5sfEdc/m/0EQcFYqxAAAJ) CSS `text-wrap: balance` value
+- [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/z6PaiICBCRg/m/w171E3_DAAAJ) `hanging` and `each-line`keywords for the `text-indent` CSS property
+- [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/s-Ssm1n14TU/m/TSRvErZEAAAJ) HTML `loading=lazy` attribute on `<iframe>` elements
+- [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/RBv4SMie9gA/m/pRokpmIwAAAJ) Early Hints
 - [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/YpjKfr4MQIE/m/jAAp63vlAgAJ) User Activation API
 - [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/o0PtsvQMgVI/m/okD31qCfAgAJ) CSS `lh` and `rlh` units
 - [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/18t2jK1FtJA/m/zPcaFAtbAgAJ) CSS `light-dark()` color function
