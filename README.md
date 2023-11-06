@@ -9,12 +9,20 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
+November 2023
+
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/ZCPkcu_dSF8/m/YuS79cFhAgAJ) CSS `@page` margin boxes
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/qpkOIzNakcI/m/TwgH4x8EAgAJ) `contentVisibilityAuto` option for `checkVisibility` method
+
 October 2023
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/ihw9gYY2ko0/m/O9oEFsCiBgAJ) CSS `mask-*` properties 
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/ohGv2foP1SY/m/cN11eDJ6EAAJ) Permissions policy violation reports
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/YFWuDlCKTP4/m/V8gQmGWTBQAJ) WebGPU on Android
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/SEL7N-xIE5s/m/8puhB8T1BgAJ) extending Storage Access API to non-cookie storage
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/yOxNDSaviyU/m/tHfuyAh3BgAJ) `EditContext` API
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/hw3jG7fxmqY/m/uLmc_xCkAwAJ) CSS `::spelling-error` and `::grammar-error` pseudo-elements, and `spelling-error` and `grammar-error` values for `text-decoration-line`
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/73qlvaSFmfg/m/M7Rt0dDLAwAJ) inheritance for the CSS `::selection` and `::highlight` pseudo-elements
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/ihw9gYY2ko0/m/O9oEFsCiBgAJ) CSS `mask-*` properties 
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/ohGv2foP1SY/m/cN11eDJ6EAAJ) Permissions policy violation reports
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/YFWuDlCKTP4/m/V8gQmGWTBQAJ) WebGPU on Android
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/SEL7N-xIE5s/m/8puhB8T1BgAJ) extending Storage Access API to non-cookie storage
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/UpHRuge9SfQ/m/fIdPHjXfAgAJ) `ruby`, `ruby-base`, and `ruby-text` values for CSS `display` property
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/PkEsMirl2zE/m/ArphSa39AAAJ) CSS `scrollbar-color` and `scrollbar-width` properties
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/sPL08jmYD7s/m/rswTGLoPBwAJ) CSS `<transform-function>` and `<transform-list>` syntax for registered custom properties
@@ -1809,9 +1817,16 @@ September 2015
 
 ### Firefox
 
+November 2023
+
+- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/iNeYYiRjMaQ/m/boR2M_SnBAAJ) Invokers
+- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/vDVxI6O3YqU/m/D7ImKgOvBAAJ) `._internals.states` property for exposing custom element states (`CustomStateSet`)
+
 October 2023
 
-- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/373F82Jzcjs/m/ImZKgRNIAQAJ) Global Privacy Control
+- :new: [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/S9cdPUJSyL8/m/c8FUILXXAwAJ) `HTMLSelectElement` `showPicker` method
+- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/oacuvZ2_hLg/m/4o28pFLkAwAJ) CSS `:has()` pseudo-class
+- [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/373F82Jzcjs/m/ImZKgRNIAQAJ) Global Privacy Control
 - [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/uAscf5sfEdc/m/0EQcFYqxAAAJ) CSS `text-wrap: balance` value
 - [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/z6PaiICBCRg/m/w171E3_DAAAJ) `hanging` and `each-line`keywords for the `text-indent` CSS property
 - [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/s-Ssm1n14TU/m/TSRvErZEAAAJ) HTML `loading=lazy` attribute on `<iframe>` elements
