@@ -11,14 +11,19 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 November 2023
 
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/ZCPkcu_dSF8/m/YuS79cFhAgAJ) CSS `@page` margin boxes
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/qpkOIzNakcI/m/TwgH4x8EAgAJ) `contentVisibilityAuto` option for `checkVisibility` method
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/EfqxeH3Iwh4/m/lLT1hpw5AwAJ) `navigation.activation` object
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/FB1Mgt0hm0A/m/PonzAjP5BwAJ) animation behavior for the CSS `font-palette` property
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/ruNqbP3wDSY/m/JZUK92gsAwAJ) `contentVisibilityAuto` option for `checkVisibility` method
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/4nU1dxXn-7c/m/8Jb2WUfPBQAJ) passkeys in cross-origin iframes
+- :new: [Deprecate and remove](https://groups.google.com/a/chromium.org/g/blink-dev/c/RG0oLYQ0f2I/m/xMSdsEAzBwAJ) third-party cookies
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/ZCPkcu_dSF8/m/YuS79cFhAgAJ) CSS `@page` margin boxes
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/qpkOIzNakcI/m/TwgH4x8EAgAJ) `contentVisibilityAuto` option for `checkVisibility` method
 
 October 2023
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/yOxNDSaviyU/m/tHfuyAh3BgAJ) `EditContext` API
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/hw3jG7fxmqY/m/uLmc_xCkAwAJ) CSS `::spelling-error` and `::grammar-error` pseudo-elements, and `spelling-error` and `grammar-error` values for `text-decoration-line`
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/73qlvaSFmfg/m/M7Rt0dDLAwAJ) inheritance for the CSS `::selection` and `::highlight` pseudo-elements
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/yOxNDSaviyU/m/tHfuyAh3BgAJ) `EditContext` API
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/hw3jG7fxmqY/m/uLmc_xCkAwAJ) CSS `::spelling-error` and `::grammar-error` pseudo-elements, and `spelling-error` and `grammar-error` values for `text-decoration-line`
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/73qlvaSFmfg/m/M7Rt0dDLAwAJ) inheritance for the CSS `::selection` and `::highlight` pseudo-elements
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/ihw9gYY2ko0/m/O9oEFsCiBgAJ) CSS `mask-*` properties 
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/ohGv2foP1SY/m/cN11eDJ6EAAJ) Permissions policy violation reports
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/YFWuDlCKTP4/m/V8gQmGWTBQAJ) WebGPU on Android
@@ -1819,13 +1824,13 @@ September 2015
 
 November 2023
 
-- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/iNeYYiRjMaQ/m/boR2M_SnBAAJ) Invokers
-- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/vDVxI6O3YqU/m/D7ImKgOvBAAJ) `._internals.states` property for exposing custom element states (`CustomStateSet`)
+- [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/iNeYYiRjMaQ/m/boR2M_SnBAAJ) Invokers
+- [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/vDVxI6O3YqU/m/D7ImKgOvBAAJ) `._internals.states` property for exposing custom element states (`CustomStateSet`)
 
 October 2023
 
-- :new: [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/S9cdPUJSyL8/m/c8FUILXXAwAJ) `HTMLSelectElement` `showPicker` method
-- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/oacuvZ2_hLg/m/4o28pFLkAwAJ) CSS `:has()` pseudo-class
+- [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/S9cdPUJSyL8/m/c8FUILXXAwAJ) `HTMLSelectElement` `showPicker` method
+- [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/oacuvZ2_hLg/m/4o28pFLkAwAJ) CSS `:has()` pseudo-class
 - [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/373F82Jzcjs/m/ImZKgRNIAQAJ) Global Privacy Control
 - [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/uAscf5sfEdc/m/0EQcFYqxAAAJ) CSS `text-wrap: balance` value
 - [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/z6PaiICBCRg/m/w171E3_DAAAJ) `hanging` and `each-line`keywords for the `text-indent` CSS property
