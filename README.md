@@ -11,11 +11,16 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 November 2023
 
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/EfqxeH3Iwh4/m/lLT1hpw5AwAJ) `navigation.activation` object
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/FB1Mgt0hm0A/m/PonzAjP5BwAJ) animation behavior for the CSS `font-palette` property
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/ruNqbP3wDSY/m/JZUK92gsAwAJ) `contentVisibilityAuto` option for `checkVisibility` method
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/4nU1dxXn-7c/m/8Jb2WUfPBQAJ) passkeys in cross-origin iframes
-- :new: [Deprecate and remove](https://groups.google.com/a/chromium.org/g/blink-dev/c/RG0oLYQ0f2I/m/xMSdsEAzBwAJ) third-party cookies
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/LAKBF5VCPIU/m/FLyKvJ_IBwAJ) `fetchLater` method
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/7eAcLPt6eLU/m/JTyX6ZzgBwAJ) conditional `@import supports()` rules
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/wuJBA0CB7Ko/m/8LwJnDqmBwAJ) Storage Buckets API
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/xWvNSRaFMTs/m/d8xvnfGOBwAJ) `snapchanging` event (CSS scroll snap)
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/CflQ-5__B24/m/0Gjxi3HzBQAJ) HTTP `Speculation-Rules` header
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/EfqxeH3Iwh4/m/lLT1hpw5AwAJ) `navigation.activation` object
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/FB1Mgt0hm0A/m/PonzAjP5BwAJ) animation behavior for the CSS `font-palette` property
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/ruNqbP3wDSY/m/JZUK92gsAwAJ) `contentVisibilityAuto` option for `checkVisibility` method
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/4nU1dxXn-7c/m/8Jb2WUfPBQAJ) passkeys in cross-origin iframes
+- [Deprecate and remove](https://groups.google.com/a/chromium.org/g/blink-dev/c/RG0oLYQ0f2I/m/xMSdsEAzBwAJ) third-party cookies
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/ZCPkcu_dSF8/m/YuS79cFhAgAJ) CSS `@page` margin boxes
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/qpkOIzNakcI/m/TwgH4x8EAgAJ) `contentVisibilityAuto` option for `checkVisibility` method
 
