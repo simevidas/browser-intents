@@ -11,11 +11,14 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 November 2023
 
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/LAKBF5VCPIU/m/FLyKvJ_IBwAJ) `fetchLater` method
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/7eAcLPt6eLU/m/JTyX6ZzgBwAJ) conditional `@import supports()` rules
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/wuJBA0CB7Ko/m/8LwJnDqmBwAJ) Storage Buckets API
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/xWvNSRaFMTs/m/d8xvnfGOBwAJ) `snapchanging` event (CSS scroll snap)
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/CflQ-5__B24/m/0Gjxi3HzBQAJ) HTTP `Speculation-Rules` header
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/Q7-6SyXn2RU/m/TnpzLUMnAQAJ) Element Capture
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/RwDQ5bTrNqo/m/xYNtZ_5ZAAAJ) improved CSS masking for SVG
+- :new: [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/D-mE5qIlkWY/m/1hNnaPI4AQAJ) HTML `<permission>` element (Page-Embedded Permission Control)
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/LAKBF5VCPIU/m/FLyKvJ_IBwAJ) `fetchLater` method
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/7eAcLPt6eLU/m/JTyX6ZzgBwAJ) conditional `@import supports()` rules
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/wuJBA0CB7Ko/m/8LwJnDqmBwAJ) Storage Buckets API
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/xWvNSRaFMTs/m/d8xvnfGOBwAJ) `snapchanging` event (CSS scroll snap)
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/CflQ-5__B24/m/0Gjxi3HzBQAJ) HTTP `Speculation-Rules` header
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/EfqxeH3Iwh4/m/lLT1hpw5AwAJ) `navigation.activation` object
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/FB1Mgt0hm0A/m/PonzAjP5BwAJ) animation behavior for the CSS `font-palette` property
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/ruNqbP3wDSY/m/JZUK92gsAwAJ) `contentVisibilityAuto` option for `checkVisibility` method
