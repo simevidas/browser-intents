@@ -11,9 +11,13 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 November 2023
 
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/Q7-6SyXn2RU/m/TnpzLUMnAQAJ) Element Capture
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/RwDQ5bTrNqo/m/xYNtZ_5ZAAAJ) improved CSS masking for SVG
-- :new: [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/D-mE5qIlkWY/m/1hNnaPI4AQAJ) HTML `<permission>` element (Page-Embedded Permission Control)
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/OAsmCbjPJz0/m/jzuTJzs1AAAJ) auto sizes for lazy-loaded images
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/c-9erLfX7Ec/m/mlaSRUU3AAAJ) multiple readers/writers in File System Access API
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/jepMbayI0UM/m/78kBjpEQAAAJ) `unsanitized` option for the `navigation.clipboard.read` method
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/gTy-fpBOXDM/m/y0V_klRbAAAJ) ServiceWorker Static Routing API (cont.)
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/Q7-6SyXn2RU/m/TnpzLUMnAQAJ) Element Capture
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/RwDQ5bTrNqo/m/xYNtZ_5ZAAAJ) improved CSS masking for SVG
+- [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/D-mE5qIlkWY/m/1hNnaPI4AQAJ) HTML `<permission>` element (Page-Embedded Permission Control)
 - [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/LAKBF5VCPIU/m/FLyKvJ_IBwAJ) `fetchLater` method
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/7eAcLPt6eLU/m/JTyX6ZzgBwAJ) conditional `@import supports()` rules
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/wuJBA0CB7Ko/m/8LwJnDqmBwAJ) Storage Buckets API
@@ -1832,6 +1836,10 @@ September 2015
 
 November 2023
 
+- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/hrCP5RBO7mA/m/7w-1OsmbAQAJ) HTML `popover` attribute
+- :new: [Preview](https://groups.google.com/a/mozilla.org/g/dev-platform/c/Hv-m_VjGSZo/m/bEweZMqDAAAJ) Declarative ShadowDOM
+- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/zQ3FlkRPYD0/m/P0vdeCGdAQAJ) Cache API in Private Browsing Mode
+- :new: [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/hQExM12Wzf0/m/nVZcDS1tAgAJ) `<hr>` elements inside `<select>` elements
 - [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/iNeYYiRjMaQ/m/boR2M_SnBAAJ) Invokers
 - [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/vDVxI6O3YqU/m/D7ImKgOvBAAJ) `._internals.states` property for exposing custom element states (`CustomStateSet`)
 
