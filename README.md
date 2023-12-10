@@ -9,12 +9,18 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
+December 2023
+
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/XRdTX1fOa7Q/m/J7qAUA8lAQAJ) CSS `cross-fade()` function
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/s83S7wXxa6E/m/-of2VcdHAQAJ) Compute Pressure (cont.)
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/fyVzOAmQHzU/m/rck70r5JAQAJ) interoperable `mousemove` default action
+
 November 2023
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/OAsmCbjPJz0/m/jzuTJzs1AAAJ) auto sizes for lazy-loaded images
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/c-9erLfX7Ec/m/mlaSRUU3AAAJ) multiple readers/writers in File System Access API
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/jepMbayI0UM/m/78kBjpEQAAAJ) `unsanitized` option for the `navigation.clipboard.read` method
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/gTy-fpBOXDM/m/y0V_klRbAAAJ) ServiceWorker Static Routing API (cont.)
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/OAsmCbjPJz0/m/jzuTJzs1AAAJ) auto sizes for lazy-loaded images
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/c-9erLfX7Ec/m/mlaSRUU3AAAJ) multiple readers/writers in File System Access API
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/jepMbayI0UM/m/78kBjpEQAAAJ) `unsanitized` option for the `navigation.clipboard.read` method
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/gTy-fpBOXDM/m/y0V_klRbAAAJ) ServiceWorker Static Routing API (cont.)
 - [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/Q7-6SyXn2RU/m/TnpzLUMnAQAJ) Element Capture
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/RwDQ5bTrNqo/m/xYNtZ_5ZAAAJ) improved CSS masking for SVG
 - [Trial](https://groups.google.com/a/chromium.org/g/blink-dev/c/D-mE5qIlkWY/m/1hNnaPI4AQAJ) HTML `<permission>` element (Page-Embedded Permission Control)
@@ -1834,12 +1840,18 @@ September 2015
 
 ### Firefox
 
+December 2023
+
+- :new: [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/RcPBG50PMho/m/oM8N_u8eAAAJ) CSS `xywh()` and `rect()` basic shapes
+- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/TNdVbrT-j8o/m/8UUjk6GyAgAJ) CSS `offset-position` and `offset-path` properties
+- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/vAT8QMrodq8/m/58QeXhkEAQAJ) `content-box` and `stroke-box` values for CSS `transform-box` property
+
 November 2023
 
-- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/hrCP5RBO7mA/m/7w-1OsmbAQAJ) HTML `popover` attribute
-- :new: [Preview](https://groups.google.com/a/mozilla.org/g/dev-platform/c/Hv-m_VjGSZo/m/bEweZMqDAAAJ) Declarative ShadowDOM
-- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/zQ3FlkRPYD0/m/P0vdeCGdAQAJ) Cache API in Private Browsing Mode
-- :new: [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/hQExM12Wzf0/m/nVZcDS1tAgAJ) `<hr>` elements inside `<select>` elements
+- [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/hrCP5RBO7mA/m/7w-1OsmbAQAJ) HTML `popover` attribute
+- [Preview](https://groups.google.com/a/mozilla.org/g/dev-platform/c/Hv-m_VjGSZo/m/bEweZMqDAAAJ) Declarative ShadowDOM
+- [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/zQ3FlkRPYD0/m/P0vdeCGdAQAJ) Cache API in Private Browsing Mode
+- [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/hQExM12Wzf0/m/nVZcDS1tAgAJ) `<hr>` elements inside `<select>` elements
 - [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/iNeYYiRjMaQ/m/boR2M_SnBAAJ) Invokers
 - [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/vDVxI6O3YqU/m/D7ImKgOvBAAJ) `._internals.states` property for exposing custom element states (`CustomStateSet`)
 
