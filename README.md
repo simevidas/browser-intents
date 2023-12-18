@@ -11,9 +11,12 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 December 2023
 
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/XRdTX1fOa7Q/m/J7qAUA8lAQAJ) CSS `cross-fade()` function
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/s83S7wXxa6E/m/-of2VcdHAQAJ) Compute Pressure (cont.)
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/fyVzOAmQHzU/m/rck70r5JAQAJ) interoperable `mousemove` default action
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/MjCCRQo9Qk0/m/XTjOSVDcAAAJ) CSS `field-sizing` property
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/ofii__csdOY/m/_D6eDRq7AAAJ) fenced frames with local unpartitioned data access
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/2fqPL6OhmUs/m/vuUqbhkeAwAJ) Locked Mode API
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/XRdTX1fOa7Q/m/J7qAUA8lAQAJ) CSS `cross-fade()` function
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/s83S7wXxa6E/m/-of2VcdHAQAJ) Compute Pressure (cont.)
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/fyVzOAmQHzU/m/rck70r5JAQAJ) interoperable `mousemove` default action
 
 November 2023
 
@@ -1842,9 +1845,9 @@ September 2015
 
 December 2023
 
-- :new: [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/RcPBG50PMho/m/oM8N_u8eAAAJ) CSS `xywh()` and `rect()` basic shapes
-- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/TNdVbrT-j8o/m/8UUjk6GyAgAJ) CSS `offset-position` and `offset-path` properties
-- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/vAT8QMrodq8/m/58QeXhkEAQAJ) `content-box` and `stroke-box` values for CSS `transform-box` property
+- [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/RcPBG50PMho/m/oM8N_u8eAAAJ) CSS `xywh()` and `rect()` basic shapes
+- [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/TNdVbrT-j8o/m/8UUjk6GyAgAJ) CSS `offset-position` and `offset-path` properties
+- [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/vAT8QMrodq8/m/58QeXhkEAQAJ) `content-box` and `stroke-box` values for CSS `transform-box` property
 
 November 2023
 
