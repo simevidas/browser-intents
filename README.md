@@ -11,9 +11,10 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 December 2023
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/MjCCRQo9Qk0/m/XTjOSVDcAAAJ) CSS `field-sizing` property
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/ofii__csdOY/m/_D6eDRq7AAAJ) fenced frames with local unpartitioned data access
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/2fqPL6OhmUs/m/vuUqbhkeAwAJ) Locked Mode API
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/YSc-ri5O32I/m/fvjllNgVAAAJ) CSS `calc-size()` function
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/MjCCRQo9Qk0/m/XTjOSVDcAAAJ) CSS `field-sizing` property
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/ofii__csdOY/m/_D6eDRq7AAAJ) fenced frames with local unpartitioned data access
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/2fqPL6OhmUs/m/vuUqbhkeAwAJ) Locked Mode API
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/XRdTX1fOa7Q/m/J7qAUA8lAQAJ) CSS `cross-fade()` function
 - [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/s83S7wXxa6E/m/-of2VcdHAQAJ) Compute Pressure (cont.)
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/fyVzOAmQHzU/m/rck70r5JAQAJ) interoperable `mousemove` default action
