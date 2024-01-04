@@ -1,4 +1,4 @@
-This is my selection of relevant Chromium and Firefox intents (from [blink-dev](https://groups.google.com/a/chromium.org/forum/#!forum/blink-dev) and [dev-platform@mozilla.org](https://groups.google.com/a/mozilla.org/g/dev-platform), respectively); updated weekly (marks latest additions).
+This is my selection of relevant Chromium and Firefox intents (from [blink-dev](https://groups.google.com/a/chromium.org/forum/#!forum/blink-dev) and [dev-platform@mozilla.org](https://groups.google.com/a/mozilla.org/g/dev-platform), respectively). Updated weekly.
 
 [Atom feed](https://github.com/simevidas/browser-intents/commits/master.atom).
 
