@@ -9,6 +9,14 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
+January 2024
+
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/MeM7TRtTsOs/m/GsnKwx0VBwAJ) `document.caretPositionFromPoint` method
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/bMzZvBSmSOk/m/YWoi3PVjAAAJ) HTML `blocking=render` attribute on inline `<script>` elements
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/9hvYiSZy868/m/8fJc_92wAAAJ) CSS `display: contents` not affecting fosucability
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/8BbZ_NUVZ5Q/m/HBv8RHNXAAAJ) `'json'` and `'css'` request destinations for JSON and CSS modules
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/yXTxBfLthzc/m/dlbBjyGhAAAJ) inheritance to CSS `::backdrop` pseudo-element from its originating element
+
 December 2023
 
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/YSc-ri5O32I/m/fvjllNgVAAAJ) CSS `calc-size()` function
@@ -1875,7 +1883,7 @@ October 2023
 September 2023
 
 - [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/n2qHmrAdta4/m/TySv-9DDAAAJ) CSS `zoom` property
-- [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/_MTabf8-omg/m/T7qgC2BxAAAJ) CSS inheritance to `::backdrop` from its originating elemeng (e.g., `<dialog>`)
+- [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/_MTabf8-omg/m/T7qgC2BxAAAJ) CSS inheritance to `::backdrop` from its originating element (e.g., `<dialog>`)
 - [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/tWuBjgtfItA/m/OGXdy8N9AQAJ) Screen Wake Lock API
 - [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/GNp44ffmGGs/m/Pty0FJNrCAAJ) Early Hints
 - [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/SsXXqvp8O3s/m/epsq8vlaCAAJ) CSS `attr()` fallback
