@@ -11,11 +11,13 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 January 2024
 
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/MeM7TRtTsOs/m/GsnKwx0VBwAJ) `document.caretPositionFromPoint` method
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/bMzZvBSmSOk/m/YWoi3PVjAAAJ) HTML `blocking=render` attribute on inline `<script>` elements
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/9hvYiSZy868/m/8fJc_92wAAAJ) CSS `display: contents` not affecting fosucability
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/8BbZ_NUVZ5Q/m/HBv8RHNXAAAJ) `'json'` and `'css'` request destinations for JSON and CSS modules
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/yXTxBfLthzc/m/dlbBjyGhAAAJ) inheritance to CSS `::backdrop` pseudo-element from its originating element
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/1-1weImG02I/m/EOGt76JAAQAJ) CSS `view-transition-class` property (styling of view transition pseudo-elements)
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/PE4VwMjLVTo/m/WleUQ3E4AQAJ) Declarative shadow DOM serialization
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/MeM7TRtTsOs/m/GsnKwx0VBwAJ) `document.caretPositionFromPoint` method
+- [Implement and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/bMzZvBSmSOk/m/YWoi3PVjAAAJ) HTML `blocking=render` attribute on inline `<script>` elements
+- [Implement and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/9hvYiSZy868/m/8fJc_92wAAAJ) CSS `display: contents` not affecting fosucability
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/8BbZ_NUVZ5Q/m/HBv8RHNXAAAJ) `'json'` and `'css'` request destinations for JSON and CSS modules
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/yXTxBfLthzc/m/dlbBjyGhAAAJ) inheritance to CSS `::backdrop` pseudo-element from its originating element
 
 December 2023
 
@@ -1851,6 +1853,11 @@ September 2015
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/iBX_2xfX6jc/Uc0D6jr3AgAJ) `stale-while-revalidate` Cache-control extension
 
 ### Firefox
+
+January 2024
+
+- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/P-ZBI_7fEaE/m/yClwXORMAwAJ) Declarative Shadow DOM
+- :new: [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/kXp-yUvkNKQ/m/mDVXyyrtAAAJ) CSS `content-visibility` property
 
 December 2023
 
