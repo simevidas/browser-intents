@@ -9,13 +9,23 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
+February 2024
+
+- :new: [Prototype and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/W8j6RKDeRoM/m/FyCKOAG9AAAJ) CSS `zoom` property 
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/S67zJ1AYW2U/m/ysawp-F2AAAJ) `pagereveal` event
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/skVFFnZgVlY/m/AsJ6_0sPAQAJ) `pageconceal` event
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/4Rqw4SbjO88/m/j7x8sTyzAAAJ) Web Monetization
+
 January 2024
 
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/nZhPt0ePCAA/m/C9U_aPDYAgAJ) `ShadowRoot` `clonable` property
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/7dVHYZ-t79I/m/ZzOAwIizAgAJ) `navigation.activation` object
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/rHyRCx-hJhE/m/ZNaMSBqNAgAJ) HTML `writingsuggestions` attribute
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/Sn8TF5KHrRU/m/ldJKnA0MAgAJ) CSS `text-box-trim` and `text-box-edge` properties
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/ZZpEMv0_UXA/m/Cb-BWDanAQAJ) delayed clipboard rendering
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/jVUR2ebE3e0/m/xTYzlOkvBAAJ) CSS `text-spacing-trim` property
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/j8nZWueWc1s/m/NlPCzEgSAAAJ) element reflection for ARIA relationship attributes
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/IsXAWrFLUHE/m/yrF-QUIKBAAJ) CSS `light-dark()` function
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/nZhPt0ePCAA/m/C9U_aPDYAgAJ) `ShadowRoot` `clonable` property
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/7dVHYZ-t79I/m/ZzOAwIizAgAJ) `navigation.activation` object
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/rHyRCx-hJhE/m/ZNaMSBqNAgAJ) HTML `writingsuggestions` attribute
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/Sn8TF5KHrRU/m/ldJKnA0MAgAJ) CSS `text-box-trim` and `text-box-edge` properties
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/ZZpEMv0_UXA/m/Cb-BWDanAQAJ) delayed clipboard rendering
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/1-1weImG02I/m/EOGt76JAAQAJ) CSS `view-transition-class` property (styling of view transition pseudo-elements)
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/PE4VwMjLVTo/m/WleUQ3E4AQAJ) Declarative shadow DOM serialization
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/MeM7TRtTsOs/m/GsnKwx0VBwAJ) `document.caretPositionFromPoint` method
@@ -1861,10 +1871,10 @@ September 2015
 
 January 2024
 
-- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/DgmxpzaZyhQ/m/8dScPs6BBQAJ) `Link` headers with `rel=preload` or `rel=modulepreload` in HTTP Early Hints responses
-- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/wl66hiVSWj0/m/mQMtlFlzBQAJ): Fire pointer events on disabled form elements
-- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/wlikxjO2EbY/m/6uma1IdqAQAJ) Observable
-- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/aN9u94_d3r8/m/5kUzfHgNAQAJ) Screen Wake Lock API
+- [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/DgmxpzaZyhQ/m/8dScPs6BBQAJ) `Link` headers with `rel=preload` or `rel=modulepreload` in HTTP Early Hints responses
+- [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/wl66hiVSWj0/m/mQMtlFlzBQAJ): Fire pointer events on disabled form elements
+- [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/wlikxjO2EbY/m/6uma1IdqAQAJ) Observable
+- [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/aN9u94_d3r8/m/5kUzfHgNAQAJ) Screen Wake Lock API
 - [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/P-ZBI_7fEaE/m/yClwXORMAwAJ) Declarative Shadow DOM
 - [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/kXp-yUvkNKQ/m/mDVXyyrtAAAJ) CSS `content-visibility` property
 
