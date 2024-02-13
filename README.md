@@ -11,16 +11,22 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 February 2024
 
-- :new: [Prototype and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/W8j6RKDeRoM/m/FyCKOAG9AAAJ) CSS `zoom` property 
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/S67zJ1AYW2U/m/ysawp-F2AAAJ) `pagereveal` event
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/skVFFnZgVlY/m/AsJ6_0sPAQAJ) `pageconceal` event
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/4Rqw4SbjO88/m/j7x8sTyzAAAJ) Web Monetization
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/GFFOLCF12a4/m/crdNkVeaAQAJ) `Content-Encoding: zstd` (Zstandard data compression mechanism)
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/-eflVqNCtDY/m/jPnpYMhMAAAJ) CSS `paint-order` property for HTML text
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/OE1rXYv126c/m/qt8FEWp7AAAJ) `picture-in-picture` value for CSS `display-mode` media feature
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/-SEMMttEqz4/m/ogpF3VZsAAAJ) ServiceWorker static routing API
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/jESpcXVA8ns/m/46K9anVZAAAJ) CSS `:open` and `:closed` pseudo-classes
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/CWP5rb--Gyk/m/cpRngx-BAAAJ) CSS `line-clamp` property
+- [Prototype and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/W8j6RKDeRoM/m/FyCKOAG9AAAJ) CSS `zoom` property 
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/S67zJ1AYW2U/m/ysawp-F2AAAJ) `pagereveal` event
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/skVFFnZgVlY/m/AsJ6_0sPAQAJ) `pageconceal` event
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/4Rqw4SbjO88/m/j7x8sTyzAAAJ) Web Monetization
 
 January 2024
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/jVUR2ebE3e0/m/xTYzlOkvBAAJ) CSS `text-spacing-trim` property
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/j8nZWueWc1s/m/NlPCzEgSAAAJ) element reflection for ARIA relationship attributes
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/IsXAWrFLUHE/m/yrF-QUIKBAAJ) CSS `light-dark()` function
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/jVUR2ebE3e0/m/xTYzlOkvBAAJ) CSS `text-spacing-trim` property
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/j8nZWueWc1s/m/NlPCzEgSAAAJ) element reflection for ARIA relationship attributes
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/IsXAWrFLUHE/m/yrF-QUIKBAAJ) CSS `light-dark()` function
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/nZhPt0ePCAA/m/C9U_aPDYAgAJ) `ShadowRoot` `clonable` property
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/7dVHYZ-t79I/m/ZzOAwIizAgAJ) `navigation.activation` object
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/rHyRCx-hJhE/m/ZNaMSBqNAgAJ) HTML `writingsuggestions` attribute
@@ -1868,6 +1874,10 @@ September 2015
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/iBX_2xfX6jc/Uc0D6jr3AgAJ) `stale-while-revalidate` Cache-control extension
 
 ### Firefox
+
+February 2024
+
+- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/XGxT2duSlW8/m/rbk7_Xs8AAAJ) CSS `user-find` property
 
 January 2024
 
