@@ -11,12 +11,17 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 February 2024
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/GFFOLCF12a4/m/crdNkVeaAQAJ) `Content-Encoding: zstd` (Zstandard data compression mechanism)
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/-eflVqNCtDY/m/jPnpYMhMAAAJ) CSS `paint-order` property for HTML text
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/OE1rXYv126c/m/qt8FEWp7AAAJ) `picture-in-picture` value for CSS `display-mode` media feature
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/-SEMMttEqz4/m/ogpF3VZsAAAJ) ServiceWorker static routing API
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/jESpcXVA8ns/m/46K9anVZAAAJ) CSS `:open` and `:closed` pseudo-classes
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/CWP5rb--Gyk/m/cpRngx-BAAAJ) CSS `line-clamp` property
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/u2BMTagIHf4/m/9ckaEuEZAgAJ) `clonable` option for `attachShadow` method, and `shadowrootclonable` attribute for `<template>` element
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/6D8RO9F6I04/m/CwXJIb_EAQAJ) `setHTMLUnsafe` and `parseHTMLUnsafe` methods
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/U-XvxP0ZQJ0/m/-VRuI3BOAgAJ) HTTP `Priority` request header
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/_Ml1o8xYZc8/m/mhq2nD27AQAJ) `picture-in-picture` value for CSS `display-mode` media feature
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/b-BTxKD-Ldc/m/1pyobjq7AQAJ) CSS functions (`@function`)
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/GFFOLCF12a4/m/crdNkVeaAQAJ) `Content-Encoding: zstd` (Zstandard data compression mechanism)
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/-eflVqNCtDY/m/jPnpYMhMAAAJ) CSS `paint-order` property for HTML text
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/OE1rXYv126c/m/qt8FEWp7AAAJ) `picture-in-picture` value for CSS `display-mode` media feature
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/-SEMMttEqz4/m/ogpF3VZsAAAJ) ServiceWorker static routing API
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/jESpcXVA8ns/m/46K9anVZAAAJ) CSS `:open` and `:closed` pseudo-classes
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/CWP5rb--Gyk/m/cpRngx-BAAAJ) CSS `line-clamp` property
 - [Prototype and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/W8j6RKDeRoM/m/FyCKOAG9AAAJ) CSS `zoom` property 
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/S67zJ1AYW2U/m/ysawp-F2AAAJ) `pagereveal` event
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/skVFFnZgVlY/m/AsJ6_0sPAQAJ) `pageconceal` event
@@ -1877,7 +1882,7 @@ September 2015
 
 February 2024
 
-- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/XGxT2duSlW8/m/rbk7_Xs8AAAJ) CSS `user-find` property
+- [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/XGxT2duSlW8/m/rbk7_Xs8AAAJ) CSS `user-find` property
 
 January 2024
 
