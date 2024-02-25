@@ -11,11 +11,15 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 February 2024
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/u2BMTagIHf4/m/9ckaEuEZAgAJ) `clonable` option for `attachShadow` method, and `shadowrootclonable` attribute for `<template>` element
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/6D8RO9F6I04/m/CwXJIb_EAQAJ) `setHTMLUnsafe` and `parseHTMLUnsafe` methods
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/U-XvxP0ZQJ0/m/-VRuI3BOAgAJ) HTTP `Priority` request header
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/_Ml1o8xYZc8/m/mhq2nD27AQAJ) `picture-in-picture` value for CSS `display-mode` media feature
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/b-BTxKD-Ldc/m/1pyobjq7AQAJ) CSS functions (`@function`)
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/UO30brSlWhs/m/gfULRkmYAgAJ) HTML `interesttarget` attribute for buttons and links
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/d9jIhcVw8zQ/m/aM5d-3P7AQAJ) CSS `reading-order-items` property
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/CVOCZ26iqMY/m/osIPJrQ_AAAJ) `Sec-CH-UA-Form-Factor` client hint
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/kaqecR-ED0A/m/MKZNWH5IAAAJ) `<meta name="app-title">` and `document.appTitle` (document subtitle)
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/u2BMTagIHf4/m/9ckaEuEZAgAJ) `clonable` option for `attachShadow` method, and `shadowrootclonable` attribute for `<template>` element
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/6D8RO9F6I04/m/CwXJIb_EAQAJ) `setHTMLUnsafe` and `parseHTMLUnsafe` methods
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/U-XvxP0ZQJ0/m/-VRuI3BOAgAJ) HTTP `Priority` request header
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/_Ml1o8xYZc8/m/mhq2nD27AQAJ) `picture-in-picture` value for CSS `display-mode` media feature
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/b-BTxKD-Ldc/m/1pyobjq7AQAJ) CSS functions (`@function`)
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/GFFOLCF12a4/m/crdNkVeaAQAJ) `Content-Encoding: zstd` (Zstandard data compression mechanism)
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/-eflVqNCtDY/m/jPnpYMhMAAAJ) CSS `paint-order` property for HTML text
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/OE1rXYv126c/m/qt8FEWp7AAAJ) `picture-in-picture` value for CSS `display-mode` media feature
