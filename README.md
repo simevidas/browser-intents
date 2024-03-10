@@ -11,7 +11,12 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 March 2024
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/7EaEnJ14W1I/m/l_GStMkVAAAJ) `pageswap` event
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/v4MLESmFR1c/m/UhstKjucAAAJ) `document.caretPositionFromPoint` method
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/AjH7tGxuVuw/m/lVsC6bcRAQAJ) extending Storage Access API to non-cookie storage (cont.)
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/5aRDL-E9olQ/m/Pb7ECdcpAAAJ) `tabbed` display mode for tabbed web apps (cont.)
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/7leKysvPZWk/m/-0fKweJ5AQAJ) Compute Pressure API
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/19n4jmAlD6w/m/V56SYIo6AQAJ) HTML `<link rel=expect>` element for document render-blocking
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/7EaEnJ14W1I/m/l_GStMkVAAAJ) `pageswap` event
 
 February 2024
 
@@ -1888,9 +1893,13 @@ September 2015
 
 ### Firefox
 
+March 2024
+
+- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/cim0y5zi56Q/m/EDeO2kyAAwAJ) color interpretation mode in CSS gradients
+
 February 2024
 
-- :new: [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/fvcMHPaMdz4/m/25m4uqZPAAAJ) CSS `align-content` property on block containers
+- [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/fvcMHPaMdz4/m/25m4uqZPAAAJ) CSS `align-content` property on block containers
 - [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/XGxT2duSlW8/m/rbk7_Xs8AAAJ) CSS `user-find` property
 
 January 2024
