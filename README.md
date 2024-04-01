@@ -11,7 +11,7 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 March 2024
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/cYoXygoSrNM/m/gJJZWB72AwAJ) CSS `view-transition-class` property
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/cYoXygoSrNM/m/gJJZWB72AwAJ) CSS `view-transition-class` property
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/F5EV8I-j7Eg/m/jDc_nS-aAQAJ) extending Storage Access API to non-cookie storage
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/NhWn64yxB5Q/m/1DnBEqxXAQAJ) HTML `writingsuggestions` attribute
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/mokJAXhFzek/m/v__YAOvDAAAJ) Playout Statistics API for WebAudio
@@ -1899,9 +1899,11 @@ September 2015
 
 March 2024
 
-- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/Md19-4lLhBc/m/WIMrcd3cAgAJ) custom state pseudo-class (`CustomStateSet` interface)
-- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/zF7soLapT-Y/m/zkc3y_MJAAAJ) `Selection` `direction` property and `getComposedRanges` method, and selections across shadow boundaries
-- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/uWjLctFTlxo/m/pUDpkWLUAAAJ) element reflection for ARIA relationship attributes (`ARIAMixin` interface)
+- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/gq_k_Kdb9Gk/m/ubnxmEohAAAJ) Close Watchers
+- :new: [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/3QgJqDYpEwA/m/4n1pJEtqAAAJ) `URL.parse` static method
+- [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/Md19-4lLhBc/m/WIMrcd3cAgAJ) custom state pseudo-class (`CustomStateSet` interface)
+- [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/zF7soLapT-Y/m/zkc3y_MJAAAJ) `Selection` `direction` property and `getComposedRanges` method, and selections across shadow boundaries
+- [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/uWjLctFTlxo/m/pUDpkWLUAAAJ) element reflection for ARIA relationship attributes (`ARIAMixin` interface)
 - [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/flwThuV-_nE/m/oea9_WysAAAJ) Clipboard `readText` method
 - [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/cim0y5zi56Q/m/EDeO2kyAAwAJ) color interpretation mode in CSS gradients
 
