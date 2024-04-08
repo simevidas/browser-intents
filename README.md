@@ -9,6 +9,14 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
+April 2024
+
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/T4jcCXRkwB8/m/GD81-4bNAAAJ) Declarative shadow DOM serialization
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/WQLmZB0PRgM/m/fBuij5P-AAAJ) CSS `round()`, `mod()`, and `rem()` functions
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/HrdJr8dSoUE/m/GNKCZCGaAAAJ) HTTP `Document-Isolation-Policy` header
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/4hDfC6nBoP0/m/9XF2RbLtAAAJ) CSS `::scroll-marker` and `::scroll-markers` pseudo-elements 
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/y7BPRu8C2o4/m/auL5GOINAAAJ) Device Posture API and Viewport Segments Enumeration API
+
 March 2024
 
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/cYoXygoSrNM/m/gJJZWB72AwAJ) CSS `view-transition-class` property
@@ -1897,10 +1905,17 @@ September 2015
 
 ### Firefox
 
+April 2024
+
+- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/T_dnrCZezRs/m/JiXh3f0OAAAJ) CSS margin at-rules (such as `@top-left`)
+- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/McZfEwrqce8/m/H_1JuPVAAQAJ) CSS Relative Color Syntax (`from` keyword)
+- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/2xo3_A8as4E/m/XZ_cNegxAQAJ) CSS `zoom` property and `Element` `currentCSSZoom` property
+- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/noIHUpX5tHw/m/_Omnx4AoAQAJ) legacy `textInput` event
+
 March 2024
 
-- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/gq_k_Kdb9Gk/m/ubnxmEohAAAJ) Close Watchers
-- :new: [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/3QgJqDYpEwA/m/4n1pJEtqAAAJ) `URL.parse` static method
+- [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/gq_k_Kdb9Gk/m/ubnxmEohAAAJ) Close Watchers
+- [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/3QgJqDYpEwA/m/4n1pJEtqAAAJ) `URL.parse` static method
 - [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/Md19-4lLhBc/m/WIMrcd3cAgAJ) custom state pseudo-class (`CustomStateSet` interface)
 - [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/zF7soLapT-Y/m/zkc3y_MJAAAJ) `Selection` `direction` property and `getComposedRanges` method, and selections across shadow boundaries
 - [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/uWjLctFTlxo/m/pUDpkWLUAAAJ) element reflection for ARIA relationship attributes (`ARIAMixin` interface)
