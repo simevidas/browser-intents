@@ -11,11 +11,14 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 April 2024
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/T4jcCXRkwB8/m/GD81-4bNAAAJ) Declarative shadow DOM serialization
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/WQLmZB0PRgM/m/fBuij5P-AAAJ) CSS `round()`, `mod()`, and `rem()` functions
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/HrdJr8dSoUE/m/GNKCZCGaAAAJ) HTTP `Document-Isolation-Policy` header
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/4hDfC6nBoP0/m/9XF2RbLtAAAJ) CSS `::scroll-marker` and `::scroll-markers` pseudo-elements 
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/y7BPRu8C2o4/m/auL5GOINAAAJ) Device Posture API and Viewport Segments Enumeration API
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/jGTYNuidPRs/m/-jB4agJ7AAAJ) CSS Anchor Positioning
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/CyIcrJX33ik/m/9OOc66qwAAAJ) Web Install API
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/8yl-pJhuLHE/m/1GDufCYWAAAJ) HTML `headingstart` attribute
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/T4jcCXRkwB8/m/GD81-4bNAAAJ) Declarative shadow DOM serialization
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/WQLmZB0PRgM/m/fBuij5P-AAAJ) CSS `round()`, `mod()`, and `rem()` functions
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/HrdJr8dSoUE/m/GNKCZCGaAAAJ) HTTP `Document-Isolation-Policy` header
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/4hDfC6nBoP0/m/9XF2RbLtAAAJ) CSS `::scroll-marker` and `::scroll-markers` pseudo-elements 
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/y7BPRu8C2o4/m/auL5GOINAAAJ) Device Posture API and Viewport Segments Enumeration API
 
 March 2024
 
@@ -1907,10 +1910,10 @@ September 2015
 
 April 2024
 
-- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/T_dnrCZezRs/m/JiXh3f0OAAAJ) CSS margin at-rules (such as `@top-left`)
-- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/McZfEwrqce8/m/H_1JuPVAAQAJ) CSS Relative Color Syntax (`from` keyword)
-- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/2xo3_A8as4E/m/XZ_cNegxAQAJ) CSS `zoom` property and `Element` `currentCSSZoom` property
-- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/noIHUpX5tHw/m/_Omnx4AoAQAJ) legacy `textInput` event
+- [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/T_dnrCZezRs/m/JiXh3f0OAAAJ) CSS margin at-rules (such as `@top-left`)
+- [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/McZfEwrqce8/m/H_1JuPVAAQAJ) CSS Relative Color Syntax (`from` keyword)
+- [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/2xo3_A8as4E/m/XZ_cNegxAQAJ) CSS `zoom` property and `Element` `currentCSSZoom` property
+- [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/noIHUpX5tHw/m/_Omnx4AoAQAJ) legacy `textInput` event
 
 March 2024
 
