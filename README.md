@@ -11,9 +11,11 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 April 2024
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/jGTYNuidPRs/m/-jB4agJ7AAAJ) CSS Anchor Positioning
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/CyIcrJX33ik/m/9OOc66qwAAAJ) Web Install API
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/8yl-pJhuLHE/m/1GDufCYWAAAJ) HTML `headingstart` attribute
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/yfxV-jLMqNg/m/NJFVBEAyAQAJ) Storage Access API HTTP headers
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/G070zUd0e4c/m/RQY8Vf1yAQAJ) `URL.parse` static method
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/jGTYNuidPRs/m/-jB4agJ7AAAJ) CSS Anchor Positioning
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/CyIcrJX33ik/m/9OOc66qwAAAJ) Web Install API
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/8yl-pJhuLHE/m/1GDufCYWAAAJ) HTML `headingstart` attribute
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/T4jcCXRkwB8/m/GD81-4bNAAAJ) Declarative shadow DOM serialization
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/WQLmZB0PRgM/m/fBuij5P-AAAJ) CSS `round()`, `mod()`, and `rem()` functions
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/HrdJr8dSoUE/m/GNKCZCGaAAAJ) HTTP `Document-Isolation-Policy` header
@@ -1910,6 +1912,7 @@ September 2015
 
 April 2024
 
+- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/VokGNgqFqt0/m/Gv8BBj5zAAAJ) CSS `@scope` rule
 - [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/T_dnrCZezRs/m/JiXh3f0OAAAJ) CSS margin at-rules (such as `@top-left`)
 - [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/McZfEwrqce8/m/H_1JuPVAAQAJ) CSS Relative Color Syntax (`from` keyword)
 - [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/2xo3_A8as4E/m/XZ_cNegxAQAJ) CSS `zoom` property and `Element` `currentCSSZoom` property
