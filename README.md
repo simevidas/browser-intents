@@ -11,8 +11,10 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 April 2024
 
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/yfxV-jLMqNg/m/NJFVBEAyAQAJ) Storage Access API HTTP headers
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/G070zUd0e4c/m/RQY8Vf1yAQAJ) `URL.parse` static method
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/uCOrwnFuqNA/m/KbxFrZ9aAwAJ) alt text for the CSS `content` property (multiple arguments including `attr()` and `counter()`) 
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/Ie46tc6_8so/m/eY1huFmOAAAJ) Web Translation API
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/yfxV-jLMqNg/m/NJFVBEAyAQAJ) Storage Access API HTTP headers
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/G070zUd0e4c/m/RQY8Vf1yAQAJ) `URL.parse` static method
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/jGTYNuidPRs/m/-jB4agJ7AAAJ) CSS Anchor Positioning
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/CyIcrJX33ik/m/9OOc66qwAAAJ) Web Install API
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/8yl-pJhuLHE/m/1GDufCYWAAAJ) HTML `headingstart` attribute
@@ -1912,7 +1914,9 @@ September 2015
 
 April 2024
 
-- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/VokGNgqFqt0/m/Gv8BBj5zAAAJ) CSS `@scope` rule
+- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/lNXj_A-Lllk/m/uxoPXVr9AAAJ) Async Clipboard API `read` and `write` methods
+- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/IXyZWh8oJek/m/ZvODAzXtAAAJ) CSS `@starting-style` rule
+- [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/VokGNgqFqt0/m/Gv8BBj5zAAAJ) CSS `@scope` rule
 - [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/T_dnrCZezRs/m/JiXh3f0OAAAJ) CSS margin at-rules (such as `@top-left`)
 - [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/McZfEwrqce8/m/H_1JuPVAAQAJ) CSS Relative Color Syntax (`from` keyword)
 - [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/2xo3_A8as4E/m/XZ_cNegxAQAJ) CSS `zoom` property and `Element` `currentCSSZoom` property
