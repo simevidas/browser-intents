@@ -9,10 +9,16 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
+May 2024
+
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/L6AfXU0-GOc/m/Y4SRkKUPAQAJ) tabbed web apps (`tabbed` display mode)
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/5FS_4mVQBLc/m/vm-WWXUCAQAJ) CSS highlight pseudos for find-in-page results
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/LsA567xpe7k/m/czhe94krAAAJ) View Transitions in same-origin navigation (expands API to support MPAs)
+
 April 2024
 
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/uCOrwnFuqNA/m/KbxFrZ9aAwAJ) alt text for the CSS `content` property (multiple arguments including `attr()` and `counter()`) 
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/Ie46tc6_8so/m/eY1huFmOAAAJ) Web Translation API
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/uCOrwnFuqNA/m/KbxFrZ9aAwAJ) alt text for the CSS `content` property (multiple arguments including `attr()` and `counter()`) 
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/Ie46tc6_8so/m/eY1huFmOAAAJ) Web Translation API
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/yfxV-jLMqNg/m/NJFVBEAyAQAJ) Storage Access API HTTP headers
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/G070zUd0e4c/m/RQY8Vf1yAQAJ) `URL.parse` static method
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/jGTYNuidPRs/m/-jB4agJ7AAAJ) CSS Anchor Positioning
@@ -1912,10 +1918,14 @@ September 2015
 
 ### Firefox
 
+May 2024
+
+- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/4cbytMKbHtg/m/dUfWuHB0AAAJ) CSS Anchor Positioning
+
 April 2024
 
-- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/lNXj_A-Lllk/m/uxoPXVr9AAAJ) Async Clipboard API `read` and `write` methods
-- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/IXyZWh8oJek/m/ZvODAzXtAAAJ) CSS `@starting-style` rule
+- [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/lNXj_A-Lllk/m/uxoPXVr9AAAJ) Async Clipboard API `read` and `write` methods
+- [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/IXyZWh8oJek/m/ZvODAzXtAAAJ) CSS `@starting-style` rule
 - [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/VokGNgqFqt0/m/Gv8BBj5zAAAJ) CSS `@scope` rule
 - [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/T_dnrCZezRs/m/JiXh3f0OAAAJ) CSS margin at-rules (such as `@top-left`)
 - [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/McZfEwrqce8/m/H_1JuPVAAQAJ) CSS Relative Color Syntax (`from` keyword)
