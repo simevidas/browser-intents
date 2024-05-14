@@ -11,9 +11,11 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 May 2024
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/L6AfXU0-GOc/m/Y4SRkKUPAQAJ) tabbed web apps (`tabbed` display mode)
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/5FS_4mVQBLc/m/vm-WWXUCAQAJ) CSS highlight pseudos for find-in-page results
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/LsA567xpe7k/m/czhe94krAAAJ) View Transitions in same-origin navigation (expands API to support MPAs)
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/PaUVwmNkfWc/m/B8AL45uyAgAJ) alt text for the CSS `content` property (multiple arguments including `attr()` and `counter()`) 
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/dCMLWWdgMgY/m/6Oo_CMicAgAJ) `<link rel="payment">` hints for pending push payments
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/L6AfXU0-GOc/m/Y4SRkKUPAQAJ) tabbed web apps (`tabbed` display mode)
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/5FS_4mVQBLc/m/vm-WWXUCAQAJ) CSS highlight pseudos for find-in-page results
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/LsA567xpe7k/m/czhe94krAAAJ) View Transitions in same-origin navigation (expands API to support MPAs)
 
 April 2024
 
@@ -1920,7 +1922,8 @@ September 2015
 
 May 2024
 
-- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/4cbytMKbHtg/m/dUfWuHB0AAAJ) CSS Anchor Positioning
+- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/M6erM0SjPTM/m/khVI7lm_AAAJ) bounce tracking nitigations
+- [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/4cbytMKbHtg/m/dUfWuHB0AAAJ) CSS Anchor Positioning
 
 April 2024
 
