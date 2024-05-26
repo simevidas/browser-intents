@@ -11,8 +11,11 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 May 2024
 
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/9dANzlI1YgQ/m/hLwG1viaAwAJ) HTML `<permission>` element (Page-Embedded Permission Control)
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/l2CiHZ8BArs/m/FPQcJCWQAwAJ) CSS `font-size-adjust` property (new syntax)
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/hXgwRCYta-k/m/GN-XtGG-AQAJ) unrestricted WebUSB (for Isolated Web Apps with `"usb-unrestricted"` Permission Policy)
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/D2-NxrsMKe4/m/JgY2fBb7AQAJ) CSS `anchor-scope` property
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/ApU_zUmpQ2g/m/KT1lDvGBDgAJ) partitioned popins
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/9dANzlI1YgQ/m/hLwG1viaAwAJ) HTML `<permission>` element (Page-Embedded Permission Control)
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/l2CiHZ8BArs/m/FPQcJCWQAwAJ) CSS `font-size-adjust` property (new syntax)
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/PaUVwmNkfWc/m/B8AL45uyAgAJ) alt text for the CSS `content` property (multiple arguments including `attr()` and `counter()`) 
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/dCMLWWdgMgY/m/6Oo_CMicAgAJ) `<link rel="payment">` hints for pending push payments
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/L6AfXU0-GOc/m/Y4SRkKUPAQAJ) tabbed web apps (`tabbed` display mode)
@@ -1924,6 +1927,7 @@ September 2015
 
 May 2024
 
+- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/7p3DC__Wgos/m/uO7FL7njBQAJ) `Partitioned` attribute for cookies (CHIPS)
 - [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/M6erM0SjPTM/m/khVI7lm_AAAJ) bounce tracking nitigations
 - [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/4cbytMKbHtg/m/dUfWuHB0AAAJ) CSS Anchor Positioning
 
