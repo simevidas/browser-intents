@@ -9,11 +9,19 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
+June 2024
+
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/oPeHkcg6lU8/m/quRNhwW0AgAJ) tabbed web apps (cont.)
+
 May 2024
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/hXgwRCYta-k/m/GN-XtGG-AQAJ) unrestricted WebUSB (for Isolated Web Apps with `"usb-unrestricted"` Permission Policy)
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/D2-NxrsMKe4/m/JgY2fBb7AQAJ) CSS `anchor-scope` property
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/ApU_zUmpQ2g/m/KT1lDvGBDgAJ) partitioned popins
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/vkWGs7_yWZM/m/o-XwjkOGAgAJ) line-breakable ruby (line-breaks within elements with `display: ruby`)
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/wyzfiAi1pVg/m/Tsr_SpVqAgAJ) CSS `ruby-align` property
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/-naLTco_PEo/m/GwL4OA6dAQAJ) CSS Snap Events (`scrollsnapchange` and `scrollsnapchanging`)
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/9iMl0kAA2LE/m/425cECnbAQAJ) Compression Dictionary Transport (cont.)
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/hXgwRCYta-k/m/GN-XtGG-AQAJ) unrestricted WebUSB (for Isolated Web Apps with `"usb-unrestricted"` Permission Policy)
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/D2-NxrsMKe4/m/JgY2fBb7AQAJ) CSS `anchor-scope` property
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/ApU_zUmpQ2g/m/KT1lDvGBDgAJ) partitioned popins
 - [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/9dANzlI1YgQ/m/hLwG1viaAwAJ) HTML `<permission>` element (Page-Embedded Permission Control)
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/l2CiHZ8BArs/m/FPQcJCWQAwAJ) CSS `font-size-adjust` property (new syntax)
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/PaUVwmNkfWc/m/B8AL45uyAgAJ) alt text for the CSS `content` property (multiple arguments including `attr()` and `counter()`) 
@@ -1925,9 +1933,15 @@ September 2015
 
 ### Firefox
 
+June 2024
+
+- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/xph2-4tjGLs/m/aao_-C6HBgAJ) CSS Relative Color Syntax
+
 May 2024
 
-- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/7p3DC__Wgos/m/uO7FL7njBQAJ) `Partitioned` attribute for cookies (CHIPS)
+- :new: [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/zQ4bhw78uac/m/gM2GOY7kBQAJ) (non-standard) CSS `-webkit-font-smoothing` property
+- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/UhQSvl_v6xk/m/HngYYWOJBwAJ) CSS Properties and Values API (incl. `@property`)
+- [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/7p3DC__Wgos/m/uO7FL7njBQAJ) `Partitioned` attribute for cookies (CHIPS)
 - [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/M6erM0SjPTM/m/khVI7lm_AAAJ) bounce tracking nitigations
 - [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/4cbytMKbHtg/m/dUfWuHB0AAAJ) CSS Anchor Positioning
 
