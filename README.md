@@ -11,14 +11,19 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 June 2024
 
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/oPeHkcg6lU8/m/quRNhwW0AgAJ) tabbed web apps (cont.)
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/_ty_-6f0u-Q/m/4V_GDetWBAAJ) CSS `ruby-align` property
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/Rc1ZkD9ScTQ/m/Y4KuLiRKBAAJ) `document.caretPositionFromPoint` method
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/UxztgOj6A_M/m/wrRocFZoBAAJ) `sideways-rl` and `sideways-lr` keywords for the CSS `writing-mode` property
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/vp83zL5uomg/m/s0LJk8RgBAAJ) service worker auto preload
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/27RxGVTrlrU/m/RjVBoDylAwAJ) CSS Masonry
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/oPeHkcg6lU8/m/quRNhwW0AgAJ) tabbed web apps (cont.)
 
 May 2024
 
-- :new: [Implement and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/vkWGs7_yWZM/m/o-XwjkOGAgAJ) line-breakable ruby (line-breaks within elements with `display: ruby`)
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/wyzfiAi1pVg/m/Tsr_SpVqAgAJ) CSS `ruby-align` property
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/-naLTco_PEo/m/GwL4OA6dAQAJ) CSS Snap Events (`scrollsnapchange` and `scrollsnapchanging`)
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/9iMl0kAA2LE/m/425cECnbAQAJ) Compression Dictionary Transport (cont.)
+- [Implement and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/vkWGs7_yWZM/m/o-XwjkOGAgAJ) line-breakable ruby (line-breaks within elements with `display: ruby`)
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/wyzfiAi1pVg/m/Tsr_SpVqAgAJ) CSS `ruby-align` property
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/-naLTco_PEo/m/GwL4OA6dAQAJ) CSS Snap Events (`scrollsnapchange` and `scrollsnapchanging`)
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/9iMl0kAA2LE/m/425cECnbAQAJ) Compression Dictionary Transport (cont.)
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/hXgwRCYta-k/m/GN-XtGG-AQAJ) unrestricted WebUSB (for Isolated Web Apps with `"usb-unrestricted"` Permission Policy)
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/D2-NxrsMKe4/m/JgY2fBb7AQAJ) CSS `anchor-scope` property
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/ApU_zUmpQ2g/m/KT1lDvGBDgAJ) partitioned popins
@@ -1935,12 +1940,15 @@ September 2015
 
 June 2024
 
-- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/xph2-4tjGLs/m/aao_-C6HBgAJ) CSS Relative Color Syntax
+- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/btnfPFh2gNE/m/CZFChuNBAQAJ) CSS `field-sizing` property
+- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/vaT1aQGETLM/m/XyjTUsHVBgAJ) HTML `popover=hint` attribute
+- :new: [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/y1be24jf_2o/m/r4wxrWAPAAAJ) alt text for the CSS `content` property
+- [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/xph2-4tjGLs/m/aao_-C6HBgAJ) CSS Relative Color Syntax
 
 May 2024
 
-- :new: [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/zQ4bhw78uac/m/gM2GOY7kBQAJ) (non-standard) CSS `-webkit-font-smoothing` property
-- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/UhQSvl_v6xk/m/HngYYWOJBwAJ) CSS Properties and Values API (incl. `@property`)
+- [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/zQ4bhw78uac/m/gM2GOY7kBQAJ) (non-standard) CSS `-webkit-font-smoothing` property
+- [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/UhQSvl_v6xk/m/HngYYWOJBwAJ) CSS Properties and Values API (incl. `@property`)
 - [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/7p3DC__Wgos/m/uO7FL7njBQAJ) `Partitioned` attribute for cookies (CHIPS)
 - [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/M6erM0SjPTM/m/khVI7lm_AAAJ) bounce tracking nitigations
 - [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/4cbytMKbHtg/m/dUfWuHB0AAAJ) CSS Anchor Positioning
