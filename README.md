@@ -11,11 +11,13 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 June 2024
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/_ty_-6f0u-Q/m/4V_GDetWBAAJ) CSS `ruby-align` property
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/Rc1ZkD9ScTQ/m/Y4KuLiRKBAAJ) `document.caretPositionFromPoint` method
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/UxztgOj6A_M/m/wrRocFZoBAAJ) `sideways-rl` and `sideways-lr` keywords for the CSS `writing-mode` property
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/vp83zL5uomg/m/s0LJk8RgBAAJ) service worker auto preload
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/27RxGVTrlrU/m/RjVBoDylAwAJ) CSS Masonry
+- :new: [Implement and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/qEao9pwW-uQ/m/nEjAhhBhAAAJ) HTML `aria-rowindextext` and `aria-colindextext` attributes
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/f4G79ZZX_tE/m/y5TDA9y1BQAJ) `color-interpolation: linearrgb` on SVG gradients
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/_ty_-6f0u-Q/m/4V_GDetWBAAJ) CSS `ruby-align` property
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/Rc1ZkD9ScTQ/m/Y4KuLiRKBAAJ) `document.caretPositionFromPoint` method
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/UxztgOj6A_M/m/wrRocFZoBAAJ) `sideways-rl` and `sideways-lr` keywords for the CSS `writing-mode` property
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/vp83zL5uomg/m/s0LJk8RgBAAJ) service worker auto preload
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/27RxGVTrlrU/m/RjVBoDylAwAJ) CSS Masonry
 - [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/oPeHkcg6lU8/m/quRNhwW0AgAJ) tabbed web apps (cont.)
 
 May 2024
@@ -1940,9 +1942,10 @@ September 2015
 
 June 2024
 
-- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/btnfPFh2gNE/m/CZFChuNBAQAJ) CSS `field-sizing` property
-- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/vaT1aQGETLM/m/XyjTUsHVBgAJ) HTML `popover=hint` attribute
-- :new: [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/y1be24jf_2o/m/r4wxrWAPAAAJ) alt text for the CSS `content` property
+- :new: [Experiment](https://groups.google.com/a/mozilla.org/g/dev-platform/c/D6GZiXW_Da8/m/RNX3usF5AAAJ) Privacy-Preserving Attribution
+- [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/btnfPFh2gNE/m/CZFChuNBAQAJ) CSS `field-sizing` property
+- [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/vaT1aQGETLM/m/XyjTUsHVBgAJ) HTML `popover=hint` attribute
+- [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/y1be24jf_2o/m/r4wxrWAPAAAJ) alt text for the CSS `content` property
 - [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/xph2-4tjGLs/m/aao_-C6HBgAJ) CSS Relative Color Syntax
 
 May 2024
