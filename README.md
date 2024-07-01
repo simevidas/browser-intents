@@ -11,8 +11,10 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 June 2024
 
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/ak8HvMr-GR4/m/aHVqW5o6AwAJ) Digital Credential API
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/PyIR0yUMYsM/m/gaeyFfCIAgAJ) CSS `box-decoration-break` property (full support)
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/D0j1igiVHR8/m/PmfLqigIAQAJ) `media-playback-while-not-rendered` Permission Policy
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/ingR7ZCigUA/m/CGKn7k6DBAAJ) Canvas `placeElement` method
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/ak8HvMr-GR4/m/aHVqW5o6AwAJ) Digital Credential API
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/PyIR0yUMYsM/m/gaeyFfCIAgAJ) CSS `box-decoration-break` property (full support)
 - [Implement and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/qEao9pwW-uQ/m/nEjAhhBhAAAJ) HTML `aria-rowindextext` and `aria-colindextext` attributes
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/f4G79ZZX_tE/m/y5TDA9y1BQAJ) `color-interpolation: linearrgb` on SVG gradients
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/_ty_-6f0u-Q/m/4V_GDetWBAAJ) CSS `ruby-align` property
@@ -1944,8 +1946,8 @@ September 2015
 
 June 2024
 
-- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/qspmx5MnGX0/m/3hIdMQ4mAwAJ) CSS `transition-behavior` property
-- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/bxSic3XP7oM/m/WoCg98vSAwAJ) CSS `@starting-style` rule
+- [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/qspmx5MnGX0/m/3hIdMQ4mAwAJ) CSS `transition-behavior` property
+- [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/bxSic3XP7oM/m/WoCg98vSAwAJ) CSS `@starting-style` rule
 - [Experiment](https://groups.google.com/a/mozilla.org/g/dev-platform/c/D6GZiXW_Da8/m/RNX3usF5AAAJ) Privacy-Preserving Attribution
 - [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/btnfPFh2gNE/m/CZFChuNBAQAJ) CSS `field-sizing` property
 - [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/vaT1aQGETLM/m/XyjTUsHVBgAJ) HTML `popover=hint` attribute
