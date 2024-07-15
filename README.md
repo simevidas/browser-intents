@@ -11,8 +11,9 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 July 2024
 
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/qbHl0W-75zA/m/GmCPY7UaAAAJ) partitioning `:visited` links history (phase 2)
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/HwQQqrbEfvc/m/NPDyOd0cAAAJ) Selection API across Shadow DOM and `getComposedRanges` method
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/iMfYonTs414/m/bJQYpIWeAgAJ) Isolated Web Apps
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/qbHl0W-75zA/m/GmCPY7UaAAAJ) partitioning `:visited` links history (phase 2)
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/HwQQqrbEfvc/m/NPDyOd0cAAAJ) Selection API across Shadow DOM and `getComposedRanges` method
 
 June 2024
 
