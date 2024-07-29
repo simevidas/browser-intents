@@ -11,7 +11,8 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 July 2024
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/FjyMSSaSPEg/m/yzlLscFKBQAJ) CSS `interpolate-size` property and `calc-size()` function
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/DTyARSjGP4g/m/r-V_FtR3AQAJ) Sanitizer API
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/FjyMSSaSPEg/m/yzlLscFKBQAJ) CSS `interpolate-size` property and `calc-size()` function
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/iMfYonTs414/m/bJQYpIWeAgAJ) Isolated Web Apps
 - [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/qbHl0W-75zA/m/GmCPY7UaAAAJ) partitioning `:visited` links history (phase 2)
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/HwQQqrbEfvc/m/NPDyOd0cAAAJ) Selection API across Shadow DOM and `getComposedRanges` method
@@ -1950,6 +1951,11 @@ September 2015
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/iBX_2xfX6jc/Uc0D6jr3AgAJ) `stale-while-revalidate` Cache-control extension
 
 ### Firefox
+
+July 2024
+
+- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/-pMSV-kgUjA/m/VRL09R1NAAAJ) CSS `stretch` keyword (and `-webkit-fill-available` alias)
+- :new: [Implement](https://groups.google.com/a/mozilla.org/g/dev-platform/c/HcC0OHvYgHc/m/s6SzH5pxAwAJ) `HTMLVideoElement` `requestVideoFrameCallback` method
 
 June 2024
 
