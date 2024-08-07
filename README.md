@@ -9,9 +9,16 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
+August 2024
+
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/Do1Xyu-PzyU/m/snSC-FqCBAAJ) CSS nested declarations rules
+
 July 2024
 
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/DTyARSjGP4g/m/r-V_FtR3AQAJ) Sanitizer API
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/0r_tV6k0NyA/m/xf1XG0S8CQAJ) HTML `handwriting` attribute
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/AeztwhhHaYo/m/sDt8SMMABAAJ) `FileSystemObserver` API
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/iG4WDZOOzxY/m/eeahfOCXCQAJ) nested view transitions
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/DTyARSjGP4g/m/r-V_FtR3AQAJ) Sanitizer API
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/FjyMSSaSPEg/m/yzlLscFKBQAJ) CSS `interpolate-size` property and `calc-size()` function
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/iMfYonTs414/m/bJQYpIWeAgAJ) Isolated Web Apps
 - [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/qbHl0W-75zA/m/GmCPY7UaAAAJ) partitioning `:visited` links history (phase 2)
@@ -1952,10 +1959,14 @@ September 2015
 
 ### Firefox
 
+August 2024
+
+- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/aJgS0vUCYAE/m/T5eq0Br1AwAJ) Network Error Logging
+
 July 2024
 
-- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/-pMSV-kgUjA/m/VRL09R1NAAAJ) CSS `stretch` keyword (and `-webkit-fill-available` alias)
-- :new: [Implement](https://groups.google.com/a/mozilla.org/g/dev-platform/c/HcC0OHvYgHc/m/s6SzH5pxAwAJ) `HTMLVideoElement` `requestVideoFrameCallback` method
+- [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/-pMSV-kgUjA/m/VRL09R1NAAAJ) CSS `stretch` keyword (and `-webkit-fill-available` alias)
+- [Implement](https://groups.google.com/a/mozilla.org/g/dev-platform/c/HcC0OHvYgHc/m/s6SzH5pxAwAJ) `HTMLVideoElement` `requestVideoFrameCallback` method
 
 June 2024
 
