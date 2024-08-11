@@ -11,13 +11,19 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 August 2024
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/Do1Xyu-PzyU/m/snSC-FqCBAAJ) CSS nested declarations rules
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/YTn8pqJDVBg/m/o8AAwSK3BgAJ) reduced `Accept-Language` header
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/DHgWeqFOCXQ/m/J5X8RZ2uAQAJ) `scheduler.yield` method
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/MOZHKdD61uI/m/YPkRSmauAQAJ) CSS Gap Decoration
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/t1AdHiN2Rkc/m/O-ZAMuaJAQAJ) dynamic import maps
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/rCpcU0ZTgTk/m/Ru_YIYZ9AQAJ) Summarizer API
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/hRY1bb-WlsQ/m/ibddCf3EBgAJ) `preferInitialWindowPlacement` option for Picture-in-Picture API
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/Do1Xyu-PzyU/m/snSC-FqCBAAJ) CSS nested declarations rules
 
 July 2024
 
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/0r_tV6k0NyA/m/xf1XG0S8CQAJ) HTML `handwriting` attribute
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/AeztwhhHaYo/m/sDt8SMMABAAJ) `FileSystemObserver` API
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/iG4WDZOOzxY/m/eeahfOCXCQAJ) nested view transitions
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/0r_tV6k0NyA/m/xf1XG0S8CQAJ) HTML `handwriting` attribute
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/AeztwhhHaYo/m/sDt8SMMABAAJ) `FileSystemObserver` API
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/iG4WDZOOzxY/m/eeahfOCXCQAJ) nested view transitions
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/DTyARSjGP4g/m/r-V_FtR3AQAJ) Sanitizer API
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/FjyMSSaSPEg/m/yzlLscFKBQAJ) CSS `interpolate-size` property and `calc-size()` function
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/iMfYonTs414/m/bJQYpIWeAgAJ) Isolated Web Apps
@@ -1961,7 +1967,7 @@ September 2015
 
 August 2024
 
-- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/aJgS0vUCYAE/m/T5eq0Br1AwAJ) Network Error Logging
+- [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/aJgS0vUCYAE/m/T5eq0Br1AwAJ) Network Error Logging
 
 July 2024
 
