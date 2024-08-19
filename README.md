@@ -11,12 +11,16 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 August 2024
 
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/YTn8pqJDVBg/m/o8AAwSK3BgAJ) reduced `Accept-Language` header
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/DHgWeqFOCXQ/m/J5X8RZ2uAQAJ) `scheduler.yield` method
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/MOZHKdD61uI/m/YPkRSmauAQAJ) CSS Gap Decoration
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/t1AdHiN2Rkc/m/O-ZAMuaJAQAJ) dynamic import maps
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/rCpcU0ZTgTk/m/Ru_YIYZ9AQAJ) Summarizer API
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/hRY1bb-WlsQ/m/ibddCf3EBgAJ) `preferInitialWindowPlacement` option for Picture-in-Picture API
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/UquTxWTNON0/m/VD_-AWz6AwAJ) interoperable `appearance: none` fallback style for `<meter>` elements
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/XTy-FmWjW3g/m/mvoX6poNAAAJ) Language Detector API
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/yhrE2sIg3j8/m/bIehzv9TCAAJ) canvas 2D triangle mesh API (Mesh2D)
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/5R0P_aYBWQI/m/8Z4nYrsxBAAJ) Direct Sockets API
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/YTn8pqJDVBg/m/o8AAwSK3BgAJ) reduced `Accept-Language` header
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/DHgWeqFOCXQ/m/J5X8RZ2uAQAJ) `scheduler.yield` method
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/MOZHKdD61uI/m/YPkRSmauAQAJ) CSS Gap Decoration
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/t1AdHiN2Rkc/m/O-ZAMuaJAQAJ) dynamic import maps
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/rCpcU0ZTgTk/m/Ru_YIYZ9AQAJ) Summarizer API
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/hRY1bb-WlsQ/m/ibddCf3EBgAJ) `preferInitialWindowPlacement` option for Picture-in-Picture API
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/Do1Xyu-PzyU/m/snSC-FqCBAAJ) CSS nested declarations rules
 
 July 2024
@@ -1967,6 +1971,8 @@ September 2015
 
 August 2024
 
+- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/ax5NcNNgGwY/m/U2zzLK26AAAJ) WebCodecs
+- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/l4g8JgaBPPw/m/M3n7tAaFAAAJ) View Transitions for single-page apps
 - [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/aJgS0vUCYAE/m/T5eq0Br1AwAJ) Network Error Logging
 
 July 2024
