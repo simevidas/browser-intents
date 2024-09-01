@@ -11,8 +11,8 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 August 2024
 
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/9qR53S0QCbE/m/fczeuw6oAQAJ) Rewriter API
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/U_4jtNS4aDY/m/ui__UtunAQAJ) Writer API
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/9qR53S0QCbE/m/fczeuw6oAQAJ) Rewriter API
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/U_4jtNS4aDY/m/ui__UtunAQAJ) Writer API
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/UquTxWTNON0/m/VD_-AWz6AwAJ) interoperable `appearance: none` fallback style for `<meter>` elements
 - [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/XTy-FmWjW3g/m/mvoX6poNAAAJ) Language Detector API
 - [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/yhrE2sIg3j8/m/bIehzv9TCAAJ) canvas 2D triangle mesh API (Mesh2D)
@@ -1973,7 +1973,7 @@ September 2015
 
 August 2024
 
-- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/oK7Bbp71RyA/m/P_HboU7RAQAJ) altitude and azimuth angles for Pointer Events
+- [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/oK7Bbp71RyA/m/P_HboU7RAQAJ) altitude and azimuth angles for Pointer Events
 - [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/ax5NcNNgGwY/m/U2zzLK26AAAJ) WebCodecs
 - [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/l4g8JgaBPPw/m/M3n7tAaFAAAJ) View Transitions for single-page apps
 - [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/aJgS0vUCYAE/m/T5eq0Br1AwAJ) Network Error Logging
