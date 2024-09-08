@@ -9,6 +9,12 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
+September 2024
+
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/x3IcFv2jY6c/m/HxuEfzBHAAAJ) File System Access on Android and WebView
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/Eok0ycu_Pic/m/MCwA99xXAQAJ) CSS `box-decoration-break` property (full support)
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/0l3r3v3xJpg/m/qf1vTUw_AQAJ) `fetchLater` method (cont.)
+
 August 2024
 
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/9qR53S0QCbE/m/fczeuw6oAQAJ) Rewriter API
@@ -1970,6 +1976,12 @@ September 2015
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/iBX_2xfX6jc/Uc0D6jr3AgAJ) `stale-while-revalidate` Cache-control extension
 
 ### Firefox
+
+September 2024
+
+- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/dJsnN2uxweY/m/lwwOAA3eAwAJ) `Partitioned` attribute for cookies (CHIPS)
+- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/9ILA7dMn_XA/m/14IfWWvADwAJ) blocking third-party cookies
+- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/2r2ZMAC8ESE/m/7p1oV5P_DwAJ) HTML `autocorrect` attribute
 
 August 2024
 
