@@ -11,10 +11,13 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 September 2024
 
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/L52hSlKI_ak/m/720pMQxZAwAJ) CSS Custom Highlight `highlightsFromPoint` method
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/oHOA9-0Tyro/m/O91qDd-BAwAJ) WebXR Hand Input module
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/i5AeH4ZE2RY/m/ZkTWLj93AwAJ) CSS `font-variant-emoji` property
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/a44aH4Xt2lw/m/Yw2_V5X2AQAJ) Document-Policy `expect-no-linked-resources` configuration point
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/XKb6IQZXNks/m/jM9dG8eQBQAJ) CSS `@page` margin boxes
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/fxGpXGV0hYc/m/LLT1YG6hBQAJ) CSS `stretch` sizing keyword
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/uiom-biaSWY/m/wN2kSjSJBQAJ) `currentcolor` in relative color syntax
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/L52hSlKI_ak/m/720pMQxZAwAJ) CSS Custom Highlight `highlightsFromPoint` method
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/oHOA9-0Tyro/m/O91qDd-BAwAJ) WebXR Hand Input module
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/i5AeH4ZE2RY/m/ZkTWLj93AwAJ) CSS `font-variant-emoji` property
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/a44aH4Xt2lw/m/Yw2_V5X2AQAJ) Document-Policy `expect-no-linked-resources` configuration point
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/x3IcFv2jY6c/m/HxuEfzBHAAAJ) File System Access on Android and WebView
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/Eok0ycu_Pic/m/MCwA99xXAQAJ) CSS `box-decoration-break` property (full support)
 - [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/0l3r3v3xJpg/m/qf1vTUw_AQAJ) `fetchLater` method (cont.)
@@ -1983,7 +1986,10 @@ September 2015
 
 September 2024
 
-- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/OkoMESRn_uc/m/gFYgI6kuAQAJ) Cookie Store API
+- :new: [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/SfrpUsp1_n8/m/ZPhEvbydAgAJ) CSS `text-emphasis-position: auto` value
+- :new: [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/Z8j4yr2lQ0o/m/rbkz0KybAgAJ) CSS nested declarations rules
+- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/lp_5RctznkM/m/F9cxBSm1AQAJ) `HTMLVideoElement` `requestVideoFrameCallback` method
+- [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/OkoMESRn_uc/m/gFYgI6kuAQAJ) Cookie Store API
 - [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/dJsnN2uxweY/m/lwwOAA3eAwAJ) `Partitioned` attribute for cookies (CHIPS)
 - [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/9ILA7dMn_XA/m/14IfWWvADwAJ) blocking third-party cookies
 - [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/2r2ZMAC8ESE/m/7p1oV5P_DwAJ) HTML `autocorrect` attribute
