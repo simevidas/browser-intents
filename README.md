@@ -11,9 +11,13 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 September 2024
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/XKb6IQZXNks/m/jM9dG8eQBQAJ) CSS `@page` margin boxes
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/fxGpXGV0hYc/m/LLT1YG6hBQAJ) CSS `stretch` sizing keyword
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/uiom-biaSWY/m/wN2kSjSJBQAJ) `currentcolor` in relative color syntax
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/838MAAGCbuc/m/ZNoOM9K4AQAJ) Progress Notification API
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/z2Y7O5ZCxgc/m/cj0paGiPAQAJ) CSS `:local-link` pseudo-class
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/kt97lRohAFk/m/VsH2N6iPAQAJ) CSS `:has-slotted` pseudo-class
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/ol3ufc7vyNs/m/IOAxpTUJBwAJ) HTML `<permission>` element (Page-Embedded Permission Control) (cont.)
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/XKb6IQZXNks/m/jM9dG8eQBQAJ) CSS `@page` margin boxes
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/fxGpXGV0hYc/m/LLT1YG6hBQAJ) CSS `stretch` sizing keyword
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/uiom-biaSWY/m/wN2kSjSJBQAJ) `currentcolor` in relative color syntax
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/L52hSlKI_ak/m/720pMQxZAwAJ) CSS Custom Highlight `highlightsFromPoint` method
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/oHOA9-0Tyro/m/O91qDd-BAwAJ) WebXR Hand Input module
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/i5AeH4ZE2RY/m/ZkTWLj93AwAJ) CSS `font-variant-emoji` property
@@ -1986,9 +1990,10 @@ September 2015
 
 September 2024
 
-- :new: [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/SfrpUsp1_n8/m/ZPhEvbydAgAJ) CSS `text-emphasis-position: auto` value
-- :new: [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/Z8j4yr2lQ0o/m/rbkz0KybAgAJ) CSS nested declarations rules
-- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/lp_5RctznkM/m/F9cxBSm1AQAJ) `HTMLVideoElement` `requestVideoFrameCallback` method
+- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/ORD5HBRVpPQ/m/8tq5v5FvAQAJ) HTML `fetchpriority` attribute
+- [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/SfrpUsp1_n8/m/ZPhEvbydAgAJ) CSS `text-emphasis-position: auto` value
+- [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/Z8j4yr2lQ0o/m/rbkz0KybAgAJ) CSS nested declarations rules
+- [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/lp_5RctznkM/m/F9cxBSm1AQAJ) `HTMLVideoElement` `requestVideoFrameCallback` method
 - [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/OkoMESRn_uc/m/gFYgI6kuAQAJ) Cookie Store API
 - [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/dJsnN2uxweY/m/lwwOAA3eAwAJ) `Partitioned` attribute for cookies (CHIPS)
 - [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/9ILA7dMn_XA/m/14IfWWvADwAJ) blocking third-party cookies
