@@ -9,12 +9,18 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
+October 2024
+
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/UCOPneyEk-I/m/gSjllOm2AgAJ) CSS `::details-content` pseudo-element and `display` property on `<details>`/`<summary>` elements
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/Xbhdn0u6Z9A/m/BFVJ7mlKAgAJ) Device Posture API
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/lz4YqLnvCUI/m/wFxK35o7AgAJ) `auto` value for CSS `view-transition-name` property
+
 September 2024
 
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/838MAAGCbuc/m/ZNoOM9K4AQAJ) Progress Notification API
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/z2Y7O5ZCxgc/m/cj0paGiPAQAJ) CSS `:local-link` pseudo-class
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/kt97lRohAFk/m/VsH2N6iPAQAJ) CSS `:has-slotted` pseudo-class
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/ol3ufc7vyNs/m/IOAxpTUJBwAJ) HTML `<permission>` element (Page-Embedded Permission Control) (cont.)
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/838MAAGCbuc/m/ZNoOM9K4AQAJ) Progress Notification API
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/z2Y7O5ZCxgc/m/cj0paGiPAQAJ) CSS `:local-link` pseudo-class
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/kt97lRohAFk/m/VsH2N6iPAQAJ) CSS `:has-slotted` pseudo-class
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/ol3ufc7vyNs/m/IOAxpTUJBwAJ) HTML `<permission>` element (Page-Embedded Permission Control) (cont.)
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/XKb6IQZXNks/m/jM9dG8eQBQAJ) CSS `@page` margin boxes
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/fxGpXGV0hYc/m/LLT1YG6hBQAJ) CSS `stretch` sizing keyword
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/uiom-biaSWY/m/wN2kSjSJBQAJ) `currentcolor` in relative color syntax
@@ -1988,9 +1994,15 @@ September 2015
 
 ### Firefox
 
+October 2024
+
+- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/Fv6E15vuAGY/m/d9q5cEg0AgAJ) `plaintext-only` value for HTML `contenteditable` attribute
+- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/mQNT-5RxHVM/m/7bYxZp50BAAJ) CSS `:local-link` pseudo-class
+- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/s9kgSMrbo0U/m/SRnEXIB0BAAJ) CSS `:has-slotted` pseudo-class
+
 September 2024
 
-- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/ORD5HBRVpPQ/m/8tq5v5FvAQAJ) HTML `fetchpriority` attribute
+- [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/ORD5HBRVpPQ/m/8tq5v5FvAQAJ) HTML `fetchpriority` attribute
 - [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/SfrpUsp1_n8/m/ZPhEvbydAgAJ) CSS `text-emphasis-position: auto` value
 - [Prototype and ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/Z8j4yr2lQ0o/m/rbkz0KybAgAJ) CSS nested declarations rules
 - [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/lp_5RctznkM/m/F9cxBSm1AQAJ) `HTMLVideoElement` `requestVideoFrameCallback` method
