@@ -11,8 +11,9 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 October 2024
 
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/X-VxVeiJgtM/m/KxbJ6-h1AAAJ) Summarizer API
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/OcliQ_XqUOI/m/ltVgDaOXAAAJ) CSS `caret-animation` property
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/PxluqSXWXD4/m/7q3qwklWAAAJ) `beforetoggle` and `toggle` events for the `<dialog>` element
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/X-VxVeiJgtM/m/KxbJ6-h1AAAJ) Summarizer API
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/OcliQ_XqUOI/m/ltVgDaOXAAAJ) CSS `caret-animation` property
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/UCOPneyEk-I/m/gSjllOm2AgAJ) CSS `::details-content` pseudo-element and `display` property on `<details>`/`<summary>` elements
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/Xbhdn0u6Z9A/m/BFVJ7mlKAgAJ) Device Posture API
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/lz4YqLnvCUI/m/wFxK35o7AgAJ) `auto` value for CSS `view-transition-name` property
@@ -1998,6 +1999,7 @@ September 2015
 
 October 2024
 
+- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/I1pLMEAcFXA/m/e9O0RL4zAAAJ) `beforetoggle` and `toggle` events for the `<dialog>` element
 - [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/Fv6E15vuAGY/m/d9q5cEg0AgAJ) `plaintext-only` value for HTML `contenteditable` attribute
 - [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/mQNT-5RxHVM/m/7bYxZp50BAAJ) CSS `:local-link` pseudo-class
 - [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/s9kgSMrbo0U/m/SRnEXIB0BAAJ) CSS `:has-slotted` pseudo-class
