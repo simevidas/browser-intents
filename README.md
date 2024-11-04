@@ -11,9 +11,15 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 October 2024
 
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/GgSvU1BZZRU/m/_ZGZqCJNBAAJ) `"interrupted"` state for `AudioContext` (Web Audio API)
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/veAPJipOEy8/m/k-kBc9SzAwAJ) Translator API
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/vJ5F2Di0v-k/m/oI-mTTC9AgAJ) `sideways-rl` and `sideways-lr` keywords for the CSS `writing-mode` property
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/cYs7hgcwgcU/m/E_YOm2OjBgAJ) `aria-actions` attribute
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/eDXEmWB7Xo8/m/3ZsbU8AwBgAJ) `closedby` attribute for HTML `<dialog>` element (light dismiss)
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/4VV_74HxP3k/m/c_Z4kw0ZBgAJ) keyboard-focusable scroll containers (cont.)
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/ZPXC1I9E1Vw/m/fU_r5HyoBQAJ) CSS `::scroll-*-button` pseudo-elements
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/hoBT5TPKRrw/m/XOI8mHOoBQAJ) CSS `::column` pseudo-element
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/Xuo6HpkN1xQ/m/a_f4NGWoBQAJ) CSS Inertness
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/GgSvU1BZZRU/m/_ZGZqCJNBAAJ) `"interrupted"` state for `AudioContext` (Web Audio API)
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/veAPJipOEy8/m/k-kBc9SzAwAJ) Translator API
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/vJ5F2Di0v-k/m/oI-mTTC9AgAJ) `sideways-rl` and `sideways-lr` keywords for the CSS `writing-mode` property
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/PxluqSXWXD4/m/7q3qwklWAAAJ) `beforetoggle` and `toggle` events for the `<dialog>` element
 - [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/X-VxVeiJgtM/m/KxbJ6-h1AAAJ) Summarizer API
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/OcliQ_XqUOI/m/ltVgDaOXAAAJ) CSS `caret-animation` property
@@ -2002,7 +2008,7 @@ September 2015
 
 October 2024
 
-- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/IN7wT_r1jJI/m/6JF2VFxyAQAJ) Fetch API `keepalive` option
+- [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/IN7wT_r1jJI/m/6JF2VFxyAQAJ) Fetch API `keepalive` option
 - [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/I1pLMEAcFXA/m/e9O0RL4zAAAJ) `beforetoggle` and `toggle` events for the `<dialog>` element
 - [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/Fv6E15vuAGY/m/d9q5cEg0AgAJ) `plaintext-only` value for HTML `contenteditable` attribute
 - [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/mQNT-5RxHVM/m/7bYxZp50BAAJ) CSS `:local-link` pseudo-class
