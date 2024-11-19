@@ -11,10 +11,14 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 November 2024
 
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/FAnsVyszxQ4/m/Pjp4W-YHCQAJ) Subresource Reporting for scripts
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/J-WxY0w7bNk/m/VkqnomK-CAAJ) Container Timing (incl. `containertiming` attribute)
-- :new: [Prototype and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/QU-c0jN6nr0/m/ProHs92DCAAJ) CSS `scroll-start-target` property
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/fG8V4YeLByM/m/-DjGL6WpBwAJ) Camera Effect Status API
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/2N6dnbgjzLs/m/z-PNWMP9CQAJ) `hint` value for the HTML `popover` attribute
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/YE_xLH6MkRs/m/_7CD0NYMAAAJ) DOM `Node` `moveBefore` method
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/WYQ4juHM4HM/m/Dajp3IfcCQAJ) Element Capture
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/QelenpbN0Uc/m/WCo6SNFxCQAJ) CSS Scroll State Container Queries
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/FAnsVyszxQ4/m/Pjp4W-YHCQAJ) Subresource Reporting for scripts
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/J-WxY0w7bNk/m/VkqnomK-CAAJ) Container Timing (incl. `containertiming` attribute)
+- [Prototype and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/QU-c0jN6nr0/m/ProHs92DCAAJ) CSS `scroll-start-target` property
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/fG8V4YeLByM/m/-DjGL6WpBwAJ) Camera Effect Status API
 
 October 2024
 
