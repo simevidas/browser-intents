@@ -11,10 +11,13 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 November 2024
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/2N6dnbgjzLs/m/z-PNWMP9CQAJ) `hint` value for the HTML `popover` attribute
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/YE_xLH6MkRs/m/_7CD0NYMAAAJ) DOM `Node` `moveBefore` method
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/WYQ4juHM4HM/m/Dajp3IfcCQAJ) Element Capture
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/QelenpbN0Uc/m/WCo6SNFxCQAJ) CSS Scroll State Container Queries
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/4JWXZilDG6w/m/xx9ch5KYAQAJ) multiple import maps per document
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/AkA4s1_R8H4/m/M6UBfewnAQAJ) service worker auto preload
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/C3pELgMqzCY/m/Lpb6DkueAQAJ) Reference Target for cross-root ARIA
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/2N6dnbgjzLs/m/z-PNWMP9CQAJ) `hint` value for the HTML `popover` attribute
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/YE_xLH6MkRs/m/_7CD0NYMAAAJ) DOM `Node` `moveBefore` method
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/WYQ4juHM4HM/m/Dajp3IfcCQAJ) Element Capture
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/QelenpbN0Uc/m/WCo6SNFxCQAJ) CSS Scroll State Container Queries
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/FAnsVyszxQ4/m/Pjp4W-YHCQAJ) Subresource Reporting for scripts
 - [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/J-WxY0w7bNk/m/VkqnomK-CAAJ) Container Timing (incl. `containertiming` attribute)
 - [Prototype and ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/QU-c0jN6nr0/m/ProHs92DCAAJ) CSS `scroll-start-target` property
@@ -2016,6 +2019,10 @@ September 2015
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/iBX_2xfX6jc/Uc0D6jr3AgAJ) `stale-while-revalidate` Cache-control extension
 
 ### Firefox
+
+November 2024
+
+- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/4UoaI67Awcg/m/49uzaQJTCgAJ) scoped custom element registries
 
 October 2024
 
