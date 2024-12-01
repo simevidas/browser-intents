@@ -11,9 +11,12 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 November 2024
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/4JWXZilDG6w/m/xx9ch5KYAQAJ) multiple import maps per document
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/AkA4s1_R8H4/m/M6UBfewnAQAJ) service worker auto preload
-- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/C3pELgMqzCY/m/Lpb6DkueAQAJ) Reference Target for cross-root ARIA
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/2dNLhQN9SNs/m/KF-HlU40AgAJ) extended CSS `attr()` function
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/WyDItBnS9mc/m/dB-LqfZCAgAJ) `Animation` `overallProgress` property
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/-8e6sSS5ztw/m/P-SBwtgeAgAJ) `clipboardchange` event
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/4JWXZilDG6w/m/xx9ch5KYAQAJ) multiple import maps per document
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/AkA4s1_R8H4/m/M6UBfewnAQAJ) service worker auto preload
+- [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/C3pELgMqzCY/m/Lpb6DkueAQAJ) Reference Target for cross-root ARIA
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/2N6dnbgjzLs/m/z-PNWMP9CQAJ) `hint` value for the HTML `popover` attribute
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/YE_xLH6MkRs/m/_7CD0NYMAAAJ) DOM `Node` `moveBefore` method
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/WYQ4juHM4HM/m/Dajp3IfcCQAJ) Element Capture
@@ -2022,7 +2025,7 @@ September 2015
 
 November 2024
 
-- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/4UoaI67Awcg/m/49uzaQJTCgAJ) scoped custom element registries
+- [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/4UoaI67Awcg/m/49uzaQJTCgAJ) scoped custom element registries
 
 October 2024
 
