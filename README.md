@@ -9,11 +9,16 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
+December 2024
+
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/XSGk_MqZAuQ/m/Maf559DiAQAJ) Signature-based Integrity
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/cG_ZCeQaWQs/m/LRU22h5AAQAJ) CSS `dynamic-range-limit` property
+
 November 2024
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/2dNLhQN9SNs/m/KF-HlU40AgAJ) extended CSS `attr()` function
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/WyDItBnS9mc/m/dB-LqfZCAgAJ) `Animation` `overallProgress` property
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/-8e6sSS5ztw/m/P-SBwtgeAgAJ) `clipboardchange` event
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/2dNLhQN9SNs/m/KF-HlU40AgAJ) extended CSS `attr()` function
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/WyDItBnS9mc/m/dB-LqfZCAgAJ) `Animation` `overallProgress` property
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/-8e6sSS5ztw/m/P-SBwtgeAgAJ) `clipboardchange` event
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/4JWXZilDG6w/m/xx9ch5KYAQAJ) multiple import maps per document
 - [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/AkA4s1_R8H4/m/M6UBfewnAQAJ) service worker auto preload
 - [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/C3pELgMqzCY/m/Lpb6DkueAQAJ) Reference Target for cross-root ARIA
