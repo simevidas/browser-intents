@@ -11,8 +11,14 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 December 2024
 
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/XSGk_MqZAuQ/m/Maf559DiAQAJ) Signature-based Integrity
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/cG_ZCeQaWQs/m/LRU22h5AAQAJ) CSS `dynamic-range-limit` property
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/XJJq2VEpAvY/m/xJORKl0NAQAJ) Document Policy `expect-no-linked-resources` configuration point
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/zPaPnwLZ1fc/m/w7EpS_-GAAAJ) CSP hash reporting for scripts
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/5-SQmyp95U0/m/sSYV9FSmAAAJ) Storage Access API HTTP headers
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/hEa24Qll3dg/m/D6JPeyg4AQAJ) CSS `shape()` function
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/4NeTpgsi64A/m/hDMkvOs2AQAJ) CSS `text-box`, `text-box-trim` and `text-box-edge` properties
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/Pdo4oOXYKcA/m/GJxWjnmrAAAJ) CSS `:open` pseudo-class
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/XSGk_MqZAuQ/m/Maf559DiAQAJ) Signature-based Integrity
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/cG_ZCeQaWQs/m/LRU22h5AAQAJ) CSS `dynamic-range-limit` property
 
 November 2024
 
@@ -2027,6 +2033,10 @@ September 2015
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/iBX_2xfX6jc/Uc0D6jr3AgAJ) `stale-while-revalidate` Cache-control extension
 
 ### Firefox
+
+December
+
+- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/i-F57-F7--4/m/2gn1FT6JAAAJ) SVG path data API
 
 November 2024
 
