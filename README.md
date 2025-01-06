@@ -9,10 +9,14 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 ### Chromium
 
+January 2025
+
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/gERgwZfN_-E/m/QIJbT1zUCgAJ) Storage Access API HTTP headers
+
 December 2024
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/4ibjEVQ-i0s/m/2OsaIhf3BAAJ) MediaStreamTrack support in Web Speech API
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/6oOaFmia2dc/m/aSEbVTABBQAJ) `FileSystemObserver` API
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/4ibjEVQ-i0s/m/2OsaIhf3BAAJ) MediaStreamTrack support in Web Speech API
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/6oOaFmia2dc/m/aSEbVTABBQAJ) `FileSystemObserver` API
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/XJJq2VEpAvY/m/xJORKl0NAQAJ) Document Policy `expect-no-linked-resources` configuration point
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/zPaPnwLZ1fc/m/w7EpS_-GAAAJ) CSP hash reporting for scripts
 - [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/5-SQmyp95U0/m/sSYV9FSmAAAJ) Storage Access API HTTP headers
