@@ -11,7 +11,11 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 January 2025
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/gERgwZfN_-E/m/QIJbT1zUCgAJ) Storage Access API HTTP headers
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/VNOok2dbmHM/m/rTuvkTYkDAAJ) on-device Web Speech API
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/o3ja7zaKuls/m/hcLXZogIAgAJ) CSS `:has-slotted` pseudo-class
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/wBqYb_rUHes/m/WuTdyUTVAQAJ) `navigator.clipboard.contentsID` method
+- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/P54AK0xznhQ/m/leICjw0eDAAJ) `handwriting` keyword for CSS `touch-action` property
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/gERgwZfN_-E/m/QIJbT1zUCgAJ) Storage Access API HTTP headers
 
 December 2024
 
@@ -2039,6 +2043,10 @@ September 2015
 - [Ship](https://groups.google.com/a/chromium.org/d/msg/blink-dev/iBX_2xfX6jc/Uc0D6jr3AgAJ) `stale-while-revalidate` Cache-control extension
 
 ### Firefox
+
+January 2025
+
+- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/-CXs-Hbt4ws/m/YekD4PVgCAAJ) CSS `:has-slotted` pseudo-class
 
 December 2024
 
