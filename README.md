@@ -11,10 +11,12 @@ Jump to section: [Chromium](#chromium) | [Firefox](#firefox)
 
 January 2025
 
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/VNOok2dbmHM/m/rTuvkTYkDAAJ) on-device Web Speech API
-- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/o3ja7zaKuls/m/hcLXZogIAgAJ) CSS `:has-slotted` pseudo-class
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/wBqYb_rUHes/m/WuTdyUTVAQAJ) `navigator.clipboard.contentsID` method
-- :new: [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/P54AK0xznhQ/m/leICjw0eDAAJ) `handwriting` keyword for CSS `touch-action` property
+- :new: [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/_pIOAyg1_E0/m/DnkvfQLVDgAJ) HTML `<dialog closedby>` attribute
+- :new: [Experiment](https://groups.google.com/a/chromium.org/g/blink-dev/c/olWeLwoXMSs/m/2EfWrAHUCwAJ) Digital Credential API (cont.)
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/VNOok2dbmHM/m/rTuvkTYkDAAJ) on-device Web Speech API
+- [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/o3ja7zaKuls/m/hcLXZogIAgAJ) CSS `:has-slotted` pseudo-class
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/wBqYb_rUHes/m/WuTdyUTVAQAJ) `navigator.clipboard.contentsID` method
+- [Prototype](https://groups.google.com/a/chromium.org/g/blink-dev/c/P54AK0xznhQ/m/leICjw0eDAAJ) `handwriting` keyword for CSS `touch-action` property
 - [Ship](https://groups.google.com/a/chromium.org/g/blink-dev/c/gERgwZfN_-E/m/QIJbT1zUCgAJ) Storage Access API HTTP headers
 
 December 2024
@@ -2046,7 +2048,9 @@ September 2015
 
 January 2025
 
-- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/-CXs-Hbt4ws/m/YekD4PVgCAAJ) CSS `:has-slotted` pseudo-class
+- :new: [Prototype](https://groups.google.com/a/mozilla.org/g/dev-platform/c/-tk6hVvkomU/m/GsYBP_8DCwAJ) HTML `<dialog closedby>` attribute
+- :new: [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/st2SZtf2QSM/m/VeZchfj2CgAJ) HTML `autocorrect` attribute
+- [Ship](https://groups.google.com/a/mozilla.org/g/dev-platform/c/-CXs-Hbt4ws/m/YekD4PVgCAAJ) CSS `:has-slotted` pseudo-class
 
 December 2024
 
